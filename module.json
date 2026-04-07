@@ -1,0 +1,80 @@
+{
+  "id": "joes-foundry-stuff",
+  "title": "Joe's Foundry Stuff",
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "description": "<p>Joe's collection of useful Foundry VTT compendiums, scripts and macros, packaged as a module.</p>",
+  "authors": [
+    {
+      "name": "thejoester",
+      "discord": "thejoester",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/settings.js",
+    "scripts/TimerAlarm.js",
+    "scripts/main.js",
+    "scripts/chatArchive.js",
+    "scripts/overlay.js",
+    "scripts/audioAutoLevel.js",
+    "scripts/combatTurnTimer.js"
+  ],
+  "socket": true,
+  "packs": [
+    {
+      "name": "joes-scenes",
+      "label": "Joe's Scenes",
+      "path": "packs/joes-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "joes-macros",
+      "label": "Joe's Macros",
+      "path": "packs/joes-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "joes-roll-tables",
+      "label": "Joe's Roll Tables",
+      "path": "packs/joes-roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "playlists",
+      "label": "Joe's Playlists",
+      "path": "packs/playlists",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Joe's Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "flags": {}
+}

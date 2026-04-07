@@ -1,0 +1,56 @@
+<div class="standard-form jfs-combat-timer-config">
+
+    <div class="form-group">
+        <label>Enable Combat Timer</label>
+        <div class="form-fields">
+            <input type="checkbox" name="enabled" {{#if enabled}}checked{{/if}}>
+        </div>
+        <p class="hint">Posts a chat message showing how long each combat turn took.</p>
+    </div>
+
+    <div class="form-group">
+        <label>Message Visibility</label>
+        <div class="form-fields">
+            <select name="visibility">
+                <option value="gmonly" {{#if visGM}}selected{{/if}}>GM Whisper</option>
+                <option value="everyone" {{#if visAll}}selected{{/if}}>Send to Everyone</option>
+            </select>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="form-group">
+        <label>Sarcasm Mode</label>
+        <div class="form-fields">
+            <input type="checkbox" name="sarcasm" id="jfs-ctt-sarcasm" {{#if sarcasm}}checked{{/if}}>
+        </div>
+        <p class="hint">Posts a sarcastic comment when a turn runs long or suspiciously short.</p>
+    </div>
+
+    <div id="jfs-ctt-sarcasm-thresholds" style="{{#unless sarcasm}}display:none{{/unless}}">
+
+        <div class="form-group">
+            <label>Long Turn Threshold — <span id="jfs-ctt-long-val">{{longThreshold}}m</span></label>
+            <div class="form-fields">
+                <input type="range" name="longThreshold" min="3" max="10" step="1" value="{{longThreshold}}">
+            </div>
+            <p class="hint">Turns longer than this many minutes trigger a sarcastic comment.</p>
+        </div>
+
+        <div class="form-group">
+            <label>Quick Turn Threshold — <span id="jfs-ctt-quick-val">{{quickThreshold}}m</span></label>
+            <div class="form-fields">
+                <input type="range" name="quickThreshold" min="1" max="3" step="1" value="{{quickThreshold}}">
+            </div>
+            <p class="hint">Turns shorter than this many minutes trigger a quick-turn quip.</p>
+        </div>
+
+    </div>
+
+    <footer class="sheet-footer flexrow">
+        <button type="submit"><i class="fas fa-save"></i> Save</button>
+        <button type="button" data-action="close"><i class="fas fa-times"></i> Cancel</button>
+    </footer>
+
+</div>
