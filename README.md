@@ -20,9 +20,22 @@ Archives all non-pinned chat messages to a log file, keeping your chat clean bet
 ### Image Overlay
 Shows a fullscreen image overlay to all connected players simultaneously. Supports configurable size, opacity, and blur. Useful for revealing maps, handouts, or dramatic moments.
 
+### Easy Scene Navigation
+
+- Left-clicking a scene from the scene list will view it 
+- Shift-clicking a scene from the scene list will preload the scene
+- Alt-click a scene from the scene list will open scene configuration
+
+### Misc thingys
+
+- Suppresses annoying errors. Still show in log but supresses notifications
+- 
+
 ---
 
 ## Compendiums
+
+Contains comprendium pack with items I use in several games. 
 
 | Pack | Type |
 |------|------|
