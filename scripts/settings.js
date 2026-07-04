@@ -115,6 +115,22 @@ Hooks.once("init", () => {
 	});
 
     /* ==========================================================================
+        {INITIATIVE TIMER SETTINGS}
+    ========================================================================== */
+    game.settings.register("joes-foundry-stuff", "initiativeTimerEnabled", {
+        name: "Enable Initiative Timer",
+        hint: "When enabled, rolling for initiative shows a countdown overlay; any players who haven't rolled when it expires get initiative rolled for them automatically.",
+        scope: "world", config: true, type: Boolean, default: false
+    });
+
+    game.settings.register("joes-foundry-stuff", "initiativeTimerSeconds", {
+        name: "Initiative Timer Duration (seconds)",
+        hint: "How many seconds players have to roll initiative before it's rolled for them.",
+        scope: "world", config: true, type: Number, default: 30
+    });
+
+    
+    /* ==========================================================================
         {CHAT ARCHIVER SETTINGS}
     ========================================================================== */
     game.settings.register("joes-foundry-stuff", "enableChatArchiver", {

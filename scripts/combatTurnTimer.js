@@ -102,6 +102,8 @@ function _clearState() { _saveState({}); }
 
 // ── formatting ────────────────────────────────────────────────────────────────
 
+const PREV_SESSION_MS = 60 * 60 * 1000;
+
 function _fmt(ms) {
     const totalSec = Math.round(ms / 1000);
     if (totalSec < 60) return `${totalSec} second${totalSec === 1 ? "" : "s"}`;
@@ -123,6 +125,12 @@ const LONG_QUIPS = [
     "Even the gods grew impatient.",
     "Your hourglass called. It retired.",
     "The torch burned out. Twice.",
+    "The BBEG aged out of villainy while you were deciding.",
+    "A new civilization rose and fell in the meantime.",
+    "The rules lawyer fell asleep. That's how you know it was long.",
+    "At some point this stopped being a turn and became a lifestyle.",
+    "Even the ambient music looped. Twice.",
+    "Your familiar fell asleep mid-turn.",
 ];
 
 const QUICK_QUIPS = [
@@ -134,6 +142,11 @@ const QUICK_QUIPS = [
     "Was that a turn or a sneeze?",
     "Quick as a halfling stealing a snack.",
     "Did you even read your character sheet, or just vibe?",
+    "The dice were barely warm.",
+    "Turns out preparation is a thing. Who knew.",
+    "Three actions, zero hesitation, full send.",
+    "Rolled, resolved, done. Someone's been here before.",
+    "Less thinking, more doing. Chef's kiss.",
 ];
 
 function _longThresholdMs() {
@@ -155,7 +168,7 @@ function _chat(content, elapsedMs = null) {
 
     let fullContent = content;
     try {
-        if (game.settings.get(MOD_ID, "combatTurnTimerSarcasm") && elapsedMs !== null) {
+        if (game.settings.get(MOD_ID, "combatTurnTimerSarcasm") && elapsedMs !== null && elapsedMs < PREV_SESSION_MS) {
             let quip = null;
             if (elapsedMs >= _longThresholdMs()) {
                 quip = LONG_QUIPS[Math.floor(Math.random() * LONG_QUIPS.length)];
@@ -165,6 +178,8 @@ function _chat(content, elapsedMs = null) {
             if (quip) fullContent += `<br><br><em>${quip}</em>`;
         }
     } catch { /* skip sarcasm */ }
+
+    fullContent = `<div style="background-color:#1d1c1a;border:2px solid #5f574e;border-radius:12px;padding:8px 10px;display:flex;gap:8px;align-items:flex-start;color:#e4ddc7;"><i class="fas fa-stopwatch" style="margin-top:3px;opacity:0.7;flex-shrink:0;"></i><div>${fullContent}</div></div>`;
 
     ChatMessage.create({ content: fullContent, speaker: { alias: "Combat Timer" }, whisper });
 }
@@ -194,8 +209,12 @@ function _advanceTurn(combat) {
     const now = Date.now();
     const elapsed = now - (state.currentTurn?.adjustedStart ?? now);
     const prevName = state.currentTurn?.name ?? "Unknown";
+    const isPrevSession = elapsed >= PREV_SESSION_MS;
+    const msg = isPrevSession
+        ? `${prevName}'s turn (previous session): ${_fmt(elapsed)}.`
+        : `${prevName}'s turn took ${_fmt(elapsed)}.`;
 
-    _chat(`${prevName}'s turn took ${_fmt(elapsed)}.`, elapsed);
+    _chat(msg, isPrevSession ? null : elapsed);
     DL(`CombatTurnTimer: "${prevName}" turn ended after ${_fmt(elapsed)}`);
 
     const combatant = combat?.combatant;
@@ -249,7 +268,11 @@ function _endCombat() {
     const now = Date.now();
     if (state.currentTurn) {
         const elapsed = now - state.currentTurn.adjustedStart;
-        _chat(`${state.currentTurn.name}'s turn took ${_fmt(elapsed)}.`, elapsed);
+        const isPrevSession = elapsed >= PREV_SESSION_MS;
+        const msg = isPrevSession
+            ? `${state.currentTurn.name}'s turn (previous session): ${_fmt(elapsed)}.`
+            : `${state.currentTurn.name}'s turn took ${_fmt(elapsed)}.`;
+        _chat(msg, isPrevSession ? null : elapsed);
     }
     if (state.combatStart) {
         _chat(`Total combat time: ${_fmt(now - state.combatStart)}.`);

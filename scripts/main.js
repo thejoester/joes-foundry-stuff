@@ -1,5 +1,6 @@
 import { startTimer, getRemainingTime, openTimerManager } from "./TimerAlarm.js";
 import { archiveNonPinnedNow } from "./chatArchive.js";
+import { jfsRollForInitiative } from "./rollInitiative.js";
 import { DL } from "./settings.js";
 const MOD_ID = "joes-foundry-stuff";
 
@@ -76,7 +77,8 @@ Hooks.once("ready", async () => {
         startTimer,
         timerMacro: openTimerManager,
         getRemainingTime,
-        archiveNonPinnedNow
+        archiveNonPinnedNow,
+        rollForInitiative: jfsRollForInitiative
     });
     DL(`API exposed under game.modules.get("${MOD_ID}").api`);
 });

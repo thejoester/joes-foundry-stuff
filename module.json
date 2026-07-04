@@ -21,7 +21,8 @@
     "scripts/chatArchive.js",
     "scripts/overlay.js",
     "scripts/audioAutoLevel.js",
-    "scripts/combatTurnTimer.js"
+    "scripts/combatTurnTimer.js",
+    "scripts/rollInitiative.js"
   ],
   "socket": true,
   "packs": [

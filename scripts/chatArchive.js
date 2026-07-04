@@ -127,7 +127,7 @@ function isDamageRoll(roll, msg) {
 	return /\b(bludgeoning|piercing|slashing|fire|cold|acid|electricity|poison|sonic|force|negative|positive|precision|persistent)\b/i.test(roll.formula ?? "");
 }
 
-//
+// check if message is pinned
 function isPinned(msg, domPinnedIds) {
 	if (msg?.pinned || msg?.flags?.core?.pinned) return true;
 	for (const v of Object.values(msg?.flags ?? {})) {
@@ -161,8 +161,70 @@ function cleanHtml(html) {
 		if (!html) return "";
 		const doc = new DOMParser().parseFromString(html, "text/html");
 		const root = doc.body || doc;
+
 		root.querySelectorAll(".pf2e-chances-chatcard-container, .pf2e-chances-chatcard-bar").forEach((n) => n.remove());
 		root.querySelectorAll(".dice-tooltip, .message-buttons, button, [data-action], .card-buttons").forEach((n) => n.remove());
+
+		// Force all headings dark — pf2e and pf2e-hud set heading colors for dark themes.
+		root.querySelectorAll("h1, h2, h3, h4, h5, h6").forEach((h) => { h.style.color = "#000"; });
+
+		// Convert pf2e-hud recall knowledge grids to inline-styled tables.
+		// These divs use CSS grid (--nb-rows) that requires the pf2e-hud stylesheet.
+		// Variants: div.rk (basic), div.rk-skills, div.rk-lores, div.rk-lores-rolls (targeted).
+		// Spans may be direct children or wrapped in a <p> by pf2e-hud, so use querySelectorAll.
+		// Column count is derived from the leading run of .header spans.
+		root.querySelectorAll("div.rk, div.rk-skills, div.rk-lores, div.rk-lores-rolls").forEach((rk) => {
+			const spans = [...rk.querySelectorAll("span")];
+			if (!spans.length) return;
+
+			let colCount = 0;
+			while (colCount < spans.length && spans[colCount].classList.contains("header")) colCount++;
+			if (colCount === 0) return;
+
+			const table = doc.createElement("table");
+			table.style.cssText = "border-collapse:collapse; width:100%; margin:0.5em 0; font-size:0.9em;";
+
+			const headerRow = doc.createElement("tr");
+			for (let j = 0; j < colCount; j++) {
+				const th = doc.createElement("th");
+				th.innerHTML = spans[j].innerHTML.trim();
+				th.style.cssText = "padding:2px 8px; border:1px solid #888; text-align:left; background:#444; color:#eee;";
+				headerRow.appendChild(th);
+			}
+			table.appendChild(headerRow);
+
+			for (let i = colCount; i < spans.length; i += colCount) {
+				const tr = doc.createElement("tr");
+				for (let j = 0; j < colCount && i + j < spans.length; j++) {
+					const span = spans[i + j];
+					const td = doc.createElement("td");
+					td.innerHTML = span.innerHTML.trim();
+					td.style.cssText = "padding:2px 8px; border:1px solid #888; text-align:left;";
+					const cl = span.classList;
+					if (cl.contains("critical-success")) td.style.color = "#00c000";
+					else if (cl.contains("success")) td.style.color = "#00a000";
+					else if (cl.contains("critical-failure")) td.style.color = "#cc0000";
+					else if (cl.contains("failure")) td.style.color = "#aa0000";
+					tr.appendChild(td);
+				}
+				table.appendChild(tr);
+			}
+
+			rk.replaceWith(table);
+		});
+
+		// Inline-style tag pills (.tag spans) so they render without external CSS.
+		root.querySelectorAll(".tags .tag, span.tag").forEach((tag) => {
+			tag.style.cssText = "display:inline-block; background:#555; color:#eee; border-radius:3px; padding:1px 6px; margin:2px; font-size:0.85em;";
+			tag.removeAttribute("data-slug");
+			tag.removeAttribute("data-description");
+		});
+
+		root.querySelectorAll("img").forEach((img) => {
+			img.style.maxWidth = "32px";
+			img.style.maxHeight = "32px";
+		});
+
 		root.querySelectorAll("*").forEach((el) => {
 			[...el.attributes].forEach((a) => {
 				const n = a.name;
@@ -172,6 +234,7 @@ function cleanHtml(html) {
 					el.removeAttribute(n);
 			});
 		});
+
 		let out = root.innerHTML;
 		out = out.replace(/<span\s+style="[^"]*background-color:\s*#1d1c1a[^"]*">/gi, "<span>");
 		return out;
@@ -217,16 +280,15 @@ function buildArchiveHTML(messages) {
 
 		if (author !== currentAuthor) {
 			currentAuthor = author;
-			out += `<h3 style="margin-top:1em; border-bottom:1px solid #666;">${author}</h3>`;
+			out += `<h3 style="margin-top:1em; border-bottom:1px solid #666; color:#1a1a1a;">${author}</h3>`;
 		}
 
 		out += `
-			<article class="chat-archive-message" style="margin-left:0.5em;">
-				<header><strong>${time}</strong>${speaker ? ` — <em>${speaker}</em>` : ""}${pinnedNote}</header>
+			<article class="chat-archive-message" style="margin-left:0.5em; background:#f5f5f0; color:#1a1a1a; padding:0.4em 0.75em; border-radius:4px; margin-bottom:0.4em;">
+				<header style="color:#333;"><strong>${time}</strong>${speaker ? ` — <em>${speaker}</em>` : ""}${pinnedNote}</header>
 				${flavor}
-				<div class="message-content">${cleaned}</div>
+				<div class="message-content" style="color:#1a1a1a;">${cleaned}</div>
 				${rollHTML}
-				<hr>
 			</article>`;
 	}
 
@@ -361,5 +423,3 @@ Hooks.on("createChatMessage", async () => {
 	try { await trimAndArchiveIfNeeded(); }
 	catch (err) { DL(3, "Trim error:", err); }
 });
-
-
