@@ -31,16 +31,27 @@ for (const p of packs) {
 	const packDir = path.resolve(ROOT, p.path);			// e.g., packs/alchemist-duct-tape-items
 	const srcDir = path.join(packDir, "_source");		// packs/.../_source
 
-	if (!fs.existsSync(srcDir)) {
-		throw new Error(`Missing _source for pack: ${srcDir}. Run 'npm run extract' and commit the JSON.`);
-	}
-	const hasJson = fs.readdirSync(srcDir).some(f => f.endsWith(".json") && f !== "index.json");
-	if (!hasJson) {
-		throw new Error(`Empty _source for pack: ${srcDir}. Extract from your W: install and commit.`);
-	}
+	// A pack with no _source (or an empty one) is treated as an intentionally EMPTY
+	// pack. Git can't track an empty _source dir, so a legitimately empty compendium
+	// shows up as "missing" here - compile it to a valid empty LevelDB rather than fail.
+	const hasSource = fs.existsSync(srcDir)
+		&& fs.readdirSync(srcDir).some(f => f.endsWith(".json") && f !== "index.json");
 
 	// clean LevelDB outputs but keep _source intact
 	cleanPackDirButKeepSource(packDir);
+
+	if (!hasSource) {
+		ensureDir(srcDir); // compilePack needs a source dir; empty in -> empty pack out
+		process.stdout.write(`Compiling EMPTY pack -> ${packDir}\n`);
+		await compilePack(srcDir, packDir, { log: true });
+
+		// An empty LevelDB has a MANIFEST/CURRENT/.log but no .ldb yet - that's valid.
+		const files = fs.readdirSync(packDir);
+		if (!files.some(n => /^MANIFEST-\d+$/i.test(n))) {
+			throw new Error(`Empty pack looks incomplete: ${packDir} (no MANIFEST)`);
+		}
+		continue;
+	}
 
 	process.stdout.write(`Compiling ${srcDir} -> ${packDir}\n`);
 	await compilePack(srcDir, packDir, { log: true });
