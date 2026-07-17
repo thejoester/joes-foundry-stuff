@@ -1,0 +1,33 @@
+{
+  "name": "Toggle Everlight Crystal",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "(async () => {\n  // Get the selected token\n  const token = canvas.tokens.controlled[0];\n  if (!token) {\n    ui.notifications.error(\"No token selected.\");\n    return;\n  }\n\n  const actor = token.actor;\n  if (!actor) {\n    ui.notifications.error(\"No actor associated with the selected token.\");\n    return;\n  }\n\n  // Find the item with the specified slug\n  const item = actor.items.find(i => i.slug === \"everlight-crystal\");\n  if (!item) {\n    ui.notifications.error(\"Everlight Crystal not found in inventory.\");\n    return;\n  }\n\n  // Get the current equipped state\n  const isEquipped = item.system.equipped?.inSlot;\n\n  // Toggle the equipped state\n  const newEquippedState = !isEquipped;\n\n  // Update the item's equipped state\n  await item.update({ \"system.equipped.inSlot\": newEquippedState });\n\n  // Notify the user\n  // Prepare chat message content\n  const message = newEquippedState\n    ? `<strong>${actor.name}</strong> pulls out the <strong>${item.name}.</strong>.`\n    : `<strong>${actor.name}</strong> tucks the <strong>${item.name} away.</strong>.`;\n\n  // Send the message to chat\n  ChatMessage.create({\n    user: game.user.id,\n    speaker: ChatMessage.getSpeaker({ actor }),\n    content: message,\n  });\n\n  console.log(message);\n})();",
+  "img": "systems/pf2e/icons/equipment/held-items/everburning-torch.webp",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3,
+    "DZEbIv6R5n7npu2U": 1
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.7.0",
+    "createdTime": 1732332415312,
+    "modifiedTime": 1749638610448,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "_id": "lCElBltAlsq8nMKS",
+  "sort": 700000,
+  "_key": "!macros!lCElBltAlsq8nMKS"
+}

@@ -1,0 +1,165 @@
+{
+  "folder": "l10SS4rQS7z7eQuT",
+  "name": "Weapon (Ranged 16-20)",
+  "_id": "8AvzyrH3HuvIUuKh",
+  "img": "icons/weapons/bows/shortbow-recurve-yellow.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Impossible",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uU4VC8OlhDHslT4i",
+      "_id": "MJx2F9dVgkHYvBbd",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455700729,
+        "modifiedTime": 1765455700729,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!8AvzyrH3HuvIUuKh.MJx2F9dVgkHYvBbd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Ashen (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lo5QOMA9VAUwUVl7",
+      "_id": "cEdRW9NdXlN2ln3u",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455714135,
+        "modifiedTime": 1765455714135,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!8AvzyrH3HuvIUuKh.cEdRW9NdXlN2ln3u"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Brilliant (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.n8MonEa4ZBdvEovc",
+      "_id": "ALycWspna3K8CFq5",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455725888,
+        "modifiedTime": 1765455725888,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!8AvzyrH3HuvIUuKh.ALycWspna3K8CFq5"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Anchoring (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kY41VIXUSEJYEznp",
+      "_id": "xejz0pOMKKFzpJXR",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455747798,
+        "modifiedTime": 1765455747798,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!8AvzyrH3HuvIUuKh.xejz0pOMKKFzpJXR"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Impactful (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ri9QkRCD6cAbQ6t3",
+      "_id": "MLzN3Be82tAangdy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455767578,
+        "modifiedTime": 1765455767578,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!8AvzyrH3HuvIUuKh.MLzN3Be82tAangdy"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Blhp1ViTwrjDFX1D": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1765455681316,
+    "modifiedTime": 1765455798355,
+    "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+  },
+  "formula": "",
+  "_key": "!tables!8AvzyrH3HuvIUuKh"
+}

@@ -1,0 +1,300 @@
+{
+  "folder": "l10SS4rQS7z7eQuT",
+  "name": "Weapon (Ranged 12-15)",
+  "_id": "ObQdnlg5nwSD2RC1",
+  "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Brilliant",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LbdnZFlyLFdAE617",
+      "_id": "BvAf4BxiBDrfnuuA",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455340163,
+        "modifiedTime": 1765455340163,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.BvAf4BxiBDrfnuuA"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Fearsome (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uz3JCjRvkE44jxMd",
+      "_id": "vYAd7JXvDZPO69Nn",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455355209,
+        "modifiedTime": 1765455355209,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.vYAd7JXvDZPO69Nn"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Vitalizing (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oVrVzML63VFvVfKk",
+      "_id": "BrMR6s8gajc0ESQe",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455442159,
+        "modifiedTime": 1765455442159,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.BrMR6s8gajc0ESQe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Astral (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hebf5k3cd7LO6luX",
+      "_id": "pd9AnxZpXGwrXToG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455479634,
+        "modifiedTime": 1765455479634,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.pd9AnxZpXGwrXToG"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Corrosive (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vQUIUAFOTOWj3ohh",
+      "_id": "K6tawWYLWALWYobr",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455492551,
+        "modifiedTime": 1765455492551,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.K6tawWYLWALWYobr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Decaying (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.HGsA5gXtaAA65n9e",
+      "_id": "lZvazHvBI83EWncY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455505091,
+        "modifiedTime": 1765455505091,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.lZvazHvBI83EWncY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Flaming (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RSZwUlCzUX7Nb4UA",
+      "_id": "nDTBTtqtNiKlqX9F",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455524953,
+        "modifiedTime": 1765455524953,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.nDTBTtqtNiKlqX9F"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Frost (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Sexud7FdxIrg50vU",
+      "_id": "lH8MqQ6lSDPSW8WA",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455539801,
+        "modifiedTime": 1765455539801,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.lH8MqQ6lSDPSW8WA"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Shock (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TEa1oKZbwsOvC6TZ",
+      "_id": "CknYr0tBOR4mPWOw",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455543497,
+        "modifiedTime": 1765455543497,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.CknYr0tBOR4mPWOw"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Thundering (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Lb7F2BR9X9TF1vjX",
+      "_id": "RRJ9NreiexTKYQwF",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455547234,
+        "modifiedTime": 1765455547234,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!ObQdnlg5nwSD2RC1.RRJ9NreiexTKYQwF"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Blhp1ViTwrjDFX1D": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1765455306527,
+    "modifiedTime": 1765455604675,
+    "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+  },
+  "formula": "1d10",
+  "_key": "!tables!ObQdnlg5nwSD2RC1"
+}

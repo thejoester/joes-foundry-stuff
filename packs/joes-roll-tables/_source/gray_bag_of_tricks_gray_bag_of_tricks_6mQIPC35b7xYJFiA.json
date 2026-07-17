@@ -1,0 +1,250 @@
+{
+  "name": "Gray Bag of Tricks: Gray Bag of Tricks",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Gray Bag of Tricks",
+      "keys": [
+        "d8",
+        "Creature"
+      ],
+      "diceKeys": [
+        "d8"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "p4PQMrCozuwL2tvY",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weasel",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.p4PQMrCozuwL2tvY"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ZeVwDSGKDl2cgiu1",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giant rat",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.ZeVwDSGKDl2cgiu1"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "9WO14KQuXxXzBjGZ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Badger",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.9WO14KQuXxXzBjGZ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "toLRG3XYIpoKNzrx",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boar",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.toLRG3XYIpoKNzrx"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "HY7TsFVrtJ3tZ7NY",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Panther",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.HY7TsFVrtJ3tZ7NY"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "T8MY2mjeNO9rC4ut",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giant badger",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.T8MY2mjeNO9rC4ut"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "c5rqet6CeKY6kwd6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dire wolf",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.c5rqet6CeKY6kwd6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "HxzYX6zsAHuqAoiO",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giant elk",
+      "name": "",
+      "_key": "!tables.results!6mQIPC35b7xYJFiA.HxzYX6zsAHuqAoiO"
+    }
+  ],
+  "formula": "d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836982,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "6mQIPC35b7xYJFiA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!6mQIPC35b7xYJFiA"
+}

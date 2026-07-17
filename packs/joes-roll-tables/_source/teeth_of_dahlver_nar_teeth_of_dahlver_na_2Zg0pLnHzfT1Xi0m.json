@@ -1,0 +1,564 @@
+{
+  "name": "Teeth of Dahlver-Nar: Teeth of Dahlver-Nar",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Teeth of Dahlver-Nar",
+      "keys": [
+        "1d20",
+        "Tale and Tooth",
+        "Creatures Summoned",
+        "Implanted Effect"
+      ],
+      "diceKeys": [
+        "1d20"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "XefBBwkomcqnbWZ0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>1\n\n<b>Tale and Tooth</b>The Staring Cats of Uldun-dar (ivory cat molar)\n\n<b>Creatures Summoned</b>9 cats\n\n<b>Implanted Effect</b>The tooth has 8 charges. As an action, you can expend 1 charge to cast the revivify spell from the tooth. If you are dead at the start of your turn, the tooth expends 1 charge and casts revivify on you.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.XefBBwkomcqnbWZ0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "4V5xh2IIr5TlPnR6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>2\n\n<b>Tale and Tooth</b>Duggle’s Surprising Day (human molar)\n\n<b>Creatures Summoned</b>1 commoner\n\n<b>Implanted Effect</b>When you finish a long rest, the tooth casts sanctuary (DC 18) on you, and the spell lasts for 24 hours or until you break it.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.4V5xh2IIr5TlPnR6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "xfmXrVzfDHjiwLqP",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>3\n\n<b>Tale and Tooth</b>The Golden Age of Dhakaan (golden goblin bicuspid)\n\n<b>Creatures Summoned</b>10 goblins, 1 goblin boss\n\n<b>Implanted Effect</b>When you are hit by an attack and an ally is within 5 feet of you, you can use your reaction to cause them to be hit instead. You can’t use this reaction again until you finish a short or long rest.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.xfmXrVzfDHjiwLqP"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "UwkZrZdq0n71kLn6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>4\n\n<b>Tale and Tooth</b>The Mill Road Murders (halfling canine)\n\n<b>Creatures Summoned</b>3 green hags in a coven\n\n<b>Implanted Effect</b>When you damage a target that hasn’t taken a turn in this combat, the target takes an extra [[/r 3d10[slashing] # Slashing damage]]  damage from ghostly blades.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.UwkZrZdq0n71kLn6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "muI3DM4kbbq2A8oW",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>5\n\n<b>Tale and Tooth</b>Dooms of the Malpheggi (emerald lizardfolk fang)\n\n<b>Creatures Summoned</b>1 lizardfolk queen and 4 lizardfolk\n\n<b>Implanted Effect</b>You gain reptilian scales, granting you a +2 bonus to your AC. Additionally, when you finish a long rest, you must succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.muI3DM4kbbq2A8oW"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "eixjbKtljaSiGEjq",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>6\n\n<b>Tale and Tooth</b>The Stable Hand’s Secret (sweet-tasting human canine)\n\n<b>Creatures Summoned</b>2 incubi\n\n<b>Implanted Effect</b>When you make a Charisma check against a humanoid, you can roll a[[/r + 10]]  andadd the number rolled as a bonus to the result. The creature then becomes hostile to you at the next dawn.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.eixjbKtljaSiGEjq"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "epqTMZgcpVueAqM4",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>7\n\n<b>Tale and Tooth</b>The Donkey’s Dream (rainbow-colored donkey molar)\n\n<b>Creatures Summoned</b>1 unicorn\n\n<b>Implanted Effect</b>The tooth has 3 charges. As an action, you can expend 1 charge to touch a creature. The target regains [[/r 2d8 + 2]]  hit points, and all diseases and poisons affecting it are removed. When you use this action, a shimmering image of a unicorn’s horn appears until the end of your turn, sprouting from your forehead. The tooth regains all expended charges daily at dawn. You gain the following flaw: “When I see wickedness in action, I must oppose it.”",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.epqTMZgcpVueAqM4"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "tOK5KS0w4FuskZtz",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>8\n\n<b>Tale and Tooth</b>Beyond the Rock of Bral (silver mind flayer tooth)\n\n<b>Creatures Summoned</b>2 mind flayers\n\n<b>Implanted Effect</b>You gain <a href=\"https://www.dndbeyond.com/sources/mm/introduction#Telepathy\">telepathy</a> out to 120 feet as described in the <em><a href=\"https://www.dndbeyond.com/sources/mm\">Monster Manual</a></em>, and you can cast the detect thoughts spell at will, requiring no components. You also have disadvantage on Wisdom (Insight) and Wisdom (Perception) checks from constant whispers of memories and nearby minds.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.tOK5KS0w4FuskZtz"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "hTWC8fHvVzt0Dcl2",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>9\n\n<b>Tale and Tooth</b>The Disappearances of Half Hollow (vomerine tooth of a Large toad)\n\n<b>Creatures Summoned</b>4 giant toads\n\n<b>Implanted Effect</b>Your long jump is up to 30 feet and your high jump is up to 15 feet, with or without a running start.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.hTWC8fHvVzt0Dcl2"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "liwFgJDUrCRFjxLs",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>10\n\n<b>Tale and Tooth</b>Legendry of Phantoms and Ghosts (obsidian human molar)\n\n<b>Creatures Summoned</b>1 giant octopus, 1 mage, 1 specter\n\n<b>Implanted Effect</b>As an action, you can use the tooth to cast the Evard’s black tentacles spell (DC 18). Once this property is used, it can’t be used again until the next dawn.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.liwFgJDUrCRFjxLs"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "eehTSXIYnaa2fUsy",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>11\n\n<b>Tale and Tooth</b>The Thousand Deaths of Jander Sunstar (yellowed vampire fang)\n\n<b>Creatures Summoned</b>1 vampire\n\n<b>Implanted Effect</b>You can make a bite attack as an unarmed strike. On a hit, it deals [[/r 1d6[piercing] # Piercing damage]]  damage plus [[/r 3d6[necrotic] # Necrotic damage]]  damage. You regain a number of hit points equal to the necrotic damage dealt. While you are in sunlight, you can’t regain hit points.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.eehTSXIYnaa2fUsy"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "MEoZdYAHFfiIvgHC",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>12\n\n<b>Tale and Tooth</b>Nightmares of Kaggash (twisted beholder tooth)\n\n<b>Creatures Summoned</b>1 beholder\n\n<b>Implanted Effect</b>As an action, you can cast the eyebite spell from the tooth. Once you use this action, it can’t be used again until the next dawn. Whenever you finish a long rest, roll a[[/r + 20]]. Ona 20, an aberration chosen by the DM appears within 30 feet of you and attacks.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.MEoZdYAHFfiIvgHC"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "FAQz7dvxvvU3x3So",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>13\n\n<b>Tale and Tooth</b>Three Bridges to the Sky (lapis lazuli oni fang)\n\n<b>Creatures Summoned</b>3 oni\n\n<b>Implanted Effect</b>You gain a flying speed of 30 feet, and you can use the tooth to cast the detect magic spell at will. While you are attuned to fewer than 3 magic items, you gain 1 level of exhaustion that can’t be removed until you are attuned to three or more magic items.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.FAQz7dvxvvU3x3So"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "B4chkbtu3axsD8QA",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>14\n\n<b>Tale and Tooth</b>The Claws of Dragotha (broken translucent fang)\n\n<b>Creatures Summoned</b>1 adult red dracolich\n\n<b>Implanted Effect</b>You can use the tooth to cast the create undead spell. Once this property is used, it can’t be used again until the next dawn. Each time you create an undead creature using the tooth, a skeleton, zombie, or ghoul also appears at a random location within 5 miles of you, searching for the living to kill. A humanoid killed by these undead rises as the same type of undead at the next midnight.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.B4chkbtu3axsD8QA"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "4DCNcDBBSki1m7Fw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>15\n\n<b>Tale and Tooth</b>Ashes of the Ages and Eternal Fire (jade humanoid bicuspid)\n\n<b>Creatures Summoned</b>1 dao, 1 djinni, 1 efreeti, 1 marid\n\n<b>Implanted Effect</b>You can use the tooth to cast counterspell at 9th level. Once you use this property, it can’t be used again until the next dawn. Whenever you finish a long rest, if you haven’t used the tooth to counter a spell since your last long rest, your hit point maximum is reduced by[[/r 2d10]]. Ifthis reduces your hit point maximum to 0, you die.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.4DCNcDBBSki1m7Fw"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "kazwo7NrjW0EXAHM",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>16\n\n<b>Tale and Tooth</b>Daughters of Bel (green steel pit fiend fang)\n\n<b>Creatures Summoned</b>1 pit fiend\n\n<b>Implanted Effect</b>You can use the tooth to cast dominate monster (DC 18). Once you use this property, it can’t be used again until the next dawn. You smell strongly of burning sulfur.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.kazwo7NrjW0EXAHM"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "vmAq5TwnujEGQgMk",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>17\n\n<b>Tale and Tooth</b>Why the Sky Screams (blue dragon fang)\n\n<b>Creatures Summoned</b>1 ancient blue dragon\n\n<b>Implanted Effect</b>You gain immunity to lightning damage and vulnerability to thunder damage.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.vmAq5TwnujEGQgMk"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "sOThWt49CHrzx4FB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>18\n\n<b>Tale and Tooth</b>The Last Tarrasque (jagged sliver of tarrasque tooth)\n\n<b>Creatures Summoned</b>1 tarrasque (ignores you and your commands; appears for[[/r 1d4]]  roundsthen vanishes)\n\n<b>Implanted Effect</b>You deal double damage to objects and structures. If you take 20 or more damage in one turn, you must succeed on a DC 18 Wisdom saving throw or spend your next turn in a murderous fury. During this rage, you must use your action to make an unarmed strike against a creature that damaged you, or a random creature you can see if you weren’t damaged by a creature, moving as close as you can to the target if necessary.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.sOThWt49CHrzx4FB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "OaPY8u3u7r5wlgaa",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>19\n\n<b>Tale and Tooth</b>Incendax’s Tooth (ruby-veined red dragon fang)\n\n<b>Creatures Summoned</b>1 ancient red dragon\n\n<b>Implanted Effect</b>You gain immunity to fire damage, and as an action, you can exhale fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking [[/r 26d6[fire] # Fire damage]]  damage on a failed save, or half as much damage on a successful one. After using the breath weapon, you gain 2 levels of exhaustion.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.OaPY8u3u7r5wlgaa"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "vQ9bgqMV76fc45qw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[1d20]] ([[/r 1d20]])</b>20\n\n<b>Tale and Tooth</b>Dahlver-Nar’s Tooth (dusty human molar)\n\n<b>Creatures Summoned</b>1 priest\n\n<b>Implanted Effect</b>As an action you can call on a divine force to come to your aid. Describe the assistance you seek, and the DM decides the nature of the intervention; the effect of any cleric spell would be appropriate. Once this property is used, it can’t be used again for 7 days.",
+      "name": "",
+      "_key": "!tables.results!2Zg0pLnHzfT1Xi0m.vQ9bgqMV76fc45qw"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061843069,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2Zg0pLnHzfT1Xi0m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!2Zg0pLnHzfT1Xi0m"
+}

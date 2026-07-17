@@ -1,0 +1,33 @@
+{
+  "_id": "2mvuwCoHVgyhgfk7",
+  "name": "00 - A - Delete filters on Selected",
+  "type": "script",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "modules/tokenmagic/gui/macros/images/00%20-%20A%20-%20Delete%20filters%20on%20Selected.webp",
+  "scope": "global",
+  "command": "// Delete all filters on the selected tokens/tiles\nawait TokenMagic.deleteFiltersOnSelected();",
+  "folder": "pQIkxjyFiT4SWiH1",
+  "sort": 100000,
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "Njc5YzFjZDI5NjZl": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.tokenmagic.tmMacros.Macro.DCRnfJDBd25fOQxc",
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_key": "!macros!2mvuwCoHVgyhgfk7"
+}

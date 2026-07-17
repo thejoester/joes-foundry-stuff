@@ -1,0 +1,302 @@
+{
+  "name": "Armor of Resistance: Damage Type",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Armor of Resistance",
+      "keys": [
+        "d10",
+        "Damage Type"
+      ],
+      "diceKeys": [
+        "d10"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "m0k610TnnPLP3edS",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acid",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.m0k610TnnPLP3edS"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "GEFJlidDOkI1Jm4K",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cold",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.GEFJlidDOkI1Jm4K"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "xpiG8f0vxyeikIrl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fire",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.xpiG8f0vxyeikIrl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "J7QVra9mUPrFidZU",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Force",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.J7QVra9mUPrFidZU"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "1PQ1K8i8C2aGJEeo",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lightning",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.1PQ1K8i8C2aGJEeo"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "dQp95ZRe899rXg3P",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Necrotic",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.dQp95ZRe899rXg3P"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "wiTSR4ROM877JlWE",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poison",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.wiTSR4ROM877JlWE"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "kL09vC4HvzygmV3U",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Psychic",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.kL09vC4HvzygmV3U"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "Ekcw9tJCKoZPhiNJ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radiant",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.Ekcw9tJCKoZPhiNJ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "PTEScgDZBviXdxcr",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thunder",
+      "name": "",
+      "_key": "!tables.results!kaxdQbM9GZoOTdu8.PTEScgDZBviXdxcr"
+    }
+  ],
+  "formula": "d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836590,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "kaxdQbM9GZoOTdu8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!kaxdQbM9GZoOTdu8"
+}

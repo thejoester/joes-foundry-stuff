@@ -1,0 +1,32 @@
+{
+  "name": "Change Wall Type",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "// Function to update selected walls\nconst updateWalls = (updates) => {\n  const selectedWalls = canvas.walls.controlled;\n  if (selectedWalls.length === 0) {\n    return ui.notifications.warn(\"No walls selected.\");\n  }\n\n  const changes = selectedWalls.map((wall) => ({\n    _id: wall.id,\n    ...updates,\n  }));\n  return canvas.scene.updateEmbeddedDocuments(\"Wall\", changes);\n};\n\n// Dialog for Wall Settings\nnew Dialog({\n  title: \"Wall Settings\",\n  content: `\n    <h3>Wall</h3>\n    <div style=\"display: flex; gap: 5px;\">\n      <button id=\"normal\">Normal</button>\n      <button id=\"invisible\">Invisible</button>\n\t\t<button id=\"ethereal\">Ethereal</button>\n      <button id=\"terrain\">Terrain</button>\n    </div>\n\t <br>\n    <h3>Wall Direction</h3>\n    <div style=\"display: flex; gap: 5px;\">\n      <button id=\"both\">Both</button>\n      <button id=\"left\">Left</button>\n      <button id=\"right\">Right</button>\n    </div>\n    <br>\n    <h3>Doors</h3>\n    <div style=\"display: flex; gap: 5px;\">\n      <button id=\"closed_door\">Closed</button>\n      <button id=\"open_door\">Open</button>\n      <button id=\"locked\">Locked</button>\n      <button id=\"secret\">Secret</button>\n      <button id=\"window\">Window</button>\n    </div>\n  `,\n  buttons: {},\n  render: (html) => {\n    // Wall types\n    html.find(\"#normal\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.NONE,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        light: CONST.WALL_RESTRICTION_TYPES.NORMAL,\n        sight: CONST.WALL_RESTRICTION_TYPES.NORMAL,\n        sound: CONST.WALL_RESTRICTION_TYPES.NORMAL,\n        dir: CONST.WALL_DIRECTIONS.BOTH,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n      })\n    );\n\n    html.find(\"#invisible\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.NONE,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        light: CONST.WALL_SENSE_TYPES.NONE,\n        sight: CONST.WALL_SENSE_TYPES.NONE,\n        sound: CONST.WALL_SENSE_TYPES.NONE,\n        dir: CONST.WALL_DIRECTIONS.BOTH,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n      })\n    );\n\n   html.find(\"#ethereal\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.NONE,\n        move: CONST.WALL_MOVEMENT_TYPES.NONE,\n        light: CONST.WALL_SENSE_TYPES.NORMAL,\n        sight: CONST.WALL_SENSE_TYPES.NORMAL,\n        sound: CONST.WALL_SENSE_TYPES.NONE,\n        dir: CONST.WALL_DIRECTIONS.BOTH,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n      })\n    );\n\n    html.find(\"#terrain\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.NONE,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        light: CONST.WALL_SENSE_TYPES.LIMITED,\n        sight: CONST.WALL_SENSE_TYPES.LIMITED,\n        sound: CONST.WALL_SENSE_TYPES.LIMITED,\n        dir: CONST.WALL_DIRECTIONS.BOTH,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n      })\n    );\n\n    // Wall directions\n    html.find(\"#left\").click(() =>\n      updateWalls({ dir: CONST.WALL_DIRECTIONS.LEFT })\n    );\n    html.find(\"#right\").click(() =>\n      updateWalls({ dir: CONST.WALL_DIRECTIONS.RIGHT })\n    );\n    html.find(\"#both\").click(() =>\n      updateWalls({ dir: CONST.WALL_DIRECTIONS.BOTH })\n    );\n\n    // Door types\n    html.find(\"#closed_door\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.DOOR,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        light: CONST.WALL_SENSE_TYPES.NORMAL,\n        sight: CONST.WALL_SENSE_TYPES.NORMAL,\n        sound: CONST.WALL_SENSE_TYPES.NORMAL,\n      })\n    );\n\n\thtml.find(\"#open_door\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.DOOR,\n        ds: CONST.WALL_DOOR_STATES.OPEN,\n        move: CONST.WALL_MOVEMENT_TYPES.NONE,\n        light: CONST.WALL_SENSE_TYPES.NONE,\n        sight: CONST.WALL_SENSE_TYPES.NONE,\n        sound: CONST.WALL_SENSE_TYPES.NONE,\n      })\n    );\n\n    html.find(\"#locked\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.DOOR,\n        ds: CONST.WALL_DOOR_STATES.LOCKED,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        light: CONST.WALL_SENSE_TYPES.NORMAL,\n        sight: CONST.WALL_SENSE_TYPES.NORMAL,\n        sound: CONST.WALL_SENSE_TYPES.NORMAL,\n      })\n    );\n\n    html.find(\"#secret\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.SECRET,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        light: CONST.WALL_SENSE_TYPES.NORMAL,\n        sight: CONST.WALL_SENSE_TYPES.NORMAL,\n        sound: CONST.WALL_SENSE_TYPES.NORMAL,\n      })\n    );\n\n    html.find(\"#window\").click(() =>\n      updateWalls({\n        door: CONST.WALL_DOOR_TYPES.NONE,\n        ds: CONST.WALL_DOOR_STATES.CLOSED,\n        light: CONST.WALL_SENSE_TYPES.PROXIMITY,\n        move: CONST.WALL_MOVEMENT_TYPES.NORMAL,\n        sight: CONST.WALL_SENSE_TYPES.PROXIMITY,\n        sound: CONST.WALL_SENSE_TYPES.NORMAL,\n        threshold: { light: 10, sight: 10, sound: 1, attenuation: true },\n      })\n    );\n  },\n}).render(true);",
+  "img": "icons/svg/castle.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1749894630454,
+    "modifiedTime": 1777007202023,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_id": "C3iBicPNHYLNy1Vc",
+  "sort": 500000,
+  "_key": "!macros!C3iBicPNHYLNy1Vc"
+}

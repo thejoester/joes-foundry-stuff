@@ -1,0 +1,120 @@
+{
+  "name": "Sphere of Annihilation: Result",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Sphere of Annihilation",
+      "keys": [
+        "d100",
+        "Result"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false,
+      "_id": "ZsjFKY2LQjVnxR2w",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The sphere is destroyed.",
+      "name": "",
+      "_key": "!tables.results!VVMhRTtFic2p8bAY.ZsjFKY2LQjVnxR2w"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        85
+      ],
+      "drawn": false,
+      "_id": "FTHionIliU3j0DXb",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The sphere moves through the portal or into the extradimensional space.",
+      "name": "",
+      "_key": "!tables.results!VVMhRTtFic2p8bAY.FTHionIliU3j0DXb"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        100
+      ],
+      "drawn": false,
+      "_id": "gggGbtQERGXvIh9U",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence.",
+      "name": "",
+      "_key": "!tables.results!VVMhRTtFic2p8bAY.gggGbtQERGXvIh9U"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836339,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VVMhRTtFic2p8bAY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!VVMhRTtFic2p8bAY"
+}

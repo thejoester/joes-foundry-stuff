@@ -1,7 +1,7 @@
-2026/07/01-01:20:30.431600 723c0dbfc640 Recovering log #4393
-2026/07/01-01:20:30.443686 723c0dbfc640 Delete type=3 #4391
-2026/07/01-01:20:30.443783 723c0dbfc640 Delete type=0 #4393
-2026/07/01-14:40:25.715464 7239f59ff640 Level-0 table #4398: started
-2026/07/01-14:40:25.715494 7239f59ff640 Level-0 table #4398: 0 bytes OK
-2026/07/01-14:40:25.717276 7239f59ff640 Delete type=0 #4396
-2026/07/01-14:40:25.718913 7239f59ff640 Manual compaction at level-0 from '!folders!7UcQdnVjNw8kQQpD' @ 72057594037927935 : 1 .. '!journal.pages!zfs99fxvskaJaMDn.zfs99fxvskaJaMDn' @ 0 : 0; will stop at (end)
+2026/07/17-03:22:58.406371 7cc1a23fc640 Recovering log #4457
+2026/07/17-03:22:58.432859 7cc1a23fc640 Delete type=0 #4457
+2026/07/17-03:22:58.432949 7cc1a23fc640 Delete type=3 #4455
+2026/07/17-03:27:34.793821 7cbf8a9ff640 Level-0 table #4462: started
+2026/07/17-03:27:34.793861 7cbf8a9ff640 Level-0 table #4462: 0 bytes OK
+2026/07/17-03:27:34.796233 7cbf8a9ff640 Delete type=0 #4460
+2026/07/17-03:27:34.796349 7cbf8a9ff640 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

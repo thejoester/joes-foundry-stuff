@@ -1,0 +1,250 @@
+{
+  "name": "Chaos Bolt: Damage Type",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Chaos Bolt",
+      "keys": [
+        "d8",
+        "Damage Type"
+      ],
+      "diceKeys": [
+        "d8"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "acxFB5Erte6LE4nV",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acid",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.acxFB5Erte6LE4nV"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "K45eGkL7w4GsIt6u",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cold",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.K45eGkL7w4GsIt6u"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "Vs010EPLYWYs0Bmj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fire",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.Vs010EPLYWYs0Bmj"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "YNYtxqpqKY8J3xoO",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Force",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.YNYtxqpqKY8J3xoO"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "u7NR7QpvJMiCUpTl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lightning",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.u7NR7QpvJMiCUpTl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "ZidmFrOvpyQfuf9s",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poison",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.ZidmFrOvpyQfuf9s"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "PzIU0e0hH71EZdKK",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Psychic",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.PzIU0e0hH71EZdKK"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "SViahuq5eyCKg04P",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thunder",
+      "name": "",
+      "_key": "!tables.results!pfILvyW9f0dRHzWD.SViahuq5eyCKg04P"
+    }
+  ],
+  "formula": "d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061796380,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pfILvyW9f0dRHzWD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!pfILvyW9f0dRHzWD"
+}

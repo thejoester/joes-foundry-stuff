@@ -1,0 +1,23 @@
+{
+  "name": "_general",
+  "sorting": "a",
+  "folder": null,
+  "type": "Scene",
+  "_id": "6MfJE8ShsWBWg1YA",
+  "description": "",
+  "sort": 500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276697526,
+    "modifiedTime": 1784276700127,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "_key": "!folders!6MfJE8ShsWBWg1YA"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Scene",
+  "folder": "uwzCaoiUh4DRIk5P",
+  "name": "Wild Sheep Chase",
+  "color": null,
+  "sorting": "a",
+  "_id": "U4Hig371E6LSM6Ay",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276689272,
+    "modifiedTime": 1784276689272,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "_key": "!folders!U4Hig371E6LSM6Ay"
+}

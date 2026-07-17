@@ -1,0 +1,32 @@
+{
+  "folder": "Ur9r83xWtJD73lwA",
+  "name": "Charged Javelin",
+  "type": "script",
+  "_id": "p897oY80nV6rgDWt",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "systems/pf2e/icons/spells/charged-javelin.webp",
+  "scope": "global",
+  "command": "const effectUUID = \"Compendium.joes-pf2-stuff.joes-items-pf2.Item.thBmNMc7Fesavouw\"; // Your effect's UUID\n\n// Load the effect item by UUID\nconst effectItem = await fromUuid(effectUUID);\n\nif (!effectItem) {\n  ui.notifications.error(\"Could not find the effect using the provided UUID.\");\n  return;\n}\n\nconst selectedTokens = canvas.tokens.controlled;\n\nif (selectedTokens.length === 0) {\n  ui.notifications.warn(\"No tokens selected.\");\n  return;\n}\n\nfor (const token of selectedTokens) {\n  const actor = token.actor;\n  if (!actor) continue;\n\n  const hasEffect = actor.items.find(i => i.name === effectItem.name && i.type === \"effect\");\n  if (hasEffect) {\n    ui.notifications.info(`${actor.name} already has the effect \"${effectItem.name}\".`);\n    continue;\n  }\n\n  await actor.createEmbeddedDocuments(\"Item\", [effectItem.toObject()]);\n  ChatMessage.create({\n    content: `${actor.name} gains the effect: ${effectItem.name}`,\n    speaker: ChatMessage.getSpeaker({ actor: actor })\n  });\n}",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_key": "!macros!p897oY80nV6rgDWt"
+}

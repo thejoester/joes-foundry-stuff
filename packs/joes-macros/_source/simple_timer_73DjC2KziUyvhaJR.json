@@ -1,0 +1,32 @@
+{
+  "name": "Simple Timer",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "game.modules.get(\"joes-foundry-stuff\").api.timerMacro();",
+  "img": "modules/joes-pf2e-stuff/assets/timer.webp",
+  "author": "lfU9NncyG8LWlt8v",
+  "scope": "global",
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1749717363660,
+    "modifiedTime": 1765450902695,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "73DjC2KziUyvhaJR",
+  "sort": 200000,
+  "_key": "!macros!73DjC2KziUyvhaJR"
+}

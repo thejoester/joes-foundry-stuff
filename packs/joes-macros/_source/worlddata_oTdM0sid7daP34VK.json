@@ -1,0 +1,23 @@
+{
+  "name": "WorldData",
+  "sorting": "a",
+  "folder": null,
+  "type": "Macro",
+  "_id": "oTdM0sid7daP34VK",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.350",
+    "createdTime": 1689073924938,
+    "modifiedTime": 1760775834708,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "_key": "!folders!oTdM0sid7daP34VK"
+}

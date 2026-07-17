@@ -1,0 +1,192 @@
+{
+  "folder": "RQCHAWaonkcjzyi5",
+  "name": "16-30 Armor",
+  "_id": "17j3C08qsmYf8Rqr",
+  "img": "icons/equipment/chest/breastplate-layered-gilded-black.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/dragonplate.webp",
+      "_id": "QPb3csW41zqv9ylg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dragonplate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3xsQ1AA4dyMHLxpw",
+      "description": "",
+      "_key": "!tables.results!17j3C08qsmYf8Rqr.QPb3csW41zqv9ylg"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-steel.webp",
+      "_id": "PMWCgLkT58L2y9nU",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Impenetrable Scale",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.aLA7pikfeNIAAGLw",
+      "description": "",
+      "_key": "!tables.results!17j3C08qsmYf8Rqr.PMWCgLkT58L2y9nU"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        5,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-gorget-steel-purple.webp",
+      "_id": "jqXrBn25CWwTLkG1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Warleader's Bulwark (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XKON66YXYLXlGPPg",
+      "description": "",
+      "_key": "!tables.results!17j3C08qsmYf8Rqr.jqXrBn25CWwTLkG1"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-gold.webp",
+      "_id": "idzklicSQzim5F7u",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lion's Armor (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dmEmxoEVzOeEkscr",
+      "description": "",
+      "_key": "!tables.results!17j3C08qsmYf8Rqr.idzklicSQzim5F7u"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+      "_id": "45m8s29XEv6epfnd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Life-Saver Mail (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oRBcuFdQDRCn1pwo",
+      "description": "",
+      "_key": "!tables.results!17j3C08qsmYf8Rqr.45m8s29XEv6epfnd"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        14,
+        15
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/precious-metal-armor/elven-chain.webp",
+      "_id": "nJxQ6EhY4xaTlEk6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Elven Chain (High-Grade)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PuqdH7DmNsN79HyE",
+      "description": "",
+      "_key": "!tables.results!17j3C08qsmYf8Rqr.nJxQ6EhY4xaTlEk6"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1727004232020,
+    "modifiedTime": 1727004293422,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "formula": "1d15",
+  "_key": "!tables!17j3C08qsmYf8Rqr"
+}

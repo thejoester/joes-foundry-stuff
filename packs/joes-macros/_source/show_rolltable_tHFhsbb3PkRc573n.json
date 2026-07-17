@@ -1,0 +1,32 @@
+{
+  "name": "Show Rolltable",
+  "type": "script",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "/* ***************************************************************************\n\tMacro Title: RollTable Sorted Preview\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tFoundry VTT Version: 12+\n\n\tDescription:\n\tThis macro allows a user to preview the contents of any RollTable in\n\tthe world, sorted alphabetically by result text (ignoring leading\n\tnumbers and Foundry link syntax).\n\n\tFeatures:\n\t- Prompts the user to select a RollTable from a dropdown list of all tables.\n\t- Cleans up each entry by:\n\t\t• Removing Foundry-style inline links (@UUID[…]{Label})\n\t\t• Ignoring leading numeric prefixes (e.g., \"01 Goblin\" → \"Goblin\")\n\t\t• Extracting any HTTP/HTTPS URLs from text or description\n\t\t• Comparing case-insensitively\n\t- Sorts entries alphabetically by cleaned text, then by description.\n\t- Displays the sorted list in a scrollable table with clickable URL links.\n\t- Export button saves results as a .txt file in \"name - url\" format.\n\t- Useful for quickly checking or organizing table data in a readable order.\n\n\tUsage:\n\t1. Run the macro.\n\t2. Choose a RollTable from the list.\n\t3. Browse the sorted table preview; click URLs to open in a new tab.\n\t4. Optionally click \"Export to .txt\" to save the list.\n\n*************************************************************************** */\n\n\n// Sort entries alphabetically ignoring leading numbers by name (or text), then description\nfunction compareLabels(a, b) {\n\tconst clean = str => (str || \"\")\n\t\t.replace(/@\\w+\\[([^\\]]+)\\]\\{([^}]+)\\}/g, \"$2\")\n\t\t.replace(/^\\d+\\s*/, \"\")\n\t\t.trim()\n\t\t.toLowerCase();\n\n\tconst textCompare = clean(a.text).localeCompare(clean(b.text));\n\tif (textCompare !== 0) return textCompare;\n\treturn clean(a.description).localeCompare(clean(b.description));\n}\n\n// Extract display name and first URL from a table entry\nfunction extractEntryInfo(e) {\n\tconst rawText = e.text || \"\";\n\tconst rawDesc = e.description || \"\";\n\n\tconst url = (rawText.match(/https?:\\/\\/[^\\s<>\"]+/) ||\n\t             rawDesc.match(/https?:\\/\\/[^\\s<>\"]+/) || [])[0] || null;\n\n\tconst name = rawText\n\t\t.replace(/@\\w+\\[([^\\]]+)\\]\\{([^}]+)\\}/g, \"$2\")\n\t\t.replace(/https?:\\/\\/[^\\s<>\"]+/g, \"\")\n\t\t.replace(/^\\d+\\s*/, \"\")\n\t\t.trim()\n\t\t|| rawDesc\n\t\t\t.replace(/@\\w+\\[([^\\]]+)\\]\\{([^}]+)\\}/g, \"$2\")\n\t\t\t.replace(/https?:\\/\\/[^\\s<>\"]+/g, \"\")\n\t\t\t.trim()\n\t\t|| \"(no text)\";\n\n\treturn { name, url };\n}\n\n// Build dropdown options\nconst tableOptions = game.tables.map(t =>\n\t`<option value=\"${t.uuid}\">${t.name}</option>`\n).join(\"\");\n\nnew foundry.applications.api.DialogV2({\n\twindow: { title: \"Select RollTable to Preview\" },\n\tcontent: `\n\t\t<label for=\"table\">Choose a table:</label><br>\n\t\t<select name=\"table\" style=\"width: 100%; margin-top: 0.5em;\">${tableOptions}</select>\n\t`,\n\tbuttons: [{\n\t\taction: \"preview\",\n\t\tlabel: \"Show Sorted Preview\",\n\t\tdefault: true,\n\t\tcallback: (event, button, dialog) => button.form.elements.table?.value || null\n\t}],\n\tsubmit: async (uuid) => {\n\t\tif (!uuid) return;\n\n\t\tconst table = await fromUuid(uuid);\n\t\tif (!table) return ui.notifications.error(\"Table not found.\");\n\n\t\tconst entries = Array.from(table.getEmbeddedCollection(\"TableResult\"));\n\t\tentries.sort(compareLabels);\n\n\t\tconst infos = entries.map(extractEntryInfo);\n\n\t\tconst rows = infos.map(({ name }) => {\n\t\t\treturn `<tr style=\"border-bottom:1px solid #ddd;\"><td style=\"padding:3px 8px; vertical-align:top;\">${name}</td></tr>`;\n\t\t}).join(\"\");\n\n\t\tconst tableHtml = `\n\t\t\t<table style=\"width:100%; border-collapse:collapse; font-size:0.9em;\">\n\t\t\t\t<thead>\n\t\t\t\t\t<tr style=\"background:#444; color:#fff;\">\n\t\t\t\t\t\t<th style=\"text-align:left; padding:5px 8px;\">Name</th>\n\t\t\t\t\t</tr>\n\t\t\t\t</thead>\n\t\t\t\t<tbody>${rows}</tbody>\n\t\t\t</table>\n\t\t`;\n\n\t\tconst exportContent = infos\n\t\t\t.map(({ name, url }) => url ? `${name} - ${url}` : name)\n\t\t\t.join(\"\\n\");\n\n\t\tnew foundry.applications.api.DialogV2({\n\t\t\twindow: { title: `Sorted Preview: ${table.name}` },\n\t\t\tcontent: `\n\t\t\t\t<div style=\"min-width:640px; max-height:70vh; overflow-y:auto; padding-right:0.5em;\">\n\t\t\t\t\t${tableHtml}\n\t\t\t\t</div>\n\t\t\t`,\n\t\t\tbuttons: [\n\t\t\t\t{\n\t\t\t\t\taction: \"export\",\n\t\t\t\t\tlabel: \"Export to .txt\",\n\t\t\t\t\tcallback: () => \"export\"\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\taction: \"close\",\n\t\t\t\t\tlabel: \"Close\",\n\t\t\t\t\tdefault: true,\n\t\t\t\t\tcallback: () => \"close\"\n\t\t\t\t}\n\t\t\t],\n\t\t\tsubmit: (result) => {\n\t\t\t\tif (result !== \"export\") return;\n\t\t\t\tconst blob = new Blob([exportContent], { type: \"application/octet-stream\" });\n\t\t\t\tconst blobUrl = URL.createObjectURL(blob);\n\t\t\t\tconst a = document.createElement(\"a\");\n\t\t\t\ta.href = blobUrl;\n\t\t\t\ta.download = `${table.name}.txt`;\n\t\t\t\tdocument.body.appendChild(a);\n\t\t\t\ta.click();\n\t\t\t\tdocument.body.removeChild(a);\n\t\t\t\tURL.revokeObjectURL(blobUrl);\n\t\t\t}\n\t\t}).render(true);\n\t}\n}).render(true);",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1777007201917,
+    "modifiedTime": 1777008787044,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_id": "tHFhsbb3PkRc573n",
+  "sort": 200000,
+  "_key": "!macros!tHFhsbb3PkRc573n"
+}

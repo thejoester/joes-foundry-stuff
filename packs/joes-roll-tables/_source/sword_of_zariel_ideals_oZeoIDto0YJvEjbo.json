@@ -1,0 +1,198 @@
+{
+  "name": "Sword of Zariel: Ideals",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Sword of Zariel",
+      "keys": [
+        "D6",
+        "IDEAL"
+      ],
+      "diceKeys": [
+        "D6"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "oHMpwl1lNcGbs07R",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<span class=\"Sans-Serif-Character-Styles_Bold-Sans-Serif\">Charity.</span> I always help those in need. (Good)",
+      "name": "",
+      "_key": "!tables.results!oZeoIDto0YJvEjbo.oHMpwl1lNcGbs07R"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ljbN5G08QI1E6eAT",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<span class=\"Sans-Serif-Character-Styles_Bold-Sans-Serif\">Faith.</span> I choose to follow the tenets of a particular lawful good deity to the letter. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!oZeoIDto0YJvEjbo.ljbN5G08QI1E6eAT"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "y1dgo49e6ExLaAz0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<span class=\"Sans-Serif-Character-Styles_Bold-Sans-Serif\">Responsibility.</span> It is the duty of the strong to protect the weak. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!oZeoIDto0YJvEjbo.y1dgo49e6ExLaAz0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "OIt5j26gD3S17f1E",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<span class=\"Sans-Serif-Character-Styles_Bold-Sans-Serif\">Respect.</span> All people deserve to be treated with dignity. (Good)",
+      "name": "",
+      "_key": "!tables.results!oZeoIDto0YJvEjbo.OIt5j26gD3S17f1E"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "YgEIqCg5MT15tKyR",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<span class=\"Sans-Serif-Character-Styles_Bold-Sans-Serif\">Honor.</span> The way I conduct myself determines my reward in the afterlife. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!oZeoIDto0YJvEjbo.YgEIqCg5MT15tKyR"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "Ji7VSQC47fY8oydc",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<span class=\"Sans-Serif-Character-Styles_Bold-Sans-Serif\">Redemption.</span> All creatures are capable of change for the better. (Good)",
+      "name": "",
+      "_key": "!tables.results!oZeoIDto0YJvEjbo.Ji7VSQC47fY8oydc"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061841275,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "oZeoIDto0YJvEjbo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!oZeoIDto0YJvEjbo"
+}

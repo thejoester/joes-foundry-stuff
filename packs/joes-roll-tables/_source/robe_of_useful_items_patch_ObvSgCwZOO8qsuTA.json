@@ -1,0 +1,380 @@
+{
+  "name": "Robe of Useful Items: Patch",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Robe of Useful Items",
+      "keys": [
+        "d100",
+        "Patch"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "_id": "fLisZABjvwLs53Uf",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bag of 100 gp",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.fLisZABjvwLs53Uf"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        15
+      ],
+      "drawn": false,
+      "_id": "OPfMGtjYtTqEGIAn",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.OPfMGtjYtTqEGIAn"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        22
+      ],
+      "drawn": false,
+      "_id": "7OSEsACsBA285DLZ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.7OSEsACsBA285DLZ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        30
+      ],
+      "drawn": false,
+      "_id": "zH915qGNCXKPEUQH",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "10 gems worth 100 gp each",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.zH915qGNCXKPEUQH"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        44
+      ],
+      "drawn": false,
+      "_id": "0dVcyqvLGyQz0VC8",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wooden ladder (24 feet long)",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.0dVcyqvLGyQz0VC8"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        51
+      ],
+      "drawn": false,
+      "_id": "lZFxedSrp7cgpY41",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A riding horse with saddle bags",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.lZFxedSrp7cgpY41"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        59
+      ],
+      "drawn": false,
+      "_id": "igjkhUPUvwsHapCg",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.igjkhUPUvwsHapCg"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        68
+      ],
+      "drawn": false,
+      "_id": "Wgh3PgttyAwSLSV2",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potion of healing (4)",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.Wgh3PgttyAwSLSV2"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        75
+      ],
+      "drawn": false,
+      "_id": "cfmI06kmKVSrXYWD",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rowboat (12 feet long)",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.cfmI06kmKVSrXYWD"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        83
+      ],
+      "drawn": false,
+      "_id": "EZXS01Qcx0CgUGqI",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spell scroll containing one spell of 1st to 3rd level",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.EZXS01Qcx0CgUGqI"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        90
+      ],
+      "drawn": false,
+      "_id": "c9HU2mUPZOdpu6qJ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mastiff (2)",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.c9HU2mUPZOdpu6qJ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        96
+      ],
+      "drawn": false,
+      "_id": "Jm5n446R5lDUqYHx",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.Jm5n446R5lDUqYHx"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        100
+      ],
+      "drawn": false,
+      "_id": "yspUduTZVeowNHvj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Portable ram",
+      "name": "",
+      "_key": "!tables.results!ObvSgCwZOO8qsuTA.yspUduTZVeowNHvj"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836245,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ObvSgCwZOO8qsuTA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!ObvSgCwZOO8qsuTA"
+}

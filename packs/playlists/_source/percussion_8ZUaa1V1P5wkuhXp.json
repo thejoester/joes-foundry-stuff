@@ -1,0 +1,129 @@
+{
+  "folder": "flWPmovkwEsBu2RH",
+  "name": "Percussion",
+  "_id": "8ZUaa1V1P5wkuhXp",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Desert%20Town%20Drums.mp3",
+      "name": "Desert Town Drums",
+      "_id": "AC05JbsZJlW3dfTU",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.AC05JbsZJlW3dfTU"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Dragonstone%20Drums%20B.mp3",
+      "name": "Dragonstone Drums B",
+      "_id": "1qGJsY8xGK13dyoE",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.1qGJsY8xGK13dyoE"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Dragonstone%20Drums.mp3",
+      "name": "Dragonstone Drums",
+      "_id": "y73ok5AlqN8jSZc5",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.y73ok5AlqN8jSZc5"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Orc%20Encampment%20Drums.mp3",
+      "name": "Orc Encampment Drums",
+      "_id": "6bRSC6arGMAY1Z6X",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.6bRSC6arGMAY1Z6X"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Shogun%20Drums%20A.mp3",
+      "name": "Shogun Drums A",
+      "_id": "kyc9aSdXarbCivYI",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.kyc9aSdXarbCivYI"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Shogun%20Drums%20B.mp3",
+      "name": "Shogun Drums B",
+      "_id": "6Gv0XaJMQQPci2ex",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.6Gv0XaJMQQPci2ex"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/Tavern%20Drums.mp3",
+      "name": "Tavern Drums",
+      "_id": "wu8KGN7QrFsfhvSa",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.wu8KGN7QrFsfhvSa"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/10%20Ambient%20Toolkit/Percussion/The%20Long%20Night%20Drums.mp3",
+      "name": "The Long Night Drums",
+      "_id": "bX6Np1ZmcW7k0aeV",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!8ZUaa1V1P5wkuhXp.bX6Np1ZmcW7k0aeV"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760670042,
+    "modifiedTime": 1769760670042,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 844,
+  "_key": "!playlists!8ZUaa1V1P5wkuhXp"
+}

@@ -1,0 +1,33 @@
+{
+  "author": "CLMiGpsYVSTK4VM8",
+  "command": "/** This compendium link macro will always call the most recent version from the compendium included with this module meaning you do not need to reimport newer versions. The source of the macros that get called is https://gitlab.com/symonsch/my-foundryvtt-macros/-/tree/main/PF2e */\n/* Start of documentation from the original macro: */\n/* # source \"https://gitlab.com/symonsch/my-foundryvtt-macros/-/tree/main/Contributions by others/RequestChecksMenu.js\" - Fetched on 2024-11-09T17:27:49.124Z */\n/* End of original macro documentation. */\n\n    async function _executeMacroByName(\n        macroName,\n        compendiumName = \"xdy-pf2e-workbench.asymonous-benefactor-macros-internal\"\n    ) {\n        const pack = game.packs.get(compendiumName);\n        if (pack) {\n            let macro = (await pack.getDocuments({name: macroName}))?.[0];\n            if (macro) {\n                if (!macro.canExecute)\n                    macro = new macro.constructor(foundry.utils.mergeObject(macro.toObject(), {\"-=_id\": null, \"ownership.default\": CONST.DOCUMENT_OWNERSHIP_LEVELS.OWNER}, {performDeletions: true, inplace: true}));\n                macro.execute();\n            } else {\n                ui.notifications.error(`Macro ${macroName} not found`);\n            }\n        } else {\n            ui.notifications.error(`Compendium ${compendiumName} not found`);\n        }\n    }\n    _executeMacroByName('XDY DO_NOT_IMPORT RequestChecksMenu');\n\n    /* This compendium link macro is based on one originally posted by DrentalBot: https://discord.com/channels/880968862240239708/880975811279204402/910490804554973274; and modified by Mark Pearce https://discord.com/channels/880968862240239708/880969174661353484/972962446098702376 */",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "img": "icons/logo-scifi-blank.png",
+  "name": "RequestChecksMenu",
+  "scope": "global",
+  "type": "script",
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.KAVzuqfCWpvQCFbH",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1765450937288,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "q3FKNv8ldk77AGUv": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "folder": null,
+  "_id": "VJaQUx44ajW0zIik",
+  "sort": 300000,
+  "_key": "!macros!VJaQUx44ajW0zIik"
+}

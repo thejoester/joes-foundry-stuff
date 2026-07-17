@@ -1,0 +1,147 @@
+{
+  "name": "Hook of Fisher's Delight: Hook of Fisher’s Delight",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Hook of Fisher's Delight",
+      "keys": [
+        "d20",
+        "Fish Color",
+        "Result"
+      ],
+      "diceKeys": [
+        "d20"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        10
+      ],
+      "drawn": false,
+      "_id": "whwNcE8o4p0E5pzZ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>1-10\n\n<b>Fish Color</b>Green with copper bands\n\n<b>Result</b>This tasty fish provides a day’s worth of nourishment to one creature that eats it. The fish loses this property and rots if it’s not eaten within 24 hours of being caught.",
+      "name": "",
+      "_key": "!tables.results!m4qIUJY7ePhNXUmg.whwNcE8o4p0E5pzZ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        14
+      ],
+      "drawn": false,
+      "_id": "jdAqNF3yUYf91KV4",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>11-14\n\n<b>Fish Color</b>Yellow with black stripes\n\n<b>Result</b>Once removed from the hook, this awful-tasting fish can be thrown up to 120 feet, targeting a creature the thrower can see. The target must succeed on a DC 15 Strength saving throw or be knocked prone. The fish then disappears.",
+      "name": "",
+      "_key": "!tables.results!m4qIUJY7ePhNXUmg.jdAqNF3yUYf91KV4"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        18
+      ],
+      "drawn": false,
+      "_id": "gnzHTBL3AsbULEIt",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>15-18\n\n<b>Fish Color</b>Blue with white bands\n\n<b>Result</b>When released from the hook, this fish squirms free, sprouts wings, follows you around, and sings a beautiful tune in Aquan. It disappears after[[/r 2d4]]  hoursor when reduced to 0 hit points. The fish uses the quipper stat block, except that it can breathe air and has a flying speed of 30 feet.",
+      "name": "",
+      "_key": "!tables.results!m4qIUJY7ePhNXUmg.gnzHTBL3AsbULEIt"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "_id": "x9AoIbb6Nv185X1g",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>19-20\n\n<b>Fish Color</b>Gold with silver stripes\n\n<b>Result</b>This tasty fish provides a day’s worth of nourishment to one creature that eats it and grants[[/r 2d10]]  temporaryhit points to that creature. The fish loses these properties and rots if it’s not eaten within 24 hours of being caught.",
+      "name": "",
+      "_key": "!tables.results!m4qIUJY7ePhNXUmg.x9AoIbb6Nv185X1g"
+    }
+  ],
+  "formula": "d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061842684,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "m4qIUJY7ePhNXUmg",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!m4qIUJY7ePhNXUmg"
+}

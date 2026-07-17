@@ -1,0 +1,327 @@
+{
+  "folder": "l10SS4rQS7z7eQuT",
+  "name": "Weapon (Melee 1-5)",
+  "_id": "AfZuUqI643TicrBT",
+  "img": "icons/weapons/swords/greatsword-blue.webp",
+  "description": "<p>Random item level 1-5 runes for melee weapons</p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Fanged",
+      "img": "icons/commodities/treasure/token-runed-os-grey.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pcGdJvwun0tjrUTz",
+      "_id": "FvazZuC6LwEvtZ9a",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453586549,
+        "modifiedTime": 1765453586549,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.FvazZuC6LwEvtZ9a"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Crushing",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JY8X4RSfg6xIqAC9",
+      "_id": "UA2o5beSaBPe6s08",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453639213,
+        "modifiedTime": 1765453639213,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.UA2o5beSaBPe6s08"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Authorized",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tEXUCp02ylyoJoyP",
+      "_id": "iP3SIMZ5NQZrXoNl",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453688225,
+        "modifiedTime": 1765453688225,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.iP3SIMZ5NQZrXoNl"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Underwater",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5QKAoWrpSetjHVJs",
+      "_id": "Akd9svP3lEubFLDz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453710647,
+        "modifiedTime": 1765453710647,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.Akd9svP3lEubFLDz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Merciful",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.r28DjJEjF6jvCcfb",
+      "_id": "HdQuOFGclyGX31ii",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453869257,
+        "modifiedTime": 1765453869257,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.HdQuOFGclyGX31ii"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Bane",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hnbbqvzYDyhDiJnf",
+      "_id": "E9PFzC037i80aT8X",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453871615,
+        "modifiedTime": 1765453871615,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.E9PFzC037i80aT8X"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Ghost Touch",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R",
+      "_id": "BFZxwfIslcUwPCb8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453875755,
+        "modifiedTime": 1765453875755,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.BFZxwfIslcUwPCb8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Earthbinding",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OClYfRHzoynib6wX",
+      "_id": "fh9JCzK3aSZzTAc1",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453898980,
+        "modifiedTime": 1765453898980,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.fh9JCzK3aSZzTAc1"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Pacifying",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.R8I13CDRzvpVXOVe",
+      "_id": "4LpgHeC3DIsesJsj",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453915113,
+        "modifiedTime": 1765453915113,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.4LpgHeC3DIsesJsj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Fearsome",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.P6v2AtJw7AUwaDzf",
+      "_id": "4nGdTiaWxz94ChuW",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453937444,
+        "modifiedTime": 1765453937444,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.4nGdTiaWxz94ChuW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Vitalizing",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LwQb7ryTC8FlOXgX",
+      "_id": "YJ1NyLo6sb8dEslg",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765453959372,
+        "modifiedTime": 1765453959372,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!AfZuUqI643TicrBT.YJ1NyLo6sb8dEslg"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Blhp1ViTwrjDFX1D": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1765453574931,
+    "modifiedTime": 1765454146942,
+    "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+  },
+  "formula": "1d11",
+  "_key": "!tables!AfZuUqI643TicrBT"
+}

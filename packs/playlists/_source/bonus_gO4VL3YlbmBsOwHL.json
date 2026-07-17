@@ -1,0 +1,23 @@
+{
+  "type": "Playlist",
+  "folder": "JH9YeokBfe4E9tEe",
+  "name": "Bonus",
+  "color": null,
+  "sorting": "a",
+  "_id": "gO4VL3YlbmBsOwHL",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760667788,
+    "modifiedTime": 1769760667788,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "_key": "!folders!gO4VL3YlbmBsOwHL"
+}

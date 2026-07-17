@@ -1,0 +1,129 @@
+{
+  "folder": "WEwclDf1xqvQCuuX",
+  "name": "Beats (Bonus)",
+  "_id": "AxuvSY14o8YXbZVo",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20AMENTI.wav",
+      "name": "Voidwalkr Amenti",
+      "_id": "KInnQNTHezqPVbg7",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.KInnQNTHezqPVbg7"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20ARCANE.wav",
+      "name": "Voidwalkr Arcane",
+      "_id": "4wQpjjUsJFReV3ZB",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.4wQpjjUsJFReV3ZB"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20CARTEL.wav",
+      "name": "Voidwalkr Cartel",
+      "_id": "b4YyOewIk3wtGQcb",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.b4YyOewIk3wtGQcb"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20FEAR%20beat.wav",
+      "name": "Voidwalkr Fear Beat",
+      "_id": "xmBDJcdfDZoa2tLL",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.xmBDJcdfDZoa2tLL"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20KARMA.wav",
+      "name": "Voidwalkr Karma",
+      "_id": "feKswqSaZgqgPO4P",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.feKswqSaZgqgPO4P"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20SAVAGE%20II.wav",
+      "name": "Voidwalkr Savage Ii",
+      "_id": "1azXIW3yuIwRsyn1",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.1azXIW3yuIwRsyn1"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20SHADOW%20beat.wav",
+      "name": "Voidwalkr Shadow Beat",
+      "_id": "XaWjBqck3gNCcwi7",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.XaWjBqck3gNCcwi7"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Beats%20(Bonus)/voidwalkr%20-%20UNHOLY.wav",
+      "name": "Voidwalkr Unholy",
+      "_id": "tBP2uyyUnzLzq8By",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!AxuvSY14o8YXbZVo.tBP2uyyUnzLzq8By"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760668041,
+    "modifiedTime": 1769760668041,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 658,
+  "_key": "!playlists!AxuvSY14o8YXbZVo"
+}

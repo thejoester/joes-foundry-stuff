@@ -1,0 +1,28 @@
+{
+  "_id": "5G6qJ8gh5CN6Vy9v",
+  "_stats": {
+    "compendiumSource": "Compendium.xdy-pf2e-workbench.asymonous-benefactor-macros.Macro.7BgjeGWZSmH9yXIN",
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "command": "/** This compendium link macro will always call the most recent version from the compendium included with this module meaning you do not need to reimport newer versions. The source of the macros that get called is https://gitlab.com/symonsch/my-foundryvtt-macros/-/tree/main/PF2e */\n/* Start of documentation from the original macro: */\n/*\nWelcome to the Conditions Manager.\nThis macro was designed to have a window that can be minimized when not needed or opened whenever to manage conditions.\nIt is mostly intended for those who want an easy to read condition manager without the need for modules.\nAll conditions are toggled on and off by having the tokens selected that you would apply the condition to and clicking the\nname of the condition. If the condition can have a value, simply click the + to increase the value or the - to decrease.\nThe Clear a condition button is used to clear a specific condition off of a group of selected tokens.\nThis macro is loosely adapted from the Apply Conditions macro created by cepvep.\nCSS design by websterguy\nAdded the ability to add Timed Effects that grant conditions for a specific amount of time.\nHave the actor causing the effect selected and the ones the effect it being placed on targeted when in combat.\nAdded a checkbox to use Player's targets if in an active combat and the selected token is playerOwned.\nAdded the ability to clear all conditions on selected tokens.\nPreselect targets(combat)/selected(outside of combat) tokens since the second dialog will not catch changes.\n*/\n/* End of original macro documentation. */\n\n    async function _executeMacroByName(\n        macroName,\n        compendiumName = \"xdy-pf2e-workbench.asymonous-benefactor-macros-internal\"\n    ) {\n        const pack = game.packs.get(compendiumName);\n        if (pack) {\n            let macro = (await pack.getDocuments({name: macroName}))?.[0];\n            if (macro) {\n                if (!macro.canExecute)\n                    macro = new macro.constructor(foundry.utils.mergeObject(macro.toObject(), {\"-=_id\": null, \"ownership.default\": CONST.DOCUMENT_OWNERSHIP_LEVELS.OWNER}, {performDeletions: true, inplace: true}));\n                macro.execute();\n            } else {\n                ui.notifications.error(`Macro ${macroName} not found`);\n            }\n        } else {\n            ui.notifications.error(`Compendium ${compendiumName} not found`);\n        }\n    }\n    _executeMacroByName('XDY DO_NOT_IMPORT Conditions Manager');\n\n    /* This compendium link macro is based on one originally posted by DrentalBot: https://discord.com/channels/880968862240239708/880975811279204402/910490804554973274; and modified by Mark Pearce https://discord.com/channels/880968862240239708/880969174661353484/972962446098702376 */",
+  "img": "systems/pf2e/icons/conditions/doomed.webp",
+  "name": "Conditions Manager",
+  "author": "CLMiGpsYVSTK4VM8",
+  "flags": {},
+  "ownership": {
+    "default": 1,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "scope": "global",
+  "type": "script",
+  "folder": "eB83Kvswqyhs0e1Q",
+  "sort": 112500,
+  "_key": "!macros!5G6qJ8gh5CN6Vy9v"
+}

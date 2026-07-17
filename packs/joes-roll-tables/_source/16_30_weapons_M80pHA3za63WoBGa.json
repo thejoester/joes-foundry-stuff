@@ -1,0 +1,597 @@
+{
+  "folder": "Nf5OLFYWHnH6Uzj4",
+  "name": "16-30 Weapons",
+  "_id": "M80pHA3za63WoBGa",
+  "img": "icons/weapons/swords/sword-runed-glowing.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-blue.webp",
+      "_id": "o4UALYQETlVPcfKY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Arcane Might (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.w2AxS7q8bjh77pp2",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.o4UALYQETlVPcfKY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/weapons/hammers/hammer-drilling-spiked.webp",
+      "_id": "bj3dL34jnskKEuRo",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sky Hammer",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ANvbi1zKF1So8bON",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.bj3dL34jnskKEuRo"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-crescent-green.webp",
+      "_id": "yobLgBtgxAFYK20u",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Impossible Visions (True)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1glQQ63AeQOfQNvc",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.yobLgBtgxAFYK20u"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-crescent-green.webp",
+      "_id": "kEE15xTVHKSQwJsf",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Impossible Visions (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oT4pyqLKpJVXDb46",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.kEE15xTVHKSQwJsf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-blue.webp",
+      "_id": "vLCApVZlF3c99vlM",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Arcane Might (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L7FuscHIuzQ7FjnB",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.vLCApVZlF3c99vlM"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        8,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-eye.webp",
+      "_id": "tLKD0IQwO1B50Rmc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Providence (True)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pIagOwW8EFBaKW3k",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.tLKD0IQwO1B50Rmc"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/staves/staff-of-natures-vengeance.webp",
+      "_id": "pTZ0Tw8mQwTWRxBr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Nature's Vengeance (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hnx3dOQrYLBtsu3V",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.pTZ0Tw8mQwTWRxBr"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/storm-flash.webp",
+      "_id": "iKo7nMTJpoRXSUcx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Storm Flash (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.i9mxfSIBTTOwsSlx",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.iKo7nMTJpoRXSUcx"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        17,
+        19
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/flame-tongue.webp",
+      "_id": "oIQ5ODd5GJN7w7rW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Searing Blade (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pvxRcuBexbFawjCg",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.oIQ5ODd5GJN7w7rW"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        20,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/magic/water/projectile-arrow-ice-gray-blue.webp",
+      "_id": "zNv69CHtsCfl5RTM",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Icicle",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NARrXbTyQ2X6hA7e",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.zNv69CHtsCfl5RTM"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        23,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-gold-jeweled.webp",
+      "_id": "cUIrM1iM6fXWuBUf",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Healing (True)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WbcQqXrUytXkCMK3",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.cUIrM1iM6fXWuBUf"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        26,
+        28
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/crystal-shards.webp",
+      "_id": "kD1vJ4Ob4yn76xeY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Crystal Shards (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.V2knI4GpdJYLupjg",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.kD1vJ4Ob4yn76xeY"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        29,
+        31
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/dread-ampoule.webp",
+      "_id": "v7rSIsWQ3PiivtE5",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dread Ampoule (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MCHYtxP8E7njLC3s",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.v7rSIsWQ3PiivtE5"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        32,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/containers/bags/sack-simple-leather-tan.webp",
+      "_id": "Myp0jDIXL4Lwnhpc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Glue Bomb (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.BxJNWWvpxacDIsdt",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.Myp0jDIXL4Lwnhpc"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        35,
+        37
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/ghost-charge.webp",
+      "_id": "rVP2nxs4g1CRqurH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ghost Charge (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.i7bJcib5TUJKOd4Z",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.rVP2nxs4g1CRqurH"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        38,
+        40
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/frost-vial.webp",
+      "_id": "WOwunQq8sbH5IFoe",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frost Vial (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4DJQID8GIlxQ7b9C",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.WOwunQq8sbH5IFoe"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        41,
+        43
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp",
+      "_id": "F1Eb3MyeDFbviw2E",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bottled Lightning (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rpbbfkexLhtadBDV",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.F1Eb3MyeDFbviw2E"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        44,
+        46
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/blight-bomb.webp",
+      "_id": "9ladkYiNVK37CBZd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blight Bomb (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.sJjuv1991SZ7DWWD",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.9ladkYiNVK37CBZd"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        47,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/commodities/gems/pearl-rough-turquoise.webp",
+      "_id": "eMQXXLtB4ZHt3Tzx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blasting Stone (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.IuGydh0En8LbfnWo",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.eMQXXLtB4ZHt3Tzx"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        50,
+        52
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+      "_id": "MOhutuAnoaaSC4I4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Alchemist's Fire (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cLZrOihPht5M7eTw",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.MOhutuAnoaaSC4I4"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        53,
+        55
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+      "_id": "Yp6jkjZcRGeiT9Jh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Acid Flask (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GttLYMT2welSpwCd",
+      "description": "",
+      "_key": "!tables.results!M80pHA3za63WoBGa.Yp6jkjZcRGeiT9Jh"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1727005508585,
+    "modifiedTime": 1727005626678,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "formula": "1d55",
+  "_key": "!tables!M80pHA3za63WoBGa"
+}

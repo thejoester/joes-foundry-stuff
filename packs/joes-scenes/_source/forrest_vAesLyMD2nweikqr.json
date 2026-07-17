@@ -1,0 +1,23 @@
+{
+  "name": "Forrest",
+  "sorting": "a",
+  "folder": "6MfJE8ShsWBWg1YA",
+  "type": "Scene",
+  "_id": "vAesLyMD2nweikqr",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276697526,
+    "modifiedTime": 1784276697526,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "_key": "!folders!vAesLyMD2nweikqr"
+}

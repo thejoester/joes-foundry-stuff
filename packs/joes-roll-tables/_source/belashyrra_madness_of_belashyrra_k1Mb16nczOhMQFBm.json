@@ -1,0 +1,198 @@
+{
+  "name": "Belashyrra: Madness of Belashyrra",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Belashyrra",
+      "keys": [
+        "d6",
+        "Flaw (lasts until cured)"
+      ],
+      "diceKeys": [
+        "d6"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "MN15fcx9XKoynxlL",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I constantly see shapes moving in the shadows.”",
+      "name": "",
+      "_key": "!tables.results!k1Mb16nczOhMQFBm.MN15fcx9XKoynxlL"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "GTph4l7FxG3oA3xD",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I perceive certain types of people — vocations or entire societies — as hideous monsters.”",
+      "name": "",
+      "_key": "!tables.results!k1Mb16nczOhMQFBm.GTph4l7FxG3oA3xD"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "btGznOY7Z82rdjrW",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“Someone is watching everything I do.”",
+      "name": "",
+      "_key": "!tables.results!k1Mb16nczOhMQFBm.btGznOY7Z82rdjrW"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "HA5WxXqe03fkdg5o",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“When I close my eyes, I see my past misdeeds.”",
+      "name": "",
+      "_key": "!tables.results!k1Mb16nczOhMQFBm.HA5WxXqe03fkdg5o"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "ACiuC6sRyjGmzuaC",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I don’t trust my sight. I have no idea what’s real and what’s a hallucination.”",
+      "name": "",
+      "_key": "!tables.results!k1Mb16nczOhMQFBm.ACiuC6sRyjGmzuaC"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "qozVaLY3PWZqZhkh",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“Something watches the world through my eyes. To thwart them, I keep my eyes closed or covered.”",
+      "name": "",
+      "_key": "!tables.results!k1Mb16nczOhMQFBm.qozVaLY3PWZqZhkh"
+    }
+  ],
+  "formula": "d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689062168826,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "k1Mb16nczOhMQFBm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!k1Mb16nczOhMQFBm"
+}

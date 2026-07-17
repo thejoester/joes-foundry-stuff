@@ -1,0 +1,2643 @@
+{
+  "name": "The Infernal Machine of Lum the Mad: Infernal Machine Properties",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "The Infernal Machine of Lum the Mad",
+      "keys": [
+        "d100",
+        "Beneficial Property",
+        "Detrimental Property"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "BaKr3wvcz8HdcQqB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>01\n\n<b>Beneficial Property</b>You have a flying speed of 150 feet but lose all other movement.\n\n<b>Detrimental Property</b>You are blinded.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.BaKr3wvcz8HdcQqB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "PHOk7le8GFvWKwMa",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>02\n\n<b>Beneficial Property</b>You can cast the speak with animals spell at will, but can use it to speak with only one animal of your choice.\n\n<b>Detrimental Property</b>All animals despise you. You have disadvantage on Wisdom (Animal Handling) checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.PHOk7le8GFvWKwMa"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "0Wyi5BxUrxNK8x16",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>03\n\n<b>Beneficial Property</b>One weapon or item you carry of your choice gains a walking speed of 30 feet and goes where you tell it.\n\n<b>Detrimental Property</b>Your armor and clothing feels unnaturally tight. Unless you go naked, roll a[[/r + 4]]  eachtime you are attacked and subtract the number rolled from your AC.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.0Wyi5BxUrxNK8x16"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "3jSzgTEIxc8cR3dy",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>04\n\n<b>Beneficial Property</b>You can cast the legend lore spell three times.\n\n<b>Detrimental Property</b>Whenever you make an Intelligence check or use divination magic to learn something about a creature, that knowledge comes with added trivia of the DM’s devising.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.3jSzgTEIxc8cR3dy"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "og5mtgno8jT9IWua",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>05\n\n<b>Beneficial Property</b>You emanate a weak magnetic aura. The first time during a combat that a creature attacks you with a metal weapon, that creature has disadvantage on the attack roll.\n\n<b>Detrimental Property</b>Metal rusts in response to your touch—including metal armor you wear and metal weapons you hold—reproducing the effect of the [monster]rust monster;s;rust monster’s[/monster] Rust Metal trait.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.og5mtgno8jT9IWua"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "4wtH8N59FY5vG4sM",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>06\n\n<b>Beneficial Property</b>Your fingers sprout tiny clockwork picks, granting you advantage on ability checks made using thieves’ tools or tinker’s tools.\n\n<b>Detrimental Property</b>Any metal object you wield or wear is covered in a thin layer of oil that drips occasionally and leaves your fingerprints everywhere.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.4wtH8N59FY5vG4sM"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "MtnKFziAsp0QybL6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>07\n\n<b>Beneficial Property</b>You can cast the speak with animals spell at will, but can use it to communicate only with insects.\n\n<b>Detrimental Property</b>Disturbing whispers on the edge of hearing haunt all creatures within 30 feet of you, causing those creatures to recall their saddest memories.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.MtnKFziAsp0QybL6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "1ilvFDQprz9etgIk",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>08\n\n<b>Beneficial Property</b>You have a +1 bonus to Wisdom (Insight checks) involving creatures you can see.\n\n<b>Detrimental Property</b>Your body is ghostly and translucent except for your bones. You have vulnerability to radiant damage, and you have disadvantage on attack rolls while in direct sunlight.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.1ilvFDQprz9etgIk"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "qx8NzXDDHzqQEeXP",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>09\n\n<b>Beneficial Property</b>You summon a unicorn that obeys your commands. If you give a command that violates the unicorn’s alignment, the unicorn immediately vanishes.\n\n<b>Detrimental Property</b>You grow a unicorn horn.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.qx8NzXDDHzqQEeXP"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "rAP09zlvZPwSZzV9",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>10\n\n<b>Beneficial Property</b>A specialized clockwork compass floats in front of you. You can name one character, place, or object on the same plane as you and have the compass point constantly in the direction of the named target. You gain no knowledge of the distance to the target.\n\n<b>Detrimental Property</b>A specialized clockwork compass floats in front of you, and points toward you. The DM determines whether a creature currently looking for you is drawn to your location. Additionally, when a creature attacks you for the first time during an encounter, it has advantage on the attack roll.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.rAP09zlvZPwSZzV9"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "pqqYIgYE5nubcK9o",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>11\n\n<b>Beneficial Property</b>Your clothes are wrapped in illusion that makes them appear to be the very latest style, drawing praise and attention. You have a +1 bonus to Charisma checks.\n\n<b>Detrimental Property</b>Any food and drink you eat spoils as you swallow it. Each time you eat or drink, you are poisoned for 1 hour.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.pqqYIgYE5nubcK9o"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "PqMK6LQg5q1qu5Vq",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>12\n\n<b>Beneficial Property</b>You have a +1 bonus to attack rolls with weapons or spells (your choice).\n\n<b>Detrimental Property</b>The cure wounds spell restores no hit points for you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.PqMK6LQg5q1qu5Vq"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "RMiWIWwSTWD269S6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>13\n\n<b>Beneficial Property</b>You have an innate sense of direction. You automatically succeed on ability checks made to avoid becoming lost.\n\n<b>Detrimental Property</b>Whenever you move, a magical voice calls out your direction and how far you’ve gone. The voice cannot be silenced or stopped.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.RMiWIWwSTWD269S6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "iF8FqjulG30b7bBL",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>14\n\n<b>Beneficial Property</b>You constantly see afterimages of all events that occurred within 30 feet of you over the previous hour.\n\n<b>Detrimental Property</b>You are distracted by voices and visions, forcing you to succeed on a Wisdom saving throw every 4 hours or gain one level of exhaustion.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.iF8FqjulG30b7bBL"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "siupZvKD97kcSQzB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>15\n\n<b>Beneficial Property</b>You understand all languages, as if under the effect of a comprehend languages spell.\n\n<b>Detrimental Property</b>Whenever you speak, you speak in a random language (possibly including languages you don’t normally know).",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.siupZvKD97kcSQzB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "CRM6agGFrSnl81Oz",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>16\n\n<b>Beneficial Property</b>You have +1 bonus to initiative rolls.\n\n<b>Detrimental Property</b>You are unable to hear any speech louder than a whisper.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.CRM6agGFrSnl81Oz"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "PwcoaDu7lhsFv7sB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>17\n\n<b>Beneficial Property</b>An exact duplicate of you appears next to you, dressed as you but lacking any gear. The duplicate functions as a familiar and has the statistics of a cat.\n\n<b>Detrimental Property</b>An exact duplicate of you appears next to you, dressed as you but lacking any gear. It loudly tries to convince all other creatures that it is you, and you are its familiar. If destroyed, it reappears in[[/r 1d4]]  hours.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.PwcoaDu7lhsFv7sB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "lae3X025P1EjLeLa",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>18\n\n<b>Beneficial Property</b>While you are afflicted by a disease or suffering the poisoned or frightened condition, whenever you hit a humanoid with a melee attack, the target must succeed on a DC 15 Constitution saving throw. On a failed save, you transfer the disease or the condition to the target, and the disease or condition ends for you.\n\n<b>Detrimental Property</b>Water becomes intensely acidic to you. If you are submerged in water, you take [[/r 1d6[acid] # Acid damage]]  damage at the start of each of your turns, and drinking pure water causes you to be poisoned for 1 hour.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.lae3X025P1EjLeLa"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "u1iMuK7yLBTsPnVn",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>19\n\n<b>Beneficial Property</b>A random Huge beast appears next to you (chosen by the DM) as if with the conjure animals spell. You have a telepathic link to this beast, such that you can give it commands even if it can’t hear you.\n\n<b>Detrimental Property</b>A random Huge beast appears next to you (chosen by the DM) and attacks at once.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.u1iMuK7yLBTsPnVn"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "yWAKBRJKDcwEMZCN",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>20\n\n<b>Beneficial Property</b>You have 1 luck point, which you can use as if you had taken the <a href=\"https://www.dndbeyond.com/feats/lucky\">Lucky feat</a>. If you have taken that feat, you have 1 extra luck point.\n\n<b>Detrimental Property</b>Those around you perceive you as dishonest, even when you are completely truthful. You automatically fail Charisma checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.yWAKBRJKDcwEMZCN"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "8rU8C0ASPqE1Qydx",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>21\n\n<b>Beneficial Property</b>If you drop to 0 hit points, a phantom guardian appears next to you, functioning as if you had cast the Mordenkainen’s faithful hound spell. The guardian disappears if you die, regain hit points, or regain consciousness.\n\n<b>Detrimental Property</b>No one takes you seriously, imposing disadvantage on Charisma (Deception and Persuasion) checks, and causing you to automatically fail Charisma (Intimidation) checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.8rU8C0ASPqE1Qydx"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "hGsuLPH29RF9OZqW",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>22\n\n<b>Beneficial Property</b>You can cast the gaseous form spell on yourself three times. When you do, instead of appearing as mist, you appear as a swirling puff of feathers.\n\n<b>Detrimental Property</b>Your body is covered in feathers.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.hGsuLPH29RF9OZqW"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "gwX2B9bRhzR08sFY",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>23\n\n<b>Beneficial Property</b>You have advantage on death saving throws.\n\n<b>Detrimental Property</b>You have disadvantage on all saving throws except death saving throws.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.gwX2B9bRhzR08sFY"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "AIepwqpz1KKkZhY6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>24\n\n<b>Beneficial Property</b>You can cast speak with animals at will, but can use it to communicate only with dogs.\n\n<b>Detrimental Property</b>All cats are automatically hostile toward you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.AIepwqpz1KKkZhY6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "3ec7cQ8BCMy3t3tv",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>25\n\n<b>Beneficial Property</b>You can cast the raise dead spell once, requiring no material components.\n\n<b>Detrimental Property</b>If you drop to 0 hit points, you automatically suffer 1 failed death saving throw.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.3ec7cQ8BCMy3t3tv"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_id": "bBfLrdMSQ7LuChkj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>26\n\n<b>Beneficial Property</b>Each time you finish a short rest, up to 100 silver pieces already in your possession become gold pieces, and up to 100 copper pieces become silver pieces.\n\n<b>Detrimental Property</b>All coins you touch become worthless tin.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.bBfLrdMSQ7LuChkj"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_id": "fiphOTGYN2nGUPnn",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>27\n\n<b>Beneficial Property</b>Anything poisonous within 50 feet of you is automatically detected and marked by the image of a small frog that is visible only to you.\n\n<b>Detrimental Property</b>A dozen small frogs constantly follow you around, chirping loudly.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.fiphOTGYN2nGUPnn"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_id": "BhhAbRv0B6uSIeYn",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>28\n\n<b>Beneficial Property</b>You gain the benefit of a nondetection spell.\n\n<b>Detrimental Property</b>Your appearance changes randomly as determined by the DM, as if you were under the effect of a disguise self spell.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.BhhAbRv0B6uSIeYn"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_id": "lyzhLwzEBOgXGsRp",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>29\n\n<b>Beneficial Property</b>You can cast the mage hand cantrip at will.\n\n<b>Detrimental Property</b>A disembodied spirit follows you around, stealing and scattering coins from you, crumbling your food, and playing with your weapons and gear.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.lyzhLwzEBOgXGsRp"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_id": "wWlj3gFbfrNyMWpC",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>30\n\n<b>Beneficial Property</b>You are able to decipher any text.\n\n<b>Detrimental Property</b>You lose the ability to speak any language. This has no effect on casting spells with verbal components.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.wWlj3gFbfrNyMWpC"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_id": "SOKzVVUYFBZhYMTV",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>31\n\n<b>Beneficial Property</b>You can cast the speak with plants spell three times.\n\n<b>Detrimental Property</b>Your skin turns green, and you must drink a half gallon of fresh water every 4 hours or take [[/r 1d4[necrotic] # Necrotic damage]]  damage.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.SOKzVVUYFBZhYMTV"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_id": "SrK4quZyAiS2DGis",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>32\n\n<b>Beneficial Property</b>You know whether creatures within 15 feet of you are lying, as if you were the center of a zone of truth spell.\n\n<b>Detrimental Property</b>Whenever you would speak falsely, you cannot speak at all.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.SrK4quZyAiS2DGis"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_id": "oaQVEVpbqtHRLM3j",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>33\n\n<b>Beneficial Property</b>You gain a sense of destiny that directs you toward an important goal, as determined by the DM.\n\n<b>Detrimental Property</b>Your head is filled with an unpleasant buzzing that imposes disadvantage on Intelligence checks and saving throws.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.oaQVEVpbqtHRLM3j"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_id": "AToLxNkPdmuqRysF",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>34\n\n<b>Beneficial Property</b>All creatures you speak with automatically believe your words, as if you have succeeded on a Charisma (Deception or Persuasion) check against them. Any sign of threatening or duplicitous action on your part negates this automatic success.\n\n<b>Detrimental Property</b>Your personal tastes reverse, such that your favorite foods, hobbies, music, and so forth become unbearable to you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.AToLxNkPdmuqRysF"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_id": "ecs8KTOwsfGh56ph",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>35\n\n<b>Beneficial Property</b>Your shadow becomes an undead shadow that shares your alignment and is under your control.\n\n<b>Detrimental Property</b>Your shadow behaves disapprovingly whenever you’re not looking—stealing things, mocking you behind your back, taunting opponents or friends, and so on.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ecs8KTOwsfGh56ph"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_id": "i9LW8AAA5yFocP9V",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>36\n\n<b>Beneficial Property</b>Your skin is covered by slime. You automatically succeed on ability checks and saving throws made to escape a grapple.\n\n<b>Detrimental Property</b>Your skin is covered by slime. You must succeed on a DC 10 Dexterity saving throw to sit down, open doors, and perform other mundane tasks of the DM’s determination.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.i9LW8AAA5yFocP9V"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_id": "ZjCR5IrDR6f0dOka",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>37\n\n<b>Beneficial Property</b>Flowers turn to face you as you pass them.\n\n<b>Detrimental Property</b>Mundane animals can’t look at you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ZjCR5IrDR6f0dOka"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_id": "tTMYAGj3eSZbL8rf",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>38\n\n<b>Beneficial Property</b>Each time you finish a short rest, you suddenly sprout a covering of fragrant leaves. The leaves fall off after[[/r 1d10]]  minutes,revealing[[/r 1d6]]  magicfruits that can be plucked from your head. Each fruit functions as a berry created with the goodberry spell.\n\n<b>Detrimental Property</b>Whenever you stop moving for 10 minutes or more, you discover that your boots or shoes have set down roots that must be pulled free with a successful DC 20 Strength check.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.tTMYAGj3eSZbL8rf"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_id": "jXrU1VBn78EjZ8Ha",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>39\n\n<b>Beneficial Property</b>Choose a creature you can see. That creature must succeed on a DC 15 Dexterity saving throw or drop one item they are holding (DM’s choice). You can use this property three times.\n\n<b>Detrimental Property</b>Each time you roll a 1 on a Dexterity check, you drop one object you are holding (DM’s choice).",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.jXrU1VBn78EjZ8Ha"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_id": "3O80xALTuNSJOLEB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>40\n\n<b>Beneficial Property</b>A group of small forest animals appears and follows you everywhere, singing and dancing. These magical creatures can perform any task you desire that could be performed by a prestidigitation spell.\n\n<b>Detrimental Property</b>You break out into song whenever you roll a 1 on any die.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.3O80xALTuNSJOLEB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_id": "sacfTQICxB4azKfb",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>41\n\n<b>Beneficial Property</b>Your possessions change their state or appearance at the DM’s determination, giving you hints of potential future events. For example, your sword might become suddenly bloodstained to warn of an upcoming combat encounter, your clothes might become damp to warn of a water-filled pit trap ahead, and so on.\n\n<b>Detrimental Property</b>You take a -5 penalty to initiative rolls.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.sacfTQICxB4azKfb"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_id": "F0hBGJM2iiayq7F8",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>42\n\n<b>Beneficial Property</b>Whenever you roll a 1 on a[[/r + 20]], youhave advantage on your next[[/r + 20]]  roll.\n\n<b>Detrimental Property</b>Whenever you roll a 1 on a[[/r + 20]], youhave disadvantage on your next[[/r + 20]]  roll.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.F0hBGJM2iiayq7F8"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_id": "dA1w3FhjeCHItpB0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>43\n\n<b>Beneficial Property</b>Grass, moss, and flowers instantly grow in your footsteps. You are also unaffected by [rule]difficult terrain[/rule] created by plants.\n\n<b>Detrimental Property</b>Any harm that befalls a plant you can see (a woodcutter sawing down a tree, a gardener pulling weeds, and so forth) fills you with a sadness that imposes disadvantage on ability checks for 1 minute.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.dA1w3FhjeCHItpB0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_id": "G8PO8OT4eUsdeuOA",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>44\n\n<b>Beneficial Property</b>You automatically know the direction to the greatest danger within 500 feet of you.\n\n<b>Detrimental Property</b>You leave a trail of black footprints that allow anyone to automatically follow you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.G8PO8OT4eUsdeuOA"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_id": "ojKTJ8EIZClhgLhY",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>45\n\n<b>Beneficial Property</b>You can cast the detect thoughts spell three times.\n\n<b>Detrimental Property</b>All creatures within 30 feet of you automatically know your surface thoughts, as if having cast detect thoughts against you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ojKTJ8EIZClhgLhY"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_id": "ni2TBYf1ixPYMKRl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>46\n\n<b>Beneficial Property</b>You can cast the misty step spell three times. When you do, you must begin and end your teleportation in an area of shadow.\n\n<b>Detrimental Property</b>While in direct sunlight, you have disadvantage on attack rolls as well as on Wisdom (Perception) checks that rely on sight.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ni2TBYf1ixPYMKRl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_id": "nSXHuqX25mZLmxYy",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>47\n\n<b>Beneficial Property</b>Creatures cannot gain advantage on attacks made against you as a result of another creature using the Help action.\n\n<b>Detrimental Property</b>You have disadvantage on Dexterity (Acrobatics) checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.nSXHuqX25mZLmxYy"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_id": "v30cI4iBKqS4ClpV",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>48\n\n<b>Beneficial Property</b>You have increased lung capacity, increasing your walking speed by 10 feet and letting you hold your breath for twice as long as normal.\n\n<b>Detrimental Property</b>Whenever you exert yourself by fighting, running, and so forth, you breathe out intermittent gouts of flame that deal [[/r 1d4[fire] # Fire damage]]  damage to you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.v30cI4iBKqS4ClpV"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_id": "pD9jWJQZkTBoUuO9",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>49\n\n<b>Beneficial Property</b>You can cast the daylight spell three times.\n\n<b>Detrimental Property</b>An evil undead creature that comes within 30 feet of you for the first time is charmed by you until the end of your next turn.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.pD9jWJQZkTBoUuO9"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_id": "xOMKxlV5SQzMcUGt",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>50\n\n<b>Beneficial Property</b>When you touch a copper piece, it transmutes to become two copper pieces. You can duplicate a maximum of 1,000 coins this way.\n\n<b>Detrimental Property</b>Food doesn’t satiate you, and you must eat double the amount of food you normally eat to avoid feeling hungry.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.xOMKxlV5SQzMcUGt"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_id": "CfrvZBXPnawtthDq",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>51\n\n<b>Beneficial Property</b>You shed light like a torch, as if you were the target of a light cantrip.\n\n<b>Detrimental Property</b>No one else can take a short rest within 40 feet of you, as everything you say or do seems distracting to them.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.CfrvZBXPnawtthDq"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_id": "1nT3Meip5Hd9LhvZ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>52\n\n<b>Beneficial Property</b>You can cast the divination spell once.\n\n<b>Detrimental Property</b>Whenever you make an Intelligence check or saving throw, you receive a grim vision of the DM’s determination, imposing disadvantage on your next attack roll, ability check, or saving throw.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.1nT3Meip5Hd9LhvZ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_id": "TjCNBCRLR4MDk3y6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>53\n\n<b>Beneficial Property</b>As an action, you can become incorporeal for 10 minutes, allowing you to move through other creatures and objects as if they were [rule]difficult terrain[/rule]. You take 5 ([[/r 1d10[force] # Force damage]]) damage if you end your turn inside an object. You can use this property once.\n\n<b>Detrimental Property</b>Your senses diminish as if the world were faded around you, imposing disadvantage on Wisdom (Perception) checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.TjCNBCRLR4MDk3y6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_id": "7wzmaIhq19sIxb7s",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>54\n\n<b>Beneficial Property</b>While you take a short rest, the area within 50 feet of you takes on the illusory appearance of a beautiful forest glade.\n\n<b>Detrimental Property</b>The first time an ally you can see takes damage as a result of failing a saving throw, you take the damage instead of them.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.7wzmaIhq19sIxb7s"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_id": "BEepBKrkgqvhVTDV",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>55\n\n<b>Beneficial Property</b>As a bonus action, you can choose one creature within 10 feet of you and know one secret about it, as determined by the DM.\n\n<b>Detrimental Property</b>The remove curse, lesser restoration, and greater restoration spells have no effect on you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.BEepBKrkgqvhVTDV"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_id": "5UEEcyj8O77YaihW",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>56\n\n<b>Beneficial Property</b>You can predict the weather conditions for the next 24 hours with perfect accuracy.\n\n<b>Detrimental Property</b>A rain cloud follows you around, drizzling on you constantly even while indoors.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.5UEEcyj8O77YaihW"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_id": "8Ja4R15n25yp8e3G",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>57\n\n<b>Beneficial Property</b>You have telepathy out to a range of 120 feet.\n\n<b>Detrimental Property</b>You hear the voices of creatures you can see in your head from time to time (as detailed by the DM), but you have no idea whether what you’re hearing is the truth or not.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.8Ja4R15n25yp8e3G"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_id": "t1bx2lI1xKnUSW0M",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>58\n\n<b>Beneficial Property</b>You can cast speak with animals at will, but you can use it to communicate only with goats. Any goat you speak with becomes charmed by you for 1 hour.\n\n<b>Detrimental Property</b>You become distraught unless your clothing is all the same color, imposing disadvantage on Intelligence, Wisdom, and Charisma checks and saving throws.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.t1bx2lI1xKnUSW0M"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_id": "tormea14nkXF1bII",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>59\n\n<b>Beneficial Property</b>You have resistance to fire damage.\n\n<b>Detrimental Property</b>You gain no benefit from any potion.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.tormea14nkXF1bII"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_id": "N5rtX0sAX1GB2VTx",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>60\n\n<b>Beneficial Property</b>You have immunity to the charmed and frightened conditions.\n\n<b>Detrimental Property</b>You can speak only in a monotone voice, imposing disadvantage on Charisma checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.N5rtX0sAX1GB2VTx"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_id": "ioUKvZrZtmDhJw7p",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>61\n\n<b>Beneficial Property</b>You and each creature within 10 feet of you have resistance to necrotic damage.\n\n<b>Detrimental Property</b>Any Wisdom (Medicine) check you make or that is made to help you is made with disadvantage.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ioUKvZrZtmDhJw7p"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_id": "OeZHeZw91O1hOZmB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>62\n\n<b>Beneficial Property</b>The first creature you hit with a weapon attack on each of your turns takes [[/r 1d4[fire] # Fire damage]]  damage at the start of its next turn.\n\n<b>Detrimental Property</b>You are blinded while in bright light, and your shadow takes on a monstrous appearance.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.OeZHeZw91O1hOZmB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_id": "cKZFdW6kxvxruk49",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>63\n\n<b>Beneficial Property</b>No creature can learn your alignment by magical means, and you have advantage on Charisma checks involving creatures that also share your alignment.\n\n<b>Detrimental Property</b>You have disadvantage on Charisma checks involving creatures that do not share your alignment.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.cKZFdW6kxvxruk49"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_id": "7PIRvMguCjYuT01C",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>64\n\n<b>Beneficial Property</b>As a bonus action, you cause yourself and a willing ally you can see to swap positions by teleportation.\n\n<b>Detrimental Property</b>Whenever you roll a 1 on a[[/r + 20]]  roll,you and an ally you can see swap positions by teleportation.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.7PIRvMguCjYuT01C"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_id": "ChUkHB3y0lQmTEQ5",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>65\n\n<b>Beneficial Property</b>As an action, you cause [rule]difficult terrain[/rule] within 50 feet of you to become normal terrain. You can use this property three times.\n\n<b>Detrimental Property</b>Each time you move through [rule]difficult terrain[/rule], your speed is reduced by 10 feet until the end of your next turn.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ChUkHB3y0lQmTEQ5"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_id": "drajRlduQBGuSJRP",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>66\n\n<b>Beneficial Property</b>You increase one ability score of your choice by 2. You can increase an ability score above 20 using this property, but the increase is lost when this property ends.\n\n<b>Detrimental Property</b>Whenever you roll a 1 on an attack roll, ability check, or saving throw using your highest ability score, you take [[/r 1d4[psychic] # Psychic damage]]  damage.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.drajRlduQBGuSJRP"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_id": "RroBNdLrHXh5VsIw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>67\n\n<b>Beneficial Property</b>As an action, you learn the direction and distance to the nearest magic item not in the possession of you or any of your allies.\n\n<b>Detrimental Property</b>Each creature within 30 feet of you automatically knows which magic items you carry.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.RroBNdLrHXh5VsIw"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_id": "txsCS1cTUZLmwwgt",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>68\n\n<b>Beneficial Property</b>As an action while you are in dim light or darkness, you can become invisible, as if targeted by the invisibility spell. In addition to becoming visible if you attack or cast a spell, you become visible if you move into bright light. You can use this property three times.\n\n<b>Detrimental Property</b>While in bright light, you have disadvantage on initiative rolls.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.txsCS1cTUZLmwwgt"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_id": "mTlIPQdQBRP5xztF",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>69\n\n<b>Beneficial Property</b>You can read and understand all the languages commonly spoken within 1 mile of you, as determined by the DM.\n\n<b>Detrimental Property</b>While speaking, you occasionally use nonsense words, imposing disadvantage on Charisma checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.mTlIPQdQBRP5xztF"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_id": "CvQuggYXgQlztLQV",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>70\n\n<b>Beneficial Property</b>You know one cantrip of the DM’s choice, and can cast one 1st-level spell of the DM’s choice at will.\n\n<b>Detrimental Property</b>Whenever you cast a spell or use a magic item property that requires an action or a bonus action to activate, roll on the Wild Magic Surge table (see the sorcerer section in chapter 3 of the <em><a href=\"https://www.dndbeyond.com/sources/phb\">Player’s Handbook</a></em>) to see what happens.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.CvQuggYXgQlztLQV"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_id": "Ez0zgUNkM1htZvMT",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>71\n\n<b>Beneficial Property</b>Whenever you roll a 20 on a[[/r + 20]], youcan immediately end one effect on you.\n\n<b>Detrimental Property</b>Whenever you roll a 1 on a[[/r + 20]], youare blinded until the end of your next turn.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.Ez0zgUNkM1htZvMT"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_id": "Mc35DFOEpHO2D3ix",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>72\n\n<b>Beneficial Property</b>Any clothing you wear is covered with a magical map image that shows all the local area you are aware of. This map doesn’t reveal anything you don’t know, but grants advantage on ability checks to find secret doors and to navigate back to where you’ve been.\n\n<b>Detrimental Property</b>Any rope you touch transforms into a poisonous snake that attacks you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.Mc35DFOEpHO2D3ix"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_id": "haGi5eDi7tKZaw5y",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>73\n\n<b>Beneficial Property</b>You summon a slithering tracker that obeys your commands.\n\n<b>Detrimental Property</b>You take on the appearance of having translucent skin, with your bones and organs slightly visible within.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.haGi5eDi7tKZaw5y"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_id": "Z3lVZYpNYmfGd5lF",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>74\n\n<b>Beneficial Property</b>You have a fresh-scrubbed appearance, and a sweet perfume surrounds you. You have advantage on Charisma (Persuasion) checks.\n\n<b>Detrimental Property</b>Whenever you fail a Charisma (Persuasion) check, the subject of the check becomes irrationally resentful of you, seeking to undermine you in ways determined by the DM.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.Z3lVZYpNYmfGd5lF"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_id": "gssxryVJFIZFULzr",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>75\n\n<b>Beneficial Property</b>You can cast the control weather spell.\n\n<b>Detrimental Property</b>Each time you deal or take cold damage or fire damage, you must succeed on a DC 10 Charisma saving throw or accidentally summon a hostile air elemental or fire elemental (depending on the damage dealt).",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.gssxryVJFIZFULzr"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_id": "LZGGfwCDuL1tspoG",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>76\n\n<b>Beneficial Property</b>A tiny construct resembling a gynosphinx follows you around. It can truthfully answer up to ten yes-or-no questions regarding the campaign, at the DM’s discretion.\n\n<b>Detrimental Property</b>A tiny construct resembling a gynosphinx follows you around. It constantly asks unsolvable riddles of other creatures, and insults those creatures when they fail to answer correctly.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.LZGGfwCDuL1tspoG"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_id": "gbBV1ucYLZU4KaOE",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>77\n\n<b>Beneficial Property</b>A creature appears next to you that is a hybrid of any two nonmagical beasts (akin to the owlbear). The creature serves you as if created by a conjure animals spell. The DM determines the creature’s statistics.\n\n<b>Detrimental Property</b>A creature appears next to you that is a hybrid of any two nonmagical beasts (akin to the owlbear). Unless you succeed on a DC 12 Wisdom (Animal Handling) check, the creature attacks you before wandering off. The DM determines the creature’s statistics.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.gbBV1ucYLZU4KaOE"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_id": "haEL0x8v6gtBC7rH",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>78\n\n<b>Beneficial Property</b>You can cast the teleport spell, always arriving on target when you do. You can use this property once.\n\n<b>Detrimental Property</b>Each time you walk through a doorway or similar portal, you must succeed on a DC 10 Intelligence check or step into a skewed timeline. On a failure, you and all allies within 10 feet of you skip ahead[[/r 1d4]]  minutes. To other creatures, it appears that you and other affected creatures disappear for that length of time, then appear again in the doorway.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.haEL0x8v6gtBC7rH"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_id": "RGjxdNWbzWqrQwr7",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>79\n\n<b>Beneficial Property</b>You can cast the haste spell on yourself. You can use this property three times.\n\n<b>Detrimental Property</b>Each time you are reduced to 0 hit points then stabilized, you suffer the effect of a slow spell.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.RGjxdNWbzWqrQwr7"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_id": "fgVlKwHwaBkR1VqA",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>80\n\n<b>Beneficial Property</b>You do not need to breathe and cease to do so, making you immune to inhaled poisons and [rule]suffocating;suffocation[/rule].\n\n<b>Detrimental Property</b>Whenever you speak (including casting a spell with a verbal component), you must first use a bonus action to breathe.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.fgVlKwHwaBkR1VqA"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_id": "sDRjbVTry8gzsobT",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>81\n\n<b>Beneficial Property</b>Your blood is venomous, granting you immunity to poison and to the poisoned condition. You can cast the speak with animals spell at will, but you can use it to communicate only with snakes.\n\n<b>Detrimental Property</b>Your tongue is long and forked, causing you to speak in a hiss. You have disadvantage on Charisma checks involving speech, and you must succeed on a DC 15 Constitution check to cast a spell with a verbal component.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.sDRjbVTry8gzsobT"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_id": "l0N5I6f3hYgyXTVN",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>82\n\n<b>Beneficial Property</b>You grow gills and have the ability to breathe air and water. You also sprout a pair of tentacles from your shoulders that have a reach of 10 feet and can be used to perform any action you could perform with your hands. The tentacles cannot attack or grapple.\n\n<b>Detrimental Property</b>You are constantly followed by[[/r 1d4]]  octopusesthat can breathe air and water, and which have a walking speed of 30 feet. Each time combat breaks out, you must succeed on a DC 13 Wisdom (Animal Handling) check or have the octopuses panic and attack you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.l0N5I6f3hYgyXTVN"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_id": "JgMGdIunLYBkszmj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>83\n\n<b>Beneficial Property</b>You can cast the misty step spell three times. When you do, you must begin and end your teleportation in an area of fire. Any fire damage you take during the same turn in which you use misty step is restored automatically at the end of your turn.\n\n<b>Detrimental Property</b>Whenever you start your turn within 30 feet of an ongoing fire effect, you must succeed on a DC 13 Wisdom saving throw or move toward the fire and into it if possible.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.JgMGdIunLYBkszmj"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_id": "4OwXQHBsBoSEiTty",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>84\n\n<b>Beneficial Property</b>When you look at the sky, you see it overlaid with navigational symbols. You have advantage on ability checks made to avoid becoming lost while outdoors.\n\n<b>Detrimental Property</b>You have disadvantage on Wisdom (Perception) checks while indoors.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.4OwXQHBsBoSEiTty"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_id": "hRTqEQvVfxb27HhB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>85\n\n<b>Beneficial Property</b>You can cast the healing word spell three times.\n\n<b>Detrimental Property</b>Undead are drawn to you, making it impossible for you to hide from them. Each undead creature you face in combat has advantage on its first attack roll against you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.hRTqEQvVfxb27HhB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_id": "shsOTI4lUBnf4P4Z",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>86\n\n<b>Beneficial Property</b>Any food you touch is transformed into a culinary delight. You have advantage on Charisma checks while interacting with any creatures that have eaten of this food.\n\n<b>Detrimental Property</b>You constantly hear distracting music that throws off your timing, imposing disadvantage on initiative rolls and Dexterity checks.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.shsOTI4lUBnf4P4Z"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_id": "OyPgDGS7Mngo0ZKF",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>87\n\n<b>Beneficial Property</b>Your mind is filled with lost facts and lore, granting advantage on Intelligence checks.\n\n<b>Detrimental Property</b>You forget your name, and must be constantly reminded of it by your allies.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.OyPgDGS7Mngo0ZKF"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_id": "uV2dNSpo1CcxVwM5",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>88\n\n<b>Beneficial Property</b>Your touch can change small nonmagical objects into chocolate.\n\n<b>Detrimental Property</b>Anything you eat or drink makes you feel overly sated and full, imposing disadvantage on Strength checks for 1 hour.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.uV2dNSpo1CcxVwM5"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_id": "wn3RAgfQnLMttADA",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>89\n\n<b>Beneficial Property</b>Each time you finish a short rest, you regain[[/r 1d8]]  hit points. Each creature that took a short rest with you and remained within 30 feet of you for the duration also gains this benefit.\n\n<b>Detrimental Property</b>Each time you finish a short rest, you take [[/r 3d8[psychic] # Psychic damage]]  damage. At your determination, you can transfer some or all of this damage to any creatures that took a short rest with you and remained within 30 feet of you for the duration.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.wn3RAgfQnLMttADA"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_id": "dSO9zrljrHc76JSO",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>90\n\n<b>Beneficial Property</b>Each time you finish a short rest, you find[[/r 1d10]]  smallgems worth 10 gp each in your possession.\n\n<b>Detrimental Property</b>Whenever you spend coins or gems, any character you give them to becomes convinced that the wealth was stolen from them.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.dSO9zrljrHc76JSO"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_id": "FsKHLH54fdtFLyT8",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>91\n\n<b>Beneficial Property</b>When you hit a creature for the first time during an encounter, its Armor Class is reduced by 1.\n\n<b>Detrimental Property</b>Whenever you roll a 1 on a weapon attack roll, the weapon shatters like glass. The weapon magically reforms in[[/r 1d4]]  rounds.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.FsKHLH54fdtFLyT8"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_id": "cu8oyl1nD24UEF1Q",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>92\n\n<b>Beneficial Property</b>Each time you enter a settlement, you are treated as though you are known there and a friend, even if you are neither.\n\n<b>Detrimental Property</b>Each time you roll a 1 on an attack roll, ability check, or saving throw, you grow one inch taller. Your clothing and armor does not grow with you.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.cu8oyl1nD24UEF1Q"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_id": "muITNoSAVfytMnn0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>93\n\n<b>Beneficial Property</b>While standing in a doorway, you can cast the teleport spell. Your destination must be another doorway you know. You can use this property once.\n\n<b>Detrimental Property</b>Each time you finish a short rest, you forget one of your allies (of the DM’s choice) and no longer trust that character. You lose this distrust at the end of your next short rest.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.muITNoSAVfytMnn0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_id": "dM1v9IZ4ztjVWzs0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>94\n\n<b>Beneficial Property</b>As an action, you cause a swirling storm of rocks and dust to surround you in a 10-foot radius for 1 minute. Each creature hostile to you that enters the area must succeed on a DC 12 Constitution saving throw or take [[/r 1d6[bludgeoning] # Bludgeoning damage]]  damage and be blinded for 1 round. You can use this property three times.\n\n<b>Detrimental Property</b>Fire elementals, water elementals, and other creatures of fire and water (as determined by the DM) regard you as their enemy, and focus their attacks against you to the exclusion of all else.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.dM1v9IZ4ztjVWzs0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_id": "ZQVnO2zASb8rtxEV",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>95\n\n<b>Beneficial Property</b>As an action, you learn the names of every humanoid creature within 30 feet of you.\n\n<b>Detrimental Property</b>Whenever you roll a 1 on a Strength or Dexterity check that incorporates touching an object, you stick to that object for 1 minute. It takes a successful DC 20 Strength check to free yourself.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ZQVnO2zASb8rtxEV"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_id": "4BK4HPbcwOugktj5",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>96\n\n<b>Beneficial Property</b>You can cast the modify memory spell once.\n\n<b>Detrimental Property</b>Whenever you make an Intelligence check or saving throw, you must succeed on a DC 13 Charisma saving throw or lose all your memories of the past hour.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.4BK4HPbcwOugktj5"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_id": "6hJhIJeRXCZumEzA",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>97\n\n<b>Beneficial Property</b>You can ignore the verbal component of any spell you cast.\n\n<b>Detrimental Property</b>You must shout the verbal component of any spell you cast.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.6hJhIJeRXCZumEzA"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_id": "ncY6cAbDWA3Yz8m0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>98\n\n<b>Beneficial Property</b>As an action, you conjure a mindless, shapeless force that is your exact duplicate. You control this force as if it were the product of an unseen servant spell, except that it is visible.\n\n<b>Detrimental Property</b>Each time you see your own reflection, you must succeed on a DC 12 Charisma saving throw. On a failure, you treat your allies as enemies and vice versa for 1 minute, attacking the wrong targets, betraying your companions in social situations, and so forth. You can repeat the saving throw at the end of each of your turns, ending the effect on a success.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.ncY6cAbDWA3Yz8m0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_id": "zZqxfHlQKkAL3PSM",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>99\n\n<b>Beneficial Property</b>As an action, you can replace one of your hands with any nonmagical weapon, tool, or piece of adventuring equipment of reasonable size (as determined by the DM).\n\n<b>Detrimental Property</b>Your hands feel unnaturally large, imposing disadvantage on Dexterity (Sleight of Hand) checks and Dexterity checks using thieves’ tools or artisan’s tools. The first weapon attack roll you make in any encounter is made with disadvantage.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.zZqxfHlQKkAL3PSM"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_id": "Akt5lutTpNUkn7DN",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>00\n\n<b>Beneficial Property</b>All creatures of a particular type other than humanoid (as chosen by the DM) are incapable of acting hostile toward you as long as you do not attack, threaten, or provoke them.\n\n<b>Detrimental Property</b>Whenever you meet a creature of a particular type other than humanoid (as chosen by the DM), there is a 1 percent cumulative chance that the tarrasque is magically summoned within 1 mile of you. The tarrasque has no knowledge of your existence. It runs amok for[[/r 1d6]]× 10 minutes, then magically returns to its previous location.",
+      "name": "",
+      "_key": "!tables.results!yZuSAMDbajidNxaU.Akt5lutTpNUkn7DN"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061841747,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "yZuSAMDbajidNxaU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!yZuSAMDbajidNxaU"
+}

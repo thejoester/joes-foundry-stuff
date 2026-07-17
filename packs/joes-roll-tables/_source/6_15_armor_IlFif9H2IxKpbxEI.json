@@ -1,0 +1,435 @@
+{
+  "folder": "RQCHAWaonkcjzyi5",
+  "name": "6-15 Armor",
+  "_id": "IlFif9H2IxKpbxEI",
+  "img": "icons/equipment/chest/breastplate-layered-gilded-orange.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/ghoul-hide.webp",
+      "_id": "McbJWV8ivBgK4q2V",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ghoul Hide",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hRwnNTMj7wa8S4Ji",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.McbJWV8ivBgK4q2V"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-blue.webp",
+      "_id": "U1kNwmNo9F55WUEQ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Moonlit Chain",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vHZSx5f093Wrivzn",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.U1kNwmNo9F55WUEQ"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/rhino-hide.webp",
+      "_id": "slRZgeyuIwCfoL1r",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Onslaught Hide",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.C4XKMcHZoGzrAZBl",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.slRZgeyuIwCfoL1r"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/victory-plate.webp",
+      "_id": "F04h7LDNdi37Kbjd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Victory Plate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nVlKU2et4EeReayr",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.F04h7LDNdi37Kbjd"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        11,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/environment/creatures/horse-tan.webp",
+      "_id": "J1zqdmN8qP14ubB7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Barding of the Zephyr",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.eoI3M6FXtcPWeg7i",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.J1zqdmN8qP14ubB7"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        14,
+        16
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/electric-eelskin.webp",
+      "_id": "3W2SJ107bk9bIove",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Electric Eelskin",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8HxM35X8DDt2gw9d",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.3W2SJ107bk9bIove"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        17,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-blue.webp",
+      "_id": "E7XEs9AsN2OIAWuj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tideplate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7jGnVnqFt2gFtU1g",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.E7XEs9AsN2OIAWuj"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        20,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-gorget-steel-purple.webp",
+      "_id": "eVqfvSjkq4eHOvFO",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Warleader's Bulwark",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RUEAV5LMUGFHcXcW",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.eVqfvSjkq4eHOvFO"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        23,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-gold.webp",
+      "_id": "SukBtzdETyCr0QQk",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lion's Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.EBuQjgVZaQpjQUjc",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.SukBtzdETyCr0QQk"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        26,
+        27
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/precious-metal-armor/elven-chain.webp",
+      "_id": "LgjwyqVKIToNE7O0",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Elven Chain (Standard-Grade)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.peAvz7u35GEfTXxp",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.LgjwyqVKIToNE7O0"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        28,
+        30
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/celestial-armor.webp",
+      "_id": "BYo7IgXASY1RCOl1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Holy Chain",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2uHcTZ40oZ62R9gy",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.BYo7IgXASY1RCOl1"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        31,
+        33
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/demon-armor.webp",
+      "_id": "c7M4fWp5mYTMKAA1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Unholy Plate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hYBZK1kaGPeR85CH",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.c7M4fWp5mYTMKAA1"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        34,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+      "_id": "Yha1bxwBnhg3w2C7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Life-Saver Mail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.h9sZfo6UmHIOU5wb",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.Yha1bxwBnhg3w2C7"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        37,
+        38
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/cursed-items/medusa-armor.webp",
+      "_id": "YkXd07AAGEv6yYxb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Medusa Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Iic9QpNemaumfkHc",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.YkXd07AAGEv6yYxb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/victory-plate.webp",
+      "_id": "eYrvT6NpMMtuIhrm",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Victory Plate (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ed2F0L3R6UNSFUmS",
+      "description": "",
+      "_key": "!tables.results!IlFif9H2IxKpbxEI.eYrvT6NpMMtuIhrm"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1727004098333,
+    "modifiedTime": 1727004257627,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "formula": "1d39",
+  "_key": "!tables!IlFif9H2IxKpbxEI"
+}

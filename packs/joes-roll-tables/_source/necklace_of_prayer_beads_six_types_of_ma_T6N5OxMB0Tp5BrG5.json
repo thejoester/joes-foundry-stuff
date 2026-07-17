@@ -1,0 +1,199 @@
+{
+  "name": "Necklace of Prayer Beads: Six types of magic beads exist. The GM decides the type of each bead on the necklace or determines it randomly. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a bonus action (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Necklace of Prayer Beads",
+      "keys": [
+        "d20",
+        "Bead of...",
+        "Spell"
+      ],
+      "diceKeys": [
+        "d20"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        6
+      ],
+      "drawn": false,
+      "_id": "euMtmn380bVVtqfe",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>1-6\n\n<b>Bead of...</b>Blessing\n\n<b>Spell</b><strong>Bless</strong>",
+      "name": "",
+      "_key": "!tables.results!T6N5OxMB0Tp5BrG5.euMtmn380bVVtqfe"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        12
+      ],
+      "drawn": false,
+      "_id": "1qyoiUFCTbdmzvhj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>7-12\n\n<b>Bead of...</b>Curing\n\n<b>Spell</b><strong>Cure wounds</strong> (2nd level) or <strong></strong><strong>lesser restoration</strong>",
+      "name": "",
+      "_key": "!tables.results!T6N5OxMB0Tp5BrG5.1qyoiUFCTbdmzvhj"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        16
+      ],
+      "drawn": false,
+      "_id": "sQ6usAh87Wr0f8ji",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>13-16\n\n<b>Bead of...</b>Favor\n\n<b>Spell</b><strong>Greater restoration</strong>",
+      "name": "",
+      "_key": "!tables.results!T6N5OxMB0Tp5BrG5.sQ6usAh87Wr0f8ji"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "drawn": false,
+      "_id": "XfIOAcq79IR9z8Kk",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>17-18\n\n<b>Bead of...</b>Smiting\n\n<b>Spell</b><strong>Branding smite</strong>",
+      "name": "",
+      "_key": "!tables.results!T6N5OxMB0Tp5BrG5.XfIOAcq79IR9z8Kk"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "MT4xXxTQ63bvZS5G",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>19\n\n<b>Bead of...</b>Summons\n\n<b>Spell</b><strong>Planar ally</strong>",
+      "name": "",
+      "_key": "!tables.results!T6N5OxMB0Tp5BrG5.MT4xXxTQ63bvZS5G"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "ZynStHoLRammVKzF",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>20\n\n<b>Bead of...</b>Wind walking\n\n<b>Spell</b><strong>Wind walk</strong>",
+      "name": "",
+      "_key": "!tables.results!T6N5OxMB0Tp5BrG5.ZynStHoLRammVKzF"
+    }
+  ],
+  "formula": "d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836053,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "T6N5OxMB0Tp5BrG5",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!T6N5OxMB0Tp5BrG5"
+}

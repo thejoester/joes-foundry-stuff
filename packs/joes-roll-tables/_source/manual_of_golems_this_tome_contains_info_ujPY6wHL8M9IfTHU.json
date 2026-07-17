@@ -1,0 +1,148 @@
+{
+  "name": "Manual of Golems: This tome contains information and incantations necessary to make a particular type of golem. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a manual of golems and attempts to read it takes 6d6 psychic damage.",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Manual of Golems",
+      "keys": [
+        "d20",
+        "Golem",
+        "Time",
+        "Cost"
+      ],
+      "diceKeys": [
+        "d20"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false,
+      "_id": "PyAxxfisgXrz4xjH",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>1-5\n\n<b>Golem</b>Manual of Clay Golems\n\n<b>Time</b>30 days\n\n<b>Cost</b>65,000 GP",
+      "name": "",
+      "_key": "!tables.results!ujPY6wHL8M9IfTHU.PyAxxfisgXrz4xjH"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        17
+      ],
+      "drawn": false,
+      "_id": "9QOl09ZI7JmYl83a",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>6-17\n\n<b>Golem</b>Manual of Flesh Golems\n\n<b>Time</b>60 days\n\n<b>Cost</b>50,000 GP",
+      "name": "",
+      "_key": "!tables.results!ujPY6wHL8M9IfTHU.9QOl09ZI7JmYl83a"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "AJI5zaz66Tq7ppmM",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>18\n\n<b>Golem</b>Manual of Iron Golems\n\n<b>Time</b>120 days\n\n<b>Cost</b>100,000 GP",
+      "name": "",
+      "_key": "!tables.results!ujPY6wHL8M9IfTHU.AJI5zaz66Tq7ppmM"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        20
+      ],
+      "drawn": false,
+      "_id": "slkMshcZpB29XF1A",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 20]] ([[/r + 20]])</b>19-20\n\n<b>Golem</b>Manual of Stone Golems\n\n<b>Time</b>90 days\n\n<b>Cost</b>80,000 GP",
+      "name": "",
+      "_key": "!tables.results!ujPY6wHL8M9IfTHU.slkMshcZpB29XF1A"
+    }
+  ],
+  "formula": "d20",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836810,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ujPY6wHL8M9IfTHU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!ujPY6wHL8M9IfTHU"
+}

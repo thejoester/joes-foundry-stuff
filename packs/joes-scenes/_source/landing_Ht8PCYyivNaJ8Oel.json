@@ -1,0 +1,23 @@
+{
+  "type": "Scene",
+  "folder": null,
+  "name": "Landing",
+  "color": null,
+  "sorting": "a",
+  "_id": "Ht8PCYyivNaJ8Oel",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276687138,
+    "modifiedTime": 1784276687197,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "_key": "!folders!Ht8PCYyivNaJ8Oel"
+}

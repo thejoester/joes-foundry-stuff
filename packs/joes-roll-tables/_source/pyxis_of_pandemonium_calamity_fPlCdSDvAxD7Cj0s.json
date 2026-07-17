@@ -1,0 +1,250 @@
+{
+  "name": "Pyxis of Pandemonium: CALAMITY",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Pyxis of Pandemonium",
+      "keys": [
+        "D8",
+        "CALAMITY"
+      ],
+      "diceKeys": [
+        "D8"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "zlnCZ84PpAOQBkUB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Androphagia.</strong> Each creature within 60 feet of the vessel must succeed on a DC 17 Wisdom saving throw or go berserk for 1 minute. The berserk creature must begin its turn using the Attack action to make one melee or ranged attack (its choice) against the creature nearest to it. The berserk creature can repeat the save at the end of its turn, ending the effect on itself on a success.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.zlnCZ84PpAOQBkUB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "h9g7yChjqgcBwckF",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Bile Blight.</b> The vessel casts the harm spell on each creature within 30 feet of it.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.h9g7yChjqgcBwckF"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "2D18X7sqKFwQ2Jws",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Flood.</strong> The vessel casts the tsunami spell at a point of the DM’s choice within 120 feet of it.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.2D18X7sqKFwQ2Jws"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "ZhlKIfcjf0IoScyN",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Medusa’s Gaze.</b> The vessel casts the flesh to stone spell on each creature within 30 feet of it.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.ZhlKIfcjf0IoScyN"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "JriQgt2D4cSjV1fz",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Labyrinth.</strong> The vessel casts the maze spell on each creature within 30 feet of it.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.JriQgt2D4cSjV1fz"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "rNpJlTI4JpnkRgnw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>Nightmare.</b> Tendrils of shadow seep from the vessel and form into[[1d4]] ([[/r 1d4]])  shadowdemons (see the <span class=\"Sans-Serif-Character-Styles_Italic-Sans-Serif\"><a class=\"sourcebook\" title=\"Monster Manual\" href=\"https://www.dndbeyond.com/sources/mm\">Monster Manual</a></span> for their stat block), which appear in unoccupied spaces within 30 feet of it and are hostile.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.rNpJlTI4JpnkRgnw"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "7E4yXE0TwEyPS75Y",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Swarming Insects.</strong> The vessel casts the insect plague spell, centered on itself and with a radius of 30 feet.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.7E4yXE0TwEyPS75Y"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "ge4hC7LQERprxv0W",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Unbridled Revel.</strong> The vessel casts the Otto's irresistible dance spell on each creature within 30 feet of it.",
+      "name": "",
+      "_key": "!tables.results!fPlCdSDvAxD7Cj0s.ge4hC7LQERprxv0W"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061842597,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "fPlCdSDvAxD7Cj0s",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!fPlCdSDvAxD7Cj0s"
+}

@@ -1,0 +1,198 @@
+{
+  "name": "Dodecahedron of Doom: EFFECT",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Dodecahedron of Doom",
+      "keys": [
+        "D12",
+        "EFFECT"
+      ],
+      "diceKeys": [
+        "D12"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "VE2G9LxzYfBhES7u",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The dodecahedron explodes and is destroyed. Each creature within 20 feet of the exploding die must make a DC 13 Dexterity saving throw, taking 40 ([[/r 9d8[force] # Force damage]]) damage on a failed save, or half as much damage on a successful one.",
+      "name": "",
+      "_key": "!tables.results!zn2GwiIVw7fUrHwM.VE2G9LxzYfBhES7u"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "_id": "S6348No8Jz9E6VWq",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The dodecahedron casts <span class=\"Sans-Serif-Character-Styles_Italic-Sans-Serif\">light</span> on itself. The effect lasts until a creature touches the die.",
+      "name": "",
+      "_key": "!tables.results!zn2GwiIVw7fUrHwM.S6348No8Jz9E6VWq"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "_id": "80bC9bsJneB16DET",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The dodecahedron casts <span class=\"Sans-Serif-Character-Styles_Italic-Sans-Serif\">ray of frost</span> (+5 to hit), targeting a random creature within 60 feet of it that doesn’t have total cover against the attack.",
+      "name": "",
+      "_key": "!tables.results!zn2GwiIVw7fUrHwM.80bC9bsJneB16DET"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "_id": "VsP92yUWAWHQ29HW",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The dodecahedron casts <span class=\"Sans-Serif-Character-Styles_Italic-Sans-Serif\">shocking grasp</span> (+5 to hit) on the next creature that touches it.",
+      "name": "",
+      "_key": "!tables.results!zn2GwiIVw7fUrHwM.VsP92yUWAWHQ29HW"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_id": "vMKSvZsitBD4vUWl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The dodecahedron casts <span class=\"Sans-Serif-Character-Styles_Italic-Sans-Serif\">darkness</span> on itself. The effect has a duration of 10 minutes.",
+      "name": "",
+      "_key": "!tables.results!zn2GwiIVw7fUrHwM.vMKSvZsitBD4vUWl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        12
+      ],
+      "drawn": false,
+      "_id": "kyOXX3kVy8ZEQ3ho",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The next creature to touch the dodecahedron gains[[1d10]] ([[/r 1d10]])  temporaryhit points that last for 1 hour.",
+      "name": "",
+      "_key": "!tables.results!zn2GwiIVw7fUrHwM.kyOXX3kVy8ZEQ3ho"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061840369,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zn2GwiIVw7fUrHwM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!zn2GwiIVw7fUrHwM"
+}

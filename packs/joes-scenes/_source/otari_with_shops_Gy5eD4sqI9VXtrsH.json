@@ -1,0 +1,1367 @@
+{
+  "name": "Otari - With Shops",
+  "navigation": false,
+  "navName": "Otari",
+  "width": 8192,
+  "height": 5564,
+  "padding": 0.1,
+  "initial": {
+    "x": 5575,
+    "y": 3355,
+    "scale": 0.25
+  },
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": false,
+  "drawings": [
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 825,
+        "height": 56,
+        "radius": null,
+        "points": []
+      },
+      "x": 1766,
+      "y": 3895,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Dawnflower Library",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 98,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "Ii4ud563TVy6aidi",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.Ii4ud563TVy6aidi"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 600,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 4529,
+      "y": 3630,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Crooks Nook",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "0Kr9GDBlU22k0NgV",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.0Kr9GDBlU22k0NgV"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 600,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 5413,
+      "y": 4075,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Otari Market",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "faLJiVMOj7g3jXZO",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.faLJiVMOj7g3jXZO"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 600,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 4513,
+      "y": 1114,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Stone Ring Pond",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "VbWeF6gNZHC03orM",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.VbWeF6gNZHC03orM"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 600,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 6188,
+      "y": 2475,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Wrin's Wonders",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "UrxpknYmQmXf7x9s",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.UrxpknYmQmXf7x9s"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 563,
+        "height": 102,
+        "radius": null,
+        "points": []
+      },
+      "x": 5738,
+      "y": 2863,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Blades for Glades",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "roilOvVGrvzGdT5g",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.roilOvVGrvzGdT5g"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 375,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 6588,
+      "y": 3150,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Odd Stories",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "Qv4OvRBnxOxjii5C",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.Qv4OvRBnxOxjii5C"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 500,
+        "height": 88,
+        "radius": null,
+        "points": []
+      },
+      "x": 7050,
+      "y": 3463,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Otari Garrison",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        }
+      },
+      "texture": null,
+      "_id": "aydGdbxiMXBg8C9Z",
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.aydGdbxiMXBg8C9Z"
+    },
+    {
+      "author": "pW1leMCBgrAQWsCk",
+      "shape": {
+        "type": "r",
+        "width": 600,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 3759.450815384983,
+      "y": 3556.056351923123,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "text": "Rowdy Rockfish",
+      "fontFamily": "DungeonDropCase",
+      "fontSize": 92,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "flags": {
+        "tokenmagic": {},
+        "LockView": {
+          "boundingBox_mode": "0"
+        },
+        "levels": {
+          "drawingMode": 0,
+          "elevatorFloors": "",
+          "rangeTop": null
+        }
+      },
+      "texture": null,
+      "interface": true,
+      "elevation": 0,
+      "sort": 0,
+      "_id": "oJbjydWjZgm9VWMq",
+      "_key": "!scenes.drawings!Gy5eD4sqI9VXtrsH.oJbjydWjZgm9VWMq"
+    }
+  ],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 1785,
+      "y": 3842,
+      "width": 834,
+      "height": 164,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.BL7bkIugX4PPyIsn",
+                  "name": "Dawnflower Library"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "sgK6Nv4xqRMn5eUH",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.sgK6Nv4xqRMn5eUH"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 4585,
+      "y": 3602,
+      "width": 506,
+      "height": 144,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.Yrr0kfKLJplputPb",
+                  "name": "Crooks Nook"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "bSgvAvXF4hUU9t8o",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.bSgvAvXF4hUU9t8o"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 5450,
+      "y": 4050,
+      "width": 550,
+      "height": 150,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 2,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.YbY8A5P7f5KsjFzK",
+                  "name": "Otari Market"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "NHgwA0MPNmeiNw4h",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.NHgwA0MPNmeiNw4h"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 4493,
+      "y": 1092,
+      "width": 679,
+      "height": 131,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.AMkbz8HfOf1cMynf",
+                  "name": "Stone Ring Pond"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "yuofSID1UaE5y4ND",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.yuofSID1UaE5y4ND"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 6200,
+      "y": 2450,
+      "width": 600,
+      "height": 150,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.aXu0Y9VV4ujenRKx",
+                  "name": "Wrin's Wonders"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "FOwcjssUmdqLt4Au",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.FOwcjssUmdqLt4Au"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 5708,
+      "y": 2842,
+      "width": 658,
+      "height": 139,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.ufQf7la3SC1HQH4f",
+                  "name": "Blades for Glades"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "l09esePiVxd7Trc7",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.l09esePiVxd7Trc7"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 6541,
+      "y": 3121,
+      "width": 476,
+      "height": 137,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.bEuoP7gPnZm7xsTR",
+                  "name": "Odd Stories"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "f0iZWR7Xd5G6pWQZ",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.f0iZWR7Xd5G6pWQZ"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 7038,
+      "y": 3435,
+      "width": 556,
+      "height": 133,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.ktuCgyV487mcc3tX",
+                  "name": "Otari Garrison"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "asimage": false,
+                "permission": false,
+                "enhanced": false,
+                "location": {},
+                "item": {},
+                "actor": {},
+                "token": {}
+              },
+              "id": "mbKZo4NnuNUzqqBA"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "_id": "IHLGyw19720P4o3q",
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.IHLGyw19720P4o3q"
+    },
+    {
+      "texture": {
+        "src": "assets/images/map-lables/label-3.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0,
+        "anchorY": 0,
+        "fit": "fill",
+        "alphaThreshold": 0.75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "x": 3768,
+      "y": 3514,
+      "width": 585,
+      "height": 179,
+      "rotation": 0,
+      "alpha": 1,
+      "occlusion": {
+        "alpha": 0,
+        "mode": 0
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "monks-active-tiles": {
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "",
+            "dblclick"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": false,
+          "pertoken": false,
+          "minrequired": 0,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.XGlbXk7JPRIwMqdu",
+                  "name": "Rowdy Rockfish"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "permission": false,
+                "enhanced": false,
+                "asimage": false
+              },
+              "id": "hHON89LIsExbWP1p"
+            }
+          ],
+          "files": [],
+          "vision": false,
+          "cooldown": null,
+          "name": ""
+        },
+        "levels": {
+          "rangeTop": null,
+          "showIfAbove": false,
+          "showAboveRange": null,
+          "noCollision": false,
+          "noFogHide": false,
+          "isBasement": false,
+          "allWallBlockSight": true
+        }
+      },
+      "hidden": false,
+      "locked": false,
+      "sort": 100,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "elevation": 0,
+      "_id": "90If1z3BWeTVj2WK",
+      "_key": "!scenes.tiles!Gy5eD4sqI9VXtrsH.90If1z3BWeTVj2WK"
+    }
+  ],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "folder": "6MfJE8ShsWBWg1YA",
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3,
+    "fAtWnRfzFoHAJ5lR": 3
+  },
+  "flags": {
+    "pf2e": {
+      "rulesBasedVision": null,
+      "hearingRange": null,
+      "environmentTypes": []
+    },
+    "LockView": {
+      "lockPan": false,
+      "lockPanInit": false,
+      "lockZoom": false,
+      "lockZoomInit": false,
+      "boundingBox": false,
+      "boundingBoxInit": false,
+      "autoScale": "0",
+      "rotation": "0",
+      "sidebar": "noChange",
+      "blackenSidebar": false,
+      "excludeSidebar": false,
+      "hideUI": false,
+      "forceInit": false,
+      "hideUIelements": {
+        "controls": true,
+        "hotbar": true,
+        "logo": true,
+        "navigation": true,
+        "players": true,
+        "sidebar": false
+      },
+      "editViewbox": false
+    },
+    "smalltime": {
+      "darkness-link": false,
+      "player-vis": "2"
+    },
+    "walledtemplates": {
+      "version": "0.7.6"
+    },
+    "levels": {
+      "backgroundElevation": 0,
+      "lightMasking": true,
+      "weatherElevation": null
+    },
+    "wall-height": {
+      "advancedVision": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276698015,
+    "modifiedTime": 1784276698015,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "thumb": "worlds/av-fri/assets/scenes/HNHKIaDYjtnSIvfo-thumb.webp",
+  "weather": "",
+  "regions": [],
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": false,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "reset": 1708345946873,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "exploration": true,
+    "overlay": null
+  },
+  "navOrder": 0,
+  "_id": "Gy5eD4sqI9VXtrsH",
+  "active": false,
+  "sort": 50000,
+  "templates": [],
+  "background": {
+    "src": null,
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "backgroundColor": "#999999",
+  "_key": "!scenes!Gy5eD4sqI9VXtrsH",
+  "levels": []
+}

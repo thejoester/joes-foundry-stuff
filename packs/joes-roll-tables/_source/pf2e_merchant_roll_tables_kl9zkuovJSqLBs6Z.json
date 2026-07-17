@@ -1,0 +1,22 @@
+{
+  "name": "PF2e Merchant Roll Tables",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "kl9zkuovJSqLBs6Z",
+  "description": "",
+  "sort": 0,
+  "color": "#0303d1",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1727003695757,
+    "modifiedTime": 1727007730939,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v"
+  },
+  "_key": "!folders!kl9zkuovJSqLBs6Z"
+}

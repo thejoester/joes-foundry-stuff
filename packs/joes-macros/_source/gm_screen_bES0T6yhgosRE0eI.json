@@ -1,0 +1,31 @@
+{
+  "type": "script",
+  "name": "GM Screen",
+  "img": "systems/pf2e/icons/default-icons/feats.webp",
+  "command": "Hotbar.toggleDocumentSheet(\"Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq\")",
+  "ownership": {
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_id": "bES0T6yhgosRE0eI",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "sort": 1200000,
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Macro.bES0T6yhgosRE0eI",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1765450902695,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_key": "!macros!bES0T6yhgosRE0eI"
+}

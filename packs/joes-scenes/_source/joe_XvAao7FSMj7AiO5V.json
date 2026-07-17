@@ -1,0 +1,23 @@
+{
+  "name": "Joe",
+  "sorting": "a",
+  "folder": null,
+  "type": "Scene",
+  "_id": "XvAao7FSMj7AiO5V",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276691788,
+    "modifiedTime": 1784276691788,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "description": "",
+  "_key": "!folders!XvAao7FSMj7AiO5V"
+}

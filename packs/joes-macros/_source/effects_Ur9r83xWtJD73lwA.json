@@ -1,0 +1,28 @@
+{
+  "name": "Effects",
+  "sorting": "a",
+  "folder": "x1C1ZuXU9cjonspE",
+  "type": "Macro",
+  "_id": "Ur9r83xWtJD73lwA",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "macro-wheel": {
+      "folderImg": "icons/magic/symbols/runes-star-blue.webp",
+      "presetCondition": "",
+      "condition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812578,
+    "modifiedTime": 1745586812578,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "_key": "!folders!Ur9r83xWtJD73lwA"
+}

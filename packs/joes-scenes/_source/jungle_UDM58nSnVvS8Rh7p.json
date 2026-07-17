@@ -1,0 +1,23 @@
+{
+  "type": "Scene",
+  "folder": "6MfJE8ShsWBWg1YA",
+  "name": "Jungle",
+  "color": null,
+  "sorting": "a",
+  "_id": "UDM58nSnVvS8Rh7p",
+  "description": "",
+  "sort": 600000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276697526,
+    "modifiedTime": 1784276697526,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "_key": "!folders!UDM58nSnVvS8Rh7p"
+}

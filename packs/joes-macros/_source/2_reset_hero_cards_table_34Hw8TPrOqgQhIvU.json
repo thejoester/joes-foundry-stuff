@@ -1,0 +1,38 @@
+{
+  "name": "2 - Reset Hero Cards Table",
+  "type": "script",
+  "scope": "global",
+  "author": "sDmTHDFOKZoe85XE",
+  "img": "icons/sundries/gaming/playing-cards.webp",
+  "command": "/*\n\t{MASTER! Link to this one}\n    =================================\n    const UUID = \"Compendium.joes-foundry-stuff.joes-macros.Macro.34Hw8TPrOqgQhIvU\";\n    \n    const macroDoc = await fromUuid(UUID);\n    if (!macroDoc) {\n        ui.notifications.error(\"Failed to load compendium macro.\");\n        return;\n    }\n    \n    await macroDoc.execute();\n    ================================\n    \n\tReset/reshuffle a RollTable by name, or let the GM pick from world + compendiums.\n\n\t- Looks for exact name: \"Hero Point Deck\"\n\t- If not found, shows a dropdown:\n\t\t(W) = World table\n\t\t(C) = Compendium table\n*/\n\n(async () => {\n\tconst TARGET_NAME = \"Hero Point Deck\";\n\n\t// Optional: GM-only, since this affects shared table state.\n\tif (!game.user?.isGM) {\n\t\tui.notifications.warn(\"Only the GM can reshuffle roll tables.\");\n\t\treturn;\n\t}\n\n\tasync function getWorldTables() {\n\t\treturn Array.from(game.tables ?? []).map(t => ({\n\t\t\tsource: \"W\",\n\t\t\tlabel: `${t.name} (W)`,\n\t\t\tuuid: t.uuid, // e.g. \"RollTable.abc123\"\n\t\t\tname: t.name\n\t\t}));\n\t}\n\n\tasync function getCompendiumTables() {\n\t\tconst out = [];\n\t\tconst packs = Array.from(game.packs ?? []).filter(p => p.documentName === \"RollTable\");\n\n\t\tfor (const pack of packs) {\n\t\t\tlet index;\n\t\t\ttry {\n\t\t\t\t// v12/v13: this is the fast way to get names without loading every document\n\t\t\t\tindex = await pack.getIndex({ fields: [\"name\"] });\n\t\t\t} catch (err) {\n\t\t\t\tconsole.warn(`Failed to index pack ${pack.collection}`, err);\n\t\t\t\tcontinue;\n\t\t\t}\n\n\t\t\tfor (const row of index) {\n\t\t\t\tconst uuid = `Compendium.${pack.collection}.${row._id}`;\n\t\t\t\tout.push({\n\t\t\t\t\tsource: \"C\",\n\t\t\t\t\tlabel: `${row.name} (C)`,\n\t\t\t\t\tuuid,\n\t\t\t\t\tname: row.name,\n\t\t\t\t\tpackLabel: pack.metadata?.label ?? pack.collection\n\t\t\t\t});\n\t\t\t}\n\t\t}\n\n\t\treturn out;\n\t}\n\n\tasync function findByExactName(name) {\n\t\t// World first\n\t\tconst world = await getWorldTables();\n\t\tconst worldHit = world.find(t => t.name === name);\n\t\tif (worldHit) return worldHit;\n\n\t\t// Then compendiums\n\t\tconst comp = await getCompendiumTables();\n\t\tconst compHit = comp.find(t => t.name === name);\n\t\tif (compHit) return compHit;\n\n\t\treturn null;\n\t}\n\n\tasync function promptPickTable() {\n\t\tconst [world, comp] = await Promise.all([getWorldTables(), getCompendiumTables()]);\n\t\tconst all = [...world, ...comp].sort((a, b) => a.label.localeCompare(b.label));\n\n\t\tif (!all.length) {\n\t\t\tui.notifications.error(\"No RollTables found in the world or any RollTable compendiums.\");\n\t\t\treturn null;\n\t\t}\n\n\t\tconst optionsHtml = all\n\t\t\t.map(t => `<option value=\"${t.uuid}\">${foundry.utils.escapeHTML(t.label)}</option>`)\n\t\t\t.join(\"\");\n\n\t\treturn new Promise((resolve, reject) => {\n\t\t\tnew foundry.applications.api.DialogV2({\n\t\t\t\twindow: { title: \"Select a RollTable to reshuffle\" },\n\t\t\t\tcontent: `\n\t\t\t\t\t<form>\n\t\t\t\t\t\t<p style=\"margin: 0 0 0.5rem 0;\">\n\t\t\t\t\t\t\tNo table named <strong>${foundry.utils.escapeHTML(TARGET_NAME)}</strong> was found.\n\t\t\t\t\t\t\tPick a RollTable to reshuffle:\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<div style=\"display:flex; gap:0.5rem; align-items:center;\">\n\t\t\t\t\t\t\t<label for=\"rtPick\" style=\"white-space:nowrap;\">RollTable</label>\n\t\t\t\t\t\t\t<select id=\"rtPick\" name=\"rtPick\" style=\"flex:1;\">\n\t\t\t\t\t\t\t\t${optionsHtml}\n\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</form>\n\t\t\t\t`,\n\t\t\t\tbuttons: [\n\t\t\t\t\t{\n\t\t\t\t\t\taction: \"ok\",\n\t\t\t\t\t\tlabel: \"Use Selected Table\",\n\t\t\t\t\t\tdefault: true,\n\t\t\t\t\t\tcallback: (event, button) => {\n\t\t\t\t\t\t\tconst uuid = button.form?.elements?.rtPick?.value;\n\t\t\t\t\t\t\tresolve(uuid || null);\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\t{\n\t\t\t\t\t\taction: \"cancel\",\n\t\t\t\t\t\tlabel: \"Cancel\",\n\t\t\t\t\t\tcallback: () => reject(new Error(\"User cancelled\"))\n\t\t\t\t\t}\n\t\t\t\t],\n\t\t\t\trejectClose: true\n\t\t\t}).render({ force: true });\n\t\t});\n\t}\n\n\t// 1) Try exact-name auto-find\n\tlet picked = await findByExactName(TARGET_NAME);\n\n\t// 2) If not found, prompt\n\tif (!picked) {\n\t\tlet pickedUuid;\n\t\ttry {\n\t\t\tpickedUuid = await promptPickTable();\n\t\t} catch {\n\t\t\treturn; // cancelled\n\t\t}\n\t\tif (!pickedUuid) return;\n\n\t\tpicked = { uuid: pickedUuid };\n\t}\n\n\t// 3) Load and reset\n\tconst table = await fromUuid(picked.uuid);\n\tif (!table) {\n\t\tui.notifications.error(`Could not load RollTable: ${picked.uuid}`);\n\t\treturn;\n\t}\n\n\tawait table.resetResults();\n\n\tawait ChatMessage.create({\n\t\tcontent: \"<strong>Hero Cards Deck reshuffled!</strong>\",\n\t\tspeaker: { alias: \"Game Master\" }\n\t});\n})();",
+  "folder": "06uaSdHjxxKyCJef",
+  "ownership": {
+    "default": 0,
+    "c8JeQGhzU7Aoamba": 3,
+    "CLMiGpsYVSTK4VM8": 3,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "flags": {
+    "combat-utility-belt": {
+      "macroTrigger": ""
+    },
+    "core": {},
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.10.1",
+    "createdTime": 1772507821310,
+    "modifiedTime": 1772508286814,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_id": "34Hw8TPrOqgQhIvU",
+  "sort": 100000,
+  "_key": "!macros!34Hw8TPrOqgQhIvU"
+}

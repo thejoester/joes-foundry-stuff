@@ -1,0 +1,172 @@
+{
+  "name": "Zuggtmoy: Madness of Zuggtmoy",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Zuggtmoy",
+      "keys": [
+        "d100",
+        "Flaw (lasts until cured)"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "0HCKHLz5urfVMy4V",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I see visions in the world around me that others do not.”",
+      "name": "",
+      "_key": "!tables.results!SGbfco5uqcMBJhVD.0HCKHLz5urfVMy4V"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        40
+      ],
+      "drawn": false,
+      "_id": "KnvC3YFidM4RgMWw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I periodically slip into a catatonic state, staring off into the distance for long stretches at a time.”",
+      "name": "",
+      "_key": "!tables.results!SGbfco5uqcMBJhVD.KnvC3YFidM4RgMWw"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        60
+      ],
+      "drawn": false,
+      "_id": "CLF8kWEjSs1N5JVO",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I see an altered version of reality, with my mind convincing itself that things are true even in the face of overwhelming evidence to the contrary.”",
+      "name": "",
+      "_key": "!tables.results!SGbfco5uqcMBJhVD.CLF8kWEjSs1N5JVO"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        80
+      ],
+      "drawn": false,
+      "_id": "PjU8zCVXF6qi2NP4",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“My mind is slipping away, and my intelligence seems to wax and wane.”",
+      "name": "",
+      "_key": "!tables.results!SGbfco5uqcMBJhVD.PjU8zCVXF6qi2NP4"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        100
+      ],
+      "drawn": false,
+      "_id": "kLcOCdNRvxhsEDR2",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I am constantly scratching at unseen fungal infections.”",
+      "name": "",
+      "_key": "!tables.results!SGbfco5uqcMBJhVD.kLcOCdNRvxhsEDR2"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689062232527,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "SGbfco5uqcMBJhVD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!SGbfco5uqcMBJhVD"
+}

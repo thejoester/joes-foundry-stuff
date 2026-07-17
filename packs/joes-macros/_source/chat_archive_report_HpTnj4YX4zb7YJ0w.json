@@ -1,0 +1,32 @@
+{
+  "name": "Chat Archive report",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "(() => {\n\n\t\n\tconst entry = game.journal.getName(\"Chat Archive\");\n\tif (!entry) {\n\t\tui.notifications.warn(\"No 'Chat Archive' found.\");\n\t\treturn;\n\t}\n\tlet journalData = \"\";\n\tlet totalChars = 0, pages = 0;\n\tfor (const p of entry.pages) {\n\t\tconst len = p.text?.content?.length ?? 0;\n\t\tpages++;\n\t\tjournalData += `${p.name}: ${(len / 1024).toFixed(1)} KB \\n`\n\t\tconsole.log(`${p.name}: ${(len / 1024).toFixed(1)} KB`);\n\t\ttotalChars += len;\n\t}\n\tjournalData += `Total pages: ${pages}, Total size: ${(totalChars / 1024).toFixed(1)} KB`\n\tconsole.log(`Total pages: ${pages}, Total size: ${(totalChars / 1024).toFixed(1)} KB`);\n\n\tconst html = `\n\t<div style=\"min-width: 700px; min-height: 500px; padding-right: 1em;\">\n\t\t<textarea id=\"module-list-textarea\"\n\t\tstyle=\"width: 680px; height: 450px; font-family: monospace; resize: none; box-sizing: border-box;\"\n\t\treadonly\n\t\tautofocus\n\t\t>${journalData}</textarea>\n\t</div>\n\t`;\n\n\tconst dialog = new foundry.applications.api.DialogV2({\n\t\twindow: {\n\t\t\ttitle: \"Chat Archive Size Report\",\n\t\t\twidth: 800,\n\t\t\theight: 600,\n\t\t\tresizable: true\n\t\t},\n\t\tcontent: html,\n\t\tbuttons: [\n\t\t\t{\n\t\t\t\taction: \"close\",\n\t\t\t\tlabel: \"Close\",\n\t\t\t\tdefault: true\n\t\t\t}\n\t\t]\n\t});\n\n\tdialog.render(true);\n})();",
+  "img": "icons/svg/book.svg",
+  "author": "lfU9NncyG8LWlt8v",
+  "scope": "global",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.6.3",
+    "createdTime": 1761215053713,
+    "modifiedTime": 1777007202023,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "_id": "HpTnj4YX4zb7YJ0w",
+  "sort": 700000,
+  "_key": "!macros!HpTnj4YX4zb7YJ0w"
+}

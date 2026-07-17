@@ -1,0 +1,28 @@
+{
+  "_id": "Otj0Ok3fNR3EgpdA",
+  "author": "CLMiGpsYVSTK4VM8",
+  "command": "game.pf2e.compendiumBrowser.rendered ? game.pf2e.compendiumBrowser.close() : game.pf2e.compendiumBrowser.render(true);",
+  "img": "systems/pf2e/icons/equipment/adventuring-gear/advanced-book-of-translation.webp",
+  "name": "Toggle Compendium Browser",
+  "ownership": {
+    "default": 1,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "scope": "global",
+  "type": "script",
+  "_stats": {
+    "compendiumSource": "Macro.Otj0Ok3fNR3EgpdA",
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "flags": {},
+  "folder": "eB83Kvswqyhs0e1Q",
+  "sort": 175000,
+  "_key": "!macros!Otj0Ok3fNR3EgpdA"
+}

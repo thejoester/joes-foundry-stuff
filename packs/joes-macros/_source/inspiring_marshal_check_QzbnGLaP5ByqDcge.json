@@ -1,0 +1,32 @@
+{
+  "name": "Inspiring Marshal check",
+  "type": "script",
+  "author": "lfU9NncyG8LWlt8v",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "scope": "global",
+  "command": "/*\n******************************************************************\n\n\tMacro Title: Inspiring Marshal Stance\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tDescription:\n\tThis macro is for players with the Inspiring Marshal Stance from \n\tthe Marshall Dedication. \n\t\n\t- Prompt for difficulty, defaults to easy\n\t- Rolls Diplomacy check based on difficulty for level \n \t- If the roll is a success, it will apply the \"Inspiring \n\tMarshal Stance\" Aura on the player. \n\n\tFoundry Version: v12 - v13\n\tLast updated 16-July-2025\n\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tLicense: MIT License\n\n******************************************************************\n*/\n\n(async () => {\n\tif (!token) {\n\t\tui.notifications.warn(\"Please select a token.\");\n\t\treturn;\n\t}\n\n\tconst actor = token.actor;\n\tif (!actor) {\n\t\tui.notifications.error(\"No actor found for the selected token.\");\n\t\treturn;\n\t}\n\n\tconst level = actor.system.details.level.value;\n\tconst dcTable = [14, 15, 16, 18, 19, 20, 22, 23, 24, 26, 27, 28, 30, 31, 32, 34, 35, 36, 38, 39, 40];\n\tconst baseDC = dcTable[level] || 10;\n\tconst dcAdjustments = {\n\t\t\"Incredibly easy\": -10,\n\t\t\"Very easy\": -5,\n\t\t\"Easy\": -2,\n\t\t\"Hard\": 2,\n\t\t\"Very hard\": 5,\n\t\t\"Incredibly hard\": 10\n\t};\n\tconst difficulties = Object.keys(dcAdjustments);\n\n\t// ── DialogV2 (await via Promise) ──────────────────────────────\n\tconst chosenDifficulty = await new Promise((resolve, reject) => {\n\t\tnew foundry.applications.api.DialogV2({\n\t\t\twindow: { title: \"Inspiring Marshal Stance\" },\n\t\t\tcontent: `\n\t\t\t\t<form>\n\t\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t\t<label>Choose Difficulty:</label>\n\t\t\t\t\t\t<select name=\"difficulty\" autofocus>\n\t\t\t\t\t\t\t${difficulties.map(d => `<option value=\"${d}\" ${d === \"Easy\" ? \"selected\" : \"\"}>${d}</option>`).join(\"\")}\n\t\t\t\t\t\t</select>\n\t\t\t\t\t</div>\n\t\t\t\t</form>\n\t\t\t`,\n\t\t\tbuttons: [{\n\t\t\t\taction: \"roll\",\n\t\t\t\tlabel: \"Roll\",\n\t\t\t\tdefault: true,\n\t\t\t\t// Return the selected difficulty; DialogV2 will pass this to submit(result)\n\t\t\t\tcallback: (event, button) => button.form.elements.difficulty.value\n\t\t\t}, {\n\t\t\t\taction: \"cancel\",\n\t\t\t\tlabel: \"Cancel\"\n\t\t\t}],\n\t\t\tsubmit: (result) => {\n\t\t\t\tif (!result || result === \"cancel\") return reject(new Error(\"cancelled\"));\n\t\t\t\tresolve(result); // result is the value returned by the \"roll\" button callback\n\t\t\t}\n\t\t}).render(true);\n\t}).catch(() => null);\n\n\tif (!chosenDifficulty) return; // user cancelled\n\n\tconst dc = baseDC + (dcAdjustments[chosenDifficulty] ?? 0);\n\n\t// ── PF2e skill check roll (enables right-click reroll on chat card) ──\n\tconst flavor = `Diplomacy Check vs ${chosenDifficulty} (DC ${dc}) — Inspiring Marshal Stance`;\n\tlet outcomeLabel = null;\n\n\tawait actor.skills.diplomacy.check.roll({\n\t\tdc: { value: dc },\n\t\tflavor,\n\t\tskipDialog: true,\n\t\textraRollOptions: [\"action:inspiring-marshal-stance\"],\n\t\ttraits: [\"auditory\", \"emotion\", \"mental\"],\n\t\tcallback: (roll, outcome/* \"criticalSuccess\"|\"success\"|\"failure\"|\"criticalFailure\" */, message) => {\n\t\t\toutcomeLabel = outcome;\n\t\t}\n\t});\n\n\t// Fallback: infer outcome from the last PF2e check card if callback didn't supply it\n\tif (!outcomeLabel) {\n\t\tconst last = [...game.messages].reverse().find(m =>\n\t\t\tm.speaker?.actor === actor.id &&\n\t\t\tm.flags?.pf2e?.context?.type === \"check\" &&\n\t\t\ttypeof m.flags?.pf2e?.context?.dc?.value === \"number\" &&\n\t\t\tString(m.flavor || m.content || \"\").includes(\"Inspiring Marshal Stance\")\n\t\t);\n\t\toutcomeLabel = last?.flags?.pf2e?.context?.outcome ?? null;\n\t}\n\n\t// ── Apply the aura on success (same behavior as before) ──\n\tlet resultMessage = `<hr><p>Result: <strong>${outcomeLabel ?? \"—\"}</strong></p>`;\n\tif (outcomeLabel === \"success\" || outcomeLabel === \"criticalSuccess\") {\n\t\tconst auraUUID = \"Compendium.pf2e.feat-effects.Item.er5tvDNvpbcnlbHQ\";\n\t\tconst existingAura = actor.items.find(item => item.system?.slug === \"marshals-aura\");\n\t\tif (!existingAura) {\n\t\t\tconst compendiumItem = await fromUuid(auraUUID);\n\t\t\tif (compendiumItem) {\n\t\t\t\tawait actor.createEmbeddedDocuments(\"Item\", [compendiumItem.toObject()]);\n\t\t\t\tresultMessage += `<p><strong>Marshal's Aura has been added to the actor.</strong></p>`;\n\t\t\t} else {\n\t\t\t\tresultMessage += `<p><strong style=\"color:red;\">Failed to find Marshal's Aura in the compendium.</strong></p>`;\n\t\t\t}\n\t\t} else {\n\t\t\tresultMessage += `<p><em>Marshal's Aura is already active.</em></p>`;\n\t\t}\n\t} else if (outcomeLabel) {\n\t\tresultMessage += `<p><em>No effect applied.</em></p>`;\n\t} else {\n\t\tresultMessage += `<p><em>Could not determine outcome from the chat card.</em></p>`;\n\t}\n\n\tChatMessage.create({\n\t\tspeaker: ChatMessage.getSpeaker({ actor }),\n\t\tcontent: resultMessage\n\t});\n})();",
+  "folder": "eg0uia4owF5r835q",
+  "ownership": {
+    "default": 2,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736400103072,
+    "modifiedTime": 1760778701231,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "QzbnGLaP5ByqDcge",
+  "sort": 100000,
+  "_key": "!macros!QzbnGLaP5ByqDcge"
+}

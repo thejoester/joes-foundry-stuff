@@ -1,0 +1,198 @@
+{
+  "name": "Sword of Zariel: Bonds",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Sword of Zariel",
+      "keys": [
+        "D6",
+        "BOND"
+      ],
+      "diceKeys": [
+        "D6"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "k6Ammpg3wnjtUPBb",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I have a favorite religious hymn that I constantly hum.",
+      "name": "",
+      "_key": "!tables.results!qP9Bgt5B1x3M9uJd.k6Ammpg3wnjtUPBb"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "m6MImjpT9tttICfw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I must keep a written record of my beliefs and the sins that I witness. When finished, this book will be my gift to the multiverse.",
+      "name": "",
+      "_key": "!tables.results!qP9Bgt5B1x3M9uJd.m6MImjpT9tttICfw"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "M7gAXmPLKVBRl8w9",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I have cherished memories of Idyllglen, though I’ve only seen this bucolic town in dreams.",
+      "name": "",
+      "_key": "!tables.results!qP9Bgt5B1x3M9uJd.M7gAXmPLKVBRl8w9"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "PnJCDfxm4s4mv2xl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would die for those who fight beside me, regardless of their faults.",
+      "name": "",
+      "_key": "!tables.results!qP9Bgt5B1x3M9uJd.PnJCDfxm4s4mv2xl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "FdF6VNS6UelnJmqs",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I seek to honor the angel Zariel by destroying fiends and other evildoers wherever I find them.",
+      "name": "",
+      "_key": "!tables.results!qP9Bgt5B1x3M9uJd.FdF6VNS6UelnJmqs"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "3WyVz0rA5OOglQtk",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The <span class=\"Sans-Serif-Character-Styles_Italic-Sans-Serif\">Sword of Zariel</span> has chosen me. I shall not fail to wield it justly.",
+      "name": "",
+      "_key": "!tables.results!qP9Bgt5B1x3M9uJd.3WyVz0rA5OOglQtk"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061841303,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qP9Bgt5B1x3M9uJd",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!qP9Bgt5B1x3M9uJd"
+}

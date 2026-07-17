@@ -1,0 +1,146 @@
+{
+  "name": "Elemental Essence Shard: Elemental Essence Shards",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Elemental Essence Shard",
+      "keys": [
+        "d4",
+        "Property"
+      ],
+      "diceKeys": [
+        "d4"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "JIHapgzHSCqzUEfX",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Air.</strong> You can immediately fly up to 60 feet without provoking opportunity attacks.",
+      "name": "",
+      "_key": "!tables.results!YDKExI88OKrAAjfb.JIHapgzHSCqzUEfX"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "UI3u88rxYhFLkI66",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Earth.</strong> You gain resistance to a damage type of your choice until the start of your next turn.",
+      "name": "",
+      "_key": "!tables.results!YDKExI88OKrAAjfb.UI3u88rxYhFLkI66"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "c0dV1iGZiw5mIFJv",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Fire.</strong> One target of the spell that you can see catches fire. The burning target takes [[/r 2d10[fire] # Fire damage]]  damage at the start of its next turn, and then the flames go out.",
+      "name": "",
+      "_key": "!tables.results!YDKExI88OKrAAjfb.c0dV1iGZiw5mIFJv"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "plTBleq1vW3A97CG",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Water.</strong> You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes [[/r 2d6[cold] # Cold damage]]  damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall prone.",
+      "name": "",
+      "_key": "!tables.results!YDKExI88OKrAAjfb.plTBleq1vW3A97CG"
+    }
+  ],
+  "formula": "d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061843023,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "YDKExI88OKrAAjfb",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!YDKExI88OKrAAjfb"
+}

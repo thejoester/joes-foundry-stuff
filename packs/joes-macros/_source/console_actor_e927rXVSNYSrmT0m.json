@@ -1,0 +1,32 @@
+{
+  "name": "Console Actor",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "const token = canvas.tokens.controlled[0];\nif (!token) {\n    ui.notifications.error(\"No token selected. Please select a token.\");\n    return;\n}\nconst actor = token.actor;\nconsole.log(actor);",
+  "img": "icons/svg/invisible.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1765450838763,
+    "modifiedTime": 1777007202023,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "_id": "e927rXVSNYSrmT0m",
+  "sort": 100000,
+  "_key": "!macros!e927rXVSNYSrmT0m"
+}

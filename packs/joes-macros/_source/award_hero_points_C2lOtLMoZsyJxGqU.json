@@ -1,0 +1,32 @@
+{
+  "name": "Award Hero Points",
+  "type": "script",
+  "author": "sDmTHDFOKZoe85XE",
+  "img": "systems/pf2e/icons/features/feats/heroic-recovery.webp",
+  "scope": "global",
+  "command": "game.modules.get(\"joes-pf2e-stuff\").api.heroPointMacro();",
+  "folder": "VgTSNrEtMU4TU03A",
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1749637829605,
+    "modifiedTime": 1760778773514,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "C2lOtLMoZsyJxGqU",
+  "sort": 400000,
+  "_key": "!macros!C2lOtLMoZsyJxGqU"
+}

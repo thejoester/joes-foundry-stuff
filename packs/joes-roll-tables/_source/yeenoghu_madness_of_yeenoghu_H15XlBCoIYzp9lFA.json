@@ -1,0 +1,172 @@
+{
+  "name": "Yeenoghu: Madness of Yeenoghu",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Yeenoghu",
+      "keys": [
+        "d100",
+        "Flaw (lasts until cured)"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "a5Ho6dvNe2QsBCNd",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I get caught up in the flow of anger, and try to stoke others around me into forming an angry mob.”",
+      "name": "",
+      "_key": "!tables.results!H15XlBCoIYzp9lFA.a5Ho6dvNe2QsBCNd"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        40
+      ],
+      "drawn": false,
+      "_id": "1lTANEteGvwODF6H",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“The flesh of other intelligent creatures is delicious!”",
+      "name": "",
+      "_key": "!tables.results!H15XlBCoIYzp9lFA.1lTANEteGvwODF6H"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        60
+      ],
+      "drawn": false,
+      "_id": "Q02WcLNp4xgEhGxf",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I rail against the laws and customs of civilization, attempting to return to a more primitive time.”",
+      "name": "",
+      "_key": "!tables.results!H15XlBCoIYzp9lFA.Q02WcLNp4xgEhGxf"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        80
+      ],
+      "drawn": false,
+      "_id": "Y3ZedCV7b0rvqzwI",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I hunger for the deaths of others, and am constantly starting fights in the hope of seeing bloodshed.”",
+      "name": "",
+      "_key": "!tables.results!H15XlBCoIYzp9lFA.Y3ZedCV7b0rvqzwI"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        100
+      ],
+      "drawn": false,
+      "_id": "yj7t4Le7y05h031S",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I keep trophies from the bodies I have slain, turning them into adornments.”",
+      "name": "",
+      "_key": "!tables.results!H15XlBCoIYzp9lFA.yj7t4Le7y05h031S"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689062230209,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "H15XlBCoIYzp9lFA",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!H15XlBCoIYzp9lFA"
+}

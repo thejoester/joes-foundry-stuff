@@ -1,0 +1,33 @@
+{
+  "name": "Close Doors",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "/*\n******************************************************************\n\tMacro Title: Close All Open Doors\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tDescription:\n\tCloses only currently open or locked doors (ds !== CLOSED)\n\tin the current scene.\n\tFoundry Version: 12\n\tLast updated: 4-Apr-2025\n******************************************************************\n*/\n\nconst updateDoors = async (updates) => {\n\t// Filter for door walls that are NOT already closed\n\tconst doors = canvas.scene.walls.filter(w => w.door > 0 && w.ds !== CONST.WALL_DOOR_STATES.CLOSED);\n\n\tif (doors.length === 0) {\n\t\treturn ui.notifications.info(\"All doors are already closed.\");\n\t}\n\n\tconst changes = doors.map(w => ({ _id: w.id, ...updates }));\n\tawait canvas.scene.updateEmbeddedDocuments(\"Wall\", changes);\n\tui.notifications.info(`Closed ${changes.length} door(s).`);\n};\n\n// Close all doors that aren't already closed\nupdateDoors({ ds: CONST.WALL_DOOR_STATES.CLOSED });",
+  "img": "icons/svg/door-exit.svg",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.PdhzaUJkrcvTbB0N",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1765450902695,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "aO9z9M2tx8k4lojv",
+  "sort": 1300000,
+  "_key": "!macros!aO9z9M2tx8k4lojv"
+}

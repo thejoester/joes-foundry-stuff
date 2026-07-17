@@ -1,0 +1,462 @@
+{
+  "folder": "RQCHAWaonkcjzyi5",
+  "name": "0-5 General Armor",
+  "_id": "yPabh2IOA38VhbKV",
+  "img": "icons/equipment/chest/breastplate-layered-steel-blue-gold.webp",
+  "description": "<p>Standard Armor Item level 0-5</p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-collared-steel.webp",
+      "_id": "DycCwswZnkAsoza9",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Breastplate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.r0ifJfoz8aqf0mwk",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.DycCwswZnkAsoza9"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/chainmail.webp",
+      "_id": "JTQ6PrJuQbHCySsh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Chain Mail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Kf4eJEXnFPuAsseP",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.JTQ6PrJuQbHCySsh"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        7,
+        9
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/chainshirt.webp",
+      "_id": "ef7QuaYTR6B0Zwxi",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Chain Shirt",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.ef7QuaYTR6B0Zwxi"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        10,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/shirt-collared-pink.webp",
+      "_id": "8cz3DwhTTmf3dtvl",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Explorer's Clothing",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dDIPA1WE9ESF67EB",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.8cz3DwhTTmf3dtvl"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        13,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+      "_id": "RxWzolMlgJ4ahoVH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hide Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AnwzlOs0njF9Jqnr",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.RxWzolMlgJ4ahoVH"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        16,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "_id": "9SD507gCX4eIEryd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Leather Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4tIVTg9wj56RrveA",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.9SD507gCX4eIEryd"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        19,
+        21
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/light-barding.webp",
+      "_id": "J1Pw2FFcVJmcXTwC",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Light Barding",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5yL2D3GPAggadZQN",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.J1Pw2FFcVJmcXTwC"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        22,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+      "_id": "EYhTPuFAHIlqnPYR",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Padded Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zBYEU9E7034ENCmh",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.EYhTPuFAHIlqnPYR"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        25,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-metal-scaled-grey.webp",
+      "_id": "nhVO0DMr75BvJ9HD",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scale Mail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YMQr577asquZIP65",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.nhVO0DMr75BvJ9HD"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        28,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+      "_id": "DgS1F8IPB2YfAj5o",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Studded Leather Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ewQZ0VeL38v3qFnN",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.DgS1F8IPB2YfAj5o"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        31,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-gorget-steel-white.webp",
+      "_id": "CN9L7vYPtmgAsfeX",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Half Plate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pRoikbRo5HFW6YUB",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.CN9L7vYPtmgAsfeX"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        34,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+      "_id": "7yXOZJ7DugfaChp7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Splint Mail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6AhDKX1dwRwFpQsU",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.7yXOZJ7DugfaChp7"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        37,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-steel-green.webp",
+      "_id": "6TV6J4Tp9Wz4ull4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Full Plate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Gq1cZWSKOtJhKd2p",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.6TV6J4Tp9Wz4ull4"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        40,
+        42
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/heavy-barding.webp",
+      "_id": "E5Ify3N7nHFsLXTt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Heavy Barding (Small or Medium)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.juQGJI9deskAVfm7",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.E5Ify3N7nHFsLXTt"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        43,
+        45
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/heavy-barding.webp",
+      "_id": "PfvtNKjmWd0fb4jh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Heavy Barding (Large)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MUtAHJXf22SiVBeH",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.PfvtNKjmWd0fb4jh"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+      "_id": "aQ55l0BeSNBlVHBW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mariner's Splint",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YfRwH0wIEmuNDL7I",
+      "description": "",
+      "_key": "!tables.results!yPabh2IOA38VhbKV.aQ55l0BeSNBlVHBW"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1727003715615,
+    "modifiedTime": 1727004255685,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "formula": "1d47",
+  "_key": "!tables!yPabh2IOA38VhbKV"
+}

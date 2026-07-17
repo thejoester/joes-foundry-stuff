@@ -1,0 +1,140 @@
+{
+  "folder": "RxaFCDEnDIAOTXXi",
+  "name": "19 Warfare",
+  "_id": "bprOEKOXy8q2GO9X",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Critical%20Dodge%20B.mp3",
+      "name": "Critical Dodge B",
+      "_id": "zo2vNhlkapmMuaQv",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.zo2vNhlkapmMuaQv"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Critical%20Dodge%20C.mp3",
+      "name": "Critical Dodge C",
+      "_id": "xStLcwuLt93tVanK",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.xStLcwuLt93tVanK"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Critical%20Dodge.mp3",
+      "name": "Critical Dodge",
+      "_id": "nVDpbolbiZkISOGT",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.nVDpbolbiZkISOGT"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Gory%20Slice%20A.mp3",
+      "name": "Gory Slice A",
+      "_id": "cj9myPOW0NjBytOA",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.cj9myPOW0NjBytOA"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Gory%20Slice%20B.mp3",
+      "name": "Gory Slice B",
+      "_id": "Ra4O6qwnesCEPyMf",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.Ra4O6qwnesCEPyMf"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Gory%20Stab%20A.mp3",
+      "name": "Gory Stab A",
+      "_id": "Ut7Tm6pyQOZrT471",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.Ut7Tm6pyQOZrT471"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Gory%20Stab%20B.mp3",
+      "name": "Gory Stab B",
+      "_id": "EEyVYjhPe0WhHW01",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.EEyVYjhPe0WhHW01"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Gory%20Stab%20C.mp3",
+      "name": "Gory Stab C",
+      "_id": "MD9xpQGch0nVevAZ",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.MD9xpQGch0nVevAZ"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/19%20Warfare/Single%20Dodge.mp3",
+      "name": "Single Dodge",
+      "_id": "Ix4BkGyCT8lWijud",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!bprOEKOXy8q2GO9X.Ix4BkGyCT8lWijud"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760670042,
+    "modifiedTime": 1769760670042,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 773,
+  "_key": "!playlists!bprOEKOXy8q2GO9X"
+}

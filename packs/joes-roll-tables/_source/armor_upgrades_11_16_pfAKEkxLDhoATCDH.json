@@ -1,0 +1,759 @@
+{
+  "folder": "l10SS4rQS7z7eQuT",
+  "name": "Armor Upgrades 11-16",
+  "_id": "pfAKEkxLDhoATCDH",
+  "img": "icons/equipment/chest/breastplate-collared-steel-grey.webp",
+  "description": "<p>Weight is calculated as follows</p><ul><li><p>Start at weight = 10</p></li><li><p>-1 for each level &gt; 11</p></li><li><p>-2 For uncommon</p></li><li><p>-1 for Greater</p></li><li><p>-2 Major</p></li></ul><p></p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "MY1LEyLhFwfHbuWW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Implacable",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XkjOK05Gw0o3iycr",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.MY1LEyLhFwfHbuWW"
+    },
+    {
+      "type": "document",
+      "weight": 9,
+      "range": [
+        9,
+        17
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "dWCuQG2edwIidLj0",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ready (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fumxKes1z2hLN2U7",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.dWCuQG2edwIidLj0"
+    },
+    {
+      "type": "document",
+      "weight": 7,
+      "range": [
+        18,
+        24
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "ITs2Fq2tbZg8J1DP",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dread (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4cbe0WVSHn1FxygQ",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.ITs2Fq2tbZg8J1DP"
+    },
+    {
+      "type": "document",
+      "weight": 7,
+      "range": [
+        25,
+        31
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "47UXuPeuSijj9tP7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Immovable",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.n8nLwFR4VFFmAny5",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.47UXuPeuSijj9tP7"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        32,
+        39
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "L3YCuVwqBKqcssKq",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Swallow-Spike (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ciykvIC4SFFxIfUw",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.L3YCuVwqBKqcssKq"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        40,
+        47
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "R1ucMAeLX0dqHgkA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Energy-Resistant (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.9CAWAKkZE7dr4FlJ",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.R1ucMAeLX0dqHgkA"
+    },
+    {
+      "type": "document",
+      "weight": 9,
+      "range": [
+        48,
+        56
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "H3Ko6Qrguwr6EzFN",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fortification",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8buhFcGwuaJRrp0y",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.H3Ko6Qrguwr6EzFN"
+    },
+    {
+      "type": "document",
+      "weight": 6,
+      "range": [
+        57,
+        62
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "r3wIIKt19TkPOKm6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Stanching (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZTdRDRew1B0zTGiU",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.r3wIIKt19TkPOKm6"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        63,
+        70
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "gPpaM6mJlKPqlpTd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Energy Adaptive",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.DAWaXFtevHLUJxHB",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.gPpaM6mJlKPqlpTd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "UCVzrMtd2guQox2P",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Abjuration)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lWb2bzRja54wNXOH",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.UCVzrMtd2guQox2P"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "lqaDBDcsOWBANTRw",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Conjuration)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fv67rtvtBZyuduD8",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.lqaDBDcsOWBANTRw"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "MfTjS4qVso6eNwol",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Divination)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.titA5C0yWJqO7coB",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.MfTjS4qVso6eNwol"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "fLh1GXrBbWhrdBoh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Enchantment)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.9PoAibWdzGehHxKT",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.fLh1GXrBbWhrdBoh"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "23uhtXX5kEj71DGD",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Evocation)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UASUklwtsoAVeK3O",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.23uhtXX5kEj71DGD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "UykHBks8t6fCxqad",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Illusion)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PJZje7wucRqjuBNc",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.UykHBks8t6fCxqad"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "5NJtqYhIZskx2bYp",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Necromancy)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1cIPXV6brhfQW1cD",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.5NJtqYhIZskx2bYp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "ziEIZqF4d50vTBZw",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spellbreaking (Transmutation)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kETKToR9pbO6fAsT",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.ziEIZqF4d50vTBZw"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        79,
+        86
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "45vM8JT7dCTbvsBj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Winged",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ds7j3D8IIyxWd2XI",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.45vM8JT7dCTbvsBj"
+    },
+    {
+      "type": "document",
+      "weight": 7,
+      "range": [
+        87,
+        93
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "XpBzp1sj453cEMqH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Soaring",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.CJtn848AL7Q0Lxf2",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.XpBzp1sj453cEMqH"
+    },
+    {
+      "type": "document",
+      "weight": 5,
+      "range": [
+        94,
+        98
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "QCKxOKTW8IHYb1GM",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Quenching (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3rlu75EjB2SVAuOI",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.QCKxOKTW8IHYb1GM"
+    },
+    {
+      "type": "document",
+      "weight": 6,
+      "range": [
+        99,
+        104
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/fundamental-armor-runes/armor-potency.webp",
+      "_id": "UkMSNK99jwiviYpm",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Resilient (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fCdcyCkGlmp0c34A",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.UkMSNK99jwiviYpm"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        105,
+        108
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "dXeqweVehJxqmKiv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Antimagic",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.o02lg3k1RBoFXVFV",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.dXeqweVehJxqmKiv"
+    },
+    {
+      "type": "document",
+      "weight": 5,
+      "range": [
+        109,
+        113
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "_id": "3Lt7FxSuGeHNrc8h",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Corrosive (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vQUIUAFOTOWj3ohh",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.3Lt7FxSuGeHNrc8h"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        114,
+        117
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "BMeaRRkYh4zvxI6M",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Advancing (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1neYjXMc4srH7KQ0",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.BMeaRRkYh4zvxI6M"
+    },
+    {
+      "type": "document",
+      "weight": 5,
+      "range": [
+        118,
+        122
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "F2yaP3mfacG1Uw8F",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Misleading",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.68rHNRZmlnyaUbBF",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.F2yaP3mfacG1Uw8F"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        123,
+        125
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "v2AMjTTFCsJ5EP1x",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Swallow-Spike (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RRFyASbHcdclympe",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.v2AMjTTFCsJ5EP1x"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        126,
+        128
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "GsiuLjpON0qTuNVJ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Slick (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.9imz3VgBXCg13RfT",
+      "description": "",
+      "_key": "!tables.results!pfAKEkxLDhoATCDH.GsiuLjpON0qTuNVJ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.6.1",
+    "createdTime": 1731071494862,
+    "modifiedTime": 1731150850701,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "formula": "1d128",
+  "_key": "!tables!pfAKEkxLDhoATCDH"
+}

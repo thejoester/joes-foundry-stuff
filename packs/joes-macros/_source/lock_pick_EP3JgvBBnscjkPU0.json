@@ -1,0 +1,32 @@
+{
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "name": "Lock-Pick+",
+  "type": "script",
+  "author": "Blhp1ViTwrjDFX1D",
+  "img": "icons/sundries/misc/lock-bronze-reinforced.webp",
+  "scope": "global",
+  "command": "(async () => {\n\tconst mod = game.modules.get(\"pf2e-lock-pick\");\n\tif (!mod || !mod.active || !mod.api?.startLockPickChallenge) {\n\t\tui.notifications.warn(\"pf2e-lock-pick module is not active or API missing.\");\n\t\treturn;\n\t}\n\n\tawait mod.api.startLockPickChallenge();\n})();",
+  "ownership": {
+    "default": 0,
+    "Blhp1ViTwrjDFX1D": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.7.1",
+    "createdTime": 1763516708683,
+    "modifiedTime": 1765450902695,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_id": "EP3JgvBBnscjkPU0",
+  "sort": 400000,
+  "_key": "!macros!EP3JgvBBnscjkPU0"
+}

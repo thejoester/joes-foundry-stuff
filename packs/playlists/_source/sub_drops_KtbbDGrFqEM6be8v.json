@@ -1,0 +1,95 @@
+{
+  "folder": "EjNB8Fih9EuBtNYQ",
+  "name": "Sub Drops",
+  "_id": "KtbbDGrFqEM6be8v",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Sub%20Drops/Crunchy%20Sub%20Drop.wav",
+      "name": "Crunchy Sub Drop",
+      "_id": "A2PpTEOu2Q3aPQIY",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!KtbbDGrFqEM6be8v.A2PpTEOu2Q3aPQIY"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Sub%20Drops/Gated%20Sub%20Drop.wav",
+      "name": "Gated Sub Drop",
+      "_id": "kStyU3rVAgPKjfJP",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!KtbbDGrFqEM6be8v.kStyU3rVAgPKjfJP"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Sub%20Drops/Long%20Sub.wav",
+      "name": "Long Sub",
+      "_id": "uaxMfrznPMazqc0n",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!KtbbDGrFqEM6be8v.uaxMfrznPMazqc0n"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Sub%20Drops/Sub%20Drop%20(hard).wav",
+      "name": "Sub Drop (hard)",
+      "_id": "3bDPPfpwWPIV7j9a",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "pausedTime": null,
+      "_key": "!playlists.sounds!KtbbDGrFqEM6be8v.3bDPPfpwWPIV7j9a"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Sub%20Drops/Sub%20Drop%20(soft).wav",
+      "name": "Sub Drop (soft)",
+      "_id": "fNqnlpUBb7Qyehx7",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!KtbbDGrFqEM6be8v.fNqnlpUBb7Qyehx7"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760668041,
+    "modifiedTime": 1769760668041,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 893,
+  "_key": "!playlists!KtbbDGrFqEM6be8v"
+}

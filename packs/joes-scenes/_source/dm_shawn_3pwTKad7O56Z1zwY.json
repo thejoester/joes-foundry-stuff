@@ -1,0 +1,23 @@
+{
+  "name": "DM Shawn",
+  "type": "Scene",
+  "sorting": "a",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_id": "3pwTKad7O56Z1zwY",
+  "folder": null,
+  "description": "",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276694005,
+    "modifiedTime": 1784276694005,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "_key": "!folders!3pwTKad7O56Z1zwY"
+}

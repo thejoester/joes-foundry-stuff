@@ -1,0 +1,198 @@
+{
+  "name": "Graz’zt: Madness of Graz’zt",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Graz’zt",
+      "keys": [
+        " d100 ",
+        "Flaw (lasts until cured)"
+      ],
+      "diceKeys": [
+        " d100 "
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "HW1nTN5cW1272kY7",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“There is nothing in the world more important than me and my desires.”",
+      "name": "",
+      "_key": "!tables.results!EdVtNtjksRnIJcrm.HW1nTN5cW1272kY7"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        40
+      ],
+      "drawn": false,
+      "_id": "lzdLA6epH0MXTtxu",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“Anyone who doesn’t do exactly what I say doesn’t deserve to live.”",
+      "name": "",
+      "_key": "!tables.results!EdVtNtjksRnIJcrm.lzdLA6epH0MXTtxu"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        60
+      ],
+      "drawn": false,
+      "_id": "vb9l1lpIJSnB8FBi",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“Mine is the path of redemption. Anyone who says otherwise is intentionally misleading you.”",
+      "name": "",
+      "_key": "!tables.results!EdVtNtjksRnIJcrm.vb9l1lpIJSnB8FBi"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        80
+      ],
+      "drawn": false,
+      "_id": "zgrRtchN71wDHc8E",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“I will not rest until I have made someone else mine, and doing so is more important to me than my own life—or the lives of others.”",
+      "name": "",
+      "_key": "!tables.results!EdVtNtjksRnIJcrm.zgrRtchN71wDHc8E"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false,
+      "_id": "GlFYdNHII1be7x6a",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“My own pleasure is of paramount importance. Everything else, including social graces, is a triviality.”",
+      "name": "",
+      "_key": "!tables.results!EdVtNtjksRnIJcrm.GlFYdNHII1be7x6a"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "sPWSBtts9lsDYoXN",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "“Anything that can bring me happiness should be enjoyed immediately. There is no point to saving anything pleasurable for later.”",
+      "name": "",
+      "_key": "!tables.results!EdVtNtjksRnIJcrm.sPWSBtts9lsDYoXN"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689062191888,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "EdVtNtjksRnIJcrm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!EdVtNtjksRnIJcrm"
+}

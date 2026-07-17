@@ -1,0 +1,2050 @@
+{
+  "folder": "k9Kmq0JH8oZ1N8Mh",
+  "name": "Tomb",
+  "_id": "O4kMSgvQixYtxOA5",
+  "active": false,
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "thumb": "worlds/compendium-cleanup/assets/scenes/O4kMSgvQixYtxOA5-thumb.webp",
+  "width": 2288,
+  "height": 1526,
+  "padding": 0.05,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": 0.5
+  },
+  "grid": {
+    "type": 1,
+    "size": 68,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fog": {
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    },
+    "exploration": true,
+    "overlay": null
+  },
+  "environment": {
+    "darknessLevel": 1,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": false,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "entryId": "FTiyZJTge2fEOreg",
+      "fontSize": 20,
+      "iconSize": 32,
+      "textAnchor": 1,
+      "textColor": "#ffffff",
+      "x": -426,
+      "y": -222,
+      "text": "Dungeon Draw",
+      "flags": {},
+      "_id": "0Iw45WActrRX3Y02",
+      "pageId": null,
+      "elevation": 0,
+      "sort": 0,
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "alphaThreshold": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "fontFamily": "Signika",
+      "global": false,
+      "_key": "!scenes.notes!O4kMSgvQixYtxOA5.0Iw45WActrRX3Y02"
+    }
+  ],
+  "sounds": [],
+  "regions": [],
+  "tiles": [],
+  "walls": [
+    {
+      "c": [
+        2240,
+        1366,
+        2243,
+        957
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "Be4DqCXeDQ8rVp30",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.Be4DqCXeDQ8rVp30"
+    },
+    {
+      "c": [
+        2245,
+        885,
+        2244,
+        204
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "8Bx1BX7aKjY1Pgr1",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.8Bx1BX7aKjY1Pgr1"
+    },
+    {
+      "c": [
+        2244,
+        204,
+        2099,
+        199
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "ephpPGsrnHOOxn3X",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.ephpPGsrnHOOxn3X"
+    },
+    {
+      "c": [
+        2099,
+        199,
+        2142,
+        145
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "3223HVRCrwtporBD",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.3223HVRCrwtporBD"
+    },
+    {
+      "c": [
+        2142,
+        145,
+        2142,
+        128
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "KUD17U1esep3Lr0u",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.KUD17U1esep3Lr0u"
+    },
+    {
+      "c": [
+        2142,
+        128,
+        2040,
+        128
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "ekzeD4S7bNtBAGA4",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.ekzeD4S7bNtBAGA4"
+    },
+    {
+      "c": [
+        2040,
+        128,
+        2032,
+        145
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "xVUQFeg7rQ4xaSQJ",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.xVUQFeg7rQ4xaSQJ"
+    },
+    {
+      "c": [
+        2032,
+        145,
+        1992,
+        199
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "mNJIAApfHI6nxE7i",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.mNJIAApfHI6nxE7i"
+    },
+    {
+      "c": [
+        1992,
+        199,
+        748,
+        204
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "ih0vSSgdBVE1M87Z",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.ih0vSSgdBVE1M87Z"
+    },
+    {
+      "c": [
+        748,
+        204,
+        748,
+        680
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "l7FQ7pE2NBykiWQ4",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.l7FQ7pE2NBykiWQ4"
+    },
+    {
+      "c": [
+        748,
+        680,
+        748,
+        204
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "DddQpn3hkUKaopM7",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.DddQpn3hkUKaopM7"
+    },
+    {
+      "c": [
+        748,
+        204,
+        334,
+        200
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "5wMSweAzjVj0o0lu",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.5wMSweAzjVj0o0lu"
+    },
+    {
+      "c": [
+        334,
+        200,
+        328,
+        879
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "Uldgf4UrqDwhKRmo",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.Uldgf4UrqDwhKRmo"
+    },
+    {
+      "c": [
+        328,
+        1564,
+        1432,
+        1562
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "QQ2F9khTNVO6TMm1",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.QQ2F9khTNVO6TMm1"
+    },
+    {
+      "c": [
+        1432,
+        1562,
+        1432,
+        1362
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "Xw2t6lmzPHQbRBUw",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.Xw2t6lmzPHQbRBUw"
+    },
+    {
+      "c": [
+        1432,
+        1362,
+        2240,
+        1366
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "3ilMIfcQwKfyhyh7",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.3ilMIfcQwKfyhyh7"
+    },
+    {
+      "c": [
+        612,
+        1156,
+        612,
+        1037
+      ],
+      "door": 0,
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "GA1xIekHkaNzEVlS",
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.GA1xIekHkaNzEVlS"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        612,
+        1156,
+        327,
+        1153
+      ],
+      "_id": "ALQs21JJvrCP79vd",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.ALQs21JJvrCP79vd"
+    },
+    {
+      "c": [
+        327,
+        1153,
+        328,
+        1564
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "jx3ytsDJyzXkjGH9",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.jx3ytsDJyzXkjGH9"
+    },
+    {
+      "c": [
+        328,
+        879,
+        327,
+        1153
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "GYK7YdAnmcvN3TEh",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.GYK7YdAnmcvN3TEh"
+    },
+    {
+      "c": [
+        612,
+        879,
+        612,
+        680
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "2pJhZMWglGMFfvHw",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.2pJhZMWglGMFfvHw"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        612,
+        879,
+        328,
+        879
+      ],
+      "_id": "Xj8b2x2CIeUCLa2J",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.Xj8b2x2CIeUCLa2J"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        612,
+        680,
+        748,
+        680
+      ],
+      "_id": "n1cxlxT8hXNNsdMP",
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "wall-height": {
+          "top": null,
+          "bottom": null
+        },
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "woodCreaky",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.n1cxlxT8hXNNsdMP"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1224,
+        884,
+        1292,
+        884
+      ],
+      "_id": "JfN4x0vUYKbxJyEC",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.JfN4x0vUYKbxJyEC"
+    },
+    {
+      "c": [
+        2243,
+        957,
+        2245,
+        885
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "7Z3nm8rwQTtpdtpH",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.7Z3nm8rwQTtpdtpH"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2243,
+        957,
+        2109,
+        956
+      ],
+      "_id": "IQeMniwd63es5jxP",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.IQeMniwd63es5jxP"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2109,
+        956,
+        2108,
+        1020
+      ],
+      "_id": "SB9zqyfvjAes1lEY",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.SB9zqyfvjAes1lEY"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        2108,
+        1020,
+        1955,
+        1020
+      ],
+      "_id": "3tazv5Gx3exEQnka",
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "wall-height": {
+          "top": null,
+          "bottom": null
+        },
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "woodCreaky",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.3tazv5Gx3exEQnka"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1955,
+        1020,
+        1292,
+        1020
+      ],
+      "_id": "sgVzYimomzjI6vf0",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.sgVzYimomzjI6vf0"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1292,
+        1020,
+        1292,
+        884
+      ],
+      "_id": "ZAXqhajdXmHcbBIq",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.ZAXqhajdXmHcbBIq"
+    },
+    {
+      "c": [
+        1292,
+        884,
+        2245,
+        885
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "_id": "8pUuv4ppqGLpqwBi",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.8pUuv4ppqGLpqwBi"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1224,
+        884,
+        1224,
+        1155
+      ],
+      "_id": "V3SYRTwwhZtuVnDz",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.V3SYRTwwhZtuVnDz"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        1224,
+        1155,
+        756,
+        1156
+      ],
+      "_id": "kYlRkK8EhxSxGBpm",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.kYlRkK8EhxSxGBpm"
+    },
+    {
+      "light": 20,
+      "sight": 20,
+      "sound": 20,
+      "move": 20,
+      "c": [
+        756,
+        1156,
+        612,
+        1156
+      ],
+      "_id": "emRzGtk1HqhBA151",
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "wall-height": {
+          "top": null,
+          "bottom": null
+        },
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "doorSound": "woodCreaky",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.emRzGtk1HqhBA151"
+    },
+    {
+      "c": [
+        612,
+        1037,
+        612,
+        944
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        },
+        "wall-height": {
+          "top": null,
+          "bottom": null
+        },
+        "monks-active-tiles": {
+          "entity": {},
+          "open": false,
+          "close": false,
+          "lock": false,
+          "checklock": false,
+          "secret": false
+        }
+      },
+      "_id": "g2N7tQ4mSYKOiakR",
+      "doorSound": "woodCreaky",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.g2N7tQ4mSYKOiakR"
+    },
+    {
+      "c": [
+        612,
+        944,
+        612,
+        879
+      ],
+      "light": 20,
+      "move": 20,
+      "sight": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {
+        "dungeon-draw": {
+          "dungeonVersion": "1.0"
+        },
+        "levels-3d-preview": {
+          "joinWall": true,
+          "wallDepth": 2,
+          "wallSidesTexture": "",
+          "wallSidesTint": "",
+          "wallTexture": "",
+          "wallTint": ""
+        }
+      },
+      "_id": "jYHBTNRKeyxJguBP",
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.jYHBTNRKeyxJguBP"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        969,
+        502,
+        1071,
+        493
+      ],
+      "_id": "cT4IToumy9YQvtro",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.cT4IToumy9YQvtro"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1071,
+        493,
+        1080,
+        663
+      ],
+      "_id": "4GCpTDFK8rco5ME2",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.4GCpTDFK8rco5ME2"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1080,
+        663,
+        1071,
+        731
+      ],
+      "_id": "H6zXqFDa4HKGHh32",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.H6zXqFDa4HKGHh32"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1071,
+        731,
+        1080,
+        774
+      ],
+      "_id": "BEHJIwyb07y4qgDa",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.BEHJIwyb07y4qgDa"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1080,
+        774,
+        1029,
+        782
+      ],
+      "_id": "Ab3xqNX3gNPpMTXn",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.Ab3xqNX3gNPpMTXn"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1029,
+        782,
+        986,
+        782
+      ],
+      "_id": "IEGAWkHqtJ6IXaq4",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.IEGAWkHqtJ6IXaq4"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        986,
+        782,
+        961,
+        663
+      ],
+      "_id": "mv69J4ADF628uedB",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.mv69J4ADF628uedB"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        961,
+        663,
+        969,
+        604
+      ],
+      "_id": "Hb8brNb7gtazrcHU",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.Hb8brNb7gtazrcHU"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        969,
+        604,
+        910,
+        604
+      ],
+      "_id": "J4pCsmrmYGqEfwNL",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.J4pCsmrmYGqEfwNL"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        910,
+        604,
+        910,
+        553
+      ],
+      "_id": "3Nq60BfqgH5ptMy2",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.3Nq60BfqgH5ptMy2"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        910,
+        553,
+        969,
+        553
+      ],
+      "_id": "PQ2dJ4JGBNicbuvu",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.PQ2dJ4JGBNicbuvu"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        969,
+        553,
+        969,
+        502
+      ],
+      "_id": "7FYmMOSGavZQCTaP",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.7FYmMOSGavZQCTaP"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        973,
+        216,
+        969,
+        350
+      ],
+      "_id": "RrmTmrnliB0TjI3O",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.RrmTmrnliB0TjI3O"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        969,
+        350,
+        1078,
+        351
+      ],
+      "_id": "MwjQ76JLZUtAfADI",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.MwjQ76JLZUtAfADI"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1078,
+        351,
+        1078,
+        215
+      ],
+      "_id": "QPmpb6HIo6O0iBb5",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.QPmpb6HIo6O0iBb5"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1078,
+        215,
+        973,
+        216
+      ],
+      "_id": "6YXprhAMifIB59Qm",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.6YXprhAMifIB59Qm"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        823,
+        373,
+        944,
+        374
+      ],
+      "_id": "IcgGJ0HIXtq8QOxg",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.IcgGJ0HIXtq8QOxg"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        944,
+        374,
+        943,
+        439
+      ],
+      "_id": "EmwwM1OD10f92zSr",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.EmwwM1OD10f92zSr"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        943,
+        439,
+        822,
+        438
+      ],
+      "_id": "bid7vC9eVZqIfKFu",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.bid7vC9eVZqIfKFu"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        822,
+        438,
+        823,
+        373
+      ],
+      "_id": "JO1VnZ5HqTyXK9bU",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.JO1VnZ5HqTyXK9bU"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1844,
+        359,
+        1845,
+        519
+      ],
+      "_id": "3tObiYqB8AsEBo4t",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.3tObiYqB8AsEBo4t"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1845,
+        519,
+        1887,
+        519
+      ],
+      "_id": "fBUlxyjxy8akq7HC",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.fBUlxyjxy8akq7HC"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1887,
+        519,
+        1887,
+        468
+      ],
+      "_id": "hGVzJmFM7zkRtZ1p",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.hGVzJmFM7zkRtZ1p"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1887,
+        468,
+        1947,
+        468
+      ],
+      "_id": "ijl9QlUZEujKl7j6",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.ijl9QlUZEujKl7j6"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1947,
+        468,
+        1947,
+        366
+      ],
+      "_id": "IRrVzRe0eD8JF1CA",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.IRrVzRe0eD8JF1CA"
+    },
+    {
+      "light": 10,
+      "sight": 10,
+      "sound": 10,
+      "move": 20,
+      "c": [
+        1947,
+        366,
+        1844,
+        359
+      ],
+      "_id": "xOaGOJ1HoU16xy6j",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!O4kMSgvQixYtxOA5.xOaGOJ1HoU16xy6j"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UJtoG8pKPrKI840a": 3,
+    "fAtWnRfzFoHAJ5lR": 3
+  },
+  "flags": {
+    "levels": {
+      "backgroundElevation": 0,
+      "lightMasking": true,
+      "weatherElevation": null
+    },
+    "wall-height": {
+      "advancedVision": true
+    },
+    "pf2e": {
+      "rulesBasedVision": null,
+      "hearingRange": null,
+      "environmentTypes": [],
+      "syncDarkness": "default"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1784276689493,
+    "modifiedTime": 1784276689493,
+    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+  },
+  "templates": [],
+  "background": {
+    "src": "assets/scenes/one-shots/little-trouble-in-big-absolom/1-basement.webp",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": -15,
+    "offsetY": 6,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "backgroundColor": "#000000",
+  "_key": "!scenes!O4kMSgvQixYtxOA5",
+  "levels": []
+}

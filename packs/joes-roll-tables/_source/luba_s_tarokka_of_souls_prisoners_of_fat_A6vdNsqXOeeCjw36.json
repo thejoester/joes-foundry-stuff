@@ -1,0 +1,433 @@
+{
+  "name": "Luba's Tarokka of Souls: Prisoners of Fate. Whenever you use the Twist of Fate property, there is a chance that one of the souls trapped in the deck escapes. Roll d100 and consult the Souls of the Tarokka table. If you roll one of the high cards, the soul associated with it escapes. You can find its statistics in the Monster Manual. If you roll a soul that has already escaped, roll again.",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Luba's Tarokka of Souls",
+      "keys": [
+        "d100",
+        "Card",
+        "Soul"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "zinYVnMjxclWxDPP",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>1</strong>\n\n<b>Card</b>Artifact\n\n<b>Soul</b>Flameskull",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.zinYVnMjxclWxDPP"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "a4wofbLu7tbyB1mv",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>2</strong>\n\n<b>Card</b>Beast\n\n<b>Soul</b>Wraith",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.a4wofbLu7tbyB1mv"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "vZVVCSskdvAmFdGQ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>3</strong>\n\n<b>Card</b>Broken One\n\n<b>Soul</b>Banshee",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.vZVVCSskdvAmFdGQ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "wBXkd10T4Iq5fhNL",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>4</strong>\n\n<b>Card</b>Darklord\n\n<b>Soul</b>Vampire",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.wBXkd10T4Iq5fhNL"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "u8Q4X49vj4w8qgxQ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>5</strong>\n\n<b>Card</b>Donjon\n\n<b>Soul</b>Mummy",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.u8Q4X49vj4w8qgxQ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "pJwoDpjRwbWJXbRB",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>6</strong>\n\n<b>Card</b>Executioner\n\n<b>Soul</b>Death knight",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.pJwoDpjRwbWJXbRB"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "N8T81HpbS3TEJZP5",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>7</strong>\n\n<b>Card</b>Ghost\n\n<b>Soul</b>Ghost",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.N8T81HpbS3TEJZP5"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "a2BZh8DnelLhSGeb",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>8</strong>\n\n<b>Card</b>Horseman\n\n<b>Soul</b>Mummy lord",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.a2BZh8DnelLhSGeb"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "tVdxnfmoAYW2thL1",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>9</strong>\n\n<b>Card</b>Innocent\n\n<b>Soul</b>Ghost",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.tVdxnfmoAYW2thL1"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "7Er98YrpJ39NtCHI",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>10</strong>\n\n<b>Card</b>Marionette\n\n<b>Soul</b>Mummy",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.7Er98YrpJ39NtCHI"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "xgSGBwQ2qvGBIdug",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>11</strong>\n\n<b>Card</b>Mists\n\n<b>Soul</b>Wraith",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.xgSGBwQ2qvGBIdug"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "EVb1uo219eLxEBRI",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>12</strong>\n\n<b>Card</b>Raven\n\n<b>Soul</b>Vampire spawn",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.EVb1uo219eLxEBRI"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "Jyce8uZJfrO7G21M",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>13</strong>\n\n<b>Card</b>Seer\n\n<b>Soul</b>Vampire",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.Jyce8uZJfrO7G21M"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "BAulum5qNZxAM3Hj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>14</strong>\n\n<b>Card</b>Tempter\n\n<b>Soul</b>Vampire spawn",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.BAulum5qNZxAM3Hj"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        100
+      ],
+      "drawn": false,
+      "_id": "wh3qkpwBgqf1lsBC",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b><strong>15-00</strong>\n\n<b>Card</b>—\n\n<b>Soul</b>—",
+      "name": "",
+      "_key": "!tables.results!A6vdNsqXOeeCjw36.wh3qkpwBgqf1lsBC"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061842921,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "A6vdNsqXOeeCjw36",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!A6vdNsqXOeeCjw36"
+}

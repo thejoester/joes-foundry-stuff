@@ -1,0 +1,32 @@
+{
+  "author": "lfU9NncyG8LWlt8v",
+  "command": "/** This compendium link macro will always call the most recent version from the compendium included with this module meaning you do not need to reimport newer versions. The source of the macros that get called is https://gitlab.com/symonsch/my-foundryvtt-macros/-/tree/main/PF2e */\n/* Start of documentation from the original macro: */\n/** \n * Simple Fate roller, select 2 or more tokens and execute macro.\n * It is recommended to import this macro if you would like to modify it.\n * You can add custom backgrounds to your fate messages by adding the links as strings to the bacgrounds array or use it without backgrounds.\n * You can change the alias to whatever you like.\n * You can modify the styling to suite your needs.\n*/\n/* End of original macro documentation. */\n\n    async function _executeMacroByName(\n        macroName,\n        compendiumName = \"xdy-pf2e-workbench.asymonous-benefactor-macros-internal\"\n    ) {\n        const pack = game.packs.get(compendiumName);\n        if (pack) {\n            let macro = (await pack.getDocuments({name: macroName}))?.[0];\n            if (macro) {\n                if (!macro.canExecute)\n                    macro = new macro.constructor(foundry.utils.mergeObject(macro.toObject(), {\"-=_id\": null, \"ownership.default\": CONST.DOCUMENT_OWNERSHIP_LEVELS.OWNER}, {performDeletions: true, inplace: true}));\n                macro.execute();\n            } else {\n                ui.notifications.error(`Macro ${macroName} not found`);\n            }\n        } else {\n            ui.notifications.error(`Compendium ${compendiumName} not found`);\n        }\n    }\n    _executeMacroByName('XDY DO_NOT_IMPORT Let Fate Decide');\n\n    /* This compendium link macro is based on one originally posted by DrentalBot: https://discord.com/channels/880968862240239708/880975811279204402/910490804554973274; and modified by Mark Pearce https://discord.com/channels/880968862240239708/880969174661353484/972962446098702376 */",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "img": "icons/magic/control/energy-stream-link-white.webp",
+  "name": "Let Fate Decide",
+  "scope": "global",
+  "type": "script",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.8.1",
+    "createdTime": 1736710821307,
+    "modifiedTime": 1748648239898,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 1,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "folder": "pQIkxjyFiT4SWiH1",
+  "_id": "MzePb490zdtEpVYl",
+  "sort": 150000,
+  "_key": "!macros!MzePb490zdtEpVYl"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Remove Hero Actions",
+  "type": "script",
+  "scope": "global",
+  "author": "sDmTHDFOKZoe85XE",
+  "img": "icons/svg/card-joker.svg",
+  "command": "const UUID = \"Compendium.joes-foundry-stuff.joes-macros.Macro.Zh39D0YBfScAhif6\";\n\nconst macroDoc = await fromUuid(UUID);\nif (!macroDoc) {\n\tui.notifications.error(\"Failed to load compendium macro.\");\n\treturn;\n}\n\nawait macroDoc.execute();",
+  "folder": "VgTSNrEtMU4TU03A",
+  "ownership": {
+    "default": 0,
+    "yeHEtwwINHpJ5Cu9": 3,
+    "CLMiGpsYVSTK4VM8": 3,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "flags": {
+    "core": {},
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.10.1",
+    "createdTime": 1772508330729,
+    "modifiedTime": 1772508330729,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_id": "qVuW9CIcBrDUxij5",
+  "sort": 0,
+  "_key": "!macros!qVuW9CIcBrDUxij5"
+}

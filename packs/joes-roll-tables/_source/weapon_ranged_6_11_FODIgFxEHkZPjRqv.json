@@ -1,0 +1,678 @@
+{
+  "folder": "l10SS4rQS7z7eQuT",
+  "name": "Weapon (Ranged 6-11)",
+  "_id": "FODIgFxEHkZPjRqv",
+  "img": "icons/weapons/bows/bow-ornamental-silver-black.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Energizing",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/energizing-rune-fire.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Qqh586pudsEqITUk",
+      "_id": "pufNYbpSNKj3nVOa",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454305222,
+        "modifiedTime": 1765454305222,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.pufNYbpSNKj3nVOa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Hauling",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2ovu1AioLLff9p8w",
+      "_id": "XfmiDDoEk6yuNYgm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454344603,
+        "modifiedTime": 1765454344603,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.XfmiDDoEk6yuNYgm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Corrosive",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Wm0X7Pfd1bfocPSv",
+      "_id": "N7M18I2PzM7XUPWL",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454409625,
+        "modifiedTime": 1765454409625,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.N7M18I2PzM7XUPWL"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Conducting",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cHCaDiKel0qAIQmC",
+      "_id": "ncfziWaATqaO7xKL",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454474771,
+        "modifiedTime": 1765454474771,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.ncfziWaATqaO7xKL"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Called (Lastwall)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6XX3tYxkyQXCMAbd",
+      "_id": "skk2dTPU0fPgEYg1",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454558730,
+        "modifiedTime": 1765454558730,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.skk2dTPU0fPgEYg1"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Astral",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6llILJtsTPgtYXgx",
+      "_id": "uyx7lcUwJSX1Fzbu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454656011,
+        "modifiedTime": 1765454656011,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.uyx7lcUwJSX1Fzbu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Decaying",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fyiW23MFe8p06KL5",
+      "_id": "LrogtY2zUe63BbBy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454680503,
+        "modifiedTime": 1765454680503,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.LrogtY2zUe63BbBy"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Flaming",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XszNvxnymWYRaoTp",
+      "_id": "aMwTCCXe7oURC592",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454694796,
+        "modifiedTime": 1765454694796,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.aMwTCCXe7oURC592"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Frost",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.M5M1WJ5KzbYfRGsY",
+      "_id": "2qlvbH1hZsRbJttD",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454745061,
+        "modifiedTime": 1765454745061,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.2qlvbH1hZsRbJttD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Shock",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NVst7e69agGG9Qwd",
+      "_id": "eMqP5UbdP0RHInOi",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454749209,
+        "modifiedTime": 1765454749209,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.eMqP5UbdP0RHInOi"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Thundering",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dTxbaa7HSiJbIuNN",
+      "_id": "vfhUaOCEM1n0xjm8",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454753018,
+        "modifiedTime": 1765454753018,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.vfhUaOCEM1n0xjm8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Coating",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.y9RUbQec9zGeqqcE",
+      "_id": "csp0VTYomz4VLjiB",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454809957,
+        "modifiedTime": 1765454809957,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.csp0VTYomz4VLjiB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "name": "Swarming",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.z8nKK4rSUGQVT2t9",
+      "_id": "YfxkuplfZ6MkiFqG",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454824084,
+        "modifiedTime": 1765454824084,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.YfxkuplfZ6MkiFqG"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "name": "Ashen",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yMEDmJWDPv2i78WO",
+      "_id": "TqqRkql6V1EUO7yu",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454836865,
+        "modifiedTime": 1765454836865,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.TqqRkql6V1EUO7yu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "name": "Grievous",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qUnDHEXteUQGE8yp",
+      "_id": "UbOomVbgNxvW9FqH",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454860502,
+        "modifiedTime": 1765454860502,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.UbOomVbgNxvW9FqH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "name": "Impactful",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.H9qYN48voa2ZDy3i",
+      "_id": "3LheJbCE8CMiT79i",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454887238,
+        "modifiedTime": 1765454887238,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.3LheJbCE8CMiT79i"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "name": "Anchoring",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SuKERInt6Z3I3bCa",
+      "_id": "xwioeLyGuaCBLm8X",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454916095,
+        "modifiedTime": 1765454916095,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.xwioeLyGuaCBLm8X"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "name": "Hauling (Greater)",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.o0XXVVymB8kluwLK",
+      "_id": "l3z9oSy4XC4tbBQ7",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454945682,
+        "modifiedTime": 1765454945682,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.l3z9oSy4XC4tbBQ7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "name": "Hopeful",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NCE7g1U3q3RYwCY2",
+      "_id": "tEeQXvuuErwHx52D",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765454961374,
+        "modifiedTime": 1765454961374,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.tEeQXvuuErwHx52D"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "name": "Holy",
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.DH0kB9Wbr5pDeunX",
+      "_id": "4ttmY6hyjRkYcBAV",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455002342,
+        "modifiedTime": 1765455002342,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.4ttmY6hyjRkYcBAV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "name": "Adamantine Chunk",
+      "img": "systems/pf2e/icons/equipment/materials/adamantine-chunk.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Zo5MZWVBKssVPEcv",
+      "_id": "1qgIE4y2ezJpsVbT",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455092710,
+        "modifiedTime": 1765455092710,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.1qgIE4y2ezJpsVbT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "name": "Silver Chunk",
+      "img": "systems/pf2e/icons/equipment/materials/silver-chunk.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ld8duhvwTQ5lCQmF",
+      "_id": "SZQPSaqChNtY4ktm",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455094277,
+        "modifiedTime": 1765455094277,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.SZQPSaqChNtY4ktm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "name": "Cold Iron Chunk",
+      "img": "systems/pf2e/icons/equipment/materials/cold-Iron-chunk.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rEz9WYhlx2Pm0gKk",
+      "_id": "Dt6N7V5HtLY0lIbM",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455096297,
+        "modifiedTime": 1765455096297,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.Dt6N7V5HtLY0lIbM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "name": "Dawnsilver Chunk",
+      "img": "systems/pf2e/icons/equipment/materials/mithral-chunk.webp",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.B0gbs7xKQc2J7AiV",
+      "_id": "GkJ0K9NfrAVNHIiQ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pf2e",
+        "systemVersion": "7.8.0",
+        "createdTime": 1765455099025,
+        "modifiedTime": 1765455099025,
+        "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+      },
+      "_key": "!tables.results!FODIgFxEHkZPjRqv.GkJ0K9NfrAVNHIiQ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Blhp1ViTwrjDFX1D": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1765454283356,
+    "modifiedTime": 1765455841331,
+    "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+  },
+  "formula": "1d24",
+  "_key": "!tables!FODIgFxEHkZPjRqv"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Advanced PTS",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "// Get the list of available scenes and connected users\nconst scenes = game.scenes.contents;\nconst connectedUsers = game.users.contents.filter(user => user.active && user.id !== game.user.id);\n\n// Check for no active users\nif (connectedUsers.length === 0) {\n    new Dialog({\n        title: \"No Connected Users\",\n        content: \"<p>No other users are currently connected.</p>\",\n        buttons: {\n            ok: { icon: '<i class=\"fas fa-check\"></i>', label: \"OK\" }\n        }\n    }).render(true);\n    return;\n}\n\n// Generate HTML for user checkboxes\nlet userOptions = connectedUsers.map(user => `\n    <div>\n        <input type=\"checkbox\" id=\"${user.id}\" name=\"${user.id}\" />\n        <label for=\"${user.id}\">${user.name}</label>\n    </div>\n`).join(\"\");\n\n// Generate HTML for the scene dropdown menu\nlet sceneOptions = scenes.map(scene => `\n    <option value=\"${scene.id}\">${scene.name}</option>\n`).join(\"\");\n\n// Create a dialog to display user options, scene dropdown, and pull button\nnew Dialog({\n    title: \"Pull Users to Scene\",\n    content: `\n        <form>\n            <p>Select scene to pull users to:</p>\n            <select id=\"scene-select\">${sceneOptions}</select>\n            <br /><br />\n            <p>Select users to pull:</p>\n            ${userOptions}\n            <br />\n        </form>\n    `,\n    buttons: {\n        pull: {\n            icon: '<i class=\"fas fa-arrows-alt\"></i>',\n            label: \"Pull to Scene\",\n            callback: (html) => {\n                // Get selected users\n                const selectedUserIds = connectedUsers\n                    .filter(user => html.find(`input[name=\"${user.id}\"]`).is(\":checked\"))\n                    .map(user => user.id);\n\n                // Get selected scene ID\n                const sceneId = html.find(\"#scene-select\").val();\n                const selectedScene = game.scenes.get(sceneId);\n\n                // Check if the scene ID is valid\n                if (!selectedScene) {\n                    ui.notifications.error(\"Selected scene not found.\");\n                    return;\n                }\n\n                // Pull each selected user to the selected scene\n                selectedUserIds.forEach(userId => {\n                    game.socket.emit(\"pullToScene\", sceneId, userId);\n                });\n\n                ui.notifications.info(\"Selected users pulled to the scene.\");\n            }\n        },\n        cancel: {\n            icon: '<i class=\"fas fa-times\"></i>',\n            label: \"Cancel\"\n        }\n    },\n    default: \"pull\"\n}).render(true);",
+  "img": "icons/svg/up.svg",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "ownership": {
+    "default": 0,
+    "q3FKNv8ldk77AGUv": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.Bfzm4a1FQicjbIWO",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1765450902695,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "p4T6Zd2dy5YbqFzW",
+  "sort": 1100000,
+  "_key": "!macros!p4T6Zd2dy5YbqFzW"
+}

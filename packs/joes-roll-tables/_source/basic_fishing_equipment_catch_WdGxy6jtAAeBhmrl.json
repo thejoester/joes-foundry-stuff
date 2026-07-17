@@ -1,0 +1,172 @@
+{
+  "name": "Basic Fishing Equipment: Catch",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Basic Fishing Equipment",
+      "keys": [
+        "d10",
+        "Catch"
+      ],
+      "diceKeys": [
+        "d10"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "Dj2UiV7lWLDK2da2",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tiny, inedible fish (a creature that consumes it is poisoned for 1 hour)",
+      "name": "",
+      "_key": "!tables.results!WdGxy6jtAAeBhmrl.Dj2UiV7lWLDK2da2"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "_id": "4vSZzUOyxGkccNTl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tiny, edible fish (feeds one person)",
+      "name": "",
+      "_key": "!tables.results!WdGxy6jtAAeBhmrl.4vSZzUOyxGkccNTl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "_id": "voc0m3SKdO6JPJGS",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small, edible fish (feeds up to four people)",
+      "name": "",
+      "_key": "!tables.results!WdGxy6jtAAeBhmrl.voc0m3SKdO6JPJGS"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "BySKGezF3MjAZfAS",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile space eel (see <em><a href=\"https://www.dndbeyond.com/sources/sais/bam\">Boo’s Astral Menagerie</a></em>; feeds up to twelve people)",
+      "name": "",
+      "_key": "!tables.results!WdGxy6jtAAeBhmrl.BySKGezF3MjAZfAS"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "ivgoPPjHpIDAFRdP",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile gray scavver (see <em><a href=\"https://www.dndbeyond.com/sources/sais/bam\">Boo’s Astral Menagerie</a></em>; feeds up to twenty people), some other creature of the DM’s choosing, or an Tiny object of the DM’s choosing",
+      "name": "",
+      "_key": "!tables.results!WdGxy6jtAAeBhmrl.ivgoPPjHpIDAFRdP"
+    }
+  ],
+  "formula": "d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061845124,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WdGxy6jtAAeBhmrl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!WdGxy6jtAAeBhmrl"
+}

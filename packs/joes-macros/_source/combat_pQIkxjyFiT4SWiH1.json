@@ -1,0 +1,28 @@
+{
+  "name": "Combat",
+  "sorting": "a",
+  "folder": "x1C1ZuXU9cjonspE",
+  "type": "Macro",
+  "_id": "pQIkxjyFiT4SWiH1",
+  "description": "",
+  "sort": 0,
+  "color": "#e40e13",
+  "flags": {
+    "macro-wheel": {
+      "folderImg": "icons/weapons/swords/sword-broad-crystal-paired.webp",
+      "presetCondition": "game.combat?.active",
+      "condition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812578,
+    "modifiedTime": 1745586812578,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "_key": "!folders!pQIkxjyFiT4SWiH1"
+}

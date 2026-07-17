@@ -1,0 +1,19 @@
+{
+  "name": "DDB Rollable Tables",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "SPIKnuTfpsSNK0yO",
+  "sort": 0,
+  "color": "#d2040a",
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "11.305",
+    "createdTime": 1689074467169,
+    "modifiedTime": 1689074467169,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL"
+  },
+  "_key": "!folders!SPIKnuTfpsSNK0yO"
+}

@@ -1,0 +1,148 @@
+{
+  "name": "Horn of Valhalla: Four types of horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Horn of Valhalla",
+      "keys": [
+        "d100",
+        "Horn Type",
+        "Berserkers Summoned",
+        "Requirement"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        40
+      ],
+      "drawn": false,
+      "_id": "q08Gmtp6NNkCcOxs",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>01-40\n\n<b>Horn Type</b>Silver\n\n<b>Berserkers Summoned</b>[[/r 2d4]]2\n\n<b>Requirement</b>None",
+      "name": "",
+      "_key": "!tables.results!CGyuP0mfpNJ6RRzp.q08Gmtp6NNkCcOxs"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        75
+      ],
+      "drawn": false,
+      "_id": "CghagH54QuVyebaz",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>41-75\n\n<b>Horn Type</b>Brass\n\n<b>Berserkers Summoned</b>[[/r 3d4]]3\n\n<b>Requirement</b>Proficiency with all simple weapons",
+      "name": "",
+      "_key": "!tables.results!CGyuP0mfpNJ6RRzp.CghagH54QuVyebaz"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        90
+      ],
+      "drawn": false,
+      "_id": "s5j1Hu2R292uxFNn",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>76-90\n\n<b>Horn Type</b>Bronze\n\n<b>Berserkers Summoned</b>[[/r 4d4]]4\n\n<b>Requirement</b>Proficiency with all medium armor",
+      "name": "",
+      "_key": "!tables.results!CGyuP0mfpNJ6RRzp.s5j1Hu2R292uxFNn"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "UJlysTrvPJhjhsxT",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 100]] ([[/r + 100]])</b>91-100\n\n<b>Horn Type</b>Iron\n\n<b>Berserkers Summoned</b>[[/r 5d4]]5\n\n<b>Requirement</b>Proficiency with all martial weapons",
+      "name": "",
+      "_key": "!tables.results!CGyuP0mfpNJ6RRzp.UJlysTrvPJhjhsxT"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836775,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "CGyuP0mfpNJ6RRzp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!CGyuP0mfpNJ6RRzp"
+}

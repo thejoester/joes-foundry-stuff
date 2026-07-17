@@ -1,0 +1,32 @@
+{
+  "name": "Send Whisper",
+  "type": "script",
+  "scope": "global",
+  "command": "(async () => {\n\t// Get all active users except the current user\n\tconst players = game.users.filter(u => u.active && u.id !== game.user.id);\n\tconst optionsHtml = players.map(p => `<option value=\"${p.id}\">${p.name}</option>`).join(\"\");\n\n\tconst dialog = new foundry.applications.api.DialogV2({\n\t\twindow: { title: \"Send Private Whisper\" },\n\t\tcontent: `\n\t\t\t<div class=\"form-group\">\n\t\t\t\t<label for=\"recipient\">Select Recipient:</label>\n\t\t\t\t<select id=\"recipient\" name=\"recipient\" class=\"w-full\">\n\t\t\t\t\t${optionsHtml}\n\t\t\t\t</select>\n\t\t\t</div>\n\t\t\t<div class=\"form-group\">\n\t\t\t\t<label for=\"whisper-message\">Message:</label>\n\t\t\t\t<textarea id=\"whisper-message\" name=\"message\" rows=\"4\" class=\"w-full\"></textarea>\n\t\t\t</div>\n\t\t`,\n\t\tbuttons: [{\n\t\t\taction: \"send\",\n\t\t\tlabel: \"Send Whisper\",\n\t\t\tdefault: true,\n\t\t\tcallback: (event, button, dialog) => {\n\t\t\t\tconst form = button.form;\n\t\t\t\tconst recipientId = form.querySelector(\"#recipient\")?.value;\n\t\t\t\tconst message = form.querySelector(\"#whisper-message\")?.value.trim();\n\t\t\t\tif (recipientId && message) {\n\t\t\t\t\tChatMessage.create({\n\t\t\t\t\t\tcontent: message,\n\t\t\t\t\t\ttype: CONST.CHAT_MESSAGE_TYPES.WHISPER,\n\t\t\t\t\t\twhisper: [recipientId]\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t\treturn true;\n\t\t\t}\n\t\t}, {\n\t\t\taction: \"cancel\",\n\t\t\tlabel: \"Cancel\"\n\t\t}]\n\t});\n\tdialog.render({ force: true });\n})()",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "icons/svg/terror.svg",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1748669371861,
+    "modifiedTime": 1777007202023,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_id": "R4oPdKlpcLebpH0u",
+  "sort": 600000,
+  "_key": "!macros!R4oPdKlpcLebpH0u"
+}

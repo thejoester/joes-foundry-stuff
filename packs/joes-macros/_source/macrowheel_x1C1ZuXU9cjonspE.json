@@ -1,0 +1,29 @@
+{
+  "name": "MacroWheel",
+  "sorting": "a",
+  "folder": null,
+  "type": "Macro",
+  "_id": "x1C1ZuXU9cjonspE",
+  "description": "",
+  "sort": 300000,
+  "color": "#804040",
+  "flags": {
+    "macro-wheel": {
+      "folderImg": "icons/svg/d20-grey.svg",
+      "presetCondition": "",
+      "condition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812578,
+    "modifiedTime": 1760775834708,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "_key": "!folders!x1C1ZuXU9cjonspE"
+}

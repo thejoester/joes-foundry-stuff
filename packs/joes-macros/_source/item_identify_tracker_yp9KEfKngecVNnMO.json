@@ -1,0 +1,32 @@
+{
+  "name": "Item Identify Tracker",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "game.modules.get(\"pf2e-toolbelt\")?.api.identify.openTracker()",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "eB83Kvswqyhs0e1Q",
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.pDB595C9kukxRHMf",
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_id": "yp9KEfKngecVNnMO",
+  "sort": 400000,
+  "_key": "!macros!yp9KEfKngecVNnMO"
+}

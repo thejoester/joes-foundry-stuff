@@ -1,0 +1,32 @@
+{
+  "name": "Start Combat",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "game.modules.get(\"joes-foundry-stuff\").api.rollForInitiative()",
+  "img": "icons/svg/combat.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.12.2",
+    "createdTime": 1781184720970,
+    "modifiedTime": 1782994689170,
+    "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+  },
+  "_id": "F2hA5ylmbBj88XKJ",
+  "sort": 0,
+  "_key": "!macros!F2hA5ylmbBj88XKJ"
+}

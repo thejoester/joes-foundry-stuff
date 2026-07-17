@@ -1,0 +1,32 @@
+{
+  "name": "Play Sound",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "new foundry.applications.api.DialogV2({\n\twindow: { title: \"Play a Sound\" },\n\tcontent: `\n\t\t<div style=\"display:flex; flex-direction:column; gap:8px;\">\n\t\t\t<label>Sound File:</label>\n\t\t\t<div style=\"display:flex; gap:6px;\">\n\t\t\t\t<input type=\"text\" name=\"soundPath\" value=\"assets/Sounds/\" style=\"flex:1;\" />\n\t\t\t\t<button type=\"button\" name=\"browse\">Browse</button>\n\t\t\t</div>\n\t\t</div>\n\t`,\n\tbuttons: [\n\t\t{\n\t\t\taction: \"play\",\n\t\t\tlabel: \"Play Sound\",\n\t\t\tdefault: true,\n\t\t\tcallback: (event, button, dialog) => {\n\t\t\t\tconst path = button.form.elements.soundPath.value;\n\t\t\t\tif (!path) return;\n\t\t\t\t\n\t\t\t\tAudioHelper.play(\n\t\t\t\t\t{ src: path, volume: 0.5, autoplay: true, loop: false },\n\t\t\t\t\ttrue\n\t\t\t\t);\n\t\t\t}\n\t\t}\n\t]\n}).render(true);\n\n// Hook up file picker after render\nHooks.once(\"renderDialogV2\", (app, html) => {\n\tconst input = html.querySelector('input[name=\"soundPath\"]');\n\tconst browseBtn = html.querySelector('button[name=\"browse\"]');\n\n\tbrowseBtn.addEventListener(\"click\", () => {\n\t\tconst picker = new FilePicker({\n\t\t\ttype: \"audio\",\n\t\t\tcurrent: \"assets/Sounds/\",\n\t\t\tcallback: (path) => {\n\t\t\t\tinput.value = path;\n\t\t\t}\n\t\t});\n\t\tpicker.render(true);\n\t});\n});",
+  "img": "icons/svg/sound.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": "Uzo6f0nmzgduNYcb",
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.10.1",
+    "createdTime": 1771900056390,
+    "modifiedTime": 1771900056390,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_id": "b9LuV2JhZmV2OrL3",
+  "sort": 0,
+  "_key": "!macros!b9LuV2JhZmV2OrL3"
+}

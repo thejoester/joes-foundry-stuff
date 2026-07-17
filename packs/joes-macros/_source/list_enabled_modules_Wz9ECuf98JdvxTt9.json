@@ -1,0 +1,32 @@
+{
+  "name": "List enabled modules",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "/* ***************************************************************************\n\tMacro Title: List enabled modules in a world (with versions + links)\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tLast updated: 23-Apr-2026\n\tLicense: MIT License\n\n\tDescription:\n\tDisplays a dialog with enabled and disabled modules in a sortable table,\n\tshowing title, version, ID, and clickable website link if available.\n\tIncludes an export button that saves the list as a .txt file in\n\t\"module_name - module_url\" format.\n*************************************************************************** */\n\nconst allModules = Array.from(game.modules.values()).sort((a, b) => a.title.localeCompare(b.title));\n\nfunction buildRows(modules) {\n\treturn modules.map(m => {\n\t\tconst version = m.version ?? \"?\";\n\t\tconst urlCell = m.url\n\t\t\t? `<a href=\"${m.url}\" target=\"_blank\" rel=\"noopener noreferrer\">${m.url}</a>`\n\t\t\t: \"\";\n\t\treturn `<tr style=\"border-bottom:1px solid #ddd;\">\n\t\t\t<td style=\"padding:3px 8px; vertical-align:top;\">${m.title}</td>\n\t\t\t<td style=\"padding:3px 8px; vertical-align:top; white-space:nowrap;\">v${version}</td>\n\t\t\t<td style=\"padding:3px 8px; vertical-align:top; font-family:monospace; font-size:0.85em;\">${m.id}</td>\n\t\t\t<td style=\"padding:3px 8px; vertical-align:top;\">${urlCell}</td>\n\t\t</tr>`;\n\t}).join(\"\");\n}\n\nfunction buildSection(title, modules) {\n\tconst rows = modules.length ? buildRows(modules) : `<tr><td colspan=\"4\" style=\"padding:4px 8px; color:#888;\">(none)</td></tr>`;\n\treturn `\n\t\t<h3 style=\"margin:0.75em 0 0.25em; border-bottom:1px solid #ccc; padding-bottom:0.2em;\">${title}</h3>\n\t\t<table style=\"width:100%; border-collapse:collapse; font-size:0.9em; margin-bottom:1em;\">\n\t\t\t<thead>\n\t\t\t\t<tr style=\"background:#444; color:#fff;\">\n\t\t\t\t\t<th style=\"text-align:left; padding:5px 8px;\">Title</th>\n\t\t\t\t\t<th style=\"text-align:left; padding:5px 8px;\">Version</th>\n\t\t\t\t\t<th style=\"text-align:left; padding:5px 8px;\">ID</th>\n\t\t\t\t\t<th style=\"text-align:left; padding:5px 8px;\">URL</th>\n\t\t\t\t</tr>\n\t\t\t</thead>\n\t\t\t<tbody>${rows}</tbody>\n\t\t</table>\n\t`;\n}\n\nconst enabled = allModules.filter(m => m.active);\nconst disabled = allModules.filter(m => !m.active);\n\nconst html = `\n\t<div style=\"min-width:700px; max-height:70vh; overflow-y:auto; padding-right:0.5em;\">\n\t\t${buildSection(\"Enabled Modules\", enabled)}\n\t\t${buildSection(\"Disabled Modules\", disabled)}\n\t</div>\n`;\n\nfunction exportLine(m) {\n\treturn m.url ? `${m.title} - ${m.url}` : m.title;\n}\n\nconst exportContent = [\n\t\"=== Enabled Modules ===\",\n\t...(enabled.length ? enabled.map(exportLine) : [\"(none)\"]),\n\t\"\",\n\t\"=== Disabled Modules ===\",\n\t...(disabled.length ? disabled.map(exportLine) : [\"(none)\"])\n].join(\"\\n\");\n\nnew foundry.applications.api.DialogV2({\n\twindow: {\n\t\ttitle: \"Modules (Enabled → Disabled)\",\n\t\twidth: 900,\n\t\tresizable: true\n\t},\n\tcontent: html,\n\tbuttons: [\n\t\t{\n\t\t\taction: \"export\",\n\t\t\tlabel: \"Export to .txt\",\n\t\t\tcallback: () => \"export\"\n\t\t},\n\t\t{\n\t\t\taction: \"close\",\n\t\t\tlabel: \"Close\",\n\t\t\tdefault: true,\n\t\t\tcallback: () => \"close\"\n\t\t}\n\t],\n\tsubmit: (result) => {\n\t\tif (result !== \"export\") return;\n\t\tconst blob = new Blob([exportContent], { type: \"application/octet-stream\" });\n\t\tconst blobUrl = URL.createObjectURL(blob);\n\t\tconst a = document.createElement(\"a\");\n\t\ta.href = blobUrl;\n\t\ta.download = \"modules.txt\";\n\t\tdocument.body.appendChild(a);\n\t\ta.click();\n\t\tdocument.body.removeChild(a);\n\t\tURL.revokeObjectURL(blobUrl);\n\t}\n}).render(true);",
+  "img": "icons/svg/book.svg",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1748648165106,
+    "modifiedTime": 1777008206707,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "Wz9ECuf98JdvxTt9",
+  "sort": 900000,
+  "_key": "!macros!Wz9ECuf98JdvxTt9"
+}

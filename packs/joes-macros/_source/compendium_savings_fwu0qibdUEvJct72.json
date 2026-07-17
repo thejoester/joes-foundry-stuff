@@ -1,0 +1,37 @@
+{
+  "name": "Compendium Savings",
+  "type": "script",
+  "scope": "global",
+  "author": "ozJQ7pG7xtnFXNNL",
+  "img": "icons/svg/dice-target.svg",
+  "command": "/**\n * Compendium Savings\n *\n * Displays how much data (in kB) certain documentsuse on world load currently\n *   and how much they'd use if they were in compendiums.\n *\n * Supported documents: actors, items, macros, journals, rolltables and scenes.\n *\n * By default some documents are skipped (can be configured below):\n * - player owned actors\n * - player visible macros and journals\n * - player navigable scenes (active or in navigation)\n *\n * Compatibility:\n * - Foundry v10\n */\n\nconst skipPlayerOwnedActors = true; // Skip player owned actors for putting into compendiums\nconst skipPlayerVisibleActors = true; // Skip actors that are visible to players\nconst skipPlayerUsableMacros = true; // Skip macros usable by players\nconst skipPlayerNavigableScenes = true; // Skip scenes that player can navigate to\n\nconst savingsType = 'both'; // 'both', 'percentage', or 'size'\n\n// Permission level at which something is considered player usable/visible (possibly swap this to OBSERVER)\nconst playerUseLevel = CONST.DOCUMENT_OWNERSHIP_LEVELS.LIMITED;\n\nconst isPlayerVisible = (doc) => {\n\tif (doc.ownership.default >= playerUseLevel) return true;\n\treturn Object.entries(doc.ownership).some(([uid, level]) => !game.users.get(uid)?.isGM && level >= playerUseLevel);\n}\n\nconst countTrueSize = (arr) => arr\n\t.reduce((t, doc) => t + JSON.stringify(doc.toObject()).length, 0);\n\nconst countIndexSize = (arr, { documentName } = {}) => arr.reduce((t, doc) => {\n\tconst { _id, name } = doc.toObject();\n\tconst indexData = { _id, name };\n\tswitch (documentName) {\n\t\tcase 'Scene': {\n\t\t\tconst { thumb } = doc.toObject();\n\t\t\tObject.assign(indexData, { thumb });\n\t\t\tbreak;\n\t\t}\n\t\tcase 'JournalEntry':\n\t\t\t// Nothing needed here\n\t\t\tbreak;\n\t\tdefault: {\n\t\t\tconst { sort, type, img } = doc.toObject();\n\t\t\tObject.assign(indexData, { sort, type, img });\n\t\t\tbreak;\n\t\t}\n\t}\n\n\tif (indexData._type === undefined) delete indexData._type; // Macros/RollTables don't have this\n\treturn t + JSON.stringify(indexData).length;\n}, 0);\n\n/**\n * @param {WorldCollection} list\n */\nconst makeCategory = (list, { skipPlayerOwned, skipPlayerVisible, skipPlayerNavigable } = {}) => {\n\tconst trueList = list.filter(d => {\n\t\tif (skipPlayerOwned && d.hasPlayerOwner) return false;\n\t\tif (skipPlayerVisible && isPlayerVisible(d)) return false;\n\t\tif (skipPlayerNavigable && (d.navigation && d.ownership.default > 0 || d.active)) return false;\n\t\treturn true;\n\t});\n\tconst count = Array.from(trueList).length;\n\tconst { documentName } = list;\n\treturn {\n\t\tcount,\n\t\tomitted: Array.from(list).length - count,\n\t\tunpacked: countTrueSize(trueList, { documentName }) / 1_000,\n\t\tpacked: countIndexSize(trueList, { documentName }) / 1_000,\n\t\tget ratio() {\n\t\t\treturn this.packed / this.unpacked;\n\t\t},\n\t\tget savings() {\n\t\t\tconst getPercentage = () => (1 - this.ratio) * 100;\n\t\t\tconst getSize = () => this.unpacked - this.packed;\n\t\t\tconst rd = Math.roundDecimals;\n\t\t\tswitch (savingsType[0]) {\n\t\t\t\tcase 'p':\n\t\t\t\t\treturn `${rd(getPercentage(), 1)}%`;\n\t\t\t\tcase 's':\n\t\t\t\t\treturn `${rd(getSize(), 1)} kB`;\n\t\t\t\tdefault:\n\t\t\t\t\treturn `${rd(getSize(), 1)} kB (${rd(getPercentage(), 1)}%)`;\n\t\t\t}\n\t\t}\n\t};\n}\n\nconst templateData = {\n\titems: makeCategory(game.items),\n\tactors: makeCategory(game.actors, { skipPlayerOwned: skipPlayerOwnedActors, skipPlayerVisible: skipPlayerVisibleActors }),\n\ttables: makeCategory(game.tables),\n\tmacros: makeCategory(game.macros, { skipPlayerVisible: skipPlayerUsableMacros }),\n\tjournals: makeCategory(game.journal, { skipPlayerVisible: skipPlayerUsableMacros }),\n\tscenes: makeCategory(game.scenes, { skipPlayerNavigable: skipPlayerNavigableScenes }),\n};\n\nconst template = `\n<div style=\"display:grid;grid-template-columns:repeat(6, min-content);column-gap:0.5rem;row-gap:0.2rem;white-space:nowrap;\">\n<h3>Category</h3><h3>Count</h3><h3>Omitted</h3><h3>Unpacked</h3><h3>Packed</h3><h3>Savings</h3>\n<label>Actors</label><span style='justify-self:right;'>{{actors.count}}</span><span style='justify-self:right;'>{{actors.omitted}}</span><span style='justify-self:right;'>{{numberFormat actors.unpacked decimals=2}} kB</span><span style='justify-self:right;'>{{numberFormat actors.packed decimals=2}} kB</span><span style='justify-self:right;'>{{actors.savings}}</span>\n<label>Items</label><span style='justify-self:right;'>{{items.count}}</span><span style='justify-self:right;'>{{items.omitted}}</span><span style='justify-self:right;'>{{numberFormat items.unpacked decimals=2}} kB</span><span style='justify-self:right;'>{{numberFormat items.packed decimals=2}} kB</span><span style='justify-self:right;'>{{items.savings}}</span>\n<label>Macros</label><span style='justify-self:right;'>{{macros.count}}</span><span style='justify-self:right;'>{{macros.omitted}}</span><span style='justify-self:right;'>{{numberFormat macros.unpacked decimals=2}} kB</span><span style='justify-self:right;'>{{numberFormat macros.packed decimals=2}} kB</span><span style='justify-self:right;'>{{macros.savings}}</span>\n<label>Journals</label><span style='justify-self:right;'>{{journals.count}}</span><span style='justify-self:right;'>{{journals.omitted}}</span><span style='justify-self:right;'>{{numberFormat journals.unpacked decimals=2}} kB</span><span style='justify-self:right;'>{{numberFormat journals.packed decimals=2}} kB</span><span style='justify-self:right;'>{{journals.savings}}</span>\n<label>RollTables</label><span style='justify-self:right;'>{{tables.count}}</span><span style='justify-self:right;'>{{tables.omitted}}</span><span style='justify-self:right;'>{{numberFormat tables.unpacked decimals=2}} kB</span><span style='justify-self:right;'>{{numberFormat tables.packed decimals=2}} kB</span><span style='justify-self:right;'>{{tables.savings}}</span>\n<label>Scenes</label><span style='justify-self:right;'>{{scenes.count}}</span><span style='justify-self:right;'>{{scenes.omitted}}</span><span style='justify-self:right;'>{{numberFormat scenes.unpacked decimals=2}} kB</span><span style='justify-self:right;'>{{numberFormat scenes.packed decimals=2}} kB</span><span style='justify-self:right;'>{{scenes.savings}}</span>\n</div>\n<hr>\n`;\n\nDialog.prompt({\n\ttitle: 'Compendium Savings',\n\tcontent: Handlebars.compile(template)(templateData, { allowProtoMethodsByDefault: true, allowProtoPropertiesByDefault: true }),\n\trejectClose: false,\n\toptions: {\n\t\twidth: 'auto',\n\t\theight: 'auto',\n\t\tjQuery: false\n\t}\n});",
+  "ownership": {
+    "default": 0,
+    "K9A6LcE3dwws8sIF": 3,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "flags": {
+    "combat-utility-belt": {
+      "macroTrigger": ""
+    },
+    "core": {},
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.351",
+    "createdTime": 1671801055879,
+    "modifiedTime": 1770426530859,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": "oTdM0sid7daP34VK",
+  "_id": "fwu0qibdUEvJct72",
+  "sort": 100000,
+  "_key": "!macros!fwu0qibdUEvJct72"
+}

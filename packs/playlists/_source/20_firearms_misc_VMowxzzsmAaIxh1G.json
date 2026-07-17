@@ -1,0 +1,152 @@
+{
+  "folder": "RxaFCDEnDIAOTXXi",
+  "name": "20 Firearms MISC",
+  "_id": "VMowxzzsmAaIxh1G",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Ammo%20Loot.mp3",
+      "name": "Ammo Loot",
+      "_id": "4f27NgSlMY9vBEiW",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.4f27NgSlMY9vBEiW"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Bullet%20Impacts%20B.wav",
+      "name": "Bullet Impacts B",
+      "_id": "jrdWdJkBIfTABqqN",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.jrdWdJkBIfTABqqN"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Bullet%20Impacts.wav",
+      "name": "Bullet Impacts",
+      "_id": "8mLHBl879lxCo1Kc",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.8mLHBl879lxCo1Kc"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Empty%20Shot.wav",
+      "name": "Empty Shot",
+      "_id": "9VPf6i18t0TNxL2f",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.9VPf6i18t0TNxL2f"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Gun%20Cock%20Slow%20Motion.wav",
+      "name": "Gun Cock Slow Motion",
+      "_id": "GImem8Ce3OCLVXA1",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.GImem8Ce3OCLVXA1"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Gun%20Cock.wav",
+      "name": "Gun Cock",
+      "_id": "nKSA0nOJ8d2A9z3q",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.nKSA0nOJ8d2A9z3q"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Holster.wav",
+      "name": "Holster",
+      "_id": "j1puT4NnF2wvrRzv",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.j1puT4NnF2wvrRzv"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Reload%20Rifle.mp3",
+      "name": "Reload Rifle",
+      "_id": "kcz2dcm8WobcmJWR",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.kcz2dcm8WobcmJWR"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Reload.wav",
+      "name": "Reload",
+      "_id": "VkwsEjirj7ls4kqN",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.VkwsEjirj7ls4kqN"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/20%20Firearms%20MISC/Shell%20Drop.mp3",
+      "name": "Shell Drop",
+      "_id": "W7s7ss6sNSrUBb9E",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!VMowxzzsmAaIxh1G.W7s7ss6sNSrUBb9E"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760670042,
+    "modifiedTime": 1769760670042,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 311,
+  "_key": "!playlists!VMowxzzsmAaIxh1G"
+}

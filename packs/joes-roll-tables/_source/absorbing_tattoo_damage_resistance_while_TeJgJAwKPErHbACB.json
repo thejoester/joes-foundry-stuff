@@ -1,0 +1,303 @@
+{
+  "name": "Absorbing Tattoo: Damage Resistance. While the tattoo is on your skin, you have resistance to a type of damage associated with that color, as shown on the table below. The DM chooses the color or determines it randomly.",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Absorbing Tattoo",
+      "keys": [
+        "d10",
+        "Damage Type",
+        "Color"
+      ],
+      "diceKeys": [
+        "d10"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "UXHmmH24TIMUVMHZ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>1\n\n<b>Damage Type</b>Acid\n\n<b>Color</b>Green",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.UXHmmH24TIMUVMHZ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "tWRDsSrBGZs2rJBm",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>2\n\n<b>Damage Type</b>Cold\n\n<b>Color</b>Blue",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.tWRDsSrBGZs2rJBm"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "tSLW12ZQGXLO5sTk",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>3\n\n<b>Damage Type</b>Fire\n\n<b>Color</b>Red",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.tSLW12ZQGXLO5sTk"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "arJ6V0TWPdJmC8Z0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>4\n\n<b>Damage Type</b>Force\n\n<b>Color</b>White",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.arJ6V0TWPdJmC8Z0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "iDMHfWkr0Yt1RK5A",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>5\n\n<b>Damage Type</b>Lightning\n\n<b>Color</b>Yellow",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.iDMHfWkr0Yt1RK5A"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "LFuSJ5VV4JIWdDBU",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>6\n\n<b>Damage Type</b>Necrotic\n\n<b>Color</b>Black",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.LFuSJ5VV4JIWdDBU"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "UtbT3x9YkEISHsKS",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>7\n\n<b>Damage Type</b>Poison\n\n<b>Color</b>Violet",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.UtbT3x9YkEISHsKS"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "P2YlzjzShMJR48mi",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>8\n\n<b>Damage Type</b>Psychic\n\n<b>Color</b>Silver",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.P2YlzjzShMJR48mi"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "ANtnrjIDDuNhLFf6",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>9\n\n<b>Damage Type</b>Radiant\n\n<b>Color</b>Gold",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.ANtnrjIDDuNhLFf6"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "lwYkeDEFxrcS3w8A",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>10\n\n<b>Damage Type</b>Thunder\n\n<b>Color</b>Orange",
+      "name": "",
+      "_key": "!tables.results!TeJgJAwKPErHbACB.lwYkeDEFxrcS3w8A"
+    }
+  ],
+  "formula": "d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061842810,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "TeJgJAwKPErHbACB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!TeJgJAwKPErHbACB"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Overlay",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "if (!window.JFS_OVERLAY) {\n\tui.notifications.error(\"joes-foundry-stuff not loaded or outdated.\");\n} else {\n\twindow.JFS_OVERLAY.openDialog();\n}",
+  "img": "icons/magic/control/silhouette-grow-shrink-blue.webp",
+  "author": "lfU9NncyG8LWlt8v",
+  "scope": "global",
+  "folder": "eB83Kvswqyhs0e1Q",
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "7.6.3",
+    "createdTime": 1760787520566,
+    "modifiedTime": 1760788327109,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v"
+  },
+  "_id": "ZxiycTW85ka97QHC",
+  "sort": 0,
+  "_key": "!macros!ZxiycTW85ka97QHC"
+}

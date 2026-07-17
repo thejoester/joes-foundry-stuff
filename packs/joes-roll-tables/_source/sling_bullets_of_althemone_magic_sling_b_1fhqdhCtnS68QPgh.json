@@ -1,0 +1,146 @@
+{
+  "name": "Sling Bullets of Althemone: Magic Sling Bullets",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Sling Bullets of Althemone",
+      "keys": [
+        "d4",
+        "Bullet"
+      ],
+      "diceKeys": [
+        "d4"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "cxS7WTpUhu0Usnzf",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Banishment. </strong> A creature that takes damage from this bullet must succeed on a DC 15 Charisma saving throw or be banished as though affected by the banishment spell.",
+      "name": "",
+      "_key": "!tables.results!1fhqdhCtnS68QPgh.cxS7WTpUhu0Usnzf"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "WjUsejvsXQY9QkVJ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Fulguration.</strong> On a hit, this bullet deals an extra [[/r 2d8[lightning] # Lightning damage]]  damage to its target. All other creatures within 10 feet of the target must each succeed on a DC 15 Constitution saving throw or take [[/r 1d8[thunder] # Thunder damage]]  damage.",
+      "name": "",
+      "_key": "!tables.results!1fhqdhCtnS68QPgh.WjUsejvsXQY9QkVJ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "QFydmF1PvuZvy33b",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Stunning.</strong> On a hit, this bullet deals an extra [[/r 1d10[force] # Force damage]]  damage, and the target is stunned until the end of your next turn.",
+      "name": "",
+      "_key": "!tables.results!1fhqdhCtnS68QPgh.QFydmF1PvuZvy33b"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "rEGGkuMF6nLRoI4O",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Tracking.</strong> A creature that takes damage from this bullet is marked with a glowing rune where the bullet hit. The mark lasts 24 hours. While the creature is marked, you always know the direction to it.",
+      "name": "",
+      "_key": "!tables.results!1fhqdhCtnS68QPgh.rEGGkuMF6nLRoI4O"
+    }
+  ],
+  "formula": "d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061842635,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "1fhqdhCtnS68QPgh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!1fhqdhCtnS68QPgh"
+}

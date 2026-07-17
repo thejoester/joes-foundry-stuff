@@ -1,0 +1,152 @@
+{
+  "folder": "INvSRrwBZDfmGrgj",
+  "name": "05.1 Movement",
+  "_id": "zG4EamBSrW7lGWNS",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Dry%20Leaves%20Crunching.mp3",
+      "name": "Dry Leaves Crunching",
+      "_id": "gWzfvAINNygr1Mz4",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.gWzfvAINNygr1Mz4"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Footsteps%20Mud.mp3",
+      "name": "Footsteps Mud",
+      "_id": "Wnb9jwBSwFid529n",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.Wnb9jwBSwFid529n"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Footsteps%20Rock.mp3",
+      "name": "Footsteps Rock",
+      "_id": "0uRitLZDJ0iJNPDs",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.0uRitLZDJ0iJNPDs"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Footsteps%20Sand.mp3",
+      "name": "Footsteps Sand",
+      "_id": "V3xJC9od1GPLdlqJ",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.V3xJC9od1GPLdlqJ"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Footsteps%20Snow.mp3",
+      "name": "Footsteps Snow",
+      "_id": "HVTCfUbAYliGFcqF",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.HVTCfUbAYliGFcqF"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Footsteps%20Wood.mp3",
+      "name": "Footsteps Wood",
+      "_id": "6I36LDZ0Gcec1Q3n",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.6I36LDZ0Gcec1Q3n"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Running%20in%20Nature%20B.mp3",
+      "name": "Running In Nature B",
+      "_id": "UP8Mzk9nystSNgiR",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.UP8Mzk9nystSNgiR"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Running%20in%20Nature.mp3",
+      "name": "Running In Nature",
+      "_id": "YQxhIreckS5zLpHk",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.YQxhIreckS5zLpHk"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Walking%20in%20Nature%20B.mp3",
+      "name": "Walking In Nature B",
+      "_id": "DVIXWrkuNqREvCI2",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.DVIXWrkuNqREvCI2"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/05%20Environments%20%26%20Foley/_Movement/Walking%20in%20Nature.mp3",
+      "name": "Walking In Nature",
+      "_id": "4xb30uN2tsEg28Ot",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!zG4EamBSrW7lGWNS.4xb30uN2tsEg28Ot"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760670042,
+    "modifiedTime": 1769760670042,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 120,
+  "_key": "!playlists!zG4EamBSrW7lGWNS"
+}

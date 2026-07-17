@@ -1,0 +1,104 @@
+{
+  "folder": "oOylayluVgbBt8CH",
+  "name": "Tonal Environments",
+  "_id": "17YfRGSg0YZUvIji",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/08%20Environmental/Tonal%20Environments/Dangerous%20Marshlands%20Tonal.mp3",
+      "name": "Dangerous Marshlands Tonal",
+      "_id": "gFtKiZoUK7zRyDvo",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!17YfRGSg0YZUvIji.gFtKiZoUK7zRyDvo"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/08%20Environmental/Tonal%20Environments/Decrepit%20Temple%20Tonal.mp3",
+      "name": "Decrepit Temple Tonal",
+      "_id": "sOTc75Aj3CPWySqj",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!17YfRGSg0YZUvIji.sOTc75Aj3CPWySqj"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/08%20Environmental/Tonal%20Environments/Demonic%20Presence%20Tonal.mp3",
+      "name": "Demonic Presence Tonal",
+      "_id": "4GT4vjp93ahGSDvB",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!17YfRGSg0YZUvIji.4GT4vjp93ahGSDvB"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/08%20Environmental/Tonal%20Environments/Haunted%20Forest%20Tonal.mp3",
+      "name": "Haunted Forest Tonal",
+      "_id": "zQF8tSnWKParn48N",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!17YfRGSg0YZUvIji.zQF8tSnWKParn48N"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/08%20Environmental/Tonal%20Environments/Haunted%20Marsh%20Land%20Tonal.mp3",
+      "name": "Haunted Marsh Land Tonal",
+      "_id": "qfPrdU2tgy0z3K4K",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!17YfRGSg0YZUvIji.qfPrdU2tgy0z3K4K"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/08%20Environmental/Tonal%20Environments/Sanctum%20Ambience%20Tonal.mp3",
+      "name": "Sanctum Ambience Tonal",
+      "_id": "FpmIrzUrZtQk4n5c",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!17YfRGSg0YZUvIji.FpmIrzUrZtQk4n5c"
+    }
+  ],
+  "channel": "environment",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760668041,
+    "modifiedTime": 1769760668041,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 806,
+  "_key": "!playlists!17YfRGSg0YZUvIji"
+}

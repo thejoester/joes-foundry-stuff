@@ -1,0 +1,28 @@
+{
+  "command": "const actors = game.user.getActiveTokens().flatMap((t) => t.actor ?? []);\nif (actors.length === 0) {\n    return ui.notifications.error(\"PF2E.ErrorMessage.NoTokenSelected\", { localize: true });\n}\n\nconst ITEM_UUID = \"Compendium.pf2e.other-effects.Item.I9lfZUiCwMiGogVi\"; // Effect: Cover\nconst item = await fromUuid(ITEM_UUID);\nif (item?.type === \"condition\") {\n    for (const actor of actors) {\n        actor.toggleCondition(item.slug);\n    }\n} else if (item?.type === \"effect\") {\n    const source = item.toObject();\n    source._stats.compendiumSource = ITEM_UUID;\n\n    for (const actor of actors) {\n        const existing = actor.itemTypes.effect.find((e) => e._stats.compendiumSource === ITEM_UUID);\n        if (existing) {\n            await existing.delete();\n        } else {\n            await actor.createEmbeddedDocuments(\"Item\", [source]);\n        }\n    }\n} else {\n    ui.notifications.error(game.i18n.format(\"PF2E.ErrorMessage.ItemNotFoundByUUID\", { uuid: ITEM_UUID }));\n}",
+  "name": "Effect: Cover",
+  "type": "script",
+  "img": "systems/pf2e/icons/conditions-2/status_acup.webp",
+  "_id": "5k36Zys2UzPXEd9g",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "Ur9r83xWtJD73lwA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Macro.5k36Zys2UzPXEd9g",
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_key": "!macros!5k36Zys2UzPXEd9g"
+}

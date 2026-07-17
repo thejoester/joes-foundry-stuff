@@ -1,0 +1,246 @@
+{
+  "folder": "l10SS4rQS7z7eQuT",
+  "name": "Armor Upgrades  16-20",
+  "_id": "eETC6SLkGMIFLbNU",
+  "img": "icons/equipment/chest/breastplate-layered-gilded-orange.webp",
+  "description": "<p>Weight is calculated as follows</p><ul><li><p>Start at weight = 10</p></li><li><p>-1 for each level &gt; 17</p></li><li><p>-1 For Greater</p><p>-2 Major / True</p></li></ul><p></p>",
+  "results": [
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        1,
+        8
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "Tu9iqRBGJVSY1irZ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ethereal",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.q70WXJO1rswduHuT",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.Tu9iqRBGJVSY1irZ"
+    },
+    {
+      "type": "document",
+      "weight": 6,
+      "range": [
+        9,
+        14
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "oDazFRFsLuExjAsi",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Stanching (True)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dLYifig01WulSNVF",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.oDazFRFsLuExjAsi"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        15,
+        22
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "zJShK2lGYrFQdijt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shadow (Major)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2FjdEflsVldnuebM",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.zJShK2lGYrFQdijt"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        23,
+        30
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "cpWmAOLlIHhap8Qc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dread (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6PW3zAn8fWW3IYA0",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.cpWmAOLlIHhap8Qc"
+    },
+    {
+      "type": "document",
+      "weight": 6,
+      "range": [
+        31,
+        36
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "pZlBGRLrtfj7qRvR",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dread (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6PW3zAn8fWW3IYA0",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.pZlBGRLrtfj7qRvR"
+    },
+    {
+      "type": "document",
+      "weight": 7,
+      "range": [
+        37,
+        43
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "I71eu55vB7keGIq7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Quenching (True)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hGZNrPMdxsabNFLx",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.I71eu55vB7keGIq7"
+    },
+    {
+      "type": "document",
+      "weight": 8,
+      "range": [
+        44,
+        51
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "8Khfh6pArW7Bcalb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fortification (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ujWnpVMkbTljMGN9",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.8Khfh6pArW7Bcalb"
+    },
+    {
+      "type": "document",
+      "weight": 7,
+      "range": [
+        52,
+        58
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "_id": "jk5GVmXC71tBuIvS",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Winged (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ztb4xv4UGZbF32TE",
+      "description": "",
+      "_key": "!tables.results!eETC6SLkGMIFLbNU.jk5GVmXC71tBuIvS"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.6.1",
+    "createdTime": 1731071697948,
+    "modifiedTime": 1731150842106,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "formula": "1d58",
+  "_key": "!tables!eETC6SLkGMIFLbNU"
+}

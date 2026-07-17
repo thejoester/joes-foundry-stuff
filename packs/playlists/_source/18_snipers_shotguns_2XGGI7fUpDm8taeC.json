@@ -1,0 +1,140 @@
+{
+  "folder": "RxaFCDEnDIAOTXXi",
+  "name": "18 Snipers & Shotguns",
+  "_id": "2XGGI7fUpDm8taeC",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Reload%20Rifle.mp3",
+      "name": "Reload Rifle",
+      "_id": "AyC8RpPkjTzw5WlA",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.AyC8RpPkjTzw5WlA"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Shotgun%20A.wav",
+      "name": "Shotgun A",
+      "_id": "oiQjyfYSjKbMdoql",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.oiQjyfYSjKbMdoql"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Shotgun%20B.wav",
+      "name": "Shotgun B",
+      "_id": "EAlajopNgwZnmhi2",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.EAlajopNgwZnmhi2"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Shotgun%20Reload.wav",
+      "name": "Shotgun Reload",
+      "_id": "aWVHvdQoEfiRPLPQ",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.aWVHvdQoEfiRPLPQ"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Shotgun%20and%20Pump%20A.mp3",
+      "name": "Shotgun And Pump A",
+      "_id": "XuRvCQVJKi1uI7nQ",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.XuRvCQVJKi1uI7nQ"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Shotgun%20and%20Pump%20B.mp3",
+      "name": "Shotgun And Pump B",
+      "_id": "kRrR3NiVjQSa7lOn",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.kRrR3NiVjQSa7lOn"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Shotgun%20and%20Pump%20C.mp3",
+      "name": "Shotgun And Pump C",
+      "_id": "YkaV9A4alloixrt6",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.YkaV9A4alloixrt6"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Sniper%20Rifle%20B.mp3",
+      "name": "Sniper Rifle B",
+      "_id": "SVRPVBNge6DuSo49",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.SVRPVBNge6DuSo49"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20II%20mp3/07%20One%20Shots/18%20Snipers%20%26%20Shotguns/Sniper%20Rifle.wav",
+      "name": "Sniper Rifle",
+      "_id": "u41xqe8ZChvJ79rx",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!2XGGI7fUpDm8taeC.u41xqe8ZChvJ79rx"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760670042,
+    "modifiedTime": 1769760670042,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 532,
+  "_key": "!playlists!2XGGI7fUpDm8taeC"
+}

@@ -1,0 +1,146 @@
+{
+  "name": "Reality Break: Reality Break Effects",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Reality Break",
+      "keys": [
+        "D10",
+        "Effect"
+      ],
+      "diceKeys": [
+        "D10"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "_id": "JwqRNzo1KsGrkqFi",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Vision of the Far Realm.</strong> The target takes [[/r 6d12[psychic] # Psychic damage]]  damage, and it is stunned until the end of the turn.",
+      "name": "",
+      "_key": "!tables.results!5LQMevQA9gAKOJ7i.JwqRNzo1KsGrkqFi"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        5
+      ],
+      "drawn": false,
+      "_id": "ZokPltpv4QOi49WO",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Rending Rift.</strong> The target must make a Dexterity saving throw, taking [[/r 8d12[force] # Force damage]]  damage on a failed save, or half as much damage on a successful one.",
+      "name": "",
+      "_key": "!tables.results!5LQMevQA9gAKOJ7i.ZokPltpv4QOi49WO"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        8
+      ],
+      "drawn": false,
+      "_id": "hjpiXhfAcVgVp61G",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Wormhole.</strong> The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes [[/r 10d12[force] # Force damage]]  damage and is knocked prone.",
+      "name": "",
+      "_key": "!tables.results!5LQMevQA9gAKOJ7i.hjpiXhfAcVgVp61G"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "_id": "OHi2WwN0fVmyIgkC",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<strong>Chill of the Dark Void.</strong> The target takes [[/r 10d12[cold] # Cold damage]]  damage, and it is blinded until the end of the turn.",
+      "name": "",
+      "_key": "!tables.results!5LQMevQA9gAKOJ7i.OHi2WwN0fVmyIgkC"
+    }
+  ],
+  "formula": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061796644,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5LQMevQA9gAKOJ7i",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!5LQMevQA9gAKOJ7i"
+}

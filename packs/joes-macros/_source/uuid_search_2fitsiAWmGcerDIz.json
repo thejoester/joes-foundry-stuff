@@ -1,0 +1,32 @@
+{
+  "name": "UUID Search",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "(async () => {\n\tlet userInput = \"\";\n\n\tawait new Promise((resolve) => {\n\t\tnew Dialog({\n\t\t\ttitle: \"Find Document by UUID or ID\",\n\t\t\tcontent: `\n\t\t\t\t<form>\n\t\t\t\t\t<p>Enter a UUID (e.g. <code>Actor.WqdJ4AGDhdEADNSO</code>) or just an ID (e.g. <code>WqdJ4AGDhdEADNSO</code>):</p>\n\t\t\t\t\t<input type=\"text\" name=\"docid\" style=\"width:100%;\" autofocus />\n\t\t\t\t</form>\n\t\t\t`,\n\t\t\tbuttons: {\n\t\t\t\tok: {\n\t\t\t\t\tlabel: \"Search\",\n\t\t\t\t\tcallback: (html) => {\n\t\t\t\t\t\tconst input = html[0].querySelector(\"input[name='docid']\");\n\t\t\t\t\t\tuserInput = input?.value?.trim() ?? \"\";\n\t\t\t\t\t\tresolve();\n\t\t\t\t\t}\n\t\t\t\t},\n\t\t\t\tcancel: {\n\t\t\t\t\tlabel: \"Cancel\",\n\t\t\t\t\tcallback: () => {\n\t\t\t\t\t\tconsole.warn(\"🔍 Document search cancelled.\");\n\t\t\t\t\t\tresolve();\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\tdefault: \"ok\"\n\t\t}).render(true);\n\t});\n\n\tif (!userInput) {\n\t\tconsole.warn(\"❌ No ID or UUID entered. Search aborted.\");\n\t\treturn;\n\t}\n\n\tconst results = [];\n\n\tif (userInput.includes(\".\")) {\n\t\t// Treat as UUID\n\t\ttry {\n\t\t\tconst doc = await fromUuid(userInput);\n\t\t\tif (doc) {\n\t\t\t\tresults.push({\n\t\t\t\t\tname: doc.name,\n\t\t\t\t\ttype: doc.documentName,\n\t\t\t\t\tuuid: doc.uuid,\n\t\t\t\t\tsheet: doc.sheet\n\t\t\t\t});\n\t\t\t}\n\t\t} catch (e) {\n\t\t\tconsole.error(`Error trying to fetch UUID: ${userInput}`, e);\n\t\t}\n\t} else {\n\t\t// Treat as raw ID, search all world-level documents\n\t\tconst collections = [\n\t\t\tgame.actors,\n\t\t\tgame.items,\n\t\t\tgame.journal,\n\t\t\tgame.scenes,\n\t\t\tgame.macros,\n\t\t\tgame.tables,\n\t\t\tgame.playlists\n\t\t];\n\n\t\tfor (const collection of collections) {\n\t\t\tconst doc = collection.get(userInput);\n\t\t\tif (doc) {\n\t\t\t\tresults.push({\n\t\t\t\t\tname: doc.name,\n\t\t\t\t\ttype: collection.documentName,\n\t\t\t\t\tuuid: doc.uuid,\n\t\t\t\t\tsheet: doc.sheet\n\t\t\t\t});\n\t\t\t}\n\t\t}\n\t}\n\n\tif (results.length === 0) {\n\t\tui.notifications.warn(`No document found matching \"${userInput}\".`);\n\t\tconsole.info(`🔍 Search complete. No document found matching: ${userInput}`);\n\t\treturn;\n\t}\n\n\tconst list = results.map(r => `\n\t\t<li>\n\t\t\t<strong>${r.name}</strong> (${r.type})<br>\n\t\t\t<code>${r.uuid}</code>\n\t\t</li>\n\t`).join(\"\");\n\n\tnew Dialog({\n\t\ttitle: \"Document Search Results\",\n\t\tcontent: `<div style=\"max-height: 400px; overflow-y: auto;\"><ul>${list}</ul></div>`,\n\t\tbuttons: {\n\t\t\topen: {\n\t\t\t\tlabel: \"Open First\",\n\t\t\t\tcallback: () => results[0].sheet?.render?.(true)\n\t\t\t},\n\t\t\tclose: { label: \"Close\" }\n\t\t}\n\t}).render(true);\n\n\tconsole.info(`✅ Found ${results.length} document(s) for \"${userInput}\":`, results);\n})();",
+  "img": "icons/svg/dice-target.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1750749904011,
+    "modifiedTime": 1765450937288,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "2fitsiAWmGcerDIz",
+  "sort": 100000,
+  "_key": "!macros!2fitsiAWmGcerDIz"
+}

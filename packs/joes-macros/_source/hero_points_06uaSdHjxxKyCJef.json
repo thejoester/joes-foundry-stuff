@@ -1,0 +1,27 @@
+{
+  "type": "Macro",
+  "folder": "YbFGd90tSebuUyab",
+  "name": "Hero Points",
+  "color": null,
+  "flags": {
+    "macro-wheel": {
+      "folderImg": "icons/svg/d20-grey.svg",
+      "presetCondition": "",
+      "condition": ""
+    }
+  },
+  "sorting": "a",
+  "_id": "06uaSdHjxxKyCJef",
+  "description": "",
+  "sort": 0,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.10.1",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!06uaSdHjxxKyCJef"
+}

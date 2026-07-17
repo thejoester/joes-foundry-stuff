@@ -1,0 +1,29 @@
+{
+  "type": "Macro",
+  "folder": null,
+  "name": "_masters",
+  "color": null,
+  "flags": {
+    "macro-wheel": {
+      "folderImg": "icons/svg/d20-grey.svg",
+      "presetCondition": "",
+      "condition": ""
+    }
+  },
+  "sorting": "a",
+  "_id": "YbFGd90tSebuUyab",
+  "description": "",
+  "sort": 0,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.10.1",
+    "createdTime": 1772507807617,
+    "modifiedTime": 1772507807617,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_key": "!folders!YbFGd90tSebuUyab"
+}

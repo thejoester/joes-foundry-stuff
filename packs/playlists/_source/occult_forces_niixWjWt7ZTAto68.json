@@ -1,0 +1,23 @@
+{
+  "name": "Occult Forces",
+  "sorting": "a",
+  "folder": null,
+  "type": "Playlist",
+  "_id": "niixWjWt7ZTAto68",
+  "sort": 400000,
+  "color": "#87304a",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760672243,
+    "modifiedTime": 1769760672367,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "_key": "!folders!niixWjWt7ZTAto68"
+}

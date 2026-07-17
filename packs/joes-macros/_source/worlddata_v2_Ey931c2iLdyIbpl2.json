@@ -1,0 +1,32 @@
+{
+  "name": "WorldData-V2",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "/*\n******************************************************************\n\n\tMacro Title: World Data Usage Snapshot Macro\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tDescription:\n\tShows document sizes and highlights \"large\" entries per type.\n\t\n\t- Supports Header row\n\t- Pick which column (for .csv with multiple columns)\n \t- Specify name of Roll Table (defaults to file name)\n\n\tFoundry Version: v13\n\tLast updated 27-November-2025\n\n\tAuthor: TheJoester (https://github.com/thejoester)\n\tLicense: MIT License\n\n******************************************************************\n*/\n\n/* ============================================================================\n   EDITABLE SIZE THRESHOLDS (KB)\n   Change these however you want\n============================================================================ */\n\nconst SIZE_THRESHOLDS = {\n\tActors: 200,\n\tItems: 25,\n\tScenes: 500,\n\tJournals: 500,\n\tRollTables: 150,\n\tPlaylists: 25,\n\tMacros: 20\n};\n\nfunction getSizeInKB(obj) {\n\treturn (new Blob([JSON.stringify(obj)])).size / 1024;\n}\n\nfunction formatSizeKB(kb) {\n\treturn kb < 1024 ? `${kb.toFixed(1)} KB` : `${(kb / 1024).toFixed(2)} MB`;\n}\n\n\n/* ============================================================================\n   Collections\n============================================================================ */\n\nconst collections = {\n\tActors: game.actors,\n\tItems: game.items,\n\tScenes: game.scenes,\n\tJournals: game.journal,\n\tRollTables: game.tables,\n\tPlaylists: game.playlists,\n\tMacros: game.macros\n};\n\n\n/* ============================================================================\n   Build UI data\n============================================================================ */\n\nconst tabs = [];\nconst contents = [];\n\nlet totalWorldSize = 0;\n\nlet summaryHTML =\n\t\"<table><thead><tr><th>Type</th><th>Count</th><th>Total Size</th><th>Warn @</th></tr></thead><tbody>\";\n\nfor (const [label, collection] of Object.entries(collections)) {\n\n\tconst threshold = SIZE_THRESHOLDS[label] ?? 100;\n\n\tconst entries = [];\n\tlet totalSize = 0;\n\n\tfor (const doc of collection.contents) {\n\t\tconst size = getSizeInKB(doc.toObject());\n\t\ttotalSize += size;\n\t\tentries.push({ name: doc.name, size });\n\t}\n\n\ttotalWorldSize += totalSize;\n\n\tentries.sort((a, b) => b.size - a.size);\n\n\t/* ---------- Summary row ---------- */\n\n\tsummaryHTML += `\n\t\t<tr>\n\t\t\t<td>${label}</td>\n\t\t\t<td>${entries.length}</td>\n\t\t\t<td>${formatSizeKB(totalSize)}</td>\n\t\t\t<td>${threshold} KB</td>\n\t\t</tr>\n\t`;\n\n\t/* ---------- Tab content ---------- */\n\n\tconst entryList = entries.map(e => {\n\t\tlet style = \"\", title = \"\";\n\n\t\tif (e.size >= threshold) {\n\t\t\tstyle = \"color:#d33;font-weight:bold;\";\n\t\t\ttitle = \"Above threshold\";\n\t\t} else if (e.size >= threshold * 0.85) {\n\t\t\tstyle = \"color:#e67e22;font-weight:bold;\";\n\t\t\ttitle = \"Near threshold\";\n\t\t}\n\n\t\tconst attr = style ? ` style=\"${style}\" title=\"${title}\"` : \"\";\n\n\t\treturn `<li${attr}><strong>${e.name}</strong>: ${formatSizeKB(e.size)}</li>`;\n\t}).join(\"\");\n\n\tconst sectionHTML = `\n\t\t<div class=\"tab-content\" data-group=\"perf-tabs\" data-tab=\"${label}\" style=\"display:none;\">\n\t\t\t<p><strong>Large threshold:</strong> ${threshold} KB</p>\n\t\t\t<ul>${entryList}</ul>\n\t\t\t<p><em>Total size for ${label}: ${formatSizeKB(totalSize)}</em></p>\n\t\t</div>\n\t`;\n\n\ttabs.push(`<a class=\"item\" data-tab=\"${label}\">[ ${label} ]</a>`);\n\tcontents.push(sectionHTML);\n}\n\n\n/* ============================================================================\n   Summary tab\n============================================================================ */\n\nsummaryHTML += `\n\t</tbody></table>\n\t<p><strong>Total World Size:</strong> ${formatSizeKB(totalWorldSize)}</p>\n`;\n\ntabs.unshift(`<a class=\"item active\" data-tab=\"Summary\">[ Summary ]</a>`);\ncontents.unshift(`\n\t<div class=\"tab-content\" data-group=\"perf-tabs\" data-tab=\"Summary\" style=\"display:block;\">\n\t\t${summaryHTML}\n\t</div>\n`);\n\n\n/* ============================================================================\n   Dialog\n============================================================================ */\n\nnew Dialog({\n\ttitle: \"World Data Usage Snapshot\",\n\tcontent: `\n\t\t<style>\n\t\t\t#world-usage-container {\n\t\t\t\tdisplay:flex;\n\t\t\t\tflex-direction:column;\n\t\t\t\theight:600px;\n\t\t\t}\n\t\t\t#world-usage-tabs {\n\t\t\t\tflex:0 0 auto;\n\t\t\t\tmargin-bottom:0.5em;\n\t\t\t}\n\t\t\t#world-usage-wrapper {\n\t\t\t\tflex:1 1 auto;\n\t\t\t\toverflow-y:auto;\n\t\t\t}\n\t\t\tnav.tabs a.item {\n\t\t\t\tmargin-right:0.5em;\n\t\t\t}\n\t\t</style>\n\n\t\t<div id=\"world-usage-container\">\n\t\t\t<nav id=\"world-usage-tabs\" class=\"tabs\" data-group=\"perf-tabs\">\n\t\t\t\t${tabs.join(\"\")}\n\t\t\t</nav>\n\t\t\t<div id=\"world-usage-wrapper\">\n\t\t\t\t${contents.join(\"\")}\n\t\t\t</div>\n\t\t</div>\n\t`,\n\tbuttons: {\n\t\tclose: { label: \"Close\" }\n\t},\n\trender: html => {\n\t\tconst tabNav = html.find(\"nav.tabs\");\n\t\tconst contents = html.find(\".tab-content\");\n\n\t\ttabNav.on(\"click\", \"a.item\", event => {\n\t\t\tconst tabId = event.currentTarget.dataset.tab;\n\n\t\t\ttabNav.find(\"a.item\").removeClass(\"active\");\n\t\t\tcontents.hide();\n\n\t\t\tevent.currentTarget.classList.add(\"active\");\n\t\t\thtml.find(`.tab-content[data-tab=\"${tabId}\"]`).show();\n\t\t});\n\t}\n}).render(true, {\n\twidth: 900,\n\tresizable: true\n});",
+  "img": "icons/svg/dice-target.svg",
+  "author": "lfU9NncyG8LWlt8v",
+  "scope": "global",
+  "folder": "qHfFjQU5yZWGUICI",
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1748414420251,
+    "modifiedTime": 1777007202023,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_id": "Ey931c2iLdyIbpl2",
+  "sort": 1000000,
+  "_key": "!macros!Ey931c2iLdyIbpl2"
+}

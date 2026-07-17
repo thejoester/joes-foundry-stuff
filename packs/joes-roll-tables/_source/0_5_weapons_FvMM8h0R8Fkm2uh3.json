@@ -1,0 +1,3540 @@
+{
+  "folder": "Nf5OLFYWHnH6Uzj4",
+  "name": "0-5 Weapons",
+  "_id": "FvMM8h0R8Fkm2uh3",
+  "img": "icons/weapons/swords/greatsword-blue.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/adze.webp",
+      "_id": "oNhlqKAEBRXlyftn",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Adze",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8V4mgecGASsQ7fjl",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.oNhlqKAEBRXlyftn"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/weapons/crossbows/crossbow-purple.webp",
+      "_id": "LBnPsmenzIX9XMl6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Arbalest",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.K3qNqWRvBhnlwE3Q",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.LBnPsmenzIX9XMl6"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        7,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/weapons/swords/sword-guard.webp",
+      "_id": "DOtqDpvos0GGpWsb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bastard Sword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6KWYmeRMxsQfWhhJ",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.DOtqDpvos0GGpWsb"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        11,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/weapons/axes/axe-battle-black.webp",
+      "_id": "GiihGemkFt97pSvf",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Battle Axe",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.War0uyLBx1jA0Ge7",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.GiihGemkFt97pSvf"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        15,
+        17
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/blowgun.webp",
+      "_id": "6guoTKCLle7PFt9c",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blowgun",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FPwsiGqMCNPLHmjX",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.6guoTKCLle7PFt9c"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        18,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-simple-gold.webp",
+      "_id": "dTRo5YzkxfeIIqNv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bo Staff",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hMYdSFmMWzidzHih",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.dTRo5YzkxfeIIqNv"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        21,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/weapons/thrown/bolas-stone.webp",
+      "_id": "HVeUXLMHwnIoeYq8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bola",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YUzPv0i8d8p2J9yx",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.HVeUXLMHwnIoeYq8"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        24,
+        25
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/breaching-pike.webp",
+      "_id": "KbgkeLZdwnSSmbeC",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Breaching Pike",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ymyPCjfyXCNyDcnn",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.KbgkeLZdwnSSmbeC"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        26,
+        27
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/weapon.svg",
+      "_id": "ASjo1s1lmK6X5vZF",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Capturing Spetum",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.IBxtmyiVjWVqFawh",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.ASjo1s1lmK6X5vZF"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        28,
+        29
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/clan-dagger.webp",
+      "_id": "MSSOVLSCbQIgtM7A",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clan Dagger",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kJJvKm80KwWXPukV",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.MSSOVLSCbQIgtM7A"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        30,
+        31
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/claw-blade.webp",
+      "_id": "Lld2Eo69MTlXUnt7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Claw Blade",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fvvfZxfGV9i3urkd",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Lld2Eo69MTlXUnt7"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        32,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/weapons/clubs/club-banded-brown.webp",
+      "_id": "XUyxaOISw88LY6LI",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Club",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.c58wczIzH2gzeXQL",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.XUyxaOISw88LY6LI"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        35,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+      "_id": "4XybiYvapc51aBll",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Composite Longbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dUC8Fsa6FZtVikS3",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.4XybiYvapc51aBll"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        38,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/weapons/bows/shortbow-recurve-bone.webp",
+      "_id": "76Qgqs1dJHWbkq8p",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Composite Shortbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.e4NwsnPnpQKbDZ9F",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.76Qgqs1dJHWbkq8p"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        41,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/weapons/crossbows/crossbow-simple-brown.webp",
+      "_id": "oqypSpaPviQkJcDb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Crossbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.62nnVQvGhoVLLl2K",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.oqypSpaPviQkJcDb"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        44,
+        46
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/rungu.webp",
+      "_id": "cepQNTuS171JQHIQ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cruuk",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.v8C4hkqMNeUk60Db",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.cepQNTuS171JQHIQ"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        47,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/weapons/daggers/dagger-straight-blue.webp",
+      "_id": "iIxlFg6pr5yOO0sP",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dagger",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rQWaJhI5Bko5x14Z",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.iIxlFg6pr5yOO0sP"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        51,
+        52
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/daikyu.webp",
+      "_id": "qMZJwltQvIncem1T",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Daikyu",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RN3m5Hb5LPbdZGoO",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.qMZJwltQvIncem1T"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        53,
+        55
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/dart.webp",
+      "_id": "xzcg6tp9bD3Sj4SB",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dart",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Tt4Qw64fwrxhr5gT",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.xzcg6tp9bD3Sj4SB"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/dogslicer.webp",
+      "_id": "ihEunhKk41yxpdxV",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dogslicer",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.olwngGXM3hpgoLEP",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.ihEunhKk41yxpdxV"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/dwarven-war-axe.webp",
+      "_id": "9NAiQTKAYeyqeZVl",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dwarven War Axe",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MYnh7w7EL3AcQT41",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.9NAiQTKAYeyqeZVl"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/elven-curve-blade.webp",
+      "_id": "xSttYDvzZ8GdZ7Sr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Elven Curve Blade",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mgrabKkyLmvxgLBK",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.xSttYDvzZ8GdZ7Sr"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        62,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/weapons/swords/scimitar-guard-wood.webp",
+      "_id": "FtKUUAYjg3ZsSL3F",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Falchion",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XGtIUZ4ZNKuFx1uL",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.FtKUUAYjg3ZsSL3F"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        65,
+        66
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/fangwire.webp",
+      "_id": "8lR11t5xNX7gzd2A",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fangwire",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wYruARP1YLfTQBsc",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.8lR11t5xNX7gzd2A"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        67,
+        68
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/filchers-fork.webp",
+      "_id": "f0fktKF5dEngPisE",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Filcher's Fork",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.CVTgOpNuRE7hsnc1",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.f0fktKF5dEngPisE"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        69,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/weapons/maces/flail-ball-grey.webp",
+      "_id": "RZXCyBanOh2zZOHP",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Flail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.t5FbyZtRL4qV0V7k",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.RZXCyBanOh2zZOHP"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        72,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/equipment/hand/gauntlet-tooled-steel.webp",
+      "_id": "qSDD7KpXMVAIEbRH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Gauntlet",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ix2vicchE79d6Cl3",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.qSDD7KpXMVAIEbRH"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        75,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/weapons/polearms/glaive-simple.webp",
+      "_id": "D3jRVZ24qpyjeTLZ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Glaive",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vlnzTSsRmWeSkt9O",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.D3jRVZ24qpyjeTLZ"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        78,
+        79
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/gnome-flickmace.webp",
+      "_id": "vis3smPVxrA4HOZt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Gnome Flickmace",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oSQET5hKn9q4xlrl",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.vis3smPVxrA4HOZt"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        80,
+        81
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/gnome-hooked-hammer.webp",
+      "_id": "jnK1hImLORpZWDud",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Gnome Hooked Hammer",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1U7Laa7Yt7i3G77L",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.jnK1hImLORpZWDud"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        82,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/weapons/axes/axe-double-engraved.webp",
+      "_id": "ZtaAmzACziEPkw2Y",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Greataxe",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8COlYvHe6hKCXY8x",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.ZtaAmzACziEPkw2Y"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        86,
+        88
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/greatclub.webp",
+      "_id": "TkPucROr8RccxCjj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Greatclub",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kdGqnqbrwPzQfTsm",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.TkPucROr8RccxCjj"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        89,
+        91
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/greatpick.webp",
+      "_id": "T74m8sEHVotZzZLT",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Greatpick",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3Zv5hSXXtlaDatUv",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.T74m8sEHVotZzZLT"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        92,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
+      "_id": "o90fHjB64MW1G8Pv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Greatsword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UX71GkWBL9g41VwM",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.o90fHjB64MW1G8Pv"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        96,
+        98
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/guisarme.webp",
+      "_id": "cNFxairlSRxlz4Sl",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Guisarme",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TT0pJz9odKApfq6D",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.cNFxairlSRxlz4Sl"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        99,
+        102
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/halberd.webp",
+      "_id": "S82USPdFbKSbdMJA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Halberd",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dgWxsYm0DWHb27h6",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.S82USPdFbKSbdMJA"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        103,
+        104
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/halfling-sling-staff.webp",
+      "_id": "zfV3lR3SlY7eIXL4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Halfling Sling Staff",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.DV4qelKHrviM0O5i",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.zfV3lR3SlY7eIXL4"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        105,
+        107
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/adze.webp",
+      "_id": "M8kZm45WFjFuBMQG",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hand Adze",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MccX4AlmqYDjAN2J",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.M8kZm45WFjFuBMQG"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        108,
+        110
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/hand-crossbow.webp",
+      "_id": "LbQdbF1zoAEtiJ2I",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hand Crossbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XyA6PKV46aNlLXOd",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.LbQdbF1zoAEtiJ2I"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        111,
+        113
+      ],
+      "drawn": false,
+      "img": "icons/weapons/axes/axe-broad-black.webp",
+      "_id": "FNhsrjZLASnLEcmA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hatchet",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LGgvev6AV0So8tP9",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.FNhsrjZLASnLEcmA"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        114,
+        116
+      ],
+      "drawn": false,
+      "img": "icons/weapons/crossbows/crossbow-simple-black.webp",
+      "_id": "Gr09mWK3jCvuHPfT",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Heavy Crossbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.giO4LwIKGzJZoaxa",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Gr09mWK3jCvuHPfT"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        117,
+        118
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/horsechopper.webp",
+      "_id": "6rfy1QTwf2LSKyb2",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Horsechopper",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YnwEttFE1bJacLDh",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.6rfy1QTwf2LSKyb2"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        119,
+        121
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/javelin.webp",
+      "_id": "F7T3nEEXoved3EGG",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Javelin",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JNt7GmLCCVz5BiEI",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.F7T3nEEXoved3EGG"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        122,
+        123
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/kama.webp",
+      "_id": "Oh4BLNU3CRIJ3ip8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Kama",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zSAoyzcf3nSeZCiF",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Oh4BLNU3CRIJ3ip8"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        124,
+        125
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/katana.webp",
+      "_id": "cdbEiLuMon2bWV01",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Katana",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Y1dkRsRd1Z7Jf2y6",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.cdbEiLuMon2bWV01"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        126,
+        127
+      ],
+      "drawn": false,
+      "img": "icons/weapons/fist/fist-katar-gold.webp",
+      "_id": "U6ml9MZUu4MVTZTb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Katar",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Fg3GkCDkszj5WtgQ",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.U6ml9MZUu4MVTZTb"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        128,
+        129
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/khakkhara.webp",
+      "_id": "rq1YCegV9eGjGW79",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Khakkhara",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KgKSX95uVSg8iBBA",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.rq1YCegV9eGjGW79"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        130,
+        131
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/khopesh.webp",
+      "_id": "AY2AjiOL1DKmlwoY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Khopesh",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YLb6XnT7OxAVGL5m",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.AY2AjiOL1DKmlwoY"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        132,
+        133
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/kukri.webp",
+      "_id": "DDGJ0DEHXPgMcluO",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Kukri",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TDrO7Xdyn7juFy3c",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.DDGJ0DEHXPgMcluO"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        134,
+        136
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/lance.webp",
+      "_id": "GSZgEDwk9jnjN3dI",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lance",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OPMzQdM9rZznMGhW",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.GSZgEDwk9jnjN3dI"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        137,
+        139
+      ],
+      "drawn": false,
+      "img": "icons/weapons/hammers/shorthammer-embossed-white.webp",
+      "_id": "Mi2iVf4OU0ibX7Fx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Light Hammer",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FibwLZ12EIEwLGhw",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Mi2iVf4OU0ibX7Fx"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        140,
+        142
+      ],
+      "drawn": false,
+      "img": "icons/weapons/maces/mace-round-steel.webp",
+      "_id": "9S9b2qDoMTJSOJiA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Light Mace",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.x1TOpwH755Ami5bC",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.9S9b2qDoMTJSOJiA"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        143,
+        145
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/light-pick.webp",
+      "_id": "BzbHu51oN9VasP3E",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Light Pick",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RbM4HvPyrZ4YJxRc",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.BzbHu51oN9VasP3E"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        146,
+        148
+      ],
+      "drawn": false,
+      "img": "icons/weapons/bows/longbow-recurve-leather-brown.webp",
+      "_id": "j5fWVUKnKOSn7uFe",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Longbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MVAWttmT0QDa7LsV",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.j5fWVUKnKOSn7uFe"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        149,
+        151
+      ],
+      "drawn": false,
+      "img": "icons/weapons/polearms/spear-simple-engraved.webp",
+      "_id": "96L4xVg8x0qLLVBa",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Longspear",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.aXuJh4i8HqSu6NYV",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.96L4xVg8x0qLLVBa"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        152,
+        155
+      ],
+      "drawn": false,
+      "img": "icons/weapons/swords/sword-guard-blue.webp",
+      "_id": "MqiCb2kmpyETgZvL",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Longsword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LJdbVTOZog39EEbi",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.MqiCb2kmpyETgZvL"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        156,
+        159
+      ],
+      "drawn": false,
+      "img": "icons/weapons/maces/mace-flanged-steel.webp",
+      "_id": "rzmlUShWmQtKc6NK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mace",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.9iDqOLNFKxiTcFKE",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.rzmlUShWmQtKc6NK"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        160,
+        162
+      ],
+      "drawn": false,
+      "img": "icons/weapons/polearms/spear-ornate-gold.webp",
+      "_id": "WzW7w2Oj293SPXlG",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Main-Gauche",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iWcw1sFLAzByVLBP",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.WzW7w2Oj293SPXlG"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        163,
+        164
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/mambele.webp",
+      "_id": "WB22HCo1rCC3Oz2k",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mambele",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MeA0g9xvWCbGxf2g",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.WB22HCo1rCC3Oz2k"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        165,
+        167
+      ],
+      "drawn": false,
+      "img": "icons/weapons/hammers/hammer-double-steel-embossed.webp",
+      "_id": "VOArIpBKhXjxbJEG",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Maul",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mlrmkpOlwpnGkw4I",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.VOArIpBKhXjxbJEG"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        168,
+        170
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/morningstar.webp",
+      "_id": "7Z4vPh8uR09rlMi6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Morningstar",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5fu6dCtqhdBnHNqh",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.7Z4vPh8uR09rlMi6"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        171,
+        173
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/nunchaku.webp",
+      "_id": "L0SnHijaXaZqWrs6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nunchaku",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LA8wwpQBi6tylE6z",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.L0SnHijaXaZqWrs6"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        174,
+        175
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/orc-knuckle-dagger.webp",
+      "_id": "omLpZFJNJiSKGP9n",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Orc Knuckle Dagger",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.sAjzLXgA2LnIwpBM",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.omLpZFJNJiSKGP9n"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        176,
+        177
+      ],
+      "drawn": false,
+      "img": "icons/weapons/axes/axe-battle-heavy-jagged.webp",
+      "_id": "LzAB6AfLIut865Vx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Orc Necksplitter",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.J6H5UbLVsSXShoTs",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.LzAB6AfLIut865Vx"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        178,
+        180
+      ],
+      "drawn": false,
+      "img": "icons/weapons/axes/pickaxe-iron-green.webp",
+      "_id": "1ZCvtQmytWk7r8IA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pick",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6I4YJAQUbTAqbpsI",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.1ZCvtQmytWk7r8IA"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        181,
+        183
+      ],
+      "drawn": false,
+      "img": "icons/weapons/polearms/trident-curved-steel.webp",
+      "_id": "TApASgbzIIAAzIbN",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ranseur",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UfurZQK6H6SgOjqe",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.TApASgbzIIAAzIbN"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        184,
+        186
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/rapier.webp",
+      "_id": "aEOg0nln4k98BQOy",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rapier",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tH5GirEy7YB3ZgCk",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.aEOg0nln4k98BQOy"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        187,
+        188
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sai.webp",
+      "_id": "yYyyIGAtXAcltmBt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sai",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.u2u6dkr01AB34tyA",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.yYyyIGAtXAcltmBt"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        189,
+        191
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sap.webp",
+      "_id": "tG6Q4S1LmVIYNBd5",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sap",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TLQErnOpM9Luy7rL",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.tG6Q4S1LmVIYNBd5"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        192,
+        193
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sawtooth-saber.webp",
+      "_id": "MM2wTcsKgroaHb41",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sawtooth Saber",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wkzxLpSe7LN6c5Ld",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.MM2wTcsKgroaHb41"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        194,
+        197
+      ],
+      "drawn": false,
+      "img": "icons/weapons/swords/scimitar-worn-blue.webp",
+      "_id": "HjHQ8dXdtHCXkOXn",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scimitar",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.grmaV4GdoGD7sKbn",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.HjHQ8dXdtHCXkOXn"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        198,
+        200
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/scythe.webp",
+      "_id": "gaDcTjRZ6xFUGB1c",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scythe",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.H74vYwHJ8XT4qOPI",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.gaDcTjRZ6xFUGB1c"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        201,
+        203
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/shield-boss.webp",
+      "_id": "tuUExDc7e0EdKIpv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shield Boss",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dfum7DpOEkwxwTsT",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.tuUExDc7e0EdKIpv"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        204,
+        206
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/shield-spikes.webp",
+      "_id": "Eo5YdcuqLBaQMKX7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shield Spikes",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nSO0Z662LkkLfa2u",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Eo5YdcuqLBaQMKX7"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        207,
+        210
+      ],
+      "drawn": false,
+      "img": "icons/weapons/bows/shortbow-leather.webp",
+      "_id": "U3JqndwmMwrOcAvA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shortbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hIgqLgH3YcLZBeoT",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.U3JqndwmMwrOcAvA"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        211,
+        214
+      ],
+      "drawn": false,
+      "img": "icons/weapons/swords/sword-guard-purple.webp",
+      "_id": "WA6Z3NuwguNq9Rt5",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shortsword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7tKkkF8eZ4iCLJtp",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.WA6Z3NuwguNq9Rt5"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        215,
+        216
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/shuriken.webp",
+      "_id": "zBw25gdoDVB58jPr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shuriken",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fjkwYZ0hRmBztwBG",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.zBw25gdoDVB58jPr"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        217,
+        219
+      ],
+      "drawn": false,
+      "img": "icons/tools/hand/sickle-steel-grey.webp",
+      "_id": "G07tsBPL8EaQrNgg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sickle",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ynnBwzkzsR6B73iO",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.G07tsBPL8EaQrNgg"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        220,
+        222
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sling.webp",
+      "_id": "S0j4c6FS1vDmtjwC",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sling",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UCH4myuFnokGv0vF",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.S0j4c6FS1vDmtjwC"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        223,
+        226
+      ],
+      "drawn": false,
+      "img": "icons/weapons/polearms/spear-flared-steel.webp",
+      "_id": "ZdNhMVzVIAFB8zRQ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spear",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tOhoGvmCMw4JpWcS",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.ZdNhMVzVIAFB8zRQ"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        227,
+        228
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/spiked-chain.webp",
+      "_id": "gnX95xpXnSDnXHqO",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spiked Chain",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zi9ovfoRp2fMhfpO",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.gnX95xpXnSDnXHqO"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        229,
+        231
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/spiked-gauntlet.webp",
+      "_id": "D0pJddo4HXILxbbE",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spiked Gauntlet",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YFfG2fMyaIAXkmtr",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.D0pJddo4HXILxbbE"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        232,
+        233
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/weapon.svg",
+      "_id": "zSmlNN6tsdwKVMpE",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spirit Thresher",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.0z3x5UzMlZLcDOUv",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.zSmlNN6tsdwKVMpE"
+    },
+    {
+      "type": "document",
+      "weight": 4,
+      "range": [
+        234,
+        237
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-simple.webp",
+      "_id": "0pCSC0w9Xfxg18uR",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FVjTuBCIefAgloUU",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.0pCSC0w9Xfxg18uR"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        238,
+        240
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/starknife.webp",
+      "_id": "nxlLlpx7wSwiPs3e",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Starknife",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Mv2I6M70bagbaBPn",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.nxlLlpx7wSwiPs3e"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        241,
+        243
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sword-cane.webp",
+      "_id": "ShdxJ27Fj83v42wu",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sword Cane",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VitLIpdIAmKlGb7i",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.ShdxJ27Fj83v42wu"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        244,
+        245
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/temple-sword.webp",
+      "_id": "XTWviTpfLKfwhtLz",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Temple Sword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NIsxR5zXtVa3PuyU",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.XTWviTpfLKfwhtLz"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        246,
+        247
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/tengu-gale-blade.webp",
+      "_id": "agfmNA9gRC5vx5y9",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tengu Gale Blade",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6qJkA6fnHHiF4CEV",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.agfmNA9gRC5vx5y9"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        248,
+        249
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/thunder-sling.webp",
+      "_id": "2vNHlVuBhaU3Bkiy",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Thunder Sling",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pnA6uENYDDduWmAn",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.2vNHlVuBhaU3Bkiy"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        250,
+        251
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/tricky-pick.webp",
+      "_id": "VFRRrbJc3A7vu6Sb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tricky Pick",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zO6Fvq7ghEXpJgJR",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.VFRRrbJc3A7vu6Sb"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        252,
+        254
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/trident.webp",
+      "_id": "Wg2FGJGfr9EDeplH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Trident",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FJrsDoaIXksVjld9",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Wg2FGJGfr9EDeplH"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        255,
+        256
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/wakizashi.webp",
+      "_id": "wAnNnD5wkheLLT40",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Wakizashi",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YOpopjoWgU7bkmwh",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.wAnNnD5wkheLLT40"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        257,
+        259
+      ],
+      "drawn": false,
+      "img": "icons/weapons/maces/flail-studded-grey.webp",
+      "_id": "BFxtw2KK5lkqbEHI",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "War Flail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mVxA9E2ernBL6fM6",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.BFxtw2KK5lkqbEHI"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        260,
+        262
+      ],
+      "drawn": false,
+      "img": "icons/weapons/hammers/hammer-war-rounding.webp",
+      "_id": "LdF6tRG9sH44utFs",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Warhammer",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rXt4629QSg7KDTgJ",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.LdF6tRG9sH44utFs"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        263,
+        265
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/whip.webp",
+      "_id": "oeLf1Lx7qrODprGr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Whip",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.f1gwoTkf3Nn0v3PN",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.oeLf1Lx7qrODprGr"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        266,
+        267
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/whip-claw.webp",
+      "_id": "qmmv06Z4N0SgWOIe",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Whip Claw",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.QAEVaSQ3SCT8AuBX",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.qmmv06Z4N0SgWOIe"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        268,
+        270
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+      "_id": "VYrnoRh9foHqHwa1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Acid Flask (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.M1k5QQc1qQLxzyCK",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.VYrnoRh9foHqHwa1"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        271,
+        273
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+      "_id": "tPw9klZO1uJ4qHyl",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Alchemist's Fire (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yd3kEK21YknZLlcT",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.tPw9klZO1uJ4qHyl"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        274,
+        276
+      ],
+      "drawn": false,
+      "img": "icons/commodities/gems/pearl-rough-turquoise.webp",
+      "_id": "6VdZC3aPv94YC6NB",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blasting Stone (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Xnqglykl3Cif8rN9",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.6VdZC3aPv94YC6NB"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        277,
+        279
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/blight-bomb.webp",
+      "_id": "J6hOp0CCZIwolizE",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blight Bomb (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.j8ajvNqyyQGBpBch",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.J6hOp0CCZIwolizE"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        280,
+        282
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp",
+      "_id": "m7KNrXJ7Jrtv4nKG",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bottled Lightning (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AFR01HVd7DcZvkpP",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.m7KNrXJ7Jrtv4nKG"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        283,
+        285
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/dread-ampoule.webp",
+      "_id": "vb1LvXAfFKWTKzRR",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dread Ampoule (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ds0OdA989ZZw9km1",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.vb1LvXAfFKWTKzRR"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        286,
+        287
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/flying-talon.webp",
+      "_id": "cFQ6Nt5H0JKtkNSA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Flying Talon",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ucz1WdBA0Ma34OsS",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.cFQ6Nt5H0JKtkNSA"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        288,
+        290
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/frost-vial.webp",
+      "_id": "ZmsU6GC1q0LfZKU7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frost Vial (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.EpxmUtLpCkE8R6KJ",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.ZmsU6GC1q0LfZKU7"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        291,
+        293
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/ghost-charge.webp",
+      "_id": "1Bydd14OjnDSYDVo",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ghost Charge (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LNd5u19GqC51ngby",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.1Bydd14OjnDSYDVo"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        294,
+        296
+      ],
+      "drawn": false,
+      "img": "icons/containers/bags/sack-simple-leather-tan.webp",
+      "_id": "dsdoGF5LGwFnbDa5",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Glue Bomb (Lesser)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.T6Appwwl6nUl56Xj",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.dsdoGF5LGwFnbDa5"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        297,
+        299
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/holy-water.webp",
+      "_id": "Iof4B0y4U1bBhNQJ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Holy Water",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.Iof4B0y4U1bBhNQJ"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        300,
+        302
+      ],
+      "drawn": false,
+      "img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+      "_id": "739bzg4OiRxrHf5p",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Handwraps of Mighty Blows",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.739bzg4OiRxrHf5p"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        303,
+        305
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/unholy-water.webp",
+      "_id": "1U5VQe3DtkJlh5gT",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Unholy Water",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.EGhUorZhB7nV73Ev",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.1U5VQe3DtkJlh5gT"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        306,
+        308
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+      "_id": "3iBbWwqPm1Rrxjy4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Acid Flask (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SgtqZxt26BdjUmEB",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.3iBbWwqPm1Rrxjy4"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        309,
+        311
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+      "_id": "CssE9hVeywtziVjt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Alchemist's Fire (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.CssE9hVeywtziVjt"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        312,
+        314
+      ],
+      "drawn": false,
+      "img": "icons/commodities/gems/pearl-rough-turquoise.webp",
+      "_id": "rBo62Qypi7ebVLyY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blasting Stone (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JOaELkzLWTywhn5Z",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.rBo62Qypi7ebVLyY"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        315,
+        317
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/blight-bomb.webp",
+      "_id": "l1rFQ0KjtV3ZWEkc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blight Bomb (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.158vwM1andv8DbRI",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.l1rFQ0KjtV3ZWEkc"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        318,
+        320
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp",
+      "_id": "btzEd2HPdVysdWiv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bottled Lightning (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.97QyNEOAyYLdGaYc",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.btzEd2HPdVysdWiv"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        321,
+        323
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/dread-ampoule.webp",
+      "_id": "T7SSzq0RHUXmbPtg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dread Ampoule (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.IvFEJqp2MUew65nQ",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.T7SSzq0RHUXmbPtg"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        324,
+        326
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/fighters-fork.webp",
+      "_id": "xNzVvefDiA50SQRd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fighter's Fork",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Kx6FQS5GyVB6jlrW",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.xNzVvefDiA50SQRd"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        327,
+        329
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/frost-vial.webp",
+      "_id": "wElnGxi8i7IYRUHv",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frost Vial (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.wElnGxi8i7IYRUHv"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        330,
+        332
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/ghost-charge.webp",
+      "_id": "A5dzUSekEQxZ6gji",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ghost Charge (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Wf94e8YNhZdIvWc9",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.A5dzUSekEQxZ6gji"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        333,
+        335
+      ],
+      "drawn": false,
+      "img": "icons/containers/bags/sack-simple-leather-tan.webp",
+      "_id": "xb4C73LTofsQhHNd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Glue Bomb (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.xb4C73LTofsQhHNd"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        336,
+        338
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/retribution-axe.webp",
+      "_id": "gwkJ1O2BCGYj0n5j",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Retribution Axe",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.q6ZvspNDkzJSP6dg",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.gwkJ1O2BCGYj0n5j"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        339,
+        341
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/staves/staff-of-fire.webp",
+      "_id": "NXlzEaxqvV4HJvDK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Fire",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.opfpl1JmKgrfds9P",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.NXlzEaxqvV4HJvDK"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        342,
+        344
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-bird.webp",
+      "_id": "IIBUjKLanoFTmfY6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Animal Staff",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WcuknnE3xYfSdbhm",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.IIBUjKLanoFTmfY6"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        345,
+        347
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/crystal-shards.webp",
+      "_id": "GqL3qfK5vrluNQkh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Crystal Shards (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.V4wgOWYmHlbSZsVG",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.GqL3qfK5vrluNQkh"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        348,
+        350
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/staves/mentalist-staff.webp",
+      "_id": "6rBQVhQ0UL3qr4Nj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mentalist's Staff",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xwiZBOjispKVZzGA",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.6rBQVhQ0UL3qr4Nj"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        351,
+        353
+      ],
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-gold-jeweled.webp",
+      "_id": "gMS9QE5yVYj6UWe8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Staff of Healing",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3OkOKxCee9WruGU5",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.gMS9QE5yVYj6UWe8"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        354,
+        356
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sling.webp",
+      "_id": "GK35SrdIDqT6ycqr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Caterwaul Sling",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2KNAip9W6IoBrfIU",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.GK35SrdIDqT6ycqr"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        357,
+        359
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sword-cane.webp",
+      "_id": "EAsfSgHGgsP9RAaz",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Infiltrator's Accessory",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AYdpUABAZeZnSA7s",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.EAsfSgHGgsP9RAaz"
+    },
+    {
+      "type": "document",
+      "weight": 3,
+      "range": [
+        360,
+        362
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/dagger-of-venom.webp",
+      "_id": "YrslZEIBskNSzg8b",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Serpent Dagger",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZvIEJCY60fHqzl6r",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.YrslZEIBskNSzg8b"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        363,
+        363
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/singing-sword.webp",
+      "_id": "94giYuGPTQ5z8AEd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Singing Sword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OKAR7GIyJac8dmsi",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.94giYuGPTQ5z8AEd"
+    },
+    {
+      "type": "document",
+      "weight": 2,
+      "range": [
+        364,
+        365
+      ],
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/trident.webp",
+      "_id": "6XZ3bJlTNWVn38LD",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tiger Fork",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uGu3NWhpPowH0zkR",
+      "description": "",
+      "_key": "!tables.results!FvMM8h0R8Fkm2uh3.6XZ3bJlTNWVn38LD"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "lfU9NncyG8LWlt8v": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1727004315019,
+    "modifiedTime": 1727005108893,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "formula": "1d365",
+  "_key": "!tables!FvMM8h0R8Fkm2uh3"
+}

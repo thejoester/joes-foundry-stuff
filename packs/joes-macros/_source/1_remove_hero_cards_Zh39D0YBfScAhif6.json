@@ -1,0 +1,34 @@
+{
+  "name": "1 - Remove Hero Cards",
+  "type": "script",
+  "scope": "global",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "icons/svg/card-joker.svg",
+  "command": "/*\n  {MASTER! LINK TO THIS ONE }\n  ================================\n  const UUID = \"Compendium.joes-foundry-stuff.joes-macros.Macro.Zh39D0YBfScAhif6\";\n\n  const macroDoc = await fromUuid(UUID);\n  if (!macroDoc) {\n      ui.notifications.error(\"Failed to load compendium macro.\");\n      return;\n  }\n  \n  await macroDoc.execute();\n  ================================\n*/\nconst tbMod = game.modules.get(\"pf2e-toolbelt\");\n\nif (!tbMod?.active) {\n\tui.notifications.warn(\"The module <strong>PF2e Toolbelt</strong> is not active\");\n\treturn;\n}\n\nconst heroActions = game.toolbelt?.api?.heroActions;\n\nif (!heroActions?.removeHeroActions) {\n\tui.notifications.error(\"PF2e Toolbelt heroActions API not found (game.toolbelt.api.heroActions.removeHeroActions).\");\n\treturn;\n}\n\nawait heroActions.removeHeroActions();",
+  "folder": "06uaSdHjxxKyCJef",
+  "ownership": {
+    "default": 0,
+    "yeHEtwwINHpJ5Cu9": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "core": {},
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.biHGYDH6JFbJrC3g",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1772508170643,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "Zh39D0YBfScAhif6",
+  "sort": 200000,
+  "_key": "!macros!Zh39D0YBfScAhif6"
+}

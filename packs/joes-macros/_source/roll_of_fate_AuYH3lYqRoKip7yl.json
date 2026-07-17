@@ -1,0 +1,32 @@
+{
+  "name": "Roll Of Fate",
+  "type": "script",
+  "command": "// Array of funny descriptions\nlet descriptions = [\n\t\"🦋 Desna’s wings stir the air around you. A small choice, a huge ripple. Who does the starlight land on tonight? 🦋\",\n\t\"🌌 The night sky feels close enough to touch. Desna hums a wandering tune, and fate takes a single step forward. 🌌\",\n\t\"✨ A trail of silver stardust curls across your path. Desna nudges the moment, gentle as a dream. ✨\",\n\t\"🌙 Under Desna’s moonlit gaze, your footsteps feel lighter. One of you is about to be picked by the heavens. 🌙\",\n\t\"🧭 Desna smiles on travelers and the lost alike. The compass spins, slows, and settles on its answer. 🧭\",\n\t\"💫 A falling star scratches a bright line through the dark. Desna’s blessing arrives the way it always does: unexpectedly. 💫\",\n\t\"🕯️ The world goes quiet for half a heartbeat, like a dream holding its breath. Desna whispers, and someone is chosen. 🕯️\",\n\t\"🌠 You feel it before you see it. The constellation shifts. Desna rearranges the night to point at one soul. 🌠\",\n\t\"🦋 A butterfly circles once, twice, then vanishes into the gloom. Desna’s sign is subtle, but the choice won’t be. 🦋\",\n\t\"🌈 The horizon glows with impossible color, like a place you’ve never been but somehow remember. Desna guides the moment. 🌈\",\n\t\"🔮 The future doesn’t shout. It shimmers. Desna’s dreams curl around the edges of reality and pick their favorite. 🔮\",\n\t\"🎶 Somewhere far away, a traveler’s song drifts on the wind. Desna keeps the rhythm, and fate keeps time. 🎶\",\n\t\"🌟 The stars blink like they’re laughing at how serious you’re being. Desna’s luck is never random, just mysterious. 🌟\",\n\t\"🌜 In the hush between heartbeats, Desna’s moonlight brushes your shoulders. One name is about to glow brighter than the rest. 🌜\"\n];\n\n// Pick tokens + randoms\nconst tokens = canvas.tokens.controlled;\nconst tokenNames = tokens.map(t => t.name);\n\nif (tokenNames.length === 0) {\n\tui.notifications.warn(\"no tokens selected.\");\n\treturn;\n}\n\nconst randomDescription = descriptions[Math.floor(Math.random() * descriptions.length)];\nconst randomTokenName = tokenNames[Math.floor(Math.random() * tokenNames.length)];\n\n// Smaller PF2e-themed card (Desna)\nconst logoPath = \"systems/pf2e/icons/deities/desna.webp\";\n\nconst cardStyle = `\n\tbackground-color:#1d1c1a;\n\tborder: 2px solid #5f574e;\n\tbox-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);\n\tborder-radius: 12px;\n\tpadding: 12px;\n\tcolor: #e4ddc7;\n\tfont-family: 'serif';\n\tmax-width: 420px;\n\tmargin: auto;\n`;\n\nconst hrStyle = `border: 1px solid #5f574e; margin: 10px 0;`;\n\nconst content = `\n\t<div style=\"${cardStyle}\">\n\t\t<div style=\"display:flex; justify-content:center; align-items:center; margin-bottom:8px;\">\n        \t<img src=\"${logoPath}\" style=\"width:64px; height:64px; display:block;\">\n        </div>\n        \n        <div style=\"text-align:center; font-weight:bold; font-size:15px; letter-spacing:1px; color:#c7b26f; margin-bottom:8px;\">\n        \tDESNA\n        </div>\n\n\t\t<div style=\"font-size: 13px; font-style: italic; text-align:center; margin-bottom: 8px;\">\n\t\t\t${randomDescription}\n\t\t</div>\n\n\t\t<hr style=\"${hrStyle}\">\n\n\t\t<div style=\"font-size: 13px; text-align:center; margin-bottom: 6px;\">\n\t\t\t<strong style=\"color:#e4ddc7;\">The chosen is:</strong>\n\t\t</div>\n\n\t\t<div style=\"font-size: 20px; text-align:center; font-weight:bold; color:#c7b26f; letter-spacing:0.5px; margin: 8px 0 2px 0;\">\n\t\t\t${randomTokenName}\n\t\t</div>\n\n\t\t<div style=\"font-size: 11px; font-style: italic; text-align:center; color:#a09888; margin-top: 8px;\">\n\t\t\tThe stars already knew. You just finally caught up.\n\t\t</div>\n        \n        <hr style=\"${hrStyle}\">\n        \n        <div style=\"font-size: 12px; color:#a09888; text-align:center; margin-bottom: 8px;\">\n\t\t\t<strong style=\"color:#e4ddc7;\">Selected tokens:</strong> ${tokenNames.join(\", \")}\n\t\t</div>\n        \n\t</div>\n`;\n\nChatMessage.create({ content });",
+  "img": "icons/magic/symbols/star-yellow.webp",
+  "author": "CLMiGpsYVSTK4VM8",
+  "scope": "global",
+  "folder": "eB83Kvswqyhs0e1Q",
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.2.1",
+    "createdTime": 1723888274406,
+    "modifiedTime": 1772845122055,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_id": "AuYH3lYqRoKip7yl",
+  "sort": 900000,
+  "_key": "!macros!AuYH3lYqRoKip7yl"
+}

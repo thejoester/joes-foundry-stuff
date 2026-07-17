@@ -1,0 +1,32 @@
+{
+  "name": "Invald Trait Search",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "(async () => {\n\t// Valid traits for hazards are not in CONFIG.PF2E, so we define them here.\n\t// Source: https://2e.aonprd.com/Rules.aspx?ID=522\n\t// Note: \"complex\" and \"simple\" are not really traits, but are often mis-entered as such.\n\t// Note: \"environmental\" is also not really a trait, but is used in some official content.\n\t// Note: \"trap\" and \"haunt\" are also not really traits, but are used in some official content.\n\tconst validHazardTraits = new Set([\n\t\t\"mechanical\", \"magical\", \"trap\", \"haunt\", \"environmental\", \"complex\", \"simple\",\n\t\t\"fire\", \"cold\", \"acid\", \"electricity\", \"poison\", \"mental\", \"shadow\", \"light\",\n\t\t\"arcane\", \"divine\", \"primal\", \"occult\", \"auditory\", \"visual\", \"linguistic\", \"emotion\"\n\t]);\n\n\tconst errors = [];\n\n\t// Check all actors for invalid traits\n\tfor (const actor of game.actors.contents) {\n\t\tconst traits = actor.system?.traits?.value ?? [];\n\t\tconst type = actor.type;\n\t\tlet validTraits;\n\n\t\t// Determine which set of valid traits to use based on actor type\n\t\t// Note: We only check hazards and creatures (NPCs, characters, familiars, and generic creatures).\n\t\t// Other actor types (e.g., vehicles, loot, ships) are skipped.\n\t\t// This is because they either don't have traits or have traits that are not well-defined.\n\t\t// If you want to check other actor types, you'll need to define their valid traits as well.\n\t\tif (type === \"hazard\") {\n\t\t\t// Use our defined hazard traits\n\t\t\tvalidTraits = validHazardTraits;\n\t\t} else if ([\"npc\", \"character\", \"familiar\", \"creature\"].includes(type)) {\n\t\t\t// Use PF2e creature traits from CONFIG\n\t\t\tvalidTraits = new Set(Object.keys(CONFIG.PF2E.creatureTraits));\n\t\t} else {\n\t\t\tcontinue; // skip actors without a trait model we trust\n\t\t}\n\n\t\t// Find any traits that are not in the valid set\n\t\tconst invalidTraits = traits.filter(t => !validTraits.has(t));\n\t\t// If any invalid traits are found, log a warning and add to errors list\n\t\tif (invalidTraits.length > 0) {\n\t\t\tconsole.log(`Invalid traits on [${actor.name}] (${actor.id})`, {\n\t\t\t\ttype,\n\t\t\t\ttraits,\n\t\t\t\tinvalidTraits\n\t\t\t});\n\t\t\terrors.push({\n\t\t\t\tname: actor.name,\n\t\t\t\tid: actor.id,\n\t\t\t\ttype,\n\t\t\t\ttraits,\n\t\t\t\tinvalidTraits\n\t\t\t});\n\t\t}\n\t}\n\n\t// Check all hazards in the compendium packs for invalid traits\n\tfor (const pack of game.packs.contents) {\n\t\tif (pack.documentName !== \"Actor\" || !pack.metadata?.pf2e || !pack.metadata?.name?.toLowerCase().includes(\"hazard\")) {\n\t\t\tcontinue; // skip non-Actor packs and non-PF2e hazard packs\n\t\t}\n\t\tawait pack.getIndex(); // ensure index is loaded\n\t\tfor (const entry of pack.index) {\n\t\t\tconst hazard = await pack.getDocument(entry._id);\n\t\t\tconst traits = hazard.system?.traits?.value ?? [];\n\t\t\tconst type = hazard.type;\n\t\t\tconst validTraits = validHazardTraits; // hazards always use our defined hazard traits\n\t\t\t// Find any traits that are not in the valid set\n\t\t\tconst invalidTraits = traits.filter(t => !validTraits.has(t));\n\t\t\t// If any invalid traits are found, log a warning and add to errors list\n\t\t\tif (invalidTraits.length > 0) {\n\t\t\t\tconsole.log(`Invalid traits on [${hazard.name}] (${hazard.id}) in pack [${pack.metadata.label}]`, {\n\t\t\t\t\ttype,\n\t\t\t\t\ttraits,\n\t\t\t\t\tinvalidTraits\n\t\t\t\t});\n\t\t\t\terrors.push({\n\t\t\t\t\tname: hazard.name,\n\t\t\t\t\tid: hazard.id,\n\t\t\t\t\ttype,\n\t\t\t\t\ttraits,\n\t\t\t\t\tinvalidTraits\n\t\t\t\t});\n\t\t\t}\n\t\t}\n\t}\n\n\t// If no errors found, notify and exit\n\tif (errors.length === 0) {\n\t\tui.notifications.info(\"✅ No invalid traits found on hazards or actors.\");\n\t\treturn;\n\t}\n\n\t// Show a dialog with the list of errors\n\tconsole.log(\"Invalid traits found on hazards or actors:\", errors);\n\tui.notifications.error(`Found ${errors.length} actor(s) or hazard(s) with invalid traits. See the dialog for details.`);\n\t// Build HTML list of errors\n\tconst list = errors.map(e => `\n\t\t<li style=\"margin-bottom: 1em;\">\n\t\t\t<strong>${e.name}</strong> (${e.id}) [<code>${e.type}</code>]<br>\n\t\t\t<div><strong>All Traits:</strong> ${e.traits.join(\", \")}</div>\n\t\t\t<div style=\"color: red;\"><strong>Invalid:</strong> ${e.invalidTraits.join(\", \")}</div>\n\t\t</li>\n\t`).join(\"\");\n\t// Show dialog\n\tnew Dialog({\n\t\ttitle: \"Invalid Trait Report\",\n\t\tcontent: `\n\t\t\t<div style=\"max-height: 600px; overflow-y: auto;\">\n\t\t\t\t<h2>Actors with Invalid Traits</h2>\n\t\t\t\t<ul>${list}</ul>\n\t\t\t\t<p><em>Check the console for full debug output.</em></p>\n\t\t\t</div>`,\n\t\tbuttons: {\n\t\t\tok: { label: \"Close\" }\n\t\t}\n\t}).render(true);\n})();",
+  "img": "icons/svg/dice-target.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1750749899229,
+    "modifiedTime": 1765450937288,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "PSJlFeuPviwfhRwf",
+  "sort": 200000,
+  "_key": "!macros!PSJlFeuPviwfhRwf"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Camfire Cards",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "const tableName = \"!campfirechat\";\nconst table = game.tables.getName(tableName);\n\nif (!table) {\n  ui.notifications.warn(`Rolltable \"${tableName}\" not found.`);\n} else {\n  // Roll silently on the table\n  const roll = await table.draw({ displayChat: false });\n\n  // Format the output box\n  const flavorText = `\n    <div style=\"\n      background-color:#1d1c1a;\n      border: 2px solid #5f574e;\n      box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);\n      border-radius: 12px;\n      padding: 16px;\n      color: #e4ddc7;\n      font-family: 'serif';\n      max-width: 500px;\n      margin: auto;\n    \">\n      <div style=\"text-align: center; margin-bottom: 10px;\">\n        <img src=\"assets/images/campfire-chat.webp\" width=\"80\" height=\"80\" style=\"border: none;\">\n      </div>\n      <div style=\"text-align: center; font-weight: bold; font-size: 16px; letter-spacing: 1px; color: #c7b26f; margin-bottom: 12px;\">\n        CAMPFIRE CHAT\n      </div>\n      <div style=\"font-size: 14px; font-style: italic; margin-bottom: 12px;\">\n        The fire crackles against the dark.<br>Beyond the ring of warmth: darkness, silence and stone.<br><br>\n        <strong style=\"color: #e4ddc7;\">\"In the flame’s warm glow, answer this...\"</strong>\n      </div>\n      <hr style=\"border: 1px solid #5f574e;\">\n      <div style=\"font-size: 16px; text-align: center; font-style: italic; margin: 12px 0;\">\n        ${roll.results[0].text}\n      </div>\n      <hr style=\"border: 1px solid #5f574e;\">\n      <div style=\"font-size: 12px; font-style: italic; text-align: center; color: #a09888; margin-top: 6px;\">\n        The question lingers, heavy as the stone beneath your boots.\n      </div>\n    </div>\n  `;\n\n  // Send to chat as a public message\n  ChatMessage.create({\n    content: flavorText\n  });\n}",
+  "img": "assets/images/campfire-chat.webp",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1749637085946,
+    "modifiedTime": 1765450937288,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "4jHVcoYLzBuWCgVT",
+  "sort": 500000,
+  "_key": "!macros!4jHVcoYLzBuWCgVT"
+}

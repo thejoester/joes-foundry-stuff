@@ -1,0 +1,37 @@
+{
+  "name": "Reset Hero Cards Table",
+  "type": "script",
+  "scope": "global",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "icons/sundries/gaming/playing-cards.webp",
+  "command": "/*\n  ===== RUN FROM COMPENDIUM =====\n*/\nconst UUID = \"Compendium.joes-foundry-stuff.joes-macros.Macro.34Hw8TPrOqgQhIvU\";\n\nconst macroDoc = await fromUuid(UUID);\nif (!macroDoc) {\n\tui.notifications.error(\"Failed to load compendium macro.\");\n\treturn;\n}\n\nawait macroDoc.execute();",
+  "folder": "VgTSNrEtMU4TU03A",
+  "ownership": {
+    "default": 0,
+    "c8JeQGhzU7Aoamba": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "combat-utility-belt": {
+      "macroTrigger": ""
+    },
+    "core": {},
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.5fZQLC9obwhAm9p7",
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1772508340693,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_id": "OqgBTMP4xHkgB60H",
+  "sort": 300000,
+  "_key": "!macros!OqgBTMP4xHkgB60H"
+}

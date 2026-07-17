@@ -1,0 +1,29 @@
+{
+  "name": "Misc tools",
+  "sorting": "a",
+  "folder": null,
+  "type": "Macro",
+  "_id": "qHfFjQU5yZWGUICI",
+  "description": "",
+  "sort": 200000,
+  "color": "#13b6b9",
+  "flags": {
+    "macro-wheel": {
+      "folderImg": "icons/svg/d20-grey.svg",
+      "presetCondition": "",
+      "condition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1748648200665,
+    "modifiedTime": 1760775834708,
+    "lastModifiedBy": "lfU9NncyG8LWlt8v",
+    "exportSource": null
+  },
+  "_key": "!folders!qHfFjQU5yZWGUICI"
+}

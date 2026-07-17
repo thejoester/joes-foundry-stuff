@@ -1,0 +1,23 @@
+{
+  "name": "Fantasy Complete II",
+  "sorting": "a",
+  "folder": null,
+  "type": "Playlist",
+  "_id": "INvSRrwBZDfmGrgj",
+  "sort": 300000,
+  "color": "#336449",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760669829,
+    "modifiedTime": 1769760670720,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "_key": "!folders!INvSRrwBZDfmGrgj"
+}

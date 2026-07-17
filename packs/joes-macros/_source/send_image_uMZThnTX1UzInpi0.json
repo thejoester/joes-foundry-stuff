@@ -1,0 +1,32 @@
+{
+  "name": "Send Image",
+  "type": "script",
+  "_id": "uMZThnTX1UzInpi0",
+  "author": "sDmTHDFOKZoe85XE",
+  "img": "icons/magic/control/buff-luck-fortune-rainbow.webp",
+  "scope": "global",
+  "command": "// Macro: Send Image Dialog (via joes-pf2e-stuff API)\n(async () => {\n\tconst mod = game.modules.get(\"joes-pf2e-stuff\");\n\tif (!mod?.active) return ui.notifications.error(\"joes-pf2e-stuff is not active.\");\n\tconst api = mod.api;\n\tif (!api?.sendImageDialog) return ui.notifications.error(\"sendImageDialog() is not exposed on the module API.\");\n\n\t// Call your function with whatever options it expects.\n\t// Replace values below to match your implementation/signature.\n\tawait api.sendImageDialog({\n\t\tsrc: \"assets/images/start-the-timer.webp\",\n\t\ttitle: \"Show Overlay\",\n\t\tbroadcast: true,   // true = send to all players (if your function supports it)\n\t\topacity: 0.9,      // example option\n\t\tcloseOnRefresh: false // example option\n\t});\n})();",
+  "folder": "eB83Kvswqyhs0e1Q",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "7.6.4",
+    "createdTime": 1761610549401,
+    "modifiedTime": 1761611356511,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_key": "!macros!uMZThnTX1UzInpi0"
+}

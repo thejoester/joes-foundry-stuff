@@ -1,0 +1,32 @@
+{
+  "name": "ToggleHEX",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "const tool = ui.controls.controls.find(e => e.name == \"token\").tools.find(e => e.name == \"hex\")\ntool.active = !tool.active\nif ( tool.onClick instanceof Function ) tool.onClick(tool.active);",
+  "img": "icons/svg/lever.svg",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 2,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.8.0",
+    "createdTime": 1764924761854,
+    "modifiedTime": 1765450937288,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE"
+  },
+  "_id": "q7WZgeGsLgcFi0Ek",
+  "sort": 400000,
+  "_key": "!macros!q7WZgeGsLgcFi0Ek"
+}

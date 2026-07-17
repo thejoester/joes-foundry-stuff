@@ -1,0 +1,128 @@
+{
+  "folder": "WEwclDf1xqvQCuuX",
+  "name": "Classical & Piano",
+  "_id": "faX0xsrvHUkPQNAk",
+  "sounds": [
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/Dark%2C%20Light%20(Piano).wav",
+      "name": "Dark, Light (piano)",
+      "_id": "8TVrXhRz7Z1UAEg8",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.8TVrXhRz7Z1UAEg8"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/Fons%20et%20Origo.wav",
+      "name": "Fons Et Origo",
+      "_id": "Nel86rDUDVPBUp17",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.Nel86rDUDVPBUp17"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/Lune%20(Classical).wav",
+      "name": "Lune (classical)",
+      "_id": "yQrmNc5QXbGiwrVN",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.yQrmNc5QXbGiwrVN"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/Lune%20II%20(Classical).wav",
+      "name": "Lune Ii (classical)",
+      "_id": "0NEzRSWEtnLGSVj4",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.0NEzRSWEtnLGSVj4"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/Nocturne%20(Classical%20Piano).wav",
+      "name": "Nocturne (classical Piano)",
+      "_id": "aClFJFgNCjvz2fuY",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.aClFJFgNCjvz2fuY"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/Regret.mp3",
+      "name": "Regret",
+      "_id": "YQmfa9IgDsKIE5eT",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.YQmfa9IgDsKIE5eT"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/lighthearted.mp3",
+      "name": "Lighthearted",
+      "_id": "x27FhbaS5TQ5igqn",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.x27FhbaS5TQ5igqn"
+    },
+    {
+      "path": "assets/ms-sounds/Fantasy%20Complete%20MP3/10%20Apocalypse/Trailer%20%26%20Cinematic%20Music/Classical%20%26%20Piano/resistance.mp3",
+      "name": "Resistance",
+      "_id": "SvMg6YtfGzjbyHwE",
+      "channel": "",
+      "playing": false,
+      "repeat": false,
+      "volume": 0.5,
+      "sort": 0,
+      "flags": {},
+      "_key": "!playlists.sounds!faX0xsrvHUkPQNAk.SvMg6YtfGzjbyHwE"
+    }
+  ],
+  "channel": "music",
+  "mode": -1,
+  "playing": false,
+  "sorting": "a",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": 1769760668041,
+    "modifiedTime": 1769760668041,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "description": "",
+  "fade": null,
+  "seed": 909,
+  "_key": "!playlists!faX0xsrvHUkPQNAk"
+}

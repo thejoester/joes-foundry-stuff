@@ -1,0 +1,250 @@
+{
+  "name": "Crook of Rao: Extraplanar Reversal",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Crook of Rao",
+      "keys": [
+        "d100",
+        "Effect"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        25
+      ],
+      "drawn": false,
+      "_id": "EjZD2RimX4vrUHHo",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A portal to a random plane opens. The portal closes after 5 minutes.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.EjZD2RimX4vrUHHo"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        45
+      ],
+      "drawn": false,
+      "_id": "jTWPoeBPvK7UgdaC",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[2d4]] ([[/r 2d4]])  impsand[[/r 2d4]]  quasitsappear.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.jTWPoeBPvK7UgdaC"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        60
+      ],
+      "drawn": false,
+      "_id": "yorFUYZF5z3xxeje",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d8]] ([[/r 1d8]])  succubi/incubi appear.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.yorFUYZF5z3xxeje"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false,
+      "_id": "BycuHyOEMfhhw4Uh",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "[[1d10]] ([[/r 1d10]])  barbeddevils and[[/r 1d10]]  vrocksappear.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.BycuHyOEMfhhw4Uh"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        80
+      ],
+      "drawn": false,
+      "_id": "N8hsYR0cfnoDAZTN",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 arcanaloth, 1 night hag, and 1 rakshasa appear.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.N8hsYR0cfnoDAZTN"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        85
+      ],
+      "drawn": false,
+      "_id": "1iFYeL66ZyKevnr4",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 ice devil and 1 marilith appear.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.1iFYeL66ZyKevnr4"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        90
+      ],
+      "drawn": false,
+      "_id": "mKwLauk1nctqZVID",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "1 balor and 1 pit fiend appear. At the DM’s discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes.",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.mKwLauk1nctqZVID"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false,
+      "_id": "4MlKVjCMHVsNB48P",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iggwilv’s Curse (see the Iggwilv’s Curse property).",
+      "name": "",
+      "_key": "!tables.results!4dWvpSxO7iCImjxo.4MlKVjCMHVsNB48P"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061842882,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "4dWvpSxO7iCImjxo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!4dWvpSxO7iCImjxo"
+}

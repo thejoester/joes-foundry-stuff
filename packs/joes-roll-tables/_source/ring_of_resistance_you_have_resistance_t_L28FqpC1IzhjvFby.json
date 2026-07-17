@@ -1,0 +1,303 @@
+{
+  "name": "Ring of Resistance: You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Ring of Resistance",
+      "keys": [
+        "d10",
+        "Damage Type",
+        "Gem"
+      ],
+      "diceKeys": [
+        "d10"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "bPrDTkuJblunpWpa",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>1\n\n<b>Damage Type</b>Acid\n\n<b>Gem</b>Pearl",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.bPrDTkuJblunpWpa"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "oa54G0XPweG6GjX8",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>2\n\n<b>Damage Type</b>Cold\n\n<b>Gem</b>Tourmaline",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.oa54G0XPweG6GjX8"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "4boOgMQPVqBuApcv",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>3\n\n<b>Damage Type</b>Fire\n\n<b>Gem</b>Garnet",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.4boOgMQPVqBuApcv"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "38hM6HmEEbPITV4E",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>4\n\n<b>Damage Type</b>Force\n\n<b>Gem</b>Sapphire",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.38hM6HmEEbPITV4E"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "KxcY3Co3J8QHNKt7",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>5\n\n<b>Damage Type</b>Lightning\n\n<b>Gem</b>Citrine",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.KxcY3Co3J8QHNKt7"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "okRdLqrueLNNrqUw",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>6\n\n<b>Damage Type</b>Necrotic\n\n<b>Gem</b>Jet",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.okRdLqrueLNNrqUw"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "xbKdI7BULmiBLBO0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>7\n\n<b>Damage Type</b>Poison\n\n<b>Gem</b>Amethyst",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.xbKdI7BULmiBLBO0"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "1dy0ETfed5RB0luj",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>8\n\n<b>Damage Type</b>Psychic\n\n<b>Gem</b>Jade",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.1dy0ETfed5RB0luj"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "FneNa8j8X9V0NjdM",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>9\n\n<b>Damage Type</b>Radiant\n\n<b>Gem</b>Topaz",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.FneNa8j8X9V0NjdM"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "CZkxHfnfQZMq5Wg0",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<b>[[+ 10]] ([[/r + 10]])</b>10\n\n<b>Damage Type</b>Thunder\n\n<b>Gem</b>Spinel",
+      "name": "",
+      "_key": "!tables.results!L28FqpC1IzhjvFby.CZkxHfnfQZMq5Wg0"
+    }
+  ],
+  "formula": "d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061836921,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "L28FqpC1IzhjvFby",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!L28FqpC1IzhjvFby"
+}

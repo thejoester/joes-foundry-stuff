@@ -1,0 +1,198 @@
+{
+  "name": "Amulet of the Black Skull: Black Skull Transformation",
+  "flags": {
+    "ddbimporter": {
+      "parentName": "Amulet of the Black Skull",
+      "keys": [
+        "d100",
+        "Transformation"
+      ],
+      "diceKeys": [
+        "d100"
+      ]
+    },
+    "core": {}
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false,
+      "_id": "4NhYzWE4KQOw4JUi",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The symbol of Acererak is burned into your flesh, a curse that can only be removed with a remove curse spell or similar magic. Until the curse ends, your hit points can’t be restored by magic.",
+      "name": "",
+      "_key": "!tables.results!Arb7xlEFUYm7Mhg5.4NhYzWE4KQOw4JUi"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        35
+      ],
+      "drawn": false,
+      "_id": "CJJtn6glFK27KePq",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You grow larger as if affected by an enlarge/reduce spell, except the effect lasts for 1 hour.",
+      "name": "",
+      "_key": "!tables.results!Arb7xlEFUYm7Mhg5.CJJtn6glFK27KePq"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        50
+      ],
+      "drawn": false,
+      "_id": "W6h9m1KFWJ8MgoNZ",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You grow smaller as if affected by an enlarge/reduce spell, except the effect lasts for 1 hour.",
+      "name": "",
+      "_key": "!tables.results!Arb7xlEFUYm7Mhg5.W6h9m1KFWJ8MgoNZ"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        70
+      ],
+      "drawn": false,
+      "_id": "3k6YEHgsVksXk8Wl",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You arrive at the destination wearing nothing but the amulet of the black skull. Everything else that you were wearing or carrying appears in a random unoccupied space within 100 feet of you.",
+      "name": "",
+      "_key": "!tables.results!Arb7xlEFUYm7Mhg5.3k6YEHgsVksXk8Wl"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        95
+      ],
+      "drawn": false,
+      "_id": "GuSkf6Q8GtFZUeMU",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are paralyzed for 1 minute or until this effect is ended with a lesser restoration spell or similar magic.",
+      "name": "",
+      "_key": "!tables.results!Arb7xlEFUYm7Mhg5.GuSkf6Q8GtFZUeMU"
+    },
+    {
+      "flags": {},
+      "type": "text",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        100
+      ],
+      "drawn": false,
+      "_id": "16Wtgt7xTxZYzLUv",
+      "_stats": {
+        "coreVersion": "13.345",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You become petrified. This effect can be ended only with a greater restoration spell or similar magic.",
+      "name": "",
+      "_key": "!tables.results!Arb7xlEFUYm7Mhg5.16Wtgt7xTxZYzLUv"
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "SPIKnuTfpsSNK0yO",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.2.2",
+    "coreVersion": "13.345",
+    "createdTime": 1689061840016,
+    "modifiedTime": 1689074575809,
+    "lastModifiedBy": "ozJQ7pG7xtnFXNNL",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Arb7xlEFUYm7Mhg5",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3
+  },
+  "_key": "!tables!Arb7xlEFUYm7Mhg5"
+}

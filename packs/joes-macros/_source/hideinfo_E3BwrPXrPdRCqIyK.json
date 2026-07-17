@@ -1,0 +1,34 @@
+{
+  "name": "HideInfo",
+  "type": "script",
+  "scope": "global",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+  "command": "/* This will set every token in scene to hide their   \n * token bars and nameplate, and sets the first bar to represent    \n * HP and removes the second token bar.   \n*/   \nconst tokens =canvas.tokens.placeables.map(token => {   \n   return {   \n       _id: token.id,   \n       \"bar1.attribute\": \"attributes.hp\",   \n       \"bar2.attribute\": \"\",   \n       \"displayName\": CONST.TOKEN_DISPLAY_MODES.NONE,   \n       \"displayBars\": CONST.TOKEN_DISPLAY_MODES.NONE \n   };   \n});   \ncanvas.scene.updateEmbeddedDocuments('Token', tokens)",
+  "folder": "eB83Kvswqyhs0e1Q",
+  "ownership": {
+    "default": 0,
+    "ozJQ7pG7xtnFXNNL": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "flags": {
+    "core": {},
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.joes-foundry-stuff.joes-macros.Macro.3zCx8VqtZeQsJg5b",
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1745586812708,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "exportSource": null
+  },
+  "_id": "E3BwrPXrPdRCqIyK",
+  "sort": 187500,
+  "_key": "!macros!E3BwrPXrPdRCqIyK"
+}

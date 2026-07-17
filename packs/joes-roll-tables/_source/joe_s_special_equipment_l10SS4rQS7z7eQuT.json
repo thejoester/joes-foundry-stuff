@@ -1,0 +1,22 @@
+{
+  "name": "Joe's Special equipment",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "l10SS4rQS7z7eQuT",
+  "description": "",
+  "sort": 0,
+  "color": "#757575",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.6.1",
+    "createdTime": 1731071421977,
+    "modifiedTime": 1731071421977,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+  },
+  "_key": "!folders!l10SS4rQS7z7eQuT"
+}
