@@ -1,0 +1,48 @@
+<div class="jfs-kbla-wrap">
+<style>
+    #jfs-keybind-lock-add .jfs-kbla-wrap { display: flex; flex-direction: column; height: 100%; gap: 8px; }
+    #jfs-keybind-lock-add .jfs-kbla-controls { display: flex; gap: 6px; align-items: center; }
+    #jfs-keybind-lock-add .jfs-kbla-ns { flex: 0 0 200px; }
+    #jfs-keybind-lock-add .jfs-kbla-search { flex: 1 1 auto; }
+    #jfs-keybind-lock-add .jfs-kbla-list { flex: 1 1 auto; overflow-y: auto; border: 1px solid var(--color-border-light-tertiary, #666); border-radius: 6px; padding: 2px; min-height: 180px; }
+    #jfs-keybind-lock-add .jfs-kbla-row { display: flex; gap: 8px; align-items: center; padding: 4px 6px; border-radius: 4px; cursor: pointer; }
+    #jfs-keybind-lock-add .jfs-kbla-row:hover { background: rgba(255,255,255,0.06); }
+    #jfs-keybind-lock-add .jfs-kbla-row.selected { background: rgba(90,140,255,0.28); }
+    #jfs-keybind-lock-add .jfs-kbla-name { flex: 2 1 0; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    #jfs-keybind-lock-add .jfs-kbla-nscol { flex: 1 1 0; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; opacity: 0.75; font-size: 0.85em; }
+    #jfs-keybind-lock-add .jfs-kbla-cur { flex: 0 0 140px; text-align: right; font-family: monospace; font-size: 0.85em; opacity: 0.85; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    #jfs-keybind-lock-add .jfs-kbla-empty { opacity: 0.6; padding: 10px; text-align: center; }
+    #jfs-keybind-lock-add .jfs-kbla-footer { display: flex; flex-direction: column; gap: 6px; border-top: 1px solid var(--color-border-light-tertiary, #666); padding-top: 6px; }
+    #jfs-keybind-lock-add .jfs-kbla-selinfo { font-weight: 700; }
+    #jfs-keybind-lock-add .jfs-kbla-setrow { display: flex; gap: 6px; align-items: center; }
+    #jfs-keybind-lock-add .jfs-kbla-mode { flex: 0 0 130px; }
+    #jfs-keybind-lock-add .jfs-kbla-keywrap { flex: 1 1 auto; display: flex; gap: 4px; align-items: center; min-width: 0; }
+    #jfs-keybind-lock-add .jfs-kbla-keydisp { flex: 1 1 auto; min-width: 96px; padding: 2px 6px; border: 1px dashed var(--color-border-light-tertiary, #888); border-radius: 4px; font-family: monospace; font-size: 0.85em; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    #jfs-keybind-lock-add .jfs-kbla-capture { flex: 0 0 auto; white-space: nowrap; }
+    #jfs-keybind-lock-add .jfs-kbla-cancel { flex: 0 0 auto; margin-left: auto; }
+    #jfs-keybind-lock-add .jfs-kbla-add { flex: 0 0 auto; }
+</style>
+
+    <div class="jfs-kbla-controls">
+        <select class="jfs-kbla-ns"></select>
+        <input type="text" class="jfs-kbla-search" placeholder="Search by action name or current key…" autofocus />
+    </div>
+
+    <div class="jfs-kbla-list"></div>
+
+    <div class="jfs-kbla-footer">
+        <div class="jfs-kbla-selinfo">Select an action above…</div>
+        <div class="jfs-kbla-setrow">
+            <select class="jfs-kbla-mode">
+                <option value="clear">Clear (unbind)</option>
+                <option value="set">Set to key</option>
+            </select>
+            <span class="jfs-kbla-keywrap" style="display:none;">
+                <span class="jfs-kbla-keydisp"></span>
+                <button type="button" class="jfs-kbla-capture"><i class="fas fa-keyboard"></i> Press key</button>
+            </span>
+            <button type="button" class="jfs-kbla-cancel">Cancel</button>
+            <button type="button" class="jfs-kbla-add" disabled><i class="fas fa-plus"></i> Add Lock</button>
+        </div>
+    </div>
+</div>

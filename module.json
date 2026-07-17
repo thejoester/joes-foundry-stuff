@@ -1,7 +1,7 @@
 {
   "id": "joes-foundry-stuff",
   "title": "Joe's Foundry Stuff",
-  "version": "2.0.0",
+  "version": "2026.07.16",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -20,9 +20,9 @@
     "scripts/main.js",
     "scripts/chatArchive.js",
     "scripts/overlay.js",
-    "scripts/audioAutoLevel.js",
     "scripts/combatTurnTimer.js",
-    "scripts/rollInitiative.js"
+    "scripts/rollInitiative.js",
+    "scripts/keybindingLocks.js"
   ],
   "socket": true,
   "packs": [

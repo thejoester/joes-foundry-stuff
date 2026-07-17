@@ -1,7 +1,16 @@
-2026/04/06-22:33:32.047927 7b4a1d9f9640 Recovering log #6445
-2026/04/06-22:33:32.051384 7b4a1d9f9640 Delete type=3 #6443
-2026/04/06-22:33:32.051469 7b4a1d9f9640 Delete type=0 #6445
-2026/04/06-22:34:27.377827 7b4757fff640 Level-0 table #6450: started
-2026/04/06-22:34:27.377918 7b4757fff640 Level-0 table #6450: 0 bytes OK
-2026/04/06-22:34:27.379278 7b4757fff640 Delete type=0 #6448
-2026/04/06-22:34:27.380734 7b4757fff640 Manual compaction at level-0 from '!folders!1HsIAZfKF8jAeeD1' @ 72057594037927935 : 1 .. '!scenes.walls!zvO0TGm7cXCdLLIh.zwhapHKg7AC8lLKD' @ 0 : 0; will stop at (end)
+2026/07/01-01:20:28.492771 723c0f3ff640 Recovering log #6911
+2026/07/01-01:20:28.497428 723c0f3ff640 Delete type=0 #6911
+2026/07/01-01:20:28.497494 723c0f3ff640 Delete type=3 #6909
+2026/07/01-14:40:25.889210 7239f59ff640 Level-0 table #6919: started
+2026/07/01-14:40:25.912485 7239f59ff640 Level-0 table #6919: 813127 bytes OK
+2026/07/01-14:40:25.914395 7239f59ff640 Delete type=0 #6917
+2026/07/01-14:40:25.914927 7239f59ff640 Manual compaction at level-0 from '!scenes.levels!03mVougXkngZrL6g.defaultLevel0000' @ 72057594037927935 : 1 .. '!scenes.tokens.delta.items!o3zbh5CXtTQiWKwZ.nhLWg2nVINv3upxb.nhLWg2nVINv3upxb.TKlvX1o7DySDGgND' @ 0 : 0; will stop at '!scenes.walls!zvO0TGm7cXCdLLIh.zwhapHKg7AC8lLKD' @ 234861 : 0
+2026/07/01-14:40:25.914934 7239f59ff640 Compacting 1@0 + 3@1 files
+2026/07/01-14:40:25.936846 7239f59ff640 Generated table #6920@0: 213 keys, 98063 bytes
+2026/07/01-14:40:25.936867 7239f59ff640 Compacted 1@0 + 3@1 files => 98063 bytes
+2026/07/01-14:40:25.937938 7239f59ff640 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/01-14:40:25.938149 7239f59ff640 Delete type=2 #6913
+2026/07/01-14:40:25.938721 7239f59ff640 Delete type=2 #6919
+2026/07/01-14:40:25.938950 7239f59ff640 Delete type=2 #6915
+2026/07/01-14:40:25.939171 7239f59ff640 Delete type=2 #6914
+2026/07/01-14:40:25.939711 7239f59ff640 Manual compaction at level-0 from '!scenes.walls!zvO0TGm7cXCdLLIh.zwhapHKg7AC8lLKD' @ 234861 : 0 .. '!scenes.tokens.delta.items!o3zbh5CXtTQiWKwZ.nhLWg2nVINv3upxb.nhLWg2nVINv3upxb.TKlvX1o7DySDGgND' @ 0 : 0; will stop at (end)

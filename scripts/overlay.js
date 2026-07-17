@@ -11,7 +11,7 @@ const SETTING_KEY = "overlayState";
 
 // Helper functions to get/set the persistent overlay state in world settings (GM only for set)
 function getOverlayState() {
-    DL(" overlay.js | getOverlayState() called");
+    DL("overlay.js | getOverlayState() called");
 	try { return game.settings.get(MOD_ID, SETTING_KEY) ?? { enabled: false, payload: null }; }
 	catch { return { enabled: false, payload: null }; }
 }
@@ -220,7 +220,7 @@ Hooks.once("ready", () => {
 		JFS_OVERLAY._showLocal(state.payload);
 	}
 
-    DL(" overlay.js | ready hook ran, socket initialized");
+    DL("overlay.js | ready hook ran, socket initialized");
 });
 
 // expose helpers for console

@@ -30,11 +30,11 @@ function _jfsSuppressNotify(original) {
 Hooks.once("ready", function() {
     if (Notifications?.prototype?.notify) {
         Notifications.prototype.notify = _jfsSuppressNotify(Notifications.prototype.notify);
-        console.log("[jfs] Patched Notifications.prototype.notify");
+        DL("Patched Notifications.prototype.notify");
     }
     if (ui?.notifications?.notify) {
         ui.notifications.notify = _jfsSuppressNotify(ui.notifications.notify.bind(ui.notifications));
-        console.log("[jfs] Patched ui.notifications instance");
+        DL("Patched ui.notifications instance");
     }
 });
 

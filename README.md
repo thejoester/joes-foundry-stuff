@@ -4,6 +4,8 @@ A personal FoundryVTT module containing Joe's collection of compendiums, macros,
 
 **Compatibility:** FoundryVTT v11–v13
 
+**Versioning:** Date-based (`YYYY.MM.DD`), e.g. `2026.07.16` is a build from July 16, 2026. Each release's version is the date it was published. If two builds ship on the same day, a fourth segment is added (`YYYY.MM.DD.1`).
+
 ---
 
 ## Features
@@ -23,9 +25,6 @@ Configurable via **Enable Initiative Timer** and **Initiative Timer Duration (se
 ### Timer / Alarm Manager
 GM-managed countdown timers with a lightweight, draggable player-facing window. The GM can start named timers (optionally hidden from players), see all active timers with remaining time, send a timer's remaining time to chat, and get a dialog (with sound) when a timer ends, with the option to restart or stop it. Exposed via the module API (`startTimer`, `getRemainingTime`, `openTimerManager`/`timerMacro`).
 
-### Audio Auto Mix
-GM-controlled world audio levels that are automatically applied to all connected clients. Sets per-sound playback volume on track start without touching individual player volume settings.
-
 ### Chat Archive
 Archives all non-pinned chat messages to a log file, keeping your chat clean between sessions. GM-only.
 
@@ -37,6 +36,12 @@ Shows a fullscreen image overlay to all connected players simultaneously. Suppor
 - **Alt+Click** (GM) bypasses the click override for normal scene configuration.
 - Shows colored initials next to each scene indicating which connected users are currently viewing it.
 - Compendium packs are auto-organized into a `!Joes` compendium folder on load.
+
+### Keybinding Locks
+Forces chosen keybindings to stay **cleared** (unbound) or **set** to a specific key on every load, so bindings that keep reverting to core defaults stay how you want them (for example, freeing up `Q`/`E` from token elevation). Configure via **Keybinding Locks → Manage Locks** in module settings.
+- **Baseline locks** (GM): stored in an install-level data file (`joes-foundry-stuff-data/keybind-locks.json`), so they persist across *every* world on the server. Pushed to all connected players and re-applied on each client's load. GM-write only; players can read but not change them.
+- **Personal locks** (any user): stored per-user server-side (`user` scope), so they survive browser changes and cache clears and follow the player across devices. Applied only to that user; a personal lock overrides the baseline for the same action. (These live in the world database, so they are per-world - a player sets them once in each world.)
+- The action picker lists every registered keybinding (core and modules) with its current binding, so nothing is hardcoded.
 
 ---
 

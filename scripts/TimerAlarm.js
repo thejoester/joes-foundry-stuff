@@ -144,7 +144,7 @@ async function onTimerEnd(id) {
 	// Only show dialog if this user created it
 	if (timer.createdBy !== game.user.id) return;
 
-	AudioHelper.play({
+	foundry.audio.AudioHelper.play({
 		src: "modules/joes-foundry-stuff/assets/sound/bonus.mp3",
 		volume: 0.8,
 		autoplay: true,

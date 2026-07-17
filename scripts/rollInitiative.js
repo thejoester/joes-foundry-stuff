@@ -105,6 +105,15 @@ function _showOverlay(endTime) {
     const timerEl = wrap.querySelector("[data-jfs-init-timer]");
 
     function tick() {
+        if (game.user.isGM && _allPlayersRolled()) {
+            _hideOverlay();
+            _activeEndTime = null;
+            game.socket.emit(SOCKET_NS, { action: "jfsInitTimerStop" });
+            ui.notifications.info("Everyone has rolled initiative!");
+            DL("rollInitiative.js | tick(): all players rolled, timer stopped early");
+            return;
+        }
+
         const remaining = Math.max(0, Math.ceil((endTime - Date.now()) / 1000));
         timerEl.textContent = remaining;
         if (remaining <= 0) {
@@ -126,6 +135,13 @@ function _hideOverlay() {
         _initInterval = null;
     }
     document.getElementById(OVERLAY_ID)?.remove();
+}
+
+function _allPlayersRolled() {
+    const combat = game.combat;
+    if (!combat) return false;
+    const pending = combat.combatants.filter(c => !c.isNPC && (c.initiative === null || c.initiative === undefined));
+    return !pending.length;
 }
 
 async function _rollRemainingInitiative() {

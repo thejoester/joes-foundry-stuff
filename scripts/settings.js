@@ -50,48 +50,7 @@ export function DL(intLogType, stringLogMsg, objObject = null) {
 	{INIT SETTINGS}
 ========================================================================== */
 Hooks.once("init", () => {
-
-    /* ==========================================================================
-        {AUIDIO AUTOLEVEL SETTIGS}
-    ========================================================================== */
-    game.settings.register("joes-foundry-stuff", "audioAutoMixEnabledWorld", {
-		name: "Audio Auto Mix (World)",
-		hint: "Forces per-sound volume when audio starts.",
-		scope: "world",
-		config: true,
-		type: Boolean,
-		default: false
-	});
-
-	game.settings.register("joes-foundry-stuff", "audioAutoMixWorldMusic", {
-        name: "Audio Auto Mix (World): Music Volume",
-        hint: "Forced playback volume for Music sounds (0% to 100%).",
-        scope: "world",
-        config: true,
-        type: Number,
-        default: 50,
-        range: { min: 0, max: 100, step: 5 }
-    });
-
-    game.settings.register("joes-foundry-stuff", "audioAutoMixWorldEnvironment", {
-        name: "Audio Auto Mix (World): Environment Volume",
-        hint: "Forced playback volume for Environment sounds (0% to 100%).",
-        scope: "world",
-        config: true,
-        type: Number,
-        default: 50,
-        range: { min: 0, max: 100, step: 5 }
-    });
-
-    game.settings.register("joes-foundry-stuff", "audioAutoMixWorldInterface", {
-        name: "Audio Auto Mix (World): Interface Volume",
-        hint: "Forced playback volume for Interface sounds (0% to 100%).",
-        scope: "world",
-        config: true,
-        type: Number,
-        default: 50,
-        range: { min: 0, max: 100, step: 5 }
-    });
+ 
 
     /* ==========================================================================
         {TIMER SETTINGS}
@@ -183,9 +142,4 @@ Hooks.once("init", () => {
 
 
 	console.log("[Joe's Foundry Stuff] settings.js | settings registered.");
-});
-
-
-Hooks.once("init", () => {
-	
 });
