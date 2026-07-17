@@ -7,6 +7,9 @@
     "verified": "13"
   },
   "description": "<p>Joe's collection of useful Foundry VTT compendiums, scripts and macros, packaged as a module.</p>",
+  "url": "https://github.com/thejoester/joes-foundry-stuff/",
+  "manifest": "https://github.com/thejoester/joes-foundry-stuff/releases/latest/download/module.json",
+  "download": "https://github.com/thejoester/joes-foundry-stuff/releases/download/2026.07.17/joes-foundry-stuff.zip",
   "authors": [
     {
       "name": "thejoester",
