@@ -2,6 +2,12 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.07.18
+
+### Added
+- Added Changelog file
+- updated to v14 compatibility in module.json
+
 ## 2026.07.17
 
 ### Added
