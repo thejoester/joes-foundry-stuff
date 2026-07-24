@@ -2,6 +2,12 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.07.24
+
+### Fixed
+- **Play Sound macro** — replaced v12-era globals with their v13+ namespaced forms so it no longer throws `AudioHelper is not defined`: `AudioHelper` -> `foundry.audio.AudioHelper`, `FilePicker` -> `foundry.applications.apps.FilePicker.implementation`. Also switched from the global `renderDialogV2` hook to DialogV2's own `render` callback via `.wait()`, and the Browse button now seeds the picker from the current field value.
+- **Overlay** — file-picker Browse button now uses `foundry.applications.apps.FilePicker.implementation` instead of the removed bare `FilePicker` global.
+
 ## 2026.07.18
 
 ### Added
