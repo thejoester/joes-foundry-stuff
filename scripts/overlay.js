@@ -184,7 +184,7 @@ export const JFS_OVERLAY = {
             const input = root.querySelector("input[name='src']");
             if (browseBtn && input) {
                 browseBtn.addEventListener("click", () => {
-                    new FilePicker({
+                    new foundry.applications.apps.FilePicker.implementation({
                         type: "image",
                         current: input.value || "assets/images/start-the-timer.webp",
                         callback: (path) => { input.value = path; }
