@@ -28,8 +28,7 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
   "environment": {
     "darknessLevel": 0,
@@ -96,6 +95,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!nNtyeNZslCiLCV0k.XcbvSbSShlbnFpm8"
     },
     {
@@ -121,6 +121,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!nNtyeNZslCiLCV0k.rgVXcTrxiDIQwa8i"
     },
     {
@@ -146,6 +147,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!nNtyeNZslCiLCV0k.ohPKZl2uqgyzYFVE"
     },
     {
@@ -171,6 +173,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!nNtyeNZslCiLCV0k.zSDe5Ul4Wuj3zPmu"
     }
   ],
@@ -217,7 +220,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
@@ -227,23 +230,54 @@
   "_id": "nNtyeNZslCiLCV0k",
   "active": false,
   "sort": 100000,
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/_general/plains/plains-creek1-scene.mp4",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "plains-creek-scene",
+      "background": {
+        "color": "#000000",
+        "src": "assets/scenes/_general/plains/plains-creek1-scene.mp4",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!nNtyeNZslCiLCV0k.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#000000",
   "_key": "!scenes!nNtyeNZslCiLCV0k",
-  "levels": []
+  "templates": []
 }

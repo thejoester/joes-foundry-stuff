@@ -53,7 +53,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276691953,
@@ -104,26 +104,56 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
-  "templates": [],
-  "background": {
-    "src": null,
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Winter Lakeside-high",
+      "background": {
+        "color": "#999999",
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!I1JcNLnfZ3KeVB9z.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#999999",
   "_key": "!scenes!I1JcNLnfZ3KeVB9z",
-  "levels": []
+  "templates": []
 }

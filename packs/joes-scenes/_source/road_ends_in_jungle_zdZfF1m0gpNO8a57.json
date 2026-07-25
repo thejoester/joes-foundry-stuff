@@ -4,21 +4,6 @@
   "active": false,
   "navigation": true,
   "navOrder": 0,
-  "background": {
-    "src": "assets/scenes/_general/jungle/road-ends-in-jungle-3.webm",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
-  },
-  "foreground": null,
-  "foregroundElevation": null,
   "thumb": "worlds/compendium-cleanup/assets/scenes/zdZfF1m0gpNO8a57-thumb.webp",
   "width": 9300,
   "height": 7500,
@@ -28,7 +13,6 @@
     "y": null,
     "scale": null
   },
-  "backgroundColor": "#000000",
   "grid": {
     "type": 1,
     "size": 100,
@@ -41,12 +25,11 @@
   },
   "tokenVision": true,
   "fog": {
-    "exploration": true,
-    "overlay": null,
     "colors": {
       "explored": null,
       "unexplored": null
-    }
+    },
+    "mode": 1
   },
   "environment": {
     "darknessLevel": 0,
@@ -88,7 +71,6 @@
   "notes": [],
   "sounds": [],
   "regions": [],
-  "templates": [],
   "tiles": [],
   "walls": [
     {
@@ -114,6 +96,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.lYSaaWyImXV1gcKF"
     },
     {
@@ -139,6 +122,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.3TOzTn8fZknIQ3BY"
     },
     {
@@ -164,6 +148,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.Ya42vwV64ymfQXda"
     },
     {
@@ -189,6 +174,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.uaEiKcvf00u9p5Pb"
     },
     {
@@ -214,6 +200,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.pqc6eq9mQs6DtIe1"
     },
     {
@@ -239,6 +226,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.G6mZL6KcR3B7tNaD"
     },
     {
@@ -264,6 +252,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.wuFtaK59CU5swDTd"
     },
     {
@@ -289,6 +278,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!zdZfF1m0gpNO8a57.FHwrrlVYf9nCSfXG"
     }
   ],
@@ -315,7 +305,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
@@ -323,6 +313,54 @@
     "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
   },
   "navName": "",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Road ends in Jungle",
+      "background": {
+        "color": "#000000",
+        "src": "assets/scenes/_general/jungle/road-ends-in-jungle-3.webm",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!zdZfF1m0gpNO8a57.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
   "_key": "!scenes!zdZfF1m0gpNO8a57",
-  "levels": []
+  "templates": []
 }

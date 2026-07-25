@@ -35,13 +35,10 @@
         "scaleX": 1,
         "scaleY": 1,
         "tint": "#ffffff",
-        "anchorX": 0,
-        "anchorY": 0,
+        "anchorX": -0.5,
+        "anchorY": -0.5,
         "fit": "fill",
-        "alphaThreshold": 0.75,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0.75
       },
       "x": 393,
       "y": 467,
@@ -54,7 +51,7 @@
       "locked": false,
       "occlusion": {
         "alpha": 0,
-        "mode": 0
+        "modes": []
       },
       "video": {
         "loop": true,
@@ -88,6 +85,7 @@
         "weather": false
       },
       "elevation": 0,
+      "levels": [],
       "_key": "!scenes.tiles!Tf9a2S7DuKCwLWyw.Pm7kO79Un9zqtpGk"
     },
     {
@@ -95,14 +93,11 @@
         "src": "assets/DM%20Joe/images/slick-ricky.webp",
         "scaleX": 1,
         "scaleY": 1,
-        "anchorX": 0,
-        "anchorY": 0,
+        "anchorX": -0.5,
+        "anchorY": -0.5,
         "fit": "fill",
         "tint": "#ffffff",
-        "alphaThreshold": 0.75,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0.75
       },
       "x": 721,
       "y": 441,
@@ -115,7 +110,7 @@
       "locked": false,
       "occlusion": {
         "alpha": 0,
-        "mode": 0
+        "modes": []
       },
       "video": {
         "loop": true,
@@ -129,6 +124,7 @@
         "weather": false
       },
       "elevation": 0,
+      "levels": [],
       "_key": "!scenes.tiles!Tf9a2S7DuKCwLWyw.793CrTNjdmYjLbu1"
     }
   ],
@@ -156,6 +152,7 @@
       },
       "flags": {},
       "animation": null,
+      "levels": [],
       "_key": "!scenes.walls!Tf9a2S7DuKCwLWyw.ZeDRxowiznJ1Rsm6"
     },
     {
@@ -181,6 +178,7 @@
       },
       "flags": {},
       "animation": null,
+      "levels": [],
       "_key": "!scenes.walls!Tf9a2S7DuKCwLWyw.eV00ErMMnmtadUBu"
     },
     {
@@ -206,6 +204,7 @@
       },
       "flags": {},
       "animation": null,
+      "levels": [],
       "_key": "!scenes.walls!Tf9a2S7DuKCwLWyw.HaOOXgVkdShVuFq7"
     },
     {
@@ -231,6 +230,7 @@
       },
       "flags": {},
       "animation": null,
+      "levels": [],
       "_key": "!scenes.walls!Tf9a2S7DuKCwLWyw.2RieqUMArP3RCR9o"
     }
   ],
@@ -250,7 +250,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276691953,
@@ -303,26 +303,56 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
-  "templates": [],
-  "background": {
-    "src": null,
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "warehouse",
+      "background": {
+        "color": "#999999",
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!Tf9a2S7DuKCwLWyw.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#999999",
   "_key": "!scenes!Tf9a2S7DuKCwLWyw",
-  "levels": []
+  "templates": []
 }

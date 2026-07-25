@@ -4,21 +4,6 @@
   "active": true,
   "navigation": false,
   "navOrder": 0,
-  "background": {
-    "src": "assets/scenes/Landing/loading%20screen1.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
-  },
-  "foreground": null,
-  "foregroundElevation": null,
   "thumb": "worlds/compendium-cleanup/assets/scenes/6Z8yOYjt5kGsYDW3-thumb.webp",
   "width": 1920,
   "height": 1080,
@@ -28,7 +13,6 @@
     "y": null,
     "scale": null
   },
-  "backgroundColor": "#000000",
   "grid": {
     "type": 0,
     "size": 100,
@@ -41,12 +25,11 @@
   },
   "tokenVision": false,
   "fog": {
-    "exploration": false,
-    "overlay": null,
     "colors": {
       "explored": null,
       "unexplored": null
-    }
+    },
+    "mode": 0
   },
   "environment": {
     "darknessLevel": 0,
@@ -111,12 +94,9 @@
         "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-noble.webp",
         "anchorX": 0.5,
         "anchorY": 0.5,
-        "offsetX": 0,
-        "offsetY": 0,
         "fit": "contain",
         "scaleX": 1,
         "scaleY": 1,
-        "rotation": 0,
         "tint": "#ffffff",
         "alphaThreshold": 0.75
       },
@@ -156,7 +136,7 @@
           "max": 1
         }
       },
-      "detectionModes": [],
+      "detectionModes": {},
       "occludable": {
         "radius": 0
       },
@@ -202,6 +182,8 @@
       "locked": false,
       "_movementHistory": [],
       "_regions": [],
+      "depth": 1,
+      "level": "defaultLevel0000",
       "_key": "!scenes.tokens!6Z8yOYjt5kGsYDW3.8ih7WGK3YteWYCpv"
     }
   ],
@@ -209,7 +191,6 @@
   "notes": [],
   "sounds": [],
   "regions": [],
-  "templates": [],
   "tiles": [],
   "walls": [
     {
@@ -235,6 +216,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!6Z8yOYjt5kGsYDW3.RPjVOHcIzQDjoz33"
     },
     {
@@ -260,6 +242,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!6Z8yOYjt5kGsYDW3.S8wykmqeAmzgDVuC"
     },
     {
@@ -285,6 +268,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!6Z8yOYjt5kGsYDW3.UYQn2Bibvk0yFgAZ"
     },
     {
@@ -310,6 +294,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!6Z8yOYjt5kGsYDW3.bl7G9MyOliqdxDlx"
     }
   ],
@@ -335,7 +320,7 @@
     "compendiumSource": null,
     "duplicateSource": "Scene.JA34fhAMaK4kaQpT",
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276687152,
@@ -344,6 +329,54 @@
   },
   "navName": "",
   "_id": "6Z8yOYjt5kGsYDW3",
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Landing 1 (still)",
+      "background": {
+        "color": "#000000",
+        "src": "assets/scenes/Landing/loading%20screen1.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!6Z8yOYjt5kGsYDW3.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
+  },
   "_key": "!scenes!6Z8yOYjt5kGsYDW3",
-  "levels": []
+  "templates": []
 }

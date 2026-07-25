@@ -1,0 +1,23 @@
+{
+  "name": "Consumable (Common)",
+  "sorting": "a",
+  "folder": "kl9zkuovJSqLBs6Z",
+  "type": "RollTable",
+  "_id": "2FmKaaf8aiqxg91m",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1784950158878,
+    "modifiedTime": 1784950512103,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "exportSource": null
+  },
+  "_key": "!folders!2FmKaaf8aiqxg91m"
+}

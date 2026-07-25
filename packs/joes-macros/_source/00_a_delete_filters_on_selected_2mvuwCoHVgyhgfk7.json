@@ -6,8 +6,8 @@
   "img": "modules/tokenmagic/gui/macros/images/00%20-%20A%20-%20Delete%20filters%20on%20Selected.webp",
   "scope": "global",
   "command": "// Delete all filters on the selected tokens/tiles\nawait TokenMagic.deleteFiltersOnSelected();",
-  "folder": "pQIkxjyFiT4SWiH1",
-  "sort": 100000,
+  "folder": "WVpo6yuJv2JcoaWZ",
+  "sort": 600000,
   "flags": {
     "macro-wheel": {
       "activeCondition": ""
@@ -21,12 +21,12 @@
   "_stats": {
     "compendiumSource": "Compendium.tokenmagic.tmMacros.Macro.DCRnfJDBd25fOQxc",
     "duplicateSource": null,
-    "coreVersion": "13.345",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "6.11.1",
     "createdTime": 1745586812708,
-    "modifiedTime": 1745586812708,
-    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "modifiedTime": 1784950758414,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
     "exportSource": null
   },
   "_key": "!macros!2mvuwCoHVgyhgfk7"

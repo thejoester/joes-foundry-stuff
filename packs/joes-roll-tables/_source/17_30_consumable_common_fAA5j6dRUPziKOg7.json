@@ -1,0 +1,2730 @@
+{
+  "name": "17-30 Consumable (Common)",
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GxVwATDdSGbZbx9B",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "jCwo23fwcpMTfflo",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.jCwo23fwcpMTfflo"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bvIVxDq1wh6IavHP",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "xXRUlzl9XA1SKLGC",
+      "name": "",
+      "img": "icons/consumables/potions/bottle-conical-corked-green.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.xXRUlzl9XA1SKLGC"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nS75vsM3x5jxlUqn",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "Jv9tRrM6E8Bc9hLz",
+      "name": "",
+      "img": "icons/consumables/potions/bottle-round-flask-fumes-purple.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Jv9tRrM6E8Bc9hLz"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LR7Ke2V8vHjQYBni",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "H4CP12L61yvX66kb",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/black-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.H4CP12L61yvX66kb"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.idtIMGkFmIe958Et",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "Gdu0hmkli4PcDAYm",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/brass-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Gdu0hmkli4PcDAYm"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lJTl2SuUaluMzPBl",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "vdIV7sQEBr6GkH7k",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/bronze-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.vdIV7sQEBr6GkH7k"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VBK9i74dry8yf8f0",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "Bsa8TJdSulhqzoco",
+      "name": "",
+      "img": "icons/consumables/potions/potion-vial-corked-purple.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Bsa8TJdSulhqzoco"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Wx5WhSNOmeICgHSC",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "fJKOXysCawj76UpF",
+      "name": "",
+      "img": "icons/consumables/potions/potion-vial-corked-labeled-purple.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.fJKOXysCawj76UpF"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VXxwxLwJiDODlUZq",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "ZqASeJW9lpvFDJTv",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/fulus/fulu-fancy.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ZqASeJW9lpvFDJTv"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mGIJCGFkBQLkzhTg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "OcaGue9IqegA4jij",
+      "name": "",
+      "img": "icons/commodities/stone/paver-cobble-white.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.OcaGue9IqegA4jij"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.M4ZOHOlne43ArjOC",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "ti3kGZx3Ax3hNt09",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/drakeheart-mutagen.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ti3kGZx3Ax3hNt09"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2JXUER4xY8s36HUv",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "VjiM6boKV6weSfEN",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/green-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.VjiM6boKV6weSfEN"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OiQDcUMrlrYXDgEf",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "27gPbaKtiDYceHAn",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/white-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.27gPbaKtiDYceHAn"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ltILKAEnrZ8vKwY0",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "y24cc3FNXt2ljoXL",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/blue-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.y24cc3FNXt2ljoXL"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KZbAqbt7qxJPPkii",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "0vC7airAsLsQdsOV",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/red-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.0vC7airAsLsQdsOV"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4vb8fplhdtLDBxxh",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "zxzIQ0UyhchYxJOa",
+      "name": "",
+      "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.zxzIQ0UyhchYxJOa"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.34MbgwW1SGlowyk2",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "tYLOzX0fxJuxaSzz",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/energy-mutagen.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.tYLOzX0fxJuxaSzz"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bASMkq9syBtpaXok",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "19ElP8ZujDWwyc0W",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.19ElP8ZujDWwyc0W"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lvsQe0qLzhnWYqa0",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "ZJga663QewJTL0o9",
+      "name": "",
+      "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ZJga663QewJTL0o9"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OJvCWeJPHEc7GpFG",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "RyWCBtmJWxPlcJQ4",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/green-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.RyWCBtmJWxPlcJQ4"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UOvDye8obnqjfMQG",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "YvvpH5WVZEBKnKDO",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.YvvpH5WVZEBKnKDO"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MP7updiiSct04vno",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "SsOyF4wOSx5u8aSL",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/hemlock.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.SsOyF4wOSx5u8aSL"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1kNp6yOS0aZPBPzZ",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "hhIZ0xoqnEzix0Oz",
+      "name": "",
+      "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.hhIZ0xoqnEzix0Oz"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Qs8RgNH6thRPv2jt",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "4DqaX0RXy3xTNMK3",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.4DqaX0RXy3xTNMK3"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iYOBu0hMYzqFYvZN",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "2MOapX1Jc64bnQqw",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.2MOapX1Jc64bnQqw"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.p2bU2w6qbtgrBchc",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_id": "KVQqUEVi3Uoh6cYY",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.KVQqUEVi3Uoh6cYY"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4GXzTN6iSDGfYEAi",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_id": "o0lO5uzVDtxjYM0A",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/quicksilver-mutagen.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.o0lO5uzVDtxjYM0A"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.d2sU6nOtBdIVJMVI",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_id": "Z7tUaMBETz0m369z",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/red-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Z7tUaMBETz0m369z"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vmwrU3lz1HFfadAS",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_id": "2jVts5CK1XFSnRGz",
+      "name": "",
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.2jVts5CK1XFSnRGz"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cFHomF3tty8Wi1e5",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_id": "V8nAY3XnJFeN0iLP",
+      "name": "",
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.V8nAY3XnJFeN0iLP"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ccrdVliTNBh2mNZf",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_id": "evVYwovncjS6jpDg",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/serene-mutagen.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.evVYwovncjS6jpDg"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PW3H8TnouiLaTC8G",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_id": "NTDcS2kKjkmSl9ZT",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/silver-dragons-breath-potion.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.NTDcS2kKjkmSl9ZT"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uD5vRYVOXNJ53sEE",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_id": "JDDcUYC5CyVPNu2z",
+      "name": "",
+      "img": "icons/consumables/potions/potion-bottle-corked-fancy-blue.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.JDDcUYC5CyVPNu2z"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UeUPNFw600HEdDgF",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_id": "fx8D6FBWSX1ce0NW",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/mnemonic-acid.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.fx8D6FBWSX1ce0NW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e-specific-familiars.specific-familiars-equipments.Item.p08ulJpjgrqinPKa",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_id": "FpdON9htDw0uuOJT",
+      "name": "",
+      "img": "modules/pf2e-specific-familiars/icons/sorcerous-sweets.png",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.FpdON9htDw0uuOJT"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ETLSXa4Po518z9Qx",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_id": "xY4Bk62xsYY7dxUj",
+      "name": "",
+      "img": "icons/creatures/invertebrates/spider-striped-web-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.xY4Bk62xsYY7dxUj"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NfMteX8WWC5mxc52",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_id": "JnlNWJqJ60Q4vtnh",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.JnlNWJqJ60Q4vtnh"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Wv0ck7AMP0s0jIue",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_id": "z5S6F5rci7OtVdRb",
+      "name": "",
+      "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.z5S6F5rci7OtVdRb"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.grRxpX1iE3zOJA1q",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_id": "ZwBliQuYLrXIZogW",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-overflowing-life.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ZwBliQuYLrXIZogW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WeX7rAO2kAyP0QnG",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_id": "KAePpIIotIHs1HvL",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-manifold-missiles.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.KAePpIIotIHs1HvL"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.m7oTstzUfkFfaaLc",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_id": "BAgrSD7B892XKnXM",
+      "name": "",
+      "img": "icons/weapons/staves/staff-forest-hooked.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.BAgrSD7B892XKnXM"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jdkMRl7zxOVGUuGI",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_id": "CYGHfdJKdh2mds64",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-tools/universal-solvent.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.CYGHfdJKdh2mds64"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3UXsXwUbvOdpPg6b",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_id": "3fvZ98xkstC6KF3J",
+      "name": "",
+      "img": "icons/consumables/potions/vial-cork-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.3fvZ98xkstC6KF3J"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Pnw4A7fhUhTS85Te",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_id": "bhtHY0qWsMisp9qu",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/focus-cathartic.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.bhtHY0qWsMisp9qu"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UpUJ6NHBin7bubeX",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_id": "xrwjquXU7e6fRew0",
+      "name": "",
+      "img": "icons/consumables/drinks/alcohol-beer-mug-yellow.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.xrwjquXU7e6fRew0"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TSMeh3NfrVEMulWR",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_id": "5bY9D071YaPIbO8W",
+      "name": "",
+      "img": "icons/consumables/potions/bottle-round-label-cork-green.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.5bY9D071YaPIbO8W"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MUL0ABe8h7Ugc1Jt",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_id": "IJlPHoe6ou0EXBO3",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/fury-cocktail.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.IJlPHoe6ou0EXBO3"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OtFKHfUQnn97ILBC",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_id": "LlkSE8DzEGcTyeRn",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.LlkSE8DzEGcTyeRn"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.joes-pf2e-stuff.joes-items-pf2e.Item.96HwmnDzP3pNqwv6",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_id": "EFi8p7prXlGegoKy",
+      "name": "",
+      "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.EFi8p7prXlGegoKy"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.p3ppzFSsZXFRe3H8",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_id": "OB9Uga3UqEOe8bgZ",
+      "name": "",
+      "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.OB9Uga3UqEOe8bgZ"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ye6XAJY21YQqRnKH",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_id": "5Dfo3rbrNdszIsGg",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.5Dfo3rbrNdszIsGg"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RkI3jKKrCozvEvfr",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_id": "A2NcMB9UTBFDidVH",
+      "name": "",
+      "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.A2NcMB9UTBFDidVH"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.aMXCMLI3spk0d7tq",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_id": "qaW6t0dE3pMZhFsk",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.qaW6t0dE3pMZhFsk"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.obER4cKi8UbGhSg7",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_id": "SpuPxkNNvQg9jeu0",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/oils/oil-of-unlife.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.SpuPxkNNvQg9jeu0"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fabw5fDuaTMUF0tb",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_id": "WX5G9uDXHslHWuSq",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-acid-retalliation.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.WX5G9uDXHslHWuSq"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bCPAiqiWmH7pVxNE",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_id": "azULjWN9YUlyZNKK",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-cold-retalliation.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.azULjWN9YUlyZNKK"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bEaiID2KLQ8lTCai",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_id": "i9IQVtu34qEzNS9x",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-electricity-retalliation.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.i9IQVtu34qEzNS9x"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TalLb1YlvXzutuPc",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_id": "tesCesSTQQHWmm9X",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-fire-retalliation.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.tesCesSTQQHWmm9X"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UblsH5cGyUdXypek",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_id": "gkV2rTLE81winIYn",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-undetectability.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.gkV2rTLE81winIYn"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.m6oNZUSSWYMnk7ii",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_id": "p2MnipI0joGHVPrx",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.p2MnipI0joGHVPrx"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.aMbJl8eTV3Ri5O6e",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_id": "tXpHB3R3gKPXJWfB",
+      "name": "",
+      "img": "icons/commodities/stone/stone-cratered-brown.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.tXpHB3R3gKPXJWfB"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PFr49j091jjb8363",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_id": "xqqnH6BgLQipz2Sp",
+      "name": "",
+      "img": "icons/commodities/gems/gem-cluster-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.xqqnH6BgLQipz2Sp"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.po9gLNA6GjystED5",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_id": "lCTG24Qu9rcihJC0",
+      "name": "",
+      "img": "icons/equipment/neck/collar-carved-runed-gimel-grey.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.lCTG24Qu9rcihJC0"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YIgIF1845n5UBFnE",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_id": "whe9uFE6eaJ9vMIV",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/sinew-shock-serum.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.whe9uFE6eaJ9vMIV"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JZZmDY1IJmKcdR2D",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_id": "ueejRnrW7BA464Kv",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/vaccine.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ueejRnrW7BA464Kv"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Z8o1V947lwkhPhzI",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_id": "6aRmxRv40PoKWHDN",
+      "name": "",
+      "img": "icons/weapons/staves/staff-ornate-blue.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.6aRmxRv40PoKWHDN"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.U28jkj5ZDl2drtEH",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_id": "fEWS16cuzgXEC7G4",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-crackling-lightning.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.fEWS16cuzgXEC7G4"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8QValKGj7oZKnqw1",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_id": "L5zZuWf0ydNfQ41w",
+      "name": "",
+      "img": "icons/weapons/wands/wand-gem-teal.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.L5zZuWf0ydNfQ41w"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UC7YCJmKbuau54fS",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_id": "9azcwcUlygmIWWA4",
+      "name": "",
+      "img": "icons/weapons/staves/staff-animal-skull.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.9azcwcUlygmIWWA4"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rZKiSwhCT5xkBVLy",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_id": "jegoTkSHTRxCzIMa",
+      "name": "",
+      "img": "icons/weapons/staves/staff-simple-spiral.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.jegoTkSHTRxCzIMa"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KY9gDuSeB1tgT3cp",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_id": "Ub2ZROSbrC76LLku",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/held-items/wand-of-mental-purification.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Ub2ZROSbrC76LLku"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.T1XSnU0bwrn3m520",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_id": "7eSKQuiRLg2rWEq2",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-noisome-acid.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.7eSKQuiRLg2rWEq2"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SmMfd6rYUJ8vDGzM",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_id": "sL5HUlv0rh5JsoqL",
+      "name": "",
+      "img": "icons/weapons/staves/staff-ornate-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.sL5HUlv0rh5JsoqL"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LnXYSaLxWMyAT3Ef",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_id": "OrxfmVnA0Ho7dr8g",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-slaying.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.OrxfmVnA0Ho7dr8g"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.q2kE0mEUAEL3gQv0",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_id": "cEAGOfLpgjEFhjJu",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-the-snowfields.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.cEAGOfLpgjEFhjJu"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1U382qwyTktH9h3j",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_id": "GlFO0pWfzGybg0sW",
+      "name": "",
+      "img": "icons/weapons/staves/staff-simple-green.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.GlFO0pWfzGybg0sW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xQS1MSqGQz44FWUh",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_id": "E2KOOqR2AZEtgx5N",
+      "name": "",
+      "img": "icons/consumables/potions/potion-flask-corked-tied-necklace-teal.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.E2KOOqR2AZEtgx5N"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SeIweTBlvD1EipTQ",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_id": "BHS93PBnOHbIGSZW",
+      "name": "",
+      "img": "icons/consumables/potions/potion-flash-open-blue.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.BHS93PBnOHbIGSZW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ommn7wIgLyWHGL11",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_id": "ELNvUtle7gvoGWXi",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ELNvUtle7gvoGWXi"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qK964kZz1ALcysOa",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_id": "RoTsInbn0lEXRO54",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.RoTsInbn0lEXRO54"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ugxI9kH7osJ3J5qG",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_id": "vWNCmMVHuhcPrXQ6",
+      "name": "",
+      "img": "icons/magic/fire/barrier-shield-explosion-yellow.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.vWNCmMVHuhcPrXQ6"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.CorMilTH3XKGW49D",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_id": "ZMlntbRtmFvHzuG1",
+      "name": "",
+      "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ZMlntbRtmFvHzuG1"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Fgv722039TVM5JTc",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_id": "ExJiFxawpmDHLLYW",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.ExJiFxawpmDHLLYW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7VDf5tQKh01XV6HQ",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_id": "vnKsQGLQsus03YDG",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/addiction-suppressant.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.vnKsQGLQsus03YDG"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.B9NVsgy2jvd6sJID",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_id": "9JFbCcOkdd4OguLu",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/consumables/oils/oil-of-potency.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.9JFbCcOkdd4OguLu"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.m16rhrqO81674IxV",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_id": "bhMeO8xKhHFrMUZz",
+      "name": "",
+      "img": "systems/pf2e/icons/default-icons/consumable.svg",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.bhMeO8xKhHFrMUZz"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.o1XIHJ4MJyroAHfF",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_id": "QfSVlolGDDSgz2ga",
+      "name": "",
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.QfSVlolGDDSgz2ga"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xZFbFeJckiQS7smT",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_id": "hx8o4g41F8SHT7eO",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-overflowing-life.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.hx8o4g41F8SHT7eO"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.s9ciKYFPOepnHpxG",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_id": "AMKiAlL0A33FqBGC",
+      "name": "",
+      "img": "icons/weapons/staves/staff-forest-hooked.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.AMKiAlL0A33FqBGC"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.989VZoKytQMJYRuR",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_id": "z57zy0qbOFv4wbhq",
+      "name": "",
+      "img": "icons/commodities/leather/scales-green.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.z57zy0qbOFv4wbhq"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qvfO0jFIvIM8hReG",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_id": "Mcz9LP8Y6lZ4sfQW",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/snares/flying-blade-wheel-snare.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Mcz9LP8Y6lZ4sfQW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xqCz2vStMNJujfpp",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_id": "OPtnpWaldb5QICbd",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/snares/instant-evisceration-snare.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.OPtnpWaldb5QICbd"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gDGPvobJV1QGYBPy",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_id": "eme9vTUKCe2Cl3Mm",
+      "name": "",
+      "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.eme9vTUKCe2Cl3Mm"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.P112tFaNhgJrBhmu",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_id": "mKokMOWmpD9nHFRr",
+      "name": "",
+      "img": "icons/weapons/staves/staff-ornate-blue.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.mKokMOWmpD9nHFRr"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gv5IRHrmGoSu7Dzv",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_id": "5o4auszhS4M3ek39",
+      "name": "",
+      "img": "icons/weapons/wands/wand-gem-teal.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.5o4auszhS4M3ek39"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FagkWG1cXRucHcQ6",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_id": "S14ZSXxUDJGszBNh",
+      "name": "",
+      "img": "icons/weapons/staves/staff-animal-skull.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.S14ZSXxUDJGszBNh"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YBWZ1Qexhe6PuiuO",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_id": "D4lZtx0sV76kIHjw",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/held-items/wand-of-mental-purification.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.D4lZtx0sV76kIHjw"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MBMiRXM0xC4aS6Xj",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_id": "okYwDLAtwJJlhsTW",
+      "name": "",
+      "img": "icons/weapons/staves/staff-ornate-red.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.okYwDLAtwJJlhsTW"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mMZWdoHvP2yYJzrR",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_id": "lfBD3nY9kYoRh4po",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-slaying.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.lfBD3nY9kYoRh4po"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tBwMPimZ6A93XpHf",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_id": "Eatq4hp3OxW3uLzX",
+      "name": "",
+      "img": "systems/pf2e/icons/equipment/wands/specialty-wands/wand-of-smoldering-fireballs.webp",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784950444896,
+        "modifiedTime": 1784950444896,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fAA5j6dRUPziKOg7.Eatq4hp3OxW3uLzX"
+    }
+  ],
+  "formula": "1d100",
+  "_id": "fAA5j6dRUPziKOg7",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "2FmKaaf8aiqxg91m",
+  "ownership": {
+    "default": 0,
+    "zizHfu40Ulpg7xkW": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "8.3.0",
+    "createdTime": 1784950444896,
+    "modifiedTime": 1784950444896,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 0,
+  "_key": "!tables!fAA5j6dRUPziKOg7"
+}

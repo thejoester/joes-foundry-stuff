@@ -89,10 +89,7 @@
         "anchorX": 0.5,
         "anchorY": 0.5,
         "fit": "contain",
-        "alphaThreshold": 0.75,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0.75
       },
       "sight": {
         "angle": 360,
@@ -105,7 +102,7 @@
         "saturation": 0,
         "contrast": 0
       },
-      "detectionModes": [],
+      "detectionModes": {},
       "delta": {
         "_id": "5o7v96DZ6Y3s6621",
         "name": null,
@@ -145,6 +142,8 @@
       },
       "movementAction": null,
       "_movementHistory": [],
+      "depth": 1,
+      "level": "defaultLevel0000",
       "_key": "!scenes.tokens!WTeVHbjAXbyogx8B.5o7v96DZ6Y3s6621"
     },
     {
@@ -204,10 +203,7 @@
         "anchorX": 0.5,
         "anchorY": 0.5,
         "fit": "contain",
-        "alphaThreshold": 0.75,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0.75
       },
       "sight": {
         "angle": 360,
@@ -220,7 +216,7 @@
         "saturation": 0,
         "contrast": 0
       },
-      "detectionModes": [],
+      "detectionModes": {},
       "delta": {
         "_id": "EGcl9IhUs69Twdez",
         "name": null,
@@ -260,6 +256,8 @@
       },
       "movementAction": null,
       "_movementHistory": [],
+      "depth": 1,
+      "level": "defaultLevel0000",
       "_key": "!scenes.tokens!WTeVHbjAXbyogx8B.EGcl9IhUs69Twdez"
     },
     {
@@ -319,10 +317,7 @@
         "anchorX": 0.5,
         "anchorY": 0.5,
         "fit": "contain",
-        "alphaThreshold": 0.75,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0.75
       },
       "sight": {
         "angle": 360,
@@ -335,7 +330,7 @@
         "saturation": 0,
         "contrast": 0
       },
-      "detectionModes": [],
+      "detectionModes": {},
       "delta": {
         "_id": "NhPsZXXzbyq12nnS",
         "name": null,
@@ -375,6 +370,8 @@
       },
       "movementAction": null,
       "_movementHistory": [],
+      "depth": 1,
+      "level": "defaultLevel0000",
       "_key": "!scenes.tokens!WTeVHbjAXbyogx8B.NhPsZXXzbyq12nnS"
     },
     {
@@ -458,10 +455,7 @@
         "anchorX": 0.5,
         "anchorY": 0.5,
         "fit": "contain",
-        "alphaThreshold": 0.75,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0.75
       },
       "sight": {
         "angle": 360,
@@ -474,7 +468,7 @@
         "saturation": 0,
         "contrast": 0
       },
-      "detectionModes": [],
+      "detectionModes": {},
       "delta": {
         "_id": "wvCbB6YnPA89F7r7",
         "name": null,
@@ -514,6 +508,8 @@
       },
       "movementAction": null,
       "_movementHistory": [],
+      "depth": 1,
+      "level": "defaultLevel0000",
       "_key": "!scenes.tokens!WTeVHbjAXbyogx8B.wvCbB6YnPA89F7r7"
     }
   ],
@@ -545,6 +541,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!WTeVHbjAXbyogx8B.6klPROEUUFb6ltef"
     },
     {
@@ -570,6 +567,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!WTeVHbjAXbyogx8B.eLT4ds2rh6Ggc5Nj"
     },
     {
@@ -595,6 +593,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!WTeVHbjAXbyogx8B.NDbr12DZNXQF8Kon"
     },
     {
@@ -620,6 +619,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!WTeVHbjAXbyogx8B.Bj3DLpqIPT1Ygmx8"
     }
   ],
@@ -17446,7 +17446,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276694368,
@@ -17494,26 +17494,56 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/cities-towns-regions/the_talbot_road.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "(sb) Talbot Road",
+      "background": {
+        "color": "#736e38",
+        "src": "assets/scenes/cities-towns-regions/the_talbot_road.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!WTeVHbjAXbyogx8B.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#736e38",
   "_key": "!scenes!WTeVHbjAXbyogx8B",
-  "levels": []
+  "templates": []
 }

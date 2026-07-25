@@ -1,0 +1,29 @@
+{
+  "_id": "VJQA4m0MsDNmKi4M",
+  "name": "Mirror Images",
+  "type": "script",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "modules/tokenmagic/gui/macros/images/23%20-%20T01%20-%20Mirror%20Images.webp",
+  "scope": "global",
+  "command": "let params =\n[{\n    filterType: \"images\",\n    filterId: \"myMirrorImages\",\n    time: 0,\n    nbImage: 4,\n    alphaImg: 1.0,\n    alphaChr: 0.0,\n    blend: 4,\n    ampX: 0.10,\n    ampY: 0.10,\n    zOrder: 20,\n    animated :\n    {\n      time: \n      { \n        active: true, \n        speed: 0.0010, \n        animType: \"move\" \n      }\n    }\n}];\n\nawait TokenMagic.addUpdateFiltersOnSelected(params);",
+  "folder": "WVpo6yuJv2JcoaWZ",
+  "sort": 900000,
+  "flags": {},
+  "ownership": {
+    "default": 0,
+    "Njc5YzFjZDI5NjZl": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.tokenmagic.tmMacros.Macro.Ac6lTCiwnycb2Hbw",
+    "duplicateSource": null,
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1784950815143,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "exportSource": null
+  },
+  "_key": "!macros!VJQA4m0MsDNmKi4M"
+}

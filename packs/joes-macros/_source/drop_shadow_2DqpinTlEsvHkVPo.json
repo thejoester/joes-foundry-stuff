@@ -1,0 +1,29 @@
+{
+  "_id": "2DqpinTlEsvHkVPo",
+  "name": "Drop Shadow",
+  "type": "script",
+  "author": "CLMiGpsYVSTK4VM8",
+  "img": "modules/tokenmagic/gui/macros/images/03%20-%20Drop%20Shadow.webp",
+  "scope": "global",
+  "command": "let params =\n[{\n    filterType: \"shadow\",\n    filterId: \"myShadow\",\n    rotation: 35,\n    blur: 2,\n    quality: 5,\n    distance: 20,\n    alpha: 0.7,\n    padding: 10,\n    shadowOnly: false,\n    color: 0x000000,\n    zOrder: 6000,\n    animated:\n    {\n        blur:     \n        { \n           active: true, \n           loopDuration: 500, \n           animType: \"syncCosOscillation\", \n           val1: 2, \n           val2: 4\n        },\n        rotation:\n        {\n           active: true,\n           loopDuration: 100,\n           animType: \"syncSinOscillation\",\n           val1: 33,\n           val2: 37\n        }\n     }\n}];\n\nawait TokenMagic.addUpdateFiltersOnSelected(params);",
+  "folder": "WVpo6yuJv2JcoaWZ",
+  "sort": 100000,
+  "flags": {},
+  "ownership": {
+    "default": 0,
+    "Njc5YzFjZDI5NjZl": 3,
+    "CLMiGpsYVSTK4VM8": 3
+  },
+  "_stats": {
+    "compendiumSource": "Compendium.tokenmagic.tmMacros.Macro.hayiRem3LXoEP3tL",
+    "duplicateSource": null,
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745586812708,
+    "modifiedTime": 1784950797869,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "exportSource": null
+  },
+  "_key": "!macros!2DqpinTlEsvHkVPo"
+}

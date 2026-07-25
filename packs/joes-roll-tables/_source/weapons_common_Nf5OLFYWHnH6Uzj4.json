@@ -1,0 +1,23 @@
+{
+  "name": "Weapons (Common)",
+  "sorting": "a",
+  "folder": "kl9zkuovJSqLBs6Z",
+  "type": "RollTable",
+  "_id": "Nf5OLFYWHnH6Uzj4",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "6.4.0",
+    "createdTime": 1784950243045,
+    "modifiedTime": 1784950243045,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "exportSource": null
+  },
+  "_key": "!folders!Nf5OLFYWHnH6Uzj4"
+}

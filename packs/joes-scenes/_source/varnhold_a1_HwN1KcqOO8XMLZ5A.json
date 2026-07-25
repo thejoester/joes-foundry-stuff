@@ -27,8 +27,7 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
   "environment": {
     "darknessLevel": 0,
@@ -85,10 +84,7 @@
         "fit": "contain",
         "scaleX": 1,
         "scaleY": 1,
-        "alphaThreshold": 0,
-        "offsetX": 0,
-        "offsetY": 0,
-        "rotation": 0
+        "alphaThreshold": 0
       },
       "text": "",
       "fontFamily": "Signika",
@@ -97,6 +93,9 @@
       "textAnchor": 1,
       "_id": "1cvLdlIbcAqO6xC6",
       "flags": {},
+      "author": null,
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.notes!HwN1KcqOO8XMLZ5A.1cvLdlIbcAqO6xC6"
     }
   ],
@@ -130,7 +129,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276691953,
@@ -141,23 +140,54 @@
   "_id": "HwN1KcqOO8XMLZ5A",
   "active": false,
   "sort": 0,
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/kingmaker/varnhold-a1.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "Varnhold A1",
+      "background": {
+        "color": "#999999",
+        "src": "assets/scenes/kingmaker/varnhold-a1.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!HwN1KcqOO8XMLZ5A.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#999999",
   "_key": "!scenes!HwN1KcqOO8XMLZ5A",
-  "levels": []
+  "templates": []
 }

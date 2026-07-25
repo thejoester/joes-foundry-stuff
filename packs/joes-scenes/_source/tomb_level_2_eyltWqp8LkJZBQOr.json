@@ -61,6 +61,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.4aTVX8Pu2u1ATSgk"
     },
     {
@@ -98,6 +100,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.xjCfE6T6uvs5U2H3"
     },
     {
@@ -135,6 +139,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.3NKQELNiWf47TVKg"
     },
     {
@@ -172,6 +178,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.iS687jBxywypxLnu"
     },
     {
@@ -209,6 +217,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.mnQ8Yc1fvUMkJfPx"
     },
     {
@@ -246,6 +256,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.B8tJe4aHPErHtW0A"
     },
     {
@@ -283,6 +295,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.4XEVJGo7TyFY9YCv"
     },
     {
@@ -320,6 +334,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.NAS6K8k1qmlaDYi2"
     },
     {
@@ -357,6 +373,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.4PqTdB4eJuDpY9Xi"
     },
     {
@@ -394,6 +412,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.kRDwgkKiTUA3kmXO"
     },
     {
@@ -431,6 +451,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.voLOWxLj3Ptrp2Yp"
     },
     {
@@ -468,6 +490,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.ow01IPLu5WEIuB0Y"
     },
     {
@@ -505,6 +529,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.w3RWsBF9nbHVKY4B"
     },
     {
@@ -542,6 +568,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.ouWEhwlsmEjt09i1"
     },
     {
@@ -579,6 +607,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.TsY76ryzHq4Plpvf"
     },
     {
@@ -616,6 +646,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.QxwCOFh6G7gyN8XR"
     },
     {
@@ -653,6 +685,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.b7uMTfLgCSTNAK4b"
     },
     {
@@ -690,6 +724,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.bvfTJxKWVaTVD1kY"
     },
     {
@@ -727,6 +763,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.1m1Y8rHvuCSfRVAl"
     },
     {
@@ -764,6 +802,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.w72KnO4Y7TZIaO6y"
     },
     {
@@ -801,6 +841,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.yw0C1CkuCtJrf061"
     },
     {
@@ -838,6 +880,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.cqfUshUAyqngriNa"
     },
     {
@@ -875,6 +919,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.TBOCwMJSjC8hxpPj"
     },
     {
@@ -912,6 +958,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.pfWOlwbeanH5YNfb"
     },
     {
@@ -949,6 +997,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.f9fyOMdXOKMbSQpg"
     },
     {
@@ -986,6 +1036,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.B2MGHrxuf9UbuxXa"
     },
     {
@@ -1023,6 +1075,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.96kVpk2MV2Dbcl4D"
     },
     {
@@ -1060,6 +1114,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.6FY7G7Hl7AVyViPW"
     },
     {
@@ -1097,6 +1153,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.afRiMpQo4bi44EzL"
     },
     {
@@ -1134,6 +1192,8 @@
       "vision": false,
       "hidden": false,
       "flags": {},
+      "levels": [],
+      "locked": false,
       "_key": "!scenes.lights!eyltWqp8LkJZBQOr.UTj9goAhG9QGCwLs"
     }
   ],
@@ -1164,6 +1224,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.v6Ls3XRtp9BOpvIO"
     },
     {
@@ -1189,6 +1250,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.wDSwXa20yvR7tdKA"
     },
     {
@@ -1214,6 +1276,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.EnjGUpVmGwQlMfl0"
     },
     {
@@ -1239,6 +1302,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.dlKgE3MJvnZzRfuw"
     },
     {
@@ -1264,6 +1328,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.wAT20i3FI1DYnUcu"
     },
     {
@@ -1289,6 +1354,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.QHk7sdo7inNPqXyV"
     },
     {
@@ -1314,6 +1380,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.iMnGPGZc03IxziYt"
     },
     {
@@ -1339,6 +1406,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.0yb6qurLK1Gedmkc"
     },
     {
@@ -1364,6 +1432,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.k6XFcbQsdtebM55d"
     },
     {
@@ -1389,6 +1458,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.cTHayu7mGEGmNIp4"
     },
     {
@@ -1414,6 +1484,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.nJLWkBj0E2gxzf5s"
     },
     {
@@ -1439,6 +1510,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.HXYM6taQmDCruUW4"
     },
     {
@@ -1464,6 +1536,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.U5Hs6HIyXnU0oDT5"
     },
     {
@@ -1489,6 +1562,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.TKqfWFOImEhry6p9"
     },
     {
@@ -1514,6 +1588,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.IlrNy3ESII0LeLAm"
     },
     {
@@ -1539,6 +1614,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.6fioIH0Yi1NRHuZE"
     },
     {
@@ -1564,6 +1640,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.HMlHkVG9UiinHc1y"
     },
     {
@@ -1589,6 +1666,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.S7zAqXZXdbwGFFDV"
     },
     {
@@ -1614,6 +1692,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.0egmHv6bVoTOdmMI"
     },
     {
@@ -1639,6 +1718,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Og6tddXSq7R3Vuyq"
     },
     {
@@ -1664,6 +1744,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.r4FT7qmJwWryif6x"
     },
     {
@@ -1689,6 +1770,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.6m4oDgKbDZEpR2E0"
     },
     {
@@ -1714,6 +1796,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.J7AhDCfuXkjMOlzn"
     },
     {
@@ -1739,6 +1822,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.WzsVfgU7kezG5uBl"
     },
     {
@@ -1764,6 +1848,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.f1YspWU4KZEdfQLo"
     },
     {
@@ -1789,6 +1874,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.vVGUsjopbauc0i7a"
     },
     {
@@ -1814,6 +1900,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.DAA1pkvbLLbciW7h"
     },
     {
@@ -1839,6 +1926,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.n04tuMGCzLk0wRHz"
     },
     {
@@ -1864,6 +1952,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.13OsHl85PqPwTNyn"
     },
     {
@@ -1889,6 +1978,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.QZzXX9TB5eqrXbBT"
     },
     {
@@ -1914,6 +2004,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.hYW0M6lFbiH75Hnr"
     },
     {
@@ -1939,6 +2030,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.ZWzNBC7QWUNQeJm7"
     },
     {
@@ -1964,6 +2056,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.t5lwJwAzyhBLbmCV"
     },
     {
@@ -1989,6 +2082,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.dPD3Az3ZLshx6mMM"
     },
     {
@@ -2014,6 +2108,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.UyZL1OuqJWJbpDC0"
     },
     {
@@ -2039,6 +2134,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.m8nP2RDtM6oKxdW0"
     },
     {
@@ -2064,6 +2160,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.FNuuWkpiP5ietWKj"
     },
     {
@@ -2089,6 +2186,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Xjlus6pSY36GaKTA"
     },
     {
@@ -2114,6 +2212,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.9IqFpfilTyRhJNJc"
     },
     {
@@ -2139,6 +2238,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.M9lcvFOaAAsZzEy2"
     },
     {
@@ -2164,6 +2264,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.OorXLCcfpklcURgj"
     },
     {
@@ -2189,6 +2290,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.z2M2d1Y5RicCgJrk"
     },
     {
@@ -2214,6 +2316,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.2A3XP5i9GPzzCuoP"
     },
     {
@@ -2239,6 +2342,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Iw942VgI6vYFdcMH"
     },
     {
@@ -2264,6 +2368,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.RUSTBvm53KJthWG8"
     },
     {
@@ -2289,6 +2394,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.pylrG1Ba1iRjcyoK"
     },
     {
@@ -2314,6 +2420,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.glHOgCHdhr7YUP51"
     },
     {
@@ -2339,6 +2446,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.zf0OdalehgcvA38K"
     },
     {
@@ -2364,6 +2472,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.kN2GupdIUTfI9TVc"
     },
     {
@@ -2389,6 +2498,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.LyQVpCcxxr5OhQRR"
     },
     {
@@ -2414,6 +2524,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.WPW0o8HdoUGqnz2M"
     },
     {
@@ -2439,6 +2550,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.8SnUXREhAtsuSAMr"
     },
     {
@@ -2464,6 +2576,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.3FxnH1dTbN9fd6iM"
     },
     {
@@ -2489,6 +2602,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.RQ4qVC4phvFIdQYl"
     },
     {
@@ -2514,6 +2628,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.qicYWSKyNL7BmIU1"
     },
     {
@@ -2539,6 +2654,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.0tZcbMv6jYN2wjGB"
     },
     {
@@ -2564,6 +2680,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.UQNmVsWLgYxgG2Qt"
     },
     {
@@ -2589,6 +2706,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.cL1fLXyFWM2cp29b"
     },
     {
@@ -2614,6 +2732,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.OLvfSuwLbe0jq4vb"
     },
     {
@@ -2639,6 +2758,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Ns4S1O6U8uHxBKVs"
     },
     {
@@ -2664,6 +2784,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.JtmBJXY1oCLWJ2aq"
     },
     {
@@ -2689,6 +2810,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.6vTpSgepjnulOF9u"
     },
     {
@@ -2714,6 +2836,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Nv1ZU6fRqLopwVRO"
     },
     {
@@ -2739,6 +2862,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.OtUJgH0hH9P3spKD"
     },
     {
@@ -2764,6 +2888,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.LAkY8TrYfUlSJOjH"
     },
     {
@@ -2789,6 +2914,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.OE8v1eYwH3RWQmdw"
     },
     {
@@ -2814,6 +2940,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.1Dji4J5AOmx3WUZF"
     },
     {
@@ -2839,6 +2966,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.MCPMoNeA3kDGmt77"
     },
     {
@@ -2864,6 +2992,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.2K3nTCgh7MnuFRQ9"
     },
     {
@@ -2889,6 +3018,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.47FejUPDsYpeaeu4"
     },
     {
@@ -2914,6 +3044,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.mTpmqVIv9y1VN5Mp"
     },
     {
@@ -2939,6 +3070,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.OagKw7QvIATTwSnR"
     },
     {
@@ -2964,6 +3096,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.pZKfSgjn6VWYMf4v"
     },
     {
@@ -2989,6 +3122,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.5aTzvN3p8omIwGyV"
     },
     {
@@ -3014,6 +3148,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.ZwZFcgewAAt6vTOx"
     },
     {
@@ -3039,6 +3174,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.INb5hfbb2W6oekOT"
     },
     {
@@ -3064,6 +3200,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.czut4bUNDv1g825G"
     },
     {
@@ -3089,6 +3226,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.rJsEYBh5ffoNEFl3"
     },
     {
@@ -3114,6 +3252,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.U6xKwGwFp3uOBnRn"
     },
     {
@@ -3139,6 +3278,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.3tCr5BFKSsDhioSQ"
     },
     {
@@ -3164,6 +3304,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.H8g7wM4oEkK4Gkkl"
     },
     {
@@ -3189,6 +3330,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.muxiYcJLNsnHMVHO"
     },
     {
@@ -3214,6 +3356,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.CmqVSfQ3nzAT3IHf"
     },
     {
@@ -3239,6 +3382,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.JGQxv3914wFTL7rL"
     },
     {
@@ -3264,6 +3408,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.wWAKbCcIo16h73QB"
     },
     {
@@ -3289,6 +3434,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.c8KI8hEjnbjO5Mwh"
     },
     {
@@ -3314,6 +3460,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Y02BpHwbHNIdajx0"
     },
     {
@@ -3339,6 +3486,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.BSYnoHQyXjVQnyKC"
     },
     {
@@ -3364,6 +3512,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.xceC0c7MclPzsaJO"
     },
     {
@@ -3389,6 +3538,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.p1mpUfI6Qs7Pe3rR"
     },
     {
@@ -3414,6 +3564,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.0ti0cMY5URYTalgc"
     },
     {
@@ -3439,6 +3590,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.mxu6WKzAKhgfo4Dp"
     },
     {
@@ -3464,6 +3616,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.4paQdKdgh5WaemNX"
     },
     {
@@ -3489,6 +3642,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Ij6MofYIz5Hb2H8O"
     },
     {
@@ -3514,6 +3668,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Sr1WnB1MUHMJSht4"
     },
     {
@@ -3539,6 +3694,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.iY9OHNzpHGSn7NHN"
     },
     {
@@ -3564,6 +3720,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.oHcgFa6ZeNmMKbl4"
     },
     {
@@ -3589,6 +3746,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.JjQSBm1qhiuXXV86"
     },
     {
@@ -3614,6 +3772,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.aUDAY2ERTFGhDkJO"
     },
     {
@@ -3639,6 +3798,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.OCYbrX5YhzNHaZCy"
     },
     {
@@ -3664,6 +3824,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.0hMFS6OO5G1vTnHM"
     },
     {
@@ -3689,6 +3850,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.h7yxcOWPOUXM0whX"
     },
     {
@@ -3714,6 +3876,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.XtsZfI7aaS2TA91G"
     },
     {
@@ -3739,6 +3902,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.lRVipDOkHdbBH0IL"
     },
     {
@@ -3764,6 +3928,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.j7eYcCFVewZzh4Lc"
     },
     {
@@ -3789,6 +3954,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.JQaREWpagVrRFzgy"
     },
     {
@@ -3814,6 +3980,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.YRunMJk8gdJXMUaE"
     },
     {
@@ -3839,6 +4006,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.WC3OSMTEtAvUgnNI"
     },
     {
@@ -3864,6 +4032,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.WWVQaIIkY1Qo39pZ"
     },
     {
@@ -3889,6 +4058,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.SCXkTDqyiP40Zqlc"
     },
     {
@@ -3914,6 +4084,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.r2Uu2yrOLyY2AN1j"
     },
     {
@@ -3939,6 +4110,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.quqFxAd2tYJea8Zu"
     },
     {
@@ -3964,6 +4136,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.rDRgVFfthiq4kJTx"
     },
     {
@@ -3989,6 +4162,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.RmAdaxX7ChUZMKa2"
     },
     {
@@ -4014,6 +4188,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.tJm38T8ku4ZmAxqR"
     },
     {
@@ -4039,6 +4214,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.rCi2nAY1EKQef7kM"
     },
     {
@@ -4064,6 +4240,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.Qip7tmk2hK6CeLzd"
     },
     {
@@ -4089,6 +4266,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.ZJTfFvnG9NkxFiCI"
     },
     {
@@ -4114,6 +4292,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!eyltWqp8LkJZBQOr.UohwzRVFxhuEEqsJ"
     }
   ],
@@ -4138,7 +4317,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276691953,
@@ -4190,26 +4369,56 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/dungeon-medium/Tomb%201/tomb-level-2-with%20lights-nogrid.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "tomb-level-2",
+      "background": {
+        "color": "#999999",
+        "src": "assets/scenes/dungeon-medium/Tomb%201/tomb-level-2-with%20lights-nogrid.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!eyltWqp8LkJZBQOr.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#999999",
   "_key": "!scenes!eyltWqp8LkJZBQOr",
-  "levels": []
+  "templates": []
 }

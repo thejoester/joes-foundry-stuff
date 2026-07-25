@@ -28,8 +28,7 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
   "environment": {
     "darknessLevel": 0,
@@ -96,6 +95,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.wv6u1js5QuoLe30F"
     },
     {
@@ -121,6 +121,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.ZGnCWKgYvEE05hrl"
     },
     {
@@ -146,6 +147,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.oz4IzurF7DtrrQFV"
     },
     {
@@ -171,6 +173,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.rtPpLVPcyei7urBo"
     },
     {
@@ -196,6 +199,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.bPw0JFcT1SO36g33"
     },
     {
@@ -221,6 +225,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.FSVGrBahjWulBxHY"
     },
     {
@@ -246,6 +251,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.pwzQzJgBxiUt4a4E"
     },
     {
@@ -271,6 +277,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.POgG5TL5pdf0RuSi"
     },
     {
@@ -296,6 +303,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.b4xPSPFnHaCtw1jc"
     },
     {
@@ -321,6 +329,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.fjsSPVhPsYhbdkLy"
     },
     {
@@ -346,6 +355,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.QH3qmIPeHCdhQx28"
     },
     {
@@ -371,6 +381,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!qRdVd9HtqD3Vp6Gz.Uj4A6aCqVEm3jtCx"
     }
   ],
@@ -401,7 +412,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
@@ -411,23 +422,54 @@
   "_id": "qRdVd9HtqD3Vp6Gz",
   "active": false,
   "sort": 0,
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/_general/forrest/forrest4.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "forrest4",
+      "background": {
+        "color": "#0d0d0d",
+        "src": "assets/scenes/_general/forrest/forrest4.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!qRdVd9HtqD3Vp6Gz.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#0d0d0d",
   "_key": "!scenes!qRdVd9HtqD3Vp6Gz",
-  "levels": []
+  "templates": []
 }

@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": "2ZpOYBohmtxoU47c",
+  "name": "sorted tables",
+  "color": null,
+  "sorting": "a",
+  "_id": "cT4zRNVL4oDJQMUH",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "8.3.0",
+    "createdTime": 1784951386578,
+    "modifiedTime": 1784951386578,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!cT4zRNVL4oDJQMUH"
+}

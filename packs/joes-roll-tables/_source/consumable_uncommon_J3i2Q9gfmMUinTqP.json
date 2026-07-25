@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": "kl9zkuovJSqLBs6Z",
+  "name": "Consumable (Uncommon)",
+  "color": null,
+  "sorting": "a",
+  "_id": "J3i2Q9gfmMUinTqP",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "8.3.0",
+    "createdTime": 1784950524079,
+    "modifiedTime": 1784950524079,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!J3i2Q9gfmMUinTqP"
+}

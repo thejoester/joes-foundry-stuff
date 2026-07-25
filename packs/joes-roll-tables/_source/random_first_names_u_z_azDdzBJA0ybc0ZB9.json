@@ -1,0 +1,5438 @@
+{
+  "name": "random-first-names-U-Z",
+  "results": [
+    {
+      "_id": "FSxlB9SljMpZLD8Z",
+      "type": "text",
+      "name": "",
+      "description": "Ulric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.FSxlB9SljMpZLD8Z"
+    },
+    {
+      "_id": "nhQ1BFKSdk6OACvr",
+      "type": "text",
+      "name": "",
+      "description": "Ulyana",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.nhQ1BFKSdk6OACvr"
+    },
+    {
+      "_id": "yMtDMeN9gTosrwTE",
+      "type": "text",
+      "name": "",
+      "description": "Una",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.yMtDMeN9gTosrwTE"
+    },
+    {
+      "_id": "nc2leH0uzTpuXugz",
+      "type": "text",
+      "name": "",
+      "description": "Ursa",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.nc2leH0uzTpuXugz"
+    },
+    {
+      "_id": "JBa3ZOCHtpaA5LBd",
+      "type": "text",
+      "name": "",
+      "description": "Urien",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JBa3ZOCHtpaA5LBd"
+    },
+    {
+      "_id": "hgBk31aKCzVBJZxo",
+      "type": "text",
+      "name": "",
+      "description": "Ulla",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.hgBk31aKCzVBJZxo"
+    },
+    {
+      "_id": "CjQCxQoabJpZjsMB",
+      "type": "text",
+      "name": "",
+      "description": "Ulf",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.CjQCxQoabJpZjsMB"
+    },
+    {
+      "_id": "8c8GjWZwMjGSSQem",
+      "type": "text",
+      "name": "",
+      "description": "Ulrika",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.8c8GjWZwMjGSSQem"
+    },
+    {
+      "_id": "cLw8GhzcS0P0IfYO",
+      "type": "text",
+      "name": "",
+      "description": "Umberto",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.cLw8GhzcS0P0IfYO"
+    },
+    {
+      "_id": "cKTOiqzDurqTk6Ix",
+      "type": "text",
+      "name": "",
+      "description": "Undine",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.cKTOiqzDurqTk6Ix"
+    },
+    {
+      "_id": "Tf3duStychOaC6oO",
+      "type": "text",
+      "name": "",
+      "description": "Unwin",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Tf3duStychOaC6oO"
+    },
+    {
+      "_id": "ABkFGtu2bLxmVSXl",
+      "type": "text",
+      "name": "",
+      "description": "Urban",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ABkFGtu2bLxmVSXl"
+    },
+    {
+      "_id": "VmYXvacci1fhoU15",
+      "type": "text",
+      "name": "",
+      "description": "Uri",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.VmYXvacci1fhoU15"
+    },
+    {
+      "_id": "6KxrN1kVyZhOjkKB",
+      "type": "text",
+      "name": "",
+      "description": "Ursel",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.6KxrN1kVyZhOjkKB"
+    },
+    {
+      "_id": "UXtI0MwKI2nkKO9g",
+      "type": "text",
+      "name": "",
+      "description": "Uther",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.UXtI0MwKI2nkKO9g"
+    },
+    {
+      "_id": "3OF5aqlt2E7tP3kB",
+      "type": "text",
+      "name": "",
+      "description": "Uziel",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.3OF5aqlt2E7tP3kB"
+    },
+    {
+      "_id": "PrGiVxVwBJzZlqIN",
+      "type": "text",
+      "name": "",
+      "description": "Uldric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.PrGiVxVwBJzZlqIN"
+    },
+    {
+      "_id": "2cagu17FW2AGugRT",
+      "type": "text",
+      "name": "",
+      "description": "Ulfheim",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.2cagu17FW2AGugRT"
+    },
+    {
+      "_id": "WlW117eKeFqx7KMW",
+      "type": "text",
+      "name": "",
+      "description": "Ulla",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.WlW117eKeFqx7KMW"
+    },
+    {
+      "_id": "ZzHSuMPaz2YDkqCF",
+      "type": "text",
+      "name": "",
+      "description": "Ulmar",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ZzHSuMPaz2YDkqCF"
+    },
+    {
+      "_id": "HvD8fcEDToptsm7m",
+      "type": "text",
+      "name": "",
+      "description": "Ulvard",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.HvD8fcEDToptsm7m"
+    },
+    {
+      "_id": "VnyYmpI5FgqaWbP0",
+      "type": "text",
+      "name": "",
+      "description": "Umeko",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.VnyYmpI5FgqaWbP0"
+    },
+    {
+      "_id": "JLgaIR8nnV8pohIa",
+      "type": "text",
+      "name": "",
+      "description": "Undra",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JLgaIR8nnV8pohIa"
+    },
+    {
+      "_id": "UPfg9wAu5cmYWomP",
+      "type": "text",
+      "name": "",
+      "description": "Unni",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.UPfg9wAu5cmYWomP"
+    },
+    {
+      "_id": "Y1CJrDajOI8nYQ9S",
+      "type": "text",
+      "name": "",
+      "description": "Urda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Y1CJrDajOI8nYQ9S"
+    },
+    {
+      "_id": "YDI3sCAGmn52HsQl",
+      "type": "text",
+      "name": "",
+      "description": "Uriel",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.YDI3sCAGmn52HsQl"
+    },
+    {
+      "_id": "792CFRNarAAdOXz3",
+      "type": "text",
+      "name": "",
+      "description": "Ursin",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.792CFRNarAAdOXz3"
+    },
+    {
+      "_id": "N4np57rXx26Jwzxs",
+      "type": "text",
+      "name": "",
+      "description": "Uziah",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.N4np57rXx26Jwzxs"
+    },
+    {
+      "_id": "rDgDmkjJj3hpYdAN",
+      "type": "text",
+      "name": "",
+      "description": "Vala",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.rDgDmkjJj3hpYdAN"
+    },
+    {
+      "_id": "E7XG0wobpLJkQhlB",
+      "type": "text",
+      "name": "",
+      "description": "Valeska",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.E7XG0wobpLJkQhlB"
+    },
+    {
+      "_id": "y5hEKpPoo7Hw8hJZ",
+      "type": "text",
+      "name": "",
+      "description": "Varek",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.y5hEKpPoo7Hw8hJZ"
+    },
+    {
+      "_id": "dWX6iuDn3XkyP3MB",
+      "type": "text",
+      "name": "",
+      "description": "Vasil",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.dWX6iuDn3XkyP3MB"
+    },
+    {
+      "_id": "zrWbaeCqrlmJi7ew",
+      "type": "text",
+      "name": "",
+      "description": "Veda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.zrWbaeCqrlmJi7ew"
+    },
+    {
+      "_id": "dcDCUBR1020VrhBu",
+      "type": "text",
+      "name": "",
+      "description": "Vesna",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.dcDCUBR1020VrhBu"
+    },
+    {
+      "_id": "QFLDRQ50qlObewXP",
+      "type": "text",
+      "name": "",
+      "description": "Vesper",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.QFLDRQ50qlObewXP"
+    },
+    {
+      "_id": "sOZ0JMk4cdRjNf3G",
+      "type": "text",
+      "name": "",
+      "description": "Vidar",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.sOZ0JMk4cdRjNf3G"
+    },
+    {
+      "_id": "d7Hdil6ETLD1lJVI",
+      "type": "text",
+      "name": "",
+      "description": "Viggo",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.d7Hdil6ETLD1lJVI"
+    },
+    {
+      "_id": "bcEF4dyoUGMFxF7p",
+      "type": "text",
+      "name": "",
+      "description": "Vira",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.bcEF4dyoUGMFxF7p"
+    },
+    {
+      "_id": "w2UEDn1N9TjynGF8",
+      "type": "text",
+      "name": "",
+      "description": "Vorik",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.w2UEDn1N9TjynGF8"
+    },
+    {
+      "_id": "FG8MWwDXuX9aHFh7",
+      "type": "text",
+      "name": "",
+      "description": "Valdemar",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.FG8MWwDXuX9aHFh7"
+    },
+    {
+      "_id": "EMr38QApRTBHgDpr",
+      "type": "text",
+      "name": "",
+      "description": "Valen",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.EMr38QApRTBHgDpr"
+    },
+    {
+      "_id": "kNe5ApggJM24eyMf",
+      "type": "text",
+      "name": "",
+      "description": "Valentin",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.kNe5ApggJM24eyMf"
+    },
+    {
+      "_id": "q3b3VUU7Wa8euMF5",
+      "type": "text",
+      "name": "",
+      "description": "Valina",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.q3b3VUU7Wa8euMF5"
+    },
+    {
+      "_id": "Crey9SoNMCSuzDZA",
+      "type": "text",
+      "name": "",
+      "description": "Vanya",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Crey9SoNMCSuzDZA"
+    },
+    {
+      "_id": "HdSWmH1g4AF1kc8f",
+      "type": "text",
+      "name": "",
+      "description": "Varda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.HdSWmH1g4AF1kc8f"
+    },
+    {
+      "_id": "Yd2LRKL3yad91RUK",
+      "type": "text",
+      "name": "",
+      "description": "Vasha",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Yd2LRKL3yad91RUK"
+    },
+    {
+      "_id": "fZEdE0Vu01K6KElD",
+      "type": "text",
+      "name": "",
+      "description": "Vaughn",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.fZEdE0Vu01K6KElD"
+    },
+    {
+      "_id": "fImwzvj9hNeqTX1v",
+      "type": "text",
+      "name": "",
+      "description": "Veit",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.fImwzvj9hNeqTX1v"
+    },
+    {
+      "_id": "QJH9FtZVR7jr07J8",
+      "type": "text",
+      "name": "",
+      "description": "Velda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.QJH9FtZVR7jr07J8"
+    },
+    {
+      "_id": "2Pk08KQ0onARmz1M",
+      "type": "text",
+      "name": "",
+      "description": "Vellamo",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.2Pk08KQ0onARmz1M"
+    },
+    {
+      "_id": "WpvVHUovtB20sCHT",
+      "type": "text",
+      "name": "",
+      "description": "Venn",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.WpvVHUovtB20sCHT"
+    },
+    {
+      "_id": "1EeoNVDjV0r8N0IL",
+      "type": "text",
+      "name": "",
+      "description": "Vera",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.1EeoNVDjV0r8N0IL"
+    },
+    {
+      "_id": "WfRunahCA3xgWa7g",
+      "type": "text",
+      "name": "",
+      "description": "Verity",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.WfRunahCA3xgWa7g"
+    },
+    {
+      "_id": "jL4WV2waKZOrcYhV",
+      "type": "text",
+      "name": "",
+      "description": "Vernon",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.jL4WV2waKZOrcYhV"
+    },
+    {
+      "_id": "j4DIScG53a1UKktV",
+      "type": "text",
+      "name": "",
+      "description": "Veronika",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.j4DIScG53a1UKktV"
+    },
+    {
+      "_id": "ohd7n8mrlwSao8Fc",
+      "type": "text",
+      "name": "",
+      "description": "Vesta",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ohd7n8mrlwSao8Fc"
+    },
+    {
+      "_id": "BeEP9VV8MoqIpSvT",
+      "type": "text",
+      "name": "",
+      "description": "Vidor",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.BeEP9VV8MoqIpSvT"
+    },
+    {
+      "_id": "pIlxmPcEk9mp9Hzg",
+      "type": "text",
+      "name": "",
+      "description": "Vigga",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.pIlxmPcEk9mp9Hzg"
+    },
+    {
+      "_id": "xHxApUFtF8o6hSyJ",
+      "type": "text",
+      "name": "",
+      "description": "Vilhelm",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.xHxApUFtF8o6hSyJ"
+    },
+    {
+      "_id": "93qVwIAdAsaSmu9U",
+      "type": "text",
+      "name": "",
+      "description": "Vinca",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.93qVwIAdAsaSmu9U"
+    },
+    {
+      "_id": "XKbWLQkBp3KwjU6l",
+      "type": "text",
+      "name": "",
+      "description": "Viola",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.XKbWLQkBp3KwjU6l"
+    },
+    {
+      "_id": "ommAKiEn4AU9W4Nq",
+      "type": "text",
+      "name": "",
+      "description": "Virgil",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ommAKiEn4AU9W4Nq"
+    },
+    {
+      "_id": "kxww4n4ClxVSw7qZ",
+      "type": "text",
+      "name": "",
+      "description": "Vitus",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.kxww4n4ClxVSw7qZ"
+    },
+    {
+      "_id": "fzb6O2HL2XPaFkg8",
+      "type": "text",
+      "name": "",
+      "description": "Viveka",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.fzb6O2HL2XPaFkg8"
+    },
+    {
+      "_id": "tMwaZFMNJQqlhTw6",
+      "type": "text",
+      "name": "",
+      "description": "Vlad",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.tMwaZFMNJQqlhTw6"
+    },
+    {
+      "_id": "Xdc0FHFrAZ4iAwyT",
+      "type": "text",
+      "name": "",
+      "description": "Volund",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Xdc0FHFrAZ4iAwyT"
+    },
+    {
+      "_id": "MNgnOfzHGC2LwWdN",
+      "type": "text",
+      "name": "",
+      "description": "Vora",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.MNgnOfzHGC2LwWdN"
+    },
+    {
+      "_id": "HCkjeazWhGyLbJA9",
+      "type": "text",
+      "name": "",
+      "description": "Vrenna",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.HCkjeazWhGyLbJA9"
+    },
+    {
+      "_id": "gEojPna9RiWeM9Xz",
+      "type": "text",
+      "name": "",
+      "description": "Vytas",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.gEojPna9RiWeM9Xz"
+    },
+    {
+      "_id": "IVSXbVR82ZKq9m7M",
+      "type": "text",
+      "name": "",
+      "description": "Valka",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.IVSXbVR82ZKq9m7M"
+    },
+    {
+      "_id": "JuLmwdFVKkuyywDm",
+      "type": "text",
+      "name": "",
+      "description": "Vanora",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JuLmwdFVKkuyywDm"
+    },
+    {
+      "_id": "H8sHygckNaszlE4R",
+      "type": "text",
+      "name": "",
+      "description": "Varen",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.H8sHygckNaszlE4R"
+    },
+    {
+      "_id": "0E6WnXghn7qJVaMl",
+      "type": "text",
+      "name": "",
+      "description": "Vasco",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.0E6WnXghn7qJVaMl"
+    },
+    {
+      "_id": "nAtQiz1epqOc61qp",
+      "type": "text",
+      "name": "",
+      "description": "Vega",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.nAtQiz1epqOc61qp"
+    },
+    {
+      "_id": "JLXVaTccPmCgAom1",
+      "type": "text",
+      "name": "",
+      "description": "Vellka",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JLXVaTccPmCgAom1"
+    },
+    {
+      "_id": "nHm8BEZZRWjhTsT4",
+      "type": "text",
+      "name": "",
+      "description": "Venka",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.nHm8BEZZRWjhTsT4"
+    },
+    {
+      "_id": "k0SrNQ0CbsejvWuS",
+      "type": "text",
+      "name": "",
+      "description": "Vered",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.k0SrNQ0CbsejvWuS"
+    },
+    {
+      "_id": "bRMVHWjRWehNRrx9",
+      "type": "text",
+      "name": "",
+      "description": "Verona",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.bRMVHWjRWehNRrx9"
+    },
+    {
+      "_id": "eaCWD5aCCy5al1cS",
+      "type": "text",
+      "name": "",
+      "description": "Vesla",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.eaCWD5aCCy5al1cS"
+    },
+    {
+      "_id": "NY5vTs1Lbt2DctCj",
+      "type": "text",
+      "name": "",
+      "description": "Vidara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.NY5vTs1Lbt2DctCj"
+    },
+    {
+      "_id": "4YTLnS6bXhXvdYj1",
+      "type": "text",
+      "name": "",
+      "description": "Vilda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.4YTLnS6bXhXvdYj1"
+    },
+    {
+      "_id": "sRqE1ka4YIYCUIfE",
+      "type": "text",
+      "name": "",
+      "description": "Vilma",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.sRqE1ka4YIYCUIfE"
+    },
+    {
+      "_id": "eiAjsviAEdWuTR3R",
+      "type": "text",
+      "name": "",
+      "description": "Vintra",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.eiAjsviAEdWuTR3R"
+    },
+    {
+      "_id": "2H95AaT4vF4fz9Up",
+      "type": "text",
+      "name": "",
+      "description": "Viridis",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.2H95AaT4vF4fz9Up"
+    },
+    {
+      "_id": "ZGdHu6sGJLMZ0zuR",
+      "type": "text",
+      "name": "",
+      "description": "Volker",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ZGdHu6sGJLMZ0zuR"
+    },
+    {
+      "_id": "E1WV5DMAFBOHmfvk",
+      "type": "text",
+      "name": "",
+      "description": "Vondra",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.E1WV5DMAFBOHmfvk"
+    },
+    {
+      "_id": "SnCh8n4n9C3lCCUX",
+      "type": "text",
+      "name": "",
+      "description": "Wren",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.SnCh8n4n9C3lCCUX"
+    },
+    {
+      "_id": "xVuDpJUEaFGIvi6f",
+      "type": "text",
+      "name": "",
+      "description": "Wenna",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.xVuDpJUEaFGIvi6f"
+    },
+    {
+      "_id": "wshq5i34DXK2UPlP",
+      "type": "text",
+      "name": "",
+      "description": "Wilhelm",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.wshq5i34DXK2UPlP"
+    },
+    {
+      "_id": "USnh33faRp5wcC7I",
+      "type": "text",
+      "name": "",
+      "description": "Willa",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.USnh33faRp5wcC7I"
+    },
+    {
+      "_id": "q3qncma4A6hNQ1R0",
+      "type": "text",
+      "name": "",
+      "description": "Wystan",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.q3qncma4A6hNQ1R0"
+    },
+    {
+      "_id": "UYIkY7ql22xZ7TGE",
+      "type": "text",
+      "name": "",
+      "description": "Wrenna",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.UYIkY7ql22xZ7TGE"
+    },
+    {
+      "_id": "i9mjk1LFH2mNhX9c",
+      "type": "text",
+      "name": "",
+      "description": "Waldric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.i9mjk1LFH2mNhX9c"
+    },
+    {
+      "_id": "FCe4XnnWKLjmYFLp",
+      "type": "text",
+      "name": "",
+      "description": "Walerian",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.FCe4XnnWKLjmYFLp"
+    },
+    {
+      "_id": "jXXZ898FOcxw2pol",
+      "type": "text",
+      "name": "",
+      "description": "Wanda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.jXXZ898FOcxw2pol"
+    },
+    {
+      "_id": "oOj3JCMl8QhqIavk",
+      "type": "text",
+      "name": "",
+      "description": "Ward",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.oOj3JCMl8QhqIavk"
+    },
+    {
+      "_id": "ga0Wr3LoJnRH6KaX",
+      "type": "text",
+      "name": "",
+      "description": "Warin",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ga0Wr3LoJnRH6KaX"
+    },
+    {
+      "_id": "lBlb9zsCTZtZLIy0",
+      "type": "text",
+      "name": "",
+      "description": "Wenna",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.lBlb9zsCTZtZLIy0"
+    },
+    {
+      "_id": "ansPKGLuabvjOY7I",
+      "type": "text",
+      "name": "",
+      "description": "Werner",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ansPKGLuabvjOY7I"
+    },
+    {
+      "_id": "EwSZBTgQI6QE7vjz",
+      "type": "text",
+      "name": "",
+      "description": "Wesley",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.EwSZBTgQI6QE7vjz"
+    },
+    {
+      "_id": "Q1TVTmUGGpk6lCm8",
+      "type": "text",
+      "name": "",
+      "description": "Wilda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Q1TVTmUGGpk6lCm8"
+    },
+    {
+      "_id": "HnrFbX2uvZaBG8LV",
+      "type": "text",
+      "name": "",
+      "description": "Wilfred",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.HnrFbX2uvZaBG8LV"
+    },
+    {
+      "_id": "u4nFv9pEYpaqxYWa",
+      "type": "text",
+      "name": "",
+      "description": "Wilmar",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.u4nFv9pEYpaqxYWa"
+    },
+    {
+      "_id": "WlYMDFlG4diXbGtr",
+      "type": "text",
+      "name": "",
+      "description": "Winifred",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.WlYMDFlG4diXbGtr"
+    },
+    {
+      "_id": "PFkCldcHarRB338Y",
+      "type": "text",
+      "name": "",
+      "description": "Winric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.PFkCldcHarRB338Y"
+    },
+    {
+      "_id": "wMB7pboLxQfzKu7J",
+      "type": "text",
+      "name": "",
+      "description": "Wistan",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.wMB7pboLxQfzKu7J"
+    },
+    {
+      "_id": "VzF9NpoFBNCXZnpt",
+      "type": "text",
+      "name": "",
+      "description": "Wolfram",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.VzF9NpoFBNCXZnpt"
+    },
+    {
+      "_id": "LpCRyYAFjlPudTM4",
+      "type": "text",
+      "name": "",
+      "description": "Wren",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        108,
+        108
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.LpCRyYAFjlPudTM4"
+    },
+    {
+      "_id": "o4YthFAedREvJkvQ",
+      "type": "text",
+      "name": "",
+      "description": "Wybert",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        109,
+        109
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.o4YthFAedREvJkvQ"
+    },
+    {
+      "_id": "YuwjszqYgBDIphzu",
+      "type": "text",
+      "name": "",
+      "description": "Wyndham",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        110,
+        110
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.YuwjszqYgBDIphzu"
+    },
+    {
+      "_id": "SZ1B8ri8qyugShAU",
+      "type": "text",
+      "name": "",
+      "description": "Wynne",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        111,
+        111
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.SZ1B8ri8qyugShAU"
+    },
+    {
+      "_id": "4XGscwyCLj6RpuAv",
+      "type": "text",
+      "name": "",
+      "description": "Wystan",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        112,
+        112
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.4XGscwyCLj6RpuAv"
+    },
+    {
+      "_id": "zK5hs5D8Lsdu1Oyz",
+      "type": "text",
+      "name": "",
+      "description": "Wace",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        113,
+        113
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.zK5hs5D8Lsdu1Oyz"
+    },
+    {
+      "_id": "j4a86BHsUzbzCPEF",
+      "type": "text",
+      "name": "",
+      "description": "Waldar",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        114,
+        114
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.j4a86BHsUzbzCPEF"
+    },
+    {
+      "_id": "2HDLYwYdjCnk21XK",
+      "type": "text",
+      "name": "",
+      "description": "Walkyr",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        115,
+        115
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.2HDLYwYdjCnk21XK"
+    },
+    {
+      "_id": "YlXQt4j55W0C7kz6",
+      "type": "text",
+      "name": "",
+      "description": "Walric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        116,
+        116
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.YlXQt4j55W0C7kz6"
+    },
+    {
+      "_id": "quUFD1S1FRZEOUpZ",
+      "type": "text",
+      "name": "",
+      "description": "Wanda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        117,
+        117
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.quUFD1S1FRZEOUpZ"
+    },
+    {
+      "_id": "yiC7IAc4yLrRloGj",
+      "type": "text",
+      "name": "",
+      "description": "Wendell",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        118,
+        118
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.yiC7IAc4yLrRloGj"
+    },
+    {
+      "_id": "iCz0Fh9BidsQTRNL",
+      "type": "text",
+      "name": "",
+      "description": "Werna",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        119,
+        119
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.iCz0Fh9BidsQTRNL"
+    },
+    {
+      "_id": "0VypW0TpnyjD3PEn",
+      "type": "text",
+      "name": "",
+      "description": "Wesner",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        120,
+        120
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.0VypW0TpnyjD3PEn"
+    },
+    {
+      "_id": "RPrHeMOYWQKXCFoQ",
+      "type": "text",
+      "name": "",
+      "description": "Whitlock",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        121,
+        121
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.RPrHeMOYWQKXCFoQ"
+    },
+    {
+      "_id": "35ltNXtkLGPYjvHC",
+      "type": "text",
+      "name": "",
+      "description": "Winola",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        123,
+        123
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.35ltNXtkLGPYjvHC"
+    },
+    {
+      "_id": "mnzoCmgOdBUrJPtB",
+      "type": "text",
+      "name": "",
+      "description": "Wynstan",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        124,
+        124
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.mnzoCmgOdBUrJPtB"
+    },
+    {
+      "_id": "OjqsTWb5frwYmLH3",
+      "type": "text",
+      "name": "",
+      "description": "Xandra",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        125,
+        125
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.OjqsTWb5frwYmLH3"
+    },
+    {
+      "_id": "oaEYuNczrsKMtzFt",
+      "type": "text",
+      "name": "",
+      "description": "Xander",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        126,
+        126
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.oaEYuNczrsKMtzFt"
+    },
+    {
+      "_id": "NApy4OqTJ6KsqW9t",
+      "type": "text",
+      "name": "",
+      "description": "Xanthe",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        127,
+        127
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.NApy4OqTJ6KsqW9t"
+    },
+    {
+      "_id": "qWcXEhOzKC1a6cv2",
+      "type": "text",
+      "name": "",
+      "description": "Xenia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        128,
+        128
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.qWcXEhOzKC1a6cv2"
+    },
+    {
+      "_id": "8P56JbgN8K4Q8Tya",
+      "type": "text",
+      "name": "",
+      "description": "Xavia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        129,
+        129
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.8P56JbgN8K4Q8Tya"
+    },
+    {
+      "_id": "pKyCaTzcJujcVicP",
+      "type": "text",
+      "name": "",
+      "description": "Ximena",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        130,
+        130
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.pKyCaTzcJujcVicP"
+    },
+    {
+      "_id": "HFf9oodpSf4mvOSU",
+      "type": "text",
+      "name": "",
+      "description": "Xanthos",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        131,
+        131
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.HFf9oodpSf4mvOSU"
+    },
+    {
+      "_id": "Ja45gfShGCOmqBHq",
+      "type": "text",
+      "name": "",
+      "description": "Xara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        132,
+        132
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Ja45gfShGCOmqBHq"
+    },
+    {
+      "_id": "4eJogLzdTYbtRdDw",
+      "type": "text",
+      "name": "",
+      "description": "Xerach",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        133,
+        133
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.4eJogLzdTYbtRdDw"
+    },
+    {
+      "_id": "nMGOWawFflLHViCn",
+      "type": "text",
+      "name": "",
+      "description": "Xoana",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        134,
+        134
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.nMGOWawFflLHViCn"
+    },
+    {
+      "_id": "up5Gx5Gw8RdWBCxk",
+      "type": "text",
+      "name": "",
+      "description": "Xanthippe",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        135,
+        135
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.up5Gx5Gw8RdWBCxk"
+    },
+    {
+      "_id": "EraMYgZjaitBcPFJ",
+      "type": "text",
+      "name": "",
+      "description": "Xenos",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        136,
+        136
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.EraMYgZjaitBcPFJ"
+    },
+    {
+      "_id": "gxYtJLi0Njy0wcDA",
+      "type": "text",
+      "name": "",
+      "description": "Xia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        137,
+        137
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.gxYtJLi0Njy0wcDA"
+    },
+    {
+      "_id": "PwUCC2u0BO1LRpK3",
+      "type": "text",
+      "name": "",
+      "description": "Xylia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        138,
+        138
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.PwUCC2u0BO1LRpK3"
+    },
+    {
+      "_id": "ul22h0vrxeqPmKqy",
+      "type": "text",
+      "name": "",
+      "description": "Yarrow",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        139,
+        139
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ul22h0vrxeqPmKqy"
+    },
+    {
+      "_id": "uzaCe6ciZW96bLJR",
+      "type": "text",
+      "name": "",
+      "description": "Yelena",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        140,
+        140
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.uzaCe6ciZW96bLJR"
+    },
+    {
+      "_id": "kmaq2IJZCo1TqP8z",
+      "type": "text",
+      "name": "",
+      "description": "Yorik",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        141,
+        141
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.kmaq2IJZCo1TqP8z"
+    },
+    {
+      "_id": "0YBqSxQtTkD0ekNQ",
+      "type": "text",
+      "name": "",
+      "description": "Ysolde",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        142,
+        142
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.0YBqSxQtTkD0ekNQ"
+    },
+    {
+      "_id": "ApBsO4M8JmQyw81S",
+      "type": "text",
+      "name": "",
+      "description": "Yara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        143,
+        143
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ApBsO4M8JmQyw81S"
+    },
+    {
+      "_id": "6K4s0gwaEwW7kuCP",
+      "type": "text",
+      "name": "",
+      "description": "Yusuf",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        144,
+        144
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.6K4s0gwaEwW7kuCP"
+    },
+    {
+      "_id": "dcOD42e57hEwtrkQ",
+      "type": "text",
+      "name": "",
+      "description": "Yael",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        145,
+        145
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.dcOD42e57hEwtrkQ"
+    },
+    {
+      "_id": "7VUimm6xDkdiDNUK",
+      "type": "text",
+      "name": "",
+      "description": "Yakov",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        146,
+        146
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.7VUimm6xDkdiDNUK"
+    },
+    {
+      "_id": "R5Ax5OhE7CGxWsF4",
+      "type": "text",
+      "name": "",
+      "description": "Yara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        147,
+        147
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.R5Ax5OhE7CGxWsF4"
+    },
+    {
+      "_id": "g1ea6jet2bfJwg46",
+      "type": "text",
+      "name": "",
+      "description": "Yara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        148,
+        148
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.g1ea6jet2bfJwg46"
+    },
+    {
+      "_id": "JutDb7Op7n57nLrt",
+      "type": "text",
+      "name": "",
+      "description": "Yeardley",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        149,
+        149
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JutDb7Op7n57nLrt"
+    },
+    {
+      "_id": "aIRaNDv5GYZEyp15",
+      "type": "text",
+      "name": "",
+      "description": "Yestin",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        150,
+        150
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.aIRaNDv5GYZEyp15"
+    },
+    {
+      "_id": "6j0eHZzPwjyLu2IU",
+      "type": "text",
+      "name": "",
+      "description": "Yohan",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        151,
+        151
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.6j0eHZzPwjyLu2IU"
+    },
+    {
+      "_id": "katPr7OZg3guz4qx",
+      "type": "text",
+      "name": "",
+      "description": "Yolanda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        152,
+        152
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.katPr7OZg3guz4qx"
+    },
+    {
+      "_id": "reNqE14EP6MSm8CM",
+      "type": "text",
+      "name": "",
+      "description": "Yorath",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        153,
+        153
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.reNqE14EP6MSm8CM"
+    },
+    {
+      "_id": "6lloxTy2pnB6KyTS",
+      "type": "text",
+      "name": "",
+      "description": "Yorwen",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        154,
+        154
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.6lloxTy2pnB6KyTS"
+    },
+    {
+      "_id": "8sUXuPNBD2awZwn8",
+      "type": "text",
+      "name": "",
+      "description": "Yseult",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        155,
+        155
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.8sUXuPNBD2awZwn8"
+    },
+    {
+      "_id": "SU95O5z6y8GG9zlX",
+      "type": "text",
+      "name": "",
+      "description": "Yuki",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        156,
+        156
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.SU95O5z6y8GG9zlX"
+    },
+    {
+      "_id": "41wg1jm29j0WiVPX",
+      "type": "text",
+      "name": "",
+      "description": "Yuri",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        157,
+        157
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.41wg1jm29j0WiVPX"
+    },
+    {
+      "_id": "K3kNzLZ8XeT0Qjp2",
+      "type": "text",
+      "name": "",
+      "description": "Yvaine",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        158,
+        158
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.K3kNzLZ8XeT0Qjp2"
+    },
+    {
+      "_id": "CjIfCIsxWCtQIEsz",
+      "type": "text",
+      "name": "",
+      "description": "Yvo",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        159,
+        159
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.CjIfCIsxWCtQIEsz"
+    },
+    {
+      "_id": "QiNhl6c1i9fos54H",
+      "type": "text",
+      "name": "",
+      "description": "Yvonne",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        160,
+        160
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.QiNhl6c1i9fos54H"
+    },
+    {
+      "_id": "WDgmdZ7gByZYcoRN",
+      "type": "text",
+      "name": "",
+      "description": "Yannic",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        161,
+        161
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.WDgmdZ7gByZYcoRN"
+    },
+    {
+      "_id": "BF5OhsLCX3OuPKl4",
+      "type": "text",
+      "name": "",
+      "description": "Yara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        162,
+        162
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.BF5OhsLCX3OuPKl4"
+    },
+    {
+      "_id": "JKrEV58t5eh0sIW8",
+      "type": "text",
+      "name": "",
+      "description": "Yara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        163,
+        163
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JKrEV58t5eh0sIW8"
+    },
+    {
+      "_id": "MrSAk3pEbolp2yU7",
+      "type": "text",
+      "name": "",
+      "description": "Yeva",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        164,
+        164
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.MrSAk3pEbolp2yU7"
+    },
+    {
+      "_id": "sWPlHqHxcWZRnkcF",
+      "type": "text",
+      "name": "",
+      "description": "Ymir",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        165,
+        165
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.sWPlHqHxcWZRnkcF"
+    },
+    {
+      "_id": "gpNLCIxIJAOpmZEU",
+      "type": "text",
+      "name": "",
+      "description": "Yngve",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        166,
+        166
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.gpNLCIxIJAOpmZEU"
+    },
+    {
+      "_id": "hd4fgen0Q5KQrIc8",
+      "type": "text",
+      "name": "",
+      "description": "Ynyr",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        167,
+        167
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.hd4fgen0Q5KQrIc8"
+    },
+    {
+      "_id": "i9eEcDIXRXjhqJWY",
+      "type": "text",
+      "name": "",
+      "description": "Yorick",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        168,
+        168
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.i9eEcDIXRXjhqJWY"
+    },
+    {
+      "_id": "1PhcmiodALZWO7je",
+      "type": "text",
+      "name": "",
+      "description": "Ysabel",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        169,
+        169
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.1PhcmiodALZWO7je"
+    },
+    {
+      "_id": "pw6wfKoMaCdNHjgF",
+      "type": "text",
+      "name": "",
+      "description": "Yseulte",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        170,
+        170
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.pw6wfKoMaCdNHjgF"
+    },
+    {
+      "_id": "mSxnELECyqu4rZAG",
+      "type": "text",
+      "name": "",
+      "description": "Yulia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        171,
+        171
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.mSxnELECyqu4rZAG"
+    },
+    {
+      "_id": "EyCpoTerxuE24lfJ",
+      "type": "text",
+      "name": "",
+      "description": "Zara",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        172,
+        172
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.EyCpoTerxuE24lfJ"
+    },
+    {
+      "_id": "eC60I5Euuzm5MELT",
+      "type": "text",
+      "name": "",
+      "description": "Zephyr",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        173,
+        173
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.eC60I5Euuzm5MELT"
+    },
+    {
+      "_id": "GvdzddadyqWu3gMH",
+      "type": "text",
+      "name": "",
+      "description": "Zoric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        174,
+        174
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.GvdzddadyqWu3gMH"
+    },
+    {
+      "_id": "yokLsR7zbEW1I05m",
+      "type": "text",
+      "name": "",
+      "description": "Zelda",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        175,
+        175
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.yokLsR7zbEW1I05m"
+    },
+    {
+      "_id": "cp1ELelzaiw7fnQ2",
+      "type": "text",
+      "name": "",
+      "description": "Zoltan",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        176,
+        176
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.cp1ELelzaiw7fnQ2"
+    },
+    {
+      "_id": "Aker3ePS7uHyejDO",
+      "type": "text",
+      "name": "",
+      "description": "Zaida",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        177,
+        177
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.Aker3ePS7uHyejDO"
+    },
+    {
+      "_id": "R97PmoImkPJvP5aj",
+      "type": "text",
+      "name": "",
+      "description": "Zale",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        178,
+        178
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.R97PmoImkPJvP5aj"
+    },
+    {
+      "_id": "46ty1aa1tHy965Qa",
+      "type": "text",
+      "name": "",
+      "description": "Zamira",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        179,
+        179
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.46ty1aa1tHy965Qa"
+    },
+    {
+      "_id": "cbSNfFlWzkz19JYt",
+      "type": "text",
+      "name": "",
+      "description": "Zander",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        180,
+        180
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.cbSNfFlWzkz19JYt"
+    },
+    {
+      "_id": "oUVCZQfpkpocHlwf",
+      "type": "text",
+      "name": "",
+      "description": "Zarek",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        181,
+        181
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.oUVCZQfpkpocHlwf"
+    },
+    {
+      "_id": "pl0lcVejCzu0B6Ux",
+      "type": "text",
+      "name": "",
+      "description": "Zdenka",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        182,
+        182
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.pl0lcVejCzu0B6Ux"
+    },
+    {
+      "_id": "VCwS8djO3U86bKco",
+      "type": "text",
+      "name": "",
+      "description": "Zeke",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        183,
+        183
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.VCwS8djO3U86bKco"
+    },
+    {
+      "_id": "ivZcmdU6A5HOEgwO",
+      "type": "text",
+      "name": "",
+      "description": "Zenobia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        184,
+        184
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ivZcmdU6A5HOEgwO"
+    },
+    {
+      "_id": "8MDA8RNTxPdpuaQy",
+      "type": "text",
+      "name": "",
+      "description": "Zephyrine",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        185,
+        185
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.8MDA8RNTxPdpuaQy"
+    },
+    {
+      "_id": "76EizknZq15ggpxn",
+      "type": "text",
+      "name": "",
+      "description": "Zeric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        186,
+        186
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.76EizknZq15ggpxn"
+    },
+    {
+      "_id": "kjbV3UVnlT4AkDxy",
+      "type": "text",
+      "name": "",
+      "description": "Zila",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        187,
+        187
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.kjbV3UVnlT4AkDxy"
+    },
+    {
+      "_id": "ZtyP5kWYvTRx9Vw7",
+      "type": "text",
+      "name": "",
+      "description": "Zima",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        188,
+        188
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ZtyP5kWYvTRx9Vw7"
+    },
+    {
+      "_id": "iWr7GKCekbXLVsGP",
+      "type": "text",
+      "name": "",
+      "description": "Zinnia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        189,
+        189
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.iWr7GKCekbXLVsGP"
+    },
+    {
+      "_id": "aWQuVqjneyTVTrZL",
+      "type": "text",
+      "name": "",
+      "description": "Ziven",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        190,
+        190
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.aWQuVqjneyTVTrZL"
+    },
+    {
+      "_id": "CsUzz5AB4zSpYqay",
+      "type": "text",
+      "name": "",
+      "description": "Zofia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        191,
+        191
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.CsUzz5AB4zSpYqay"
+    },
+    {
+      "_id": "vpArpe1spiIZxUod",
+      "type": "text",
+      "name": "",
+      "description": "Zora",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        192,
+        192
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.vpArpe1spiIZxUod"
+    },
+    {
+      "_id": "HuvyrmbvD8gSQVoq",
+      "type": "text",
+      "name": "",
+      "description": "Zorana",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        193,
+        193
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.HuvyrmbvD8gSQVoq"
+    },
+    {
+      "_id": "wjryuuh30AaT85Zg",
+      "type": "text",
+      "name": "",
+      "description": "Zula",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        194,
+        194
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.wjryuuh30AaT85Zg"
+    },
+    {
+      "_id": "kR7wsVg8yFRo073u",
+      "type": "text",
+      "name": "",
+      "description": "Zurich",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        195,
+        195
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.kR7wsVg8yFRo073u"
+    },
+    {
+      "_id": "ruyAwk1hmN9xuLpr",
+      "type": "text",
+      "name": "",
+      "description": "Zaben",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        196,
+        196
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.ruyAwk1hmN9xuLpr"
+    },
+    {
+      "_id": "JubHQrL0jRKEwH8t",
+      "type": "text",
+      "name": "",
+      "description": "Zaira",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.JubHQrL0jRKEwH8t"
+    },
+    {
+      "_id": "mJRsdrIqC2UfZTaD",
+      "type": "text",
+      "name": "",
+      "description": "Zaldric",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.mJRsdrIqC2UfZTaD"
+    },
+    {
+      "_id": "IEgb0EYklkNCagGQ",
+      "type": "text",
+      "name": "",
+      "description": "Zamora",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        199,
+        199
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.IEgb0EYklkNCagGQ"
+    },
+    {
+      "_id": "X1RD3F0hEf8SZOCq",
+      "type": "text",
+      "name": "",
+      "description": "Zavian",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        200,
+        200
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.X1RD3F0hEf8SZOCq"
+    },
+    {
+      "_id": "IjRIskLKq2TNIzF7",
+      "type": "text",
+      "name": "",
+      "description": "Zelka",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        201,
+        201
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.IjRIskLKq2TNIzF7"
+    },
+    {
+      "_id": "nAfBPRv75a8t2oKs",
+      "type": "text",
+      "name": "",
+      "description": "Zenon",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        202,
+        202
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.nAfBPRv75a8t2oKs"
+    },
+    {
+      "_id": "H08buz60sVYOXjAj",
+      "type": "text",
+      "name": "",
+      "description": "Zephir",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        203,
+        203
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.H08buz60sVYOXjAj"
+    },
+    {
+      "_id": "TyHQtYde8jjNkS1M",
+      "type": "text",
+      "name": "",
+      "description": "Zerlina",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        204,
+        204
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.TyHQtYde8jjNkS1M"
+    },
+    {
+      "_id": "CdEXrNoCJcYgXGmj",
+      "type": "text",
+      "name": "",
+      "description": "Zev",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        205,
+        205
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.CdEXrNoCJcYgXGmj"
+    },
+    {
+      "_id": "fpPBnKJIVRDS6ctm",
+      "type": "text",
+      "name": "",
+      "description": "Zila",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        206,
+        206
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.fpPBnKJIVRDS6ctm"
+    },
+    {
+      "_id": "tfJrSni4WXgN4AOP",
+      "type": "text",
+      "name": "",
+      "description": "Zinta",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        207,
+        207
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.tfJrSni4WXgN4AOP"
+    },
+    {
+      "_id": "vdKZUrSicDPzyudO",
+      "type": "text",
+      "name": "",
+      "description": "Zosia",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        208,
+        208
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.vdKZUrSicDPzyudO"
+    },
+    {
+      "_id": "A1FrpO7JHGE7xdlv",
+      "type": "text",
+      "name": "",
+      "description": "Zuriel",
+      "img": "icons/svg/d20.svg",
+      "weight": 1,
+      "range": [
+        209,
+        209
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.365",
+        "systemId": "pf2e",
+        "systemVersion": "8.3.0",
+        "createdTime": 1784951411821,
+        "modifiedTime": 1784951411821,
+        "lastModifiedBy": "zizHfu40Ulpg7xkW",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!azDdzBJA0ybc0ZB9.A1FrpO7JHGE7xdlv"
+    }
+  ],
+  "formula": "1d209",
+  "_id": "azDdzBJA0ybc0ZB9",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "cT4zRNVL4oDJQMUH",
+  "ownership": {
+    "default": 0,
+    "zizHfu40Ulpg7xkW": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.365",
+    "systemId": "pf2e",
+    "systemVersion": "8.3.0",
+    "createdTime": 1784951411821,
+    "modifiedTime": 1784951412271,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "sort": 200000,
+  "_key": "!tables!azDdzBJA0ybc0ZB9"
+}

@@ -28,8 +28,7 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
   "environment": {
     "darknessLevel": 0,
@@ -96,6 +95,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.VGjfsuMyWt0AgMV7"
     },
     {
@@ -121,6 +121,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.gCsrHSqVca4F2Blu"
     },
     {
@@ -146,6 +147,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.wkvQvPCtkxXGpnnn"
     },
     {
@@ -171,6 +173,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.5YySkmXyVzcc20DR"
     },
     {
@@ -196,6 +199,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.EEjpStSprggOSybk"
     },
     {
@@ -221,6 +225,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.QiTQg0Z4uAX6mI7M"
     },
     {
@@ -246,6 +251,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.T4tCJBErQG9GrYrt"
     },
     {
@@ -271,6 +277,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!VDxDGW7vINRy6xXj.r5BcHkZf1TexifC9"
     }
   ],
@@ -301,7 +308,7 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
@@ -311,23 +318,54 @@
   "_id": "VDxDGW7vINRy6xXj",
   "active": false,
   "sort": 0,
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/_general/forrest/forrest5.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "forrest5",
+      "background": {
+        "color": "#000000",
+        "src": "assets/scenes/_general/forrest/forrest5.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!VDxDGW7vINRy6xXj.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#000000",
   "_key": "!scenes!VDxDGW7vINRy6xXj",
-  "levels": []
+  "templates": []
 }

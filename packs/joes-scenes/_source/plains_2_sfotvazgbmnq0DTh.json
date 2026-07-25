@@ -30,8 +30,7 @@
       "explored": null,
       "unexplored": null
     },
-    "exploration": true,
-    "overlay": null
+    "mode": 1
   },
   "environment": {
     "darknessLevel": 0.1,
@@ -98,6 +97,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.xsAUpkTAD2q19J8m"
     },
     {
@@ -123,6 +123,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.eg0I7MtAtCqLg8oA"
     },
     {
@@ -148,6 +149,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.TJWVN5AEnApbiqYz"
     },
     {
@@ -173,6 +175,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.Mgiaxraz2lNVLI8G"
     },
     {
@@ -198,6 +201,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.UIdHDl2EadQv6zYz"
     },
     {
@@ -223,6 +227,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.Q6CflGI8VMDB7h5G"
     },
     {
@@ -248,6 +253,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.pIjWOKgU4ryuqtpw"
     },
     {
@@ -273,6 +279,7 @@
       },
       "animation": null,
       "flags": {},
+      "levels": [],
       "_key": "!scenes.walls!sfotvazgbmnq0DTh.4iXiEN57mFmGTnGG"
     }
   ],
@@ -304,30 +311,61 @@
     "compendiumSource": "Scene.sfotvazgbmnq0DTh",
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
     "modifiedTime": 1784276698015,
     "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
   },
-  "templates": [],
-  "background": {
-    "src": "assets/scenes/_general/plains/plains-2.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
+  "levels": [
+    {
+      "_id": "defaultLevel0000",
+      "name": "plains-2",
+      "background": {
+        "color": "#000000",
+        "src": "assets/scenes/_general/plains/plains-2.webp",
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "elevation": {
+        "bottom": 0,
+        "top": 20
+      },
+      "foreground": {
+        "src": null,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "fog": {
+        "src": null
+      },
+      "textures": {
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0
+      },
+      "visibility": {
+        "levels": []
+      },
+      "sort": 0,
+      "flags": {},
+      "_key": "!scenes.levels!sfotvazgbmnq0DTh.defaultLevel0000"
+    }
+  ],
+  "shiftX": 0,
+  "shiftY": 0,
+  "initialLevel": "defaultLevel0000",
+  "transition": {
+    "type": null,
+    "duration": 1500,
+    "activeOnly": false
   },
-  "foreground": null,
-  "foregroundElevation": null,
-  "backgroundColor": "#000000",
   "_key": "!scenes!sfotvazgbmnq0DTh",
-  "levels": []
+  "templates": []
 }

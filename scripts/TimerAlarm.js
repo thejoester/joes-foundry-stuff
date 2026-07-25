@@ -661,6 +661,12 @@ class TA_PlayerTimerWindowApp extends foundry.applications.api.ApplicationV2 {
 			}
 		} catch (e) {}
 
+		// GM: double-click anywhere in this window to open the Timer Manager
+		if (game.user.isGM && !this._taDblBound) {
+			this._taDblBound = true;
+			this.element.addEventListener("dblclick", () => openTimerManager());
+		}
+
 		this._taUpdate();
 
 		if (!this._taInterval) {
