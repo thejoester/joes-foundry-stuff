@@ -2,6 +2,15 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.07.24-2
+
+### Added
+- **Timer** — the GM can now double-click anywhere in the player timer window to open the Timer Manager.
+- Added Random Name roll tables to compendium.
+
+### Fixed
+- Fixed several macros including Advanced Pull to Scene, Group Roll, and Show-XP
+
 ## 2026.07.24
 
 ### Fixed
