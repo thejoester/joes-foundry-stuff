@@ -70,33 +70,36 @@ function _cancelInitiativeTimer() {
     DL("rollInitiative.js | _cancelInitiativeTimer(): cancelled by GM");
 }
 
-const INIT_TIMER_SOUND = `modules/${MOD_ID}/assets/sound/hub-intro-sound.mp3`;
-
 function _showOverlay(endTime) {
     _hideOverlay();
 
-    foundry.audio.AudioHelper.play({ src: INIT_TIMER_SOUND, volume: 0.8, autoplay: true, loop: false }, false);
+    const sound = game.settings.get(MOD_ID, "initiativeTimerSound");
+    if (sound) foundry.audio.AudioHelper.play({ src: sound, volume: 0.8, autoplay: true, loop: false }, false);
     ui.sidebar.changeTab("combat", "primary");
 
     const wrap = document.createElement("div");
     wrap.id = OVERLAY_ID;
     Object.assign(wrap.style, {
         position: "fixed",
-        inset: "0",
+        top: "30%",
+        left: "50%",
+        transform: "translate(-50%, -50%)",
         zIndex: String(OVERLAY_Z),
         display: "flex",
-        flexDirection: "column",
         alignItems: "center",
-        justifyContent: "center",
-        gap: "1vh",
-        background: "rgba(0,0,0,0.55)",
+        gap: "16px",
+        padding: "10px 24px",
+        borderRadius: "12px",
+        border: "2px solid #5f574e",
+        background: "rgba(0,0,0,0.85)",
+        boxShadow: "0 4px 16px rgba(0,0,0,0.6)",
         pointerEvents: "none"
     });
     wrap.innerHTML = `
-        <div style="font-size:4vw; font-weight:900; color:#fff; text-shadow:0 0 12px #000; letter-spacing:2px;">
+        <div style="font-size:1.8vw; font-weight:900; color:#fff; text-shadow:0 0 8px #000; letter-spacing:1px; white-space:nowrap;">
             Roll for Initiative!
         </div>
-        <div data-jfs-init-timer style="font-size:8vw; font-weight:900; color:#ffcc00; text-shadow:0 0 16px #000; font-variant-numeric:tabular-nums;">
+        <div data-jfs-init-timer style="font-size:2.4vw; font-weight:900; color:#ffcc00; text-shadow:0 0 10px #000; font-variant-numeric:tabular-nums; min-width:2ch; text-align:center;">
             --
         </div>
     `;

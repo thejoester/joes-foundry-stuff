@@ -88,6 +88,13 @@ Hooks.once("init", () => {
         scope: "world", config: true, type: Number, default: 30
     });
 
+    game.settings.register("joes-foundry-stuff", "initiativeTimerSound", {
+        name: "Initiative Timer Sound",
+        hint: "Sound played when the initiative timer starts. Leave blank for no sound.",
+        scope: "world", config: true, type: String, default: "modules/joes-foundry-stuff/assets/sound/hub-intro-sound.mp3",
+        filePicker: "audio"
+    });
+
     
     /* ==========================================================================
         {CHAT ARCHIVER SETTINGS}

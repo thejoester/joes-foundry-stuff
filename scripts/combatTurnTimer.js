@@ -186,6 +186,18 @@ function _chat(content, elapsedMs = null) {
 
 // ── core logic ────────────────────────────────────────────────────────────────
 
+// hidden combatant, tracker-hidden or hidden token
+function _combatantHidden(combatant) {
+    return !!(combatant?.hidden || combatant?.token?.hidden);
+}
+
+// live hidden state of an ended turn, resolved by id at end-of-turn; falls back to stored snapshot
+function _endedTurnHidden(combat, turn) {
+    if (!turn) return false;
+    const combatant = turn.id ? combat?.combatants?.get(turn.id) : null;
+    return combatant ? _combatantHidden(combatant) : !!turn.hidden;
+}
+
 function _startCombat(combat) {
     const combatant = combat?.combatant;
     const name = combatant?.actor?.name ?? combatant?.name ?? "Unknown";
@@ -195,7 +207,7 @@ function _startCombat(combat) {
         combatStart: now,
         round: combat.round,
         turn: combat.turn,
-        currentTurn: { name, adjustedStart: now },
+        currentTurn: { id: combatant?.id ?? null, name, adjustedStart: now, hidden: _combatantHidden(combatant) },
         previousTurn: null
     });
     DL(`CombatTurnTimer: combat started, first turn: "${name}"`);
@@ -210,12 +222,17 @@ function _advanceTurn(combat) {
     const elapsed = now - (state.currentTurn?.adjustedStart ?? now);
     const prevName = state.currentTurn?.name ?? "Unknown";
     const isPrevSession = elapsed >= PREV_SESSION_MS;
-    const msg = isPrevSession
-        ? `${prevName}'s turn (previous session): ${_fmt(elapsed)}.`
-        : `${prevName}'s turn took ${_fmt(elapsed)}.`;
+    const prevHidden = _endedTurnHidden(combat, state.currentTurn);
 
-    _chat(msg, isPrevSession ? null : elapsed);
-    DL(`CombatTurnTimer: "${prevName}" turn ended after ${_fmt(elapsed)}`);
+    if (prevHidden) {
+        DL(`CombatTurnTimer: "${prevName}" turn ended after ${_fmt(elapsed)} (hidden, no chat)`);
+    } else {
+        const msg = isPrevSession
+            ? `${prevName}'s turn (previous session): ${_fmt(elapsed)}.`
+            : `${prevName}'s turn took ${_fmt(elapsed)}.`;
+        _chat(msg, isPrevSession ? null : elapsed);
+        DL(`CombatTurnTimer: "${prevName}" turn ended after ${_fmt(elapsed)}`);
+    }
 
     const combatant = combat?.combatant;
     const name = combatant?.actor?.name ?? combatant?.name ?? "Unknown";
@@ -224,8 +241,8 @@ function _advanceTurn(combat) {
         ...state,
         round: combat.round,
         turn: combat.turn,
-        currentTurn: { name, adjustedStart: now },
-        previousTurn: { name: prevName, elapsed }
+        currentTurn: { id: combatant?.id ?? null, name, adjustedStart: now, hidden: _combatantHidden(combatant) },
+        previousTurn: { id: state.currentTurn?.id ?? null, name: prevName, elapsed, hidden: prevHidden }
     });
 }
 
@@ -237,14 +254,14 @@ function _retreatTurn(combat) {
     DL(`CombatTurnTimer: retreating, cancelling "${state.currentTurn?.name ?? "?"}"`);
 
     if (state.previousTurn) {
-        const { name, elapsed } = state.previousTurn;
+        const { id, name, elapsed, hidden } = state.previousTurn;
         const resumedStart = Date.now() - elapsed;
         DL(`CombatTurnTimer: resuming "${name}" with ${_fmt(elapsed)} already elapsed`);
         _saveState({
             ...state,
             round: combat.round,
             turn: combat.turn,
-            currentTurn: { name, adjustedStart: resumedStart },
+            currentTurn: { id: id ?? null, name, adjustedStart: resumedStart, hidden: !!hidden },
             previousTurn: null
         });
     } else {
@@ -255,18 +272,18 @@ function _retreatTurn(combat) {
             ...state,
             round: combat.round,
             turn: combat.turn,
-            currentTurn: { name, adjustedStart: Date.now() },
+            currentTurn: { id: combatant?.id ?? null, name, adjustedStart: Date.now(), hidden: _combatantHidden(combatant) },
             previousTurn: null
         });
     }
 }
 
-function _endCombat() {
+function _endCombat(combat) {
     const state = _getState();
     if (!state.combatId) return;
 
     const now = Date.now();
-    if (state.currentTurn) {
+    if (state.currentTurn && !_endedTurnHidden(combat, state.currentTurn)) {
         const elapsed = now - state.currentTurn.adjustedStart;
         const isPrevSession = elapsed >= PREV_SESSION_MS;
         const msg = isPrevSession
@@ -318,5 +335,5 @@ Hooks.on("updateCombat", (combat, updateData, options, userId) => {
 Hooks.on("deleteCombat", (combat, options, userId) => {
     if (!game.user.isGM || !_isEnabled()) return;
     const state = _getState();
-    if (state.combatId === combat.id) _endCombat();
+    if (state.combatId === combat.id) _endCombat(combat);
 });
