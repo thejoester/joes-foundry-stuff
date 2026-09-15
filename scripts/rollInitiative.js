@@ -76,6 +76,8 @@ function _showOverlay(endTime) {
     const sound = game.settings.get(MOD_ID, "initiativeTimerSound");
     if (sound) foundry.audio.AudioHelper.play({ src: sound, volume: 0.8, autoplay: true, loop: false }, false);
     ui.sidebar.changeTab("combat", "primary");
+    // pop out the combat tracker for everyone (same as right-clicking the Combat sidebar tab)
+    if (!ui.combat.popout) ui.combat.renderPopout();
 
     const wrap = document.createElement("div");
     wrap.id = OVERLAY_ID;
