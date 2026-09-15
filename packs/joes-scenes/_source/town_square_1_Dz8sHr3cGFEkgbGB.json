@@ -4,7 +4,7 @@
   "navigation": false,
   "navOrder": 0,
   "navName": "",
-  "thumb": "worlds/compendium-cleanup/assets/scenes/Dz8sHr3cGFEkgbGB-thumb.webp",
+  "thumb": "worlds/pf2e-v14-test/assets/scenes/thumb-P3Kmhv_D0gX7LoEd0YhVNA.webp",
   "width": 8100,
   "height": 9300,
   "padding": 0,
@@ -4930,6 +4930,39 @@
       "hearingRange": null,
       "environmentTypes": [],
       "syncDarkness": "default"
+    },
+    "LockView": {
+      "locks": {
+        "pan": false,
+        "zoom": false,
+        "boundingBox": false
+      },
+      "ui": {
+        "hideOn": "off",
+        "scene-controls": false,
+        "hotbar": false,
+        "scene-navigation": false,
+        "players": false,
+        "sidebar": false,
+        "chat-notifications": false,
+        "camera-views": false
+      },
+      "sidebar": {
+        "sceneLoad": "noChange",
+        "exclude": false,
+        "blacken": false
+      },
+      "avDock": {
+        "sceneLoad": "noChange",
+        "exclude": false,
+        "blacken": false
+      },
+      "autoscale": "off",
+      "forceInitialView": false
+    },
+    "smalltime": {
+      "darkness-link": false,
+      "player-vis": "2"
     }
   },
   "_stats": {
@@ -4940,8 +4973,8 @@
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
-    "modifiedTime": 1784276698015,
-    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+    "modifiedTime": 1786069872763,
+    "lastModifiedBy": "U2OCxXAmOSozc3K9"
   },
   "_id": "Dz8sHr3cGFEkgbGB",
   "active": false,

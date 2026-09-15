@@ -15,7 +15,7 @@
   "padding": 0.05,
   "navigation": false,
   "navOrder": 0,
-  "thumb": "worlds/compendium-cleanup/assets/scenes/3sJnjwKNvWD2Wq4F-thumb.webp",
+  "thumb": "worlds/pf2e-v14-test/assets/scenes/thumb-FdrD1E_vNaC5QdQfki1ilg.webp",
   "initial": {
     "x": null,
     "y": null,
@@ -1652,8 +1652,8 @@
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276691953,
-    "modifiedTime": 1784276691953,
-    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+    "modifiedTime": 1786069843776,
+    "lastModifiedBy": "U2OCxXAmOSozc3K9"
   },
   "navName": "",
   "_id": "3sJnjwKNvWD2Wq4F",

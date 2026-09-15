@@ -5,7 +5,7 @@
   "active": false,
   "navigation": true,
   "navOrder": 0,
-  "thumb": "worlds/compendium-cleanup/assets/scenes/AR5SsjYz4Rt059HB-thumb.webp",
+  "thumb": "worlds/pf2e-v14-test/assets/scenes/thumb-8MdzozMf5nOjaRPQtJ3JIA.webp",
   "width": 1500,
   "height": 1500,
   "padding": 0,
@@ -205,8 +205,8 @@
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1784276698015,
-    "modifiedTime": 1784276698015,
-    "lastModifiedBy": "fAtWnRfzFoHAJ5lR"
+    "modifiedTime": 1786069862019,
+    "lastModifiedBy": "U2OCxXAmOSozc3K9"
   },
   "navName": "",
   "levels": [
