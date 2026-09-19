@@ -2,6 +2,12 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.09.18
+
+### Fixed
+
+- **Initiative Timer** — fixed not hiding tokens not owned by any player in combat tracker. 
+
 ## 2026.09.15
 
 ### Changed

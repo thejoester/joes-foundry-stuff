@@ -37,7 +37,8 @@ export async function jfsRollForInitiative() {
 
     const combatants = await TokenDocument.implementation.createCombatants(tokens);
 
-    const npcIds = combatants.filter(c => c.isNPC).map(c => c.id);
+    // NPC = any combatant whose actor has no player owner (isNPC is unreliable across v13/v14)
+    const npcIds = combatants.filter(c => !c.actor?.hasPlayerOwner).map(c => c.id);
     if (npcIds.length) {
         await game.combat.updateEmbeddedDocuments("Combatant", npcIds.map(id => ({ _id: id, hidden: true })));
     }
@@ -145,7 +146,7 @@ function _hideOverlay() {
 function _allPlayersRolled() {
     const combat = game.combat;
     if (!combat) return false;
-    const pending = combat.combatants.filter(c => !c.isNPC && (c.initiative === null || c.initiative === undefined));
+    const pending = combat.combatants.filter(c => c.actor?.hasPlayerOwner && (c.initiative === null || c.initiative === undefined));
     return !pending.length;
 }
 
@@ -153,7 +154,7 @@ async function _rollRemainingInitiative() {
     const combat = game.combat;
     if (!combat) return;
 
-    const pending = combat.combatants.filter(c => !c.isNPC && (c.initiative === null || c.initiative === undefined));
+    const pending = combat.combatants.filter(c => c.actor?.hasPlayerOwner && (c.initiative === null || c.initiative === undefined));
     if (!pending.length) return;
 
     DL(`rollInitiative.js | _rollRemainingInitiative(): auto-rolling for ${pending.length} combatant(s)`);
