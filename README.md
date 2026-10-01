@@ -46,17 +46,18 @@ Forces chosen keybindings to stay **cleared** (unbound) or **set** to a specific
 - **Personal locks** (any user): stored per-user server-side (`user` scope), so they survive browser changes and cache clears and follow the player across devices. Applied only to that user; a personal lock overrides the baseline for the same action. (These live in the world database, so they are per-world - a player sets them once in each world.)
 - The action picker lists every registered keybinding (core and modules) with its current binding, so nothing is hardcoded.
 
+### Error Logger
+Captures player-side `ui.notifications` errors (and warnings) into a shared **Error Logs** journal, one page per player, so the GM can review issues players hit. Attempts to resolve any 16-character document ID found in a message to its named document. Toggle via **Enable Error Logger** in module settings. Console helpers: `game.joesFoundryStuff.getCapturedLogs()` and `game.joesFoundryStuff.clearCapturedLogs()`.
+
 ---
 
 ## Compendiums
 
 | Pack | Type |
 |------|------|
-| Joe's Scenes | Scenes |
 | Joe's Macros | Macros |
-| Joe's Roll Tables | Roll Tables |
-| Joe's Playlists | Playlists |
-| Joe's Journals | Journal Entries |
+
+Personal content (scenes, roll tables, playlists, journals) has moved to Joe's separate private `joes-compendiums` module; only the reusable macros pack ships here.
 
 ---
 

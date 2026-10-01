@@ -13,20 +13,20 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "14.365",
+    "coreVersion": "13.345",
     "systemId": "pf2e",
     "systemVersion": "6.8.1",
     "createdTime": 1736710821307,
-    "modifiedTime": 1784943794556,
-    "lastModifiedBy": "zizHfu40Ulpg7xkW",
+    "modifiedTime": 1748648239898,
+    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
     "exportSource": null
   },
   "ownership": {
     "default": 1,
     "lfU9NncyG8LWlt8v": 3
   },
-  "folder": null,
+  "folder": "pQIkxjyFiT4SWiH1",
   "_id": "MzePb490zdtEpVYl",
-  "sort": 650000,
+  "sort": 150000,
   "_key": "!macros!MzePb490zdtEpVYl"
 }

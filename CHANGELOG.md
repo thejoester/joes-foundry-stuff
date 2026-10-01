@@ -2,6 +2,16 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.10.01
+
+### Added
+
+- **Error Logger** - captures player-side error and warning messages into a shared "Error Logs" journal, one page per player, so the GM can see what players ran into. Turn it on with the new Enable Error Logger setting. (It used to live in Joe's PF2e Stuff; it now works in any game system.)
+
+### Removed
+
+- The personal Scenes, Roll Tables, Playlists, and Journals compendiums have been removed. The reusable Macros compendium stays.
+
 ## 2026.09.18
 
 ### Fixed

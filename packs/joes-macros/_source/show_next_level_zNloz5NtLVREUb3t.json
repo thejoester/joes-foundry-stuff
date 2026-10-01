@@ -1,0 +1,32 @@
+{
+  "folder": "j0ZvCpR2dK3V9J2U",
+  "name": "show-next-level",
+  "type": "script",
+  "_id": "zNloz5NtLVREUb3t",
+  "author": "sDmTHDFOKZoe85XE",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "(async () => {\n\tif (!game.user.isGM) {\n\t\tui.notifications.warn(\"Only the GM can view party XP.\");\n\t\treturn;\n\t}\n\n\tconst party = game.actors.party;\n\tif (!party) {\n\t\tui.notifications.warn(\"No party actor found.\");\n\t\treturn;\n\t}\n\n\tconst partyActors = party.members;\n\tif (!partyActors.length) {\n\t\tui.notifications.warn(\"The party has no members.\");\n\t\treturn;\n\t}\n\n\tconst results = partyActors.map(actor => {\n\t\tconst xp = actor.system.details.xp?.value ?? 0;\n\t\tconst level = actor.system.details.level?.value ?? 1;\n\t\tconst xpUntilNextLevel = Math.max(0, 1000 - xp);\n\t\treturn `<strong>${actor.name}</strong>: Level ${level} — ${xp} XP (${xpUntilNextLevel} XP to next level)`;\n\t});\n\n\tconst flavorText = `\n\t\t<div style=\"\n\t\t\tbackground-color:#1d1c1a;\n\t\t\tborder: 2px solid #5f574e;\n\t\t\tbox-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);\n\t\t\tborder-radius: 12px;\n\t\t\tpadding: 16px;\n\t\t\tcolor: #e4ddc7;\n\t\t\tfont-family: 'serif';\n\t\t\tmax-width: 500px;\n\t\t\tmargin: auto;\n\t\t\">\n\t\t\t<div style=\"text-align: center; margin-bottom: 10px;\">\n\t\t\t\t<img src=\"icons/skills/social/diplomacy-handshake-yellow.webp\" width=\"64\" height=\"64\" style=\"border: none;\">\n\t\t\t</div>\n\t\t\t<div style=\"text-align: center; font-weight: bold; font-size: 16px; letter-spacing: 1px; color: #c7b26f; margin-bottom: 12px;\">\n\t\t\t\tCURRENT EXPERIENCE\n\t\t\t</div>\n\t\t\t<div style=\"font-size: 14px; font-style: italic; margin-bottom: 12px; text-align: center;\">\n\t\t\t\tA snapshot of each hero’s journey.\n\t\t\t</div>\n\t\t\t<hr style=\"border: 1px solid #5f574e;\">\n\t\t\t<div style=\"font-size: 15px; text-align: center; margin: 12px 0;\">\n\t\t\t\tExperience Totals:\n\t\t\t</div>\n\t\t\t<div style=\"text-align: center; font-size: 14px; margin-bottom: 10px;\">\n\t\t\t\t${results.join(\"<br>\")}\n\t\t\t</div>\n\t\t\t<hr style=\"border: 1px solid #5f574e;\">\n\t\t\t<div style=\"font-size: 12px; font-style: italic; text-align: center; color: #a09888; margin-top: 6px;\">\n\t\t\t\tThe path ahead awaits...\n\t\t\t</div>\n\t\t</div>\n\t`;\n\n\tconst gmUsers = game.users.filter(u => u.isGM && u.active);\n\tconst whisperIds = gmUsers.map(u => u.id);\n\n\tawait ChatMessage.create({\n\t\tuser: game.user.id,\n\t\tcontent: flavorText,\n\t\ttype: CONST.CHAT_MESSAGE_TYPES.OTHER,\n\t\twhisper: whisperIds\n\t});\n})();",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.4",
+    "createdTime": 1750726516500,
+    "modifiedTime": 1765450902695,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
+  },
+  "_key": "!macros!zNloz5NtLVREUb3t"
+}

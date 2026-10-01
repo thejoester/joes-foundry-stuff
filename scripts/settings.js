@@ -139,6 +139,15 @@ Hooks.once("init", () => {
     });
 
     /* ==========================================================================
+        {ERROR LOGGER SETTINGS}
+    ========================================================================== */
+    game.settings.register("joes-foundry-stuff", "enableErrorLogs", {
+        name: "Enable Error Logger",
+        hint: "Capture player errors in Journal entry named 'Error Logs'",
+        scope: "world", config: true, type: Boolean, default: true
+    });
+
+    /* ==========================================================================
         {DEBUG LOGGING}
     ========================================================================== */
     game.settings.register("joes-foundry-stuff", "debugEnabled", {
@@ -146,7 +155,6 @@ Hooks.once("init", () => {
 		hint: "When enabled, DL(...) prints debug messages to the console.",
 		scope: "world", config: true, type: Boolean, default: false
 	});
-
 
 	console.log("[Joe's Foundry Stuff] settings.js | settings registered.");
 });

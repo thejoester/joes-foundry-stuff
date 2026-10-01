@@ -25,55 +25,16 @@
         "scripts/overlay.js",
         "scripts/combatTurnTimer.js",
         "scripts/rollInitiative.js",
-        "scripts/keybindingLocks.js"
+        "scripts/keybindingLocks.js",
+        "scripts/error-logger.js"
     ],
     "socket": true,
     "packs": [
-        {
-            "name": "joes-scenes",
-            "label": "Joe's Scenes",
-            "path": "packs/joes-scenes",
-            "type": "Scene",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        },
         {
             "name": "joes-macros",
             "label": "Joe's Macros",
             "path": "packs/joes-macros",
             "type": "Macro",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        },
-        {
-            "name": "joes-roll-tables",
-            "label": "Joe's Roll Tables",
-            "path": "packs/joes-roll-tables",
-            "type": "RollTable",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        },
-        {
-            "name": "playlists",
-            "label": "Joe's Playlists",
-            "path": "packs/playlists",
-            "type": "Playlist",
-            "ownership": {
-                "PLAYER": "OBSERVER",
-                "ASSISTANT": "OWNER"
-            }
-        },
-        {
-            "name": "journals",
-            "label": "Joe's Journals",
-            "path": "packs/journals",
-            "type": "JournalEntry",
             "ownership": {
                 "PLAYER": "OBSERVER",
                 "ASSISTANT": "OWNER"
