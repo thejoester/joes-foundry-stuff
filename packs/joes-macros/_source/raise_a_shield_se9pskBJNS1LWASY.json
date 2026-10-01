@@ -1,0 +1,30 @@
+{
+  "author": "sDmTHDFOKZoe85XE",
+  "command": "game.pf2e.actions.raiseAShield({ actors: [token?.actor ?? actor ?? game.user.character].filter((actor) => actor) })",
+  "img": "systems/pf2e/icons/actions/raise-a-shield.webp",
+  "name": "Raise a Shield",
+  "ownership": {
+    "default": 2,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "scope": "global",
+  "type": "script",
+  "flags": {
+    "core": {}
+  },
+  "folder": "Ur9r83xWtJD73lwA",
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "8.5.1",
+    "coreVersion": "14.368",
+    "createdTime": 1790231996995,
+    "modifiedTime": 1790231996998,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "se9pskBJNS1LWASY",
+  "sort": 0,
+  "_key": "!macros!se9pskBJNS1LWASY"
+}

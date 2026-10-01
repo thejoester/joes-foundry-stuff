@@ -1,0 +1,33 @@
+{
+  "name": "Remove Conditions",
+  "type": "script",
+  "flags": {
+    "macro-wheel": {
+      "activeCondition": ""
+    }
+  },
+  "command": "(async () => {\n\tif (!canvas.tokens.controlled.length) {\n\t\tui.notifications.warn(\"Please select a token first.\");\n\t\treturn;\n\t}\n\n\tconst token = canvas.tokens.controlled[0];\n\tconst actor = token.actor;\n\n\tif (!actor) {\n\t\tui.notifications.error(\"Selected token has no actor.\");\n\t\treturn;\n\t}\n\n\t// Get all conditions as items with the \"condition\" type\n\tconst conditions = actor.items.filter(item => item.type === \"condition\");\n\tif (!conditions.length) {\n\t\tui.notifications.info(`${actor.name} has no conditions.`);\n\t\treturn;\n\t}\n\n\tconst content = `\n\t\t<div style=\"text-align:center;\">\n\t\t\t<img src=\"${actor.img}\" width=\"80\" height=\"80\" style=\"border:1px solid #999;border-radius:8px;margin-bottom:8px;\" />\n\t\t\t<h2>${actor.name}</h2>\n\t\t\t<hr>\n\t\t\t<p><strong>Conditions:</strong></p>\n\t\t\t<ul style=\"list-style:none;padding:0;\">\n\t\t\t\t${conditions.map(c => `<li>• ${c.name}</li>`).join(\"\")}\n\t\t\t</ul>\n\t\t</div>\n\t`;\n\n\tnew foundry.applications.api.DialogV2({\n\t\twindow: { title: \"Remove Conditions?\" },\n\t\tcontent,\n\t\tbuttons: [{\n\t\t\taction: \"remove\",\n\t\t\tlabel: \"Remove Conditions\",\n\t\t\tdefault: true,\n\t\t\tcallback: async () => {\n\t\t\t\tfor (const cond of conditions) {\n\t\t\t\t\tawait cond.delete();\n\t\t\t\t}\n\t\t\t\tui.notifications.info(`Removed all conditions from ${actor.name}.`);\n\t\t\t}\n\t\t}, {\n\t\t\taction: \"cancel\",\n\t\t\tlabel: \"Cancel\"\n\t\t}]\n\t}).render(true);\n})();",
+  "img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+  "author": "sDmTHDFOKZoe85XE",
+  "scope": "global",
+  "folder": "Ur9r83xWtJD73lwA",
+  "ownership": {
+    "default": 0,
+    "CLMiGpsYVSTK4VM8": 3,
+    "sDmTHDFOKZoe85XE": 3
+  },
+  "_stats": {
+    "coreVersion": "14.368",
+    "systemId": "pf2e",
+    "systemVersion": "8.5.1",
+    "createdTime": 1790234320288,
+    "modifiedTime": 1790234320288,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VskqHHhQuQl4IZU4",
+  "sort": 0,
+  "_key": "!macros!VskqHHhQuQl4IZU4"
+}
