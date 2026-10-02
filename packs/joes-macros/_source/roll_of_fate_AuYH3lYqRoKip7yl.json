@@ -5,7 +5,7 @@
   "img": "icons/magic/symbols/star-yellow.webp",
   "author": "CLMiGpsYVSTK4VM8",
   "scope": "global",
-  "folder": "eB83Kvswqyhs0e1Q",
+  "folder": "pQIkxjyFiT4SWiH1",
   "ownership": {
     "default": 0,
     "CLMiGpsYVSTK4VM8": 3
@@ -18,15 +18,15 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "6.2.1",
     "createdTime": 1723888274406,
-    "modifiedTime": 1772845122055,
-    "lastModifiedBy": "CLMiGpsYVSTK4VM8",
+    "modifiedTime": 1784943799763,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW",
     "exportSource": null
   },
   "_id": "AuYH3lYqRoKip7yl",
-  "sort": 900000,
+  "sort": 112500,
   "_key": "!macros!AuYH3lYqRoKip7yl"
 }

@@ -10,7 +10,7 @@
   "img": "icons/svg/combat.svg",
   "author": "sDmTHDFOKZoe85XE",
   "scope": "global",
-  "folder": "j0ZvCpR2dK3V9J2U",
+  "folder": "pQIkxjyFiT4SWiH1",
   "ownership": {
     "default": 0,
     "sDmTHDFOKZoe85XE": 3
@@ -19,14 +19,14 @@
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null,
-    "coreVersion": "13.351",
+    "coreVersion": "14.365",
     "systemId": "pf2e",
     "systemVersion": "7.12.2",
     "createdTime": 1781184720970,
-    "modifiedTime": 1782994689170,
-    "lastModifiedBy": "Blhp1ViTwrjDFX1D"
+    "modifiedTime": 1784891543739,
+    "lastModifiedBy": "zizHfu40Ulpg7xkW"
   },
   "_id": "F2hA5ylmbBj88XKJ",
-  "sort": 0,
+  "sort": 125000,
   "_key": "!macros!F2hA5ylmbBj88XKJ"
 }
