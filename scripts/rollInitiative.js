@@ -75,7 +75,11 @@ function _showOverlay(endTime) {
     _hideOverlay();
 
     const sound = game.settings.get(MOD_ID, "initiativeTimerSound");
-    if (sound) foundry.audio.AudioHelper.play({ src: sound, volume: 0.8, autoplay: true, loop: false }, false);
+    if (sound) {
+        // slider is 1-10; convert to a 0.1-1.0 gain
+        const volume = Math.min(10, Math.max(1, game.settings.get(MOD_ID, "initiativeTimerVolume") || 6)) / 10;
+        foundry.audio.AudioHelper.play({ src: sound, volume, autoplay: true, loop: false }, false);
+    }
     ui.sidebar.changeTab("combat", "primary");
     // pop out the combat tracker for everyone (same as right-clicking the Combat sidebar tab)
     if (!ui.combat.popout) ui.combat.renderPopout();

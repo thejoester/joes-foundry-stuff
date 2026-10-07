@@ -95,6 +95,13 @@ Hooks.once("init", () => {
         filePicker: "audio"
     });
 
+    game.settings.register("joes-foundry-stuff", "initiativeTimerVolume", {
+        name: "Initiative Timer Volume",
+        hint: "Volume of the initiative timer sound, 1 (quietest) to 10 (loudest).",
+        scope: "world", config: true, type: Number, default: 6,
+        range: { min: 1, max: 10, step: 1 }
+    });
+
     
     /* ==========================================================================
         {CHAT ARCHIVER SETTINGS}
