@@ -22,7 +22,7 @@ All notable changes to Joe's Foundry Stuff are documented here. Versioning is da
 
 ### Fixed
 
-- **Initiative Timer** — fixed not hiding tokens not owned by any player in combat tracker.
+- **Initiative Timer** — fixed not hiding tokens not owned by any player in combat tracker. 
 
 ## 2026.09.15
 
