@@ -2,7 +2,7 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
-## 2026.10.07
+## 2026.10.07-1
 
 ### Added
 
