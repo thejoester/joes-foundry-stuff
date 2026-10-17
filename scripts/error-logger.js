@@ -27,6 +27,8 @@ Hooks.once("ready", async () => {
 		}
 
 		const writeToJournal = async (type, message) => {
+			// message may not be a string (pf2e and others pass objects/errors)
+			const msg = typeof message === "string" ? message : String(message ?? "");
 			const journalName = "Error Logs";
 			const pageName = game.user.name;
 
@@ -44,11 +46,11 @@ Hooks.once("ready", async () => {
 			}
 
 			const timestamp = new Date().toLocaleString();
-			const newLine = `[${timestamp}] (${type.toUpperCase()}) ${game.user.name}: ${message}`;
+			const newLine = `[${timestamp}] (${type.toUpperCase()}) ${game.user.name}: ${msg}`;
 			content += `\n${newLine}`;
 
 			// Check for ID inside brackets and try to resolve it
-			const idMatch = message.match(/(?:\[|")([a-zA-Z0-9]{16})(?:\]|")/);
+			const idMatch = msg.match(/(?:\[|")([a-zA-Z0-9]{16})(?:\]|")/);
 			if (idMatch) {
 				const id = idMatch[1];
 				let found = null;
@@ -68,7 +70,7 @@ Hooks.once("ready", async () => {
 
 		const captureAndWrite = (originalFunc, type) => {
 			return function (message, ...args) {
-				writeToJournal(type, message);
+				Promise.resolve(writeToJournal(type, message)).catch(err => DL(`error-logger writeToJournal failed: ${err}`));
 				return originalFunc.call(this, message, ...args);
 			};
 		};
