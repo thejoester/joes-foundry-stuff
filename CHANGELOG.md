@@ -2,6 +2,12 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.10.17
+
+### Fixed
+
+- **Error Logger:** Fixed bug with error logger causing it to not function.
+
 ## 2026.10.07-1
 
 ### Added
