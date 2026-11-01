@@ -40,14 +40,11 @@ Shows a fullscreen image overlay to all connected players simultaneously. Suppor
 - Shows colored initials next to each scene indicating which connected users are currently viewing it.
 - Compendium packs are auto-organized into a `!Joes` compendium folder on load.
 
-### Keybinding Locks
-Forces chosen keybindings to stay **cleared** (unbound) or **set** to a specific key on every load, so bindings that keep reverting to core defaults stay how you want them (for example, freeing up `Q`/`E` from token elevation). Configure via **Keybinding Locks → Manage Locks** in module settings.
-- **Baseline locks** (GM): stored in an install-level data file (`joes-foundry-stuff-data/keybind-locks.json`), so they persist across *every* world on the server. Pushed to all connected players and re-applied on each client's load. GM-write only; players can read but not change them.
-- **Personal locks** (any user): stored per-user server-side (`user` scope), so they survive browser changes and cache clears and follow the player across devices. Applied only to that user; a personal lock overrides the baseline for the same action. (These live in the world database, so they are per-world - a player sets them once in each world.)
-- The action picker lists every registered keybinding (core and modules) with its current binding, so nothing is hardcoded.
-
 ### Error Logger
 Captures player-side `ui.notifications` errors (and warnings) into a shared **Error Logs** journal, one page per player, so the GM can review issues players hit. Attempts to resolve any 16-character document ID found in a message to its named document. Toggle via **Enable Error Logger** in module settings. Console helpers: `game.joesFoundryStuff.getCapturedLogs()` and `game.joesFoundryStuff.clearCapturedLogs()`.
+
+### Keybinding Locks (moved to BBMM)
+Keybinding Locks is no longer part of this module. It now lives in [Big Bad Module Manager (BBMM)](https://github.com/thejoester/bbmm) — install BBMM if you want to force keybindings to stay cleared or set on every load.
 
 ---
 

@@ -61,7 +61,17 @@ Hooks.once("ready", async () => {
 				if (found) {
 					content += `\n  ↳ ID [${id}] resolved to: ${found.name || found.constructor.name}`;
 				} else {
-					content += `\n  ↳ ID [${id}] not found in any core collection.`;
+					// Settings live in their own store, not a document collection; check it too
+					let settingDoc = null;
+					try {
+						settingDoc = game.settings.storage.get("world")?.get?.(id)
+							?? game.settings.storage.get("world")?.find?.(d => d.id === id);
+					} catch { /* store shape varies by core version */ }
+					if (settingDoc?.key) {
+						content += `\n  ↳ ID [${id}] resolved to Setting: ${settingDoc.key}`;
+					} else {
+						content += `\n  ↳ ID [${id}] not found in any core collection.`;
+					}
 				}
 			}
 
@@ -78,6 +88,32 @@ Hooks.once("ready", async () => {
 		ui.notifications.error = captureAndWrite(ui.notifications.error, 'error');
 		if (game.settings.get("joes-foundry-stuff", "enableErrorLogs")) {
 			ui.notifications.warn = captureAndWrite(ui.notifications.warn, 'warning');
+		}
+
+		// Wrap settings.set so a failed write names the exact setting + scope.
+		// The core permission error only carries the new (never-created) Setting
+		// doc id, which resolves to nothing; this captures the key at throw time.
+		if (!game.settings.__jfsSetWrapped) {
+			const _origSet = game.settings.set.bind(game.settings);
+			game.settings.set = async function (namespace, key, value, options) {
+				try {
+					return await _origSet(namespace, key, value, options);
+				} catch (err) {
+					try {
+						const cfg = game.settings.settings.get(`${namespace}.${key}`);
+						let preview = "";
+						try { preview = JSON.stringify(value); } catch { preview = String(value); }
+						if (preview.length > 200) preview = preview.slice(0, 200) + "…";
+						const detail = `settings.set failed: "${namespace}.${key}" (scope=${cfg?.scope ?? "unregistered"}) value=${preview} — ${err?.message ?? err}`;
+						Promise.resolve(writeToJournal("error", detail)).catch(e => DL(`error-logger settings.set capture failed: ${e}`));
+					} catch (e) {
+						DL(`error-logger settings.set wrap failed: ${e}`);
+					}
+					throw err; // preserve original behavior for callers
+				}
+			};
+			game.settings.__jfsSetWrapped = true;
+			DL("error-logger: wrapped game.settings.set for failure capture");
 		}
 
 		// Expose helpers globally

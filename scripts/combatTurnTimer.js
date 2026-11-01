@@ -300,6 +300,8 @@ function _endCombat(combat) {
 // ── hooks ─────────────────────────────────────────────────────────────────────
 
 Hooks.once("ready", () => {
+    // world-scope state; only the GM may write it
+    if (!game.user.isGM) return;
     const state = _getState();
     if (state.combatId && !game.combats.get(state.combatId)) {
         DL(`CombatTurnTimer: stale state found for combat ${state.combatId}, clearing`);

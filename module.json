@@ -25,7 +25,6 @@
         "scripts/overlay.js",
         "scripts/combatTurnTimer.js",
         "scripts/rollInitiative.js",
-        "scripts/keybindingLocks.js",
         "scripts/error-logger.js"
     ],
     "socket": true,

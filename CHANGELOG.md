@@ -2,13 +2,13 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
-## 2026.10.17
+## 2026.11.01
 
-### Fixed
+### Removed
 
-- **Error Logger:** Fixed bug with error logger causing it to not function.
+- **Keybinding Locks** - this feature has moved to [Big Bad Module Manager (BBMM)](https://github.com/thejoester/bbmm). Install BBMM if you want to keep forcing keybindings to stay cleared or set on every load.
 
-## 2026.10.07-1
+## 2026.10.07
 
 ### Added
 
