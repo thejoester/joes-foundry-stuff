@@ -3,7 +3,7 @@
 A personal FoundryVTT module containing Joe's collection of compendiums, macros, and quality-of-life scripts.
 
 > [!NOTE] 
-> This is a personal module.** It's shared mainly so others can reuse the scripts and features, and is provided as-is with no support or update guarantees. The **compendium content ships without images**: image paths in the compendium items point to art I don't redistribute, so scenes/items/etc. will appear blank or with broken image links. The scripts and functionality work fully regardless; swap in your own art as needed.
+> This is a personal module.** It's shared mainly so others can reuse the scripts and features, and is provided as-is with no support or update guarantees.
 
 **Compatibility:** FoundryVTT v13–v14
 
