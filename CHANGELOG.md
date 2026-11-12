@@ -2,6 +2,18 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.11.11
+
+### Added
+
+- **Connection Logger** - a new optional tool that records every player's "lost connection / reconnected" blips to a shared "Connection Log" page in the Error Logs journal: who dropped, when, why, and how long they were gone. Handy for tracking down reconnect spam. Off by default; turn it on with the new Enable Connection Logger setting, and turn it back off once you've got what you need.
+
+## 2026.11.05
+
+### Fixed
+
+- **Notification suppression** - updated for current Foundry versions so the hiding of harmless "does not exist" and permission error popups keeps working, and no longer logs a deprecation warning in the console.
+
 ## 2026.11.01
 
 ### Removed

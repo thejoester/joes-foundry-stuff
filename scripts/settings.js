@@ -154,6 +154,12 @@ Hooks.once("init", () => {
         scope: "world", config: true, type: Boolean, default: true
     });
 
+    game.settings.register("joes-foundry-stuff", "enableConnectionLogs", {
+        name: "Enable Connection Logger",
+        hint: "Record each player's lost-connection / re-established blips (reason, transport, downtime) in a Journal entry named 'Connection Logs'. For diagnosing reconnect spam.",
+        scope: "world", config: true, type: Boolean, default: false
+    });
+
     /* ==========================================================================
         {DEBUG LOGGING}
     ========================================================================== */

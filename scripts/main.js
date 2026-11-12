@@ -28,8 +28,10 @@ function _jfsSuppressNotify(original) {
 }
 
 Hooks.once("ready", function() {
-    if (Notifications?.prototype?.notify) {
-        Notifications.prototype.notify = _jfsSuppressNotify(Notifications.prototype.notify);
+    // v13+ namespaced class; bare global Notifications is deprecated
+    const NotificationsClass = foundry.applications.ui.Notifications;
+    if (NotificationsClass?.prototype?.notify) {
+        NotificationsClass.prototype.notify = _jfsSuppressNotify(NotificationsClass.prototype.notify);
         DL("Patched Notifications.prototype.notify");
     }
     if (ui?.notifications?.notify) {
@@ -65,7 +67,8 @@ Hooks.once("ready", async () => {
 	}
 
 	for (const pack of game.packs) {
-		if (!pack.metadata?.label?.startsWith("Joe's")) continue;
+		const label = pack.metadata?.label ?? "";
+		if (!label.startsWith("Joe's") && !label.startsWith("KM ")) continue;
 		if (pack.folder?.id === joesFolder.id) continue;
 		await pack.configure({ folder: joesFolder.id });
 		DL(`Moved pack ${pack.metadata.label} to 'Joes' folder`);
