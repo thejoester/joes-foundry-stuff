@@ -2,6 +2,12 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
+## 2026.11.16
+
+### Fixed
+
+- **Error Logger** - deleting the "Error Logs" journal to start fresh now brings it right back on the next error or connection blip, instead of staying gone until the GM reloaded. If a player runs into an error in that brief window after a reset, their message is sent to the GM and written out safely, so nothing slips through the cracks.
+
 ## 2026.11.11
 
 ### Added

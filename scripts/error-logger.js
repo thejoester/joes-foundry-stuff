@@ -9,25 +9,43 @@ Hooks.once("ready", async () => {
 	DL(`enableErrorLogs: ${enableErrorLogs} | enableConnectionLogs: ${enableConnectionLogs}`);
 	if (!enableErrorLogs && !enableConnectionLogs) return;
 
-	// GM: ensure the "Error Logs" journal exists and all players have OWNER write permission
-	if (game.user.isGM) {
-		let journal = game.journal.find(j => j.name === "Error Logs");
-		if (!journal) journal = await JournalEntry.create({ name: "Error Logs", pages: [] });
-		const ownership = journal.ownership ?? {};
-		for (const user of game.users.contents) {
-			if (!user.isGM) ownership[user.id] = 3; // OWNER permission
-		}
-		await journal.update({ ownership });
-	}
+	const SOCKET_NS = "module.joes-foundry-stuff";
+	const JOURNAL_NAME = "Error Logs";
 
-	// Append a timestamped line to the current player's own page in the Error Logs journal.
-	const writeToJournal = async (type, message) => {
+	// GM-only: (re)create the journal if missing and give every player OWNER write access.
+	// Called up front and again on each write so a mid-session delete self-heals on the
+	// next log line instead of waiting for a GM reload.
+	const ensureErrorJournal = async () => {
+		let journal = game.journal.find(j => j.name === JOURNAL_NAME);
+		if (!journal) {
+			if (!game.user.isGM) return null; // players can't create world journals
+			journal = await JournalEntry.create({ name: JOURNAL_NAME, pages: [] });
+		}
+		const ownership = journal.ownership ?? {};
+		let dirty = false;
+		for (const user of game.users.contents) {
+			if (!user.isGM && ownership[user.id] !== 3) { ownership[user.id] = 3; dirty = true; } // OWNER
+		}
+		if (dirty) await journal.update({ ownership });
+		return journal;
+	};
+
+	// GM: ensure the journal exists up front so players have somewhere to write.
+	if (game.user.isGM) await ensureErrorJournal();
+
+	// Append a timestamped line to a player's own page in the Error Logs journal.
+	// author defaults to this client; the GM passes it when writing a relayed player line.
+	const writeToJournal = async (type, message, author = game.user.name) => {
 		// message may not be a string (pf2e and others pass objects/errors)
 		const msg = typeof message === "string" ? message : String(message ?? "");
-		const journalName = "Error Logs";
-		const pageName = game.user.name;
+		const pageName = author;
 
-		let journal = game.journal.find(j => j.name === journalName);
+		let journal = game.journal.find(j => j.name === JOURNAL_NAME);
+		if (!journal) {
+			// Journal was deleted mid-session: GM recreates it; players relay to the GM.
+			if (game.user.isGM) journal = await ensureErrorJournal();
+			else { game.socket.emit(SOCKET_NS, { action: "jfsErrorLog", user: pageName, type, text: msg }); return; }
+		}
 		if (!journal) return;
 
 		let page = journal.pages.find(p => p.name === pageName);
@@ -41,7 +59,7 @@ Hooks.once("ready", async () => {
 		}
 
 		const timestamp = new Date().toLocaleString();
-		const newLine = `[${timestamp}] (${type.toUpperCase()}) ${game.user.name}: ${msg}`;
+		const newLine = `[${timestamp}] (${type.toUpperCase()}) ${pageName}: ${msg}`;
 		content += `\n${newLine}`;
 
 		// Check for ID inside brackets and try to resolve it
@@ -87,6 +105,18 @@ Hooks.once("ready", async () => {
 
 		ui.notifications.error = captureAndWrite(ui.notifications.error, 'error');
 		ui.notifications.warn = captureAndWrite(ui.notifications.warn, 'warning');
+
+		// Players relay here when they hit a missing journal (e.g. just after a GM deleted
+		// it); the GM recreates the journal and writes the player's page on their behalf.
+		if (game.user.isGM && !game.__jfsErrorRelayBound) {
+			game.socket.on(SOCKET_NS, (data) => {
+				if (data?.action === "jfsErrorLog" && typeof data.text === "string") {
+					Promise.resolve(writeToJournal(data.type ?? "error", data.text, data.user ?? "Unknown"))
+						.catch(err => DL(`error-logger relay write failed: ${err}`));
+				}
+			});
+			game.__jfsErrorRelayBound = true;
+		}
 
 		// Wrap settings.set so a failed write names the exact setting + scope.
 		// The core permission error only carries the new (never-created) Setting
@@ -164,7 +194,6 @@ Hooks.once("ready", async () => {
 		{CONNECTION LOGGING - socket blips, one shared page via the GM}
 	========================================================================== */
 	if (enableConnectionLogs) {
-		const SOCKET_NS = "module.joes-foundry-stuff";
 		const CONN_PAGE = "Connection Log";
 		const s = game.socket;
 
@@ -180,7 +209,8 @@ Hooks.once("ready", async () => {
 		// GM-side serialized append to the single shared "Connection Log" page.
 		let writeChain = Promise.resolve();
 		const appendConnLog = async (text) => {
-			const journal = game.journal.find(j => j.name === "Error Logs");
+			let journal = game.journal.find(j => j.name === JOURNAL_NAME);
+			if (!journal) journal = await ensureErrorJournal();
 			if (!journal) return;
 			let page = journal.pages.find(p => p.name === CONN_PAGE);
 			if (!page) {
