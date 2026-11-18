@@ -12,17 +12,21 @@
       "folderImg": "icons/magic/symbols/runes-star-blue.webp",
       "presetCondition": "",
       "condition": ""
+    },
+    "joes-radial-macros": {
+      "icon": "icons/svg/biohazard.svg"
     }
   },
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "14.370",
     "systemId": "pf2e",
     "systemVersion": "6.11.1",
     "createdTime": 1745586812578,
-    "modifiedTime": 1745586812578,
-    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+    "modifiedTime": 1794987356113,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
   },
   "_key": "!folders!Ur9r83xWtJD73lwA"
 }

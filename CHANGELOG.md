@@ -2,7 +2,11 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based (`YYYY.MM.DD`; a fourth segment is added for a second build on the same day).
 
-## 2026.11.16-2
+## 2026.11.17
+
+### Changed
+
+- **Macros:** Updated macro comendium to include radial macro icons
 
 ### Fixed
 

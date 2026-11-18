@@ -11,4 +11,4 @@ jobs:
       module-id: joes-foundry-stuff
       build-packs: true
       pack-verify-cmd: node _build/verify-extracted-packs.mjs
-      changelog: false  # date-based versions (YYYY.MM.DD) aren't valid SemVer; keep hand-written release notes
+      changelog: true  # headings are SemVer-valid (leading-zero-free dates); release tag must match a heading exactly

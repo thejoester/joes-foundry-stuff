@@ -12,17 +12,21 @@
       "folderImg": "icons/svg/card-joker.svg",
       "presetCondition": "",
       "condition": ""
+    },
+    "joes-radial-macros": {
+      "icon": "systems/pf2e/icons/features/feats/heroic-recovery.webp"
     }
   },
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "14.370",
     "systemId": "pf2e",
     "systemVersion": "6.11.1",
     "createdTime": 1745586812578,
-    "modifiedTime": 1745586812578,
-    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+    "modifiedTime": 1794987391560,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
   },
   "_key": "!folders!VgTSNrEtMU4TU03A"
 }

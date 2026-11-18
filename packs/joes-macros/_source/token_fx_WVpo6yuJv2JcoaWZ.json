@@ -1,5 +1,5 @@
 {
-  "name": "Token-Effects",
+  "name": "Token-FX",
   "sorting": "a",
   "folder": "x1C1ZuXU9cjonspE",
   "type": "Macro",
@@ -12,17 +12,21 @@
       "folderImg": "modules/tokenmagic/gui/icons/simple-gui-macro.svg",
       "presetCondition": "",
       "condition": ""
+    },
+    "joes-radial-macros": {
+      "icon": "icons/magic/symbols/runes-star-orange-purple.webp"
     }
   },
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "14.370",
     "systemId": "pf2e",
     "systemVersion": "6.11.1",
     "createdTime": 1745586812578,
-    "modifiedTime": 1745586812578,
-    "lastModifiedBy": "CLMiGpsYVSTK4VM8"
+    "modifiedTime": 1794987444378,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
   },
   "_key": "!folders!WVpo6yuJv2JcoaWZ"
 }

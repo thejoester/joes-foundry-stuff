@@ -12,17 +12,21 @@
       "folderImg": "icons/svg/cowled.svg",
       "presetCondition": "",
       "condition": ""
+    },
+    "joes-radial-macros": {
+      "icon": "assets/images/GM.webp"
     }
   },
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.343",
+    "coreVersion": "14.370",
     "systemId": "pf2e",
     "systemVersion": "6.12.4",
     "createdTime": 1750298376115,
-    "modifiedTime": 1750298376115,
-    "lastModifiedBy": "lfU9NncyG8LWlt8v"
+    "modifiedTime": 1794987369278,
+    "lastModifiedBy": "sDmTHDFOKZoe85XE",
+    "exportSource": null
   },
   "_key": "!folders!j0ZvCpR2dK3V9J2U"
 }
