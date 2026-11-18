@@ -73,17 +73,6 @@ All notable changes to Joe's Foundry Stuff are documented here. Versioning is da
 
 - **Combat Turn Timer** - a combatant's turn no longer posts a chat message if its token is hidden at the end of the turn. Visibility is now evaluated when the turn ends (not when it starts), so unhiding a token mid-turn lets its message post as normal.
 
-## 2026.7.24-2
-
-### Added
-
-- **Timer** - the GM can now double-click anywhere in the player timer window to open the Timer Manager.
-- Added Random Name roll tables to compendium.
-
-### Fixed
-
-- Fixed several macros including Advanced Pull to Scene, Group Roll, and Show-XP
-
 ## 2026.7.24
 
 ### Fixed
