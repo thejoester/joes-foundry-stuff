@@ -154,9 +154,9 @@ Hooks.once("init", () => {
         scope: "world", config: true, type: Boolean, default: true
     });
 
-    game.settings.register("joes-foundry-stuff", "enableConnectionLogs", {
-        name: "Enable Connection Logger",
-        hint: "Record each player's lost-connection / re-established blips (reason, transport, downtime) in a Journal entry named 'Connection Logs'. For diagnosing reconnect spam.",
+    game.settings.register("joes-foundry-stuff", "suppressPlayerConnectionErrors", {
+        name: "Hide Connection Errors from Players",
+        hint: "Stop the \"lost connection to the server\" and \"connection re-established\" popups from showing to players. The GM still sees them. Pairs well with the Connection Logger.",
         scope: "world", config: true, type: Boolean, default: false
     });
 

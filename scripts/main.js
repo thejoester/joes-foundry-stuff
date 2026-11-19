@@ -18,10 +18,27 @@ function _jfsSuppressNotify(original) {
 		"lacks permission to update Item",
 		"not found in any core collection"
 	];
+	// Core's player-facing websocket popups (literal English, not localized), hidden
+	// from players only when the GM enables the suppressPlayerConnectionErrors setting.
+	const CONNECTION_NOTIFICATIONS = [
+		"lost connection to the server",
+		"Server connection lost",
+		"Server connection re-established"
+	];
     return function(message, type, options) {
-        if (typeof message === "string" && SUPPRESSED_NOTIFICATIONS.some(s => message.includes(s))) {
-            DL("main.js | _jfsSuppressNotify(): message suppressed:]", message);
-            return;
+        if (typeof message === "string") {
+            if (SUPPRESSED_NOTIFICATIONS.some(s => message.includes(s))) {
+                DL("main.js | _jfsSuppressNotify(): message suppressed:]", message);
+                return;
+            }
+            if (CONNECTION_NOTIFICATIONS.some(s => message.includes(s))) {
+                let hide = false;
+                try { hide = !game.user?.isGM && game.settings.get(MOD_ID, "suppressPlayerConnectionErrors"); } catch {}
+                if (hide) {
+                    DL("main.js | _jfsSuppressNotify(): connection message suppressed:]", message);
+                    return;
+                }
+            }
         }
         return original.call(this, message, type, options);
     };
@@ -37,6 +54,23 @@ Hooks.once("ready", function() {
     if (ui?.notifications?.notify) {
         ui.notifications.notify = _jfsSuppressNotify(ui.notifications.notify.bind(ui.notifications));
         DL("Patched ui.notifications instance");
+    }
+});
+
+// One-time cleanup: the retired "enableConnectionLogs" setting is no longer registered,
+// so any value a world saved earlier lingers as an orphaned Setting doc. GM removes it.
+Hooks.once("ready", async () => {
+    if (!game.user.isGM) return;
+    const key = `${MOD_ID}.enableConnectionLogs`;
+    try {
+        const world = game.settings.storage.get("world");
+        const doc = world?.find?.(s => s.key === key);
+        if (doc) {
+            await doc.delete();
+            DL(`main.js | removed retired setting "${key}"`);
+        }
+    } catch (err) {
+        DL(2, `main.js | failed to remove retired setting "${key}": ${err}`);
     }
 });
 

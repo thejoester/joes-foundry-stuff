@@ -2,6 +2,16 @@
 
 All notable changes to Joe's Foundry Stuff are documented here. Versioning is date-based and SemVer-valid, so segments carry no leading zeros (`YYYY.M.D`, e.g. `2026.11.5`; a `-N` suffix is added for a second build on the same day). Headings follow Keep a Changelog format, `## [YYYY.M.D] - YYYY-MM-DD` (the bracketed version plus a zero-padded ISO date), and the release tag must match the bracketed version.
 
+## [2026.11.18] - 2026-11-18
+
+### Added
+
+- **Connection Logger** - new "Hide Connection Errors from Players" setting. When on, the "lost connection to the server" and "connection re-established" popups no longer show to players; the GM still sees them, so you can quiet the spam on the players' screens while keeping an eye on it yourself.
+
+### Changed
+
+- **Connection Logger** - connection blips are now always recorded; the separate "Enable Connection Logger" toggle has been removed. The Connection Log page is written whenever players drop and reconnect, with no setup needed.
+
 ## [2026.11.17] - 2026-11-17
 
 ### Changed

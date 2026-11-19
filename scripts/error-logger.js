@@ -3,11 +3,9 @@ console.log("%cJoe's Foundry Stuff | error-logger.js loaded","color: yellow; fon
 
 Hooks.once("ready", async () => {
 
-	// Check settings
+	// Connection logging always runs; error logging is still opt-in.
 	const enableErrorLogs = game.settings.get("joes-foundry-stuff", "enableErrorLogs");
-	const enableConnectionLogs = game.settings.get("joes-foundry-stuff", "enableConnectionLogs");
-	DL(`enableErrorLogs: ${enableErrorLogs} | enableConnectionLogs: ${enableConnectionLogs}`);
-	if (!enableErrorLogs && !enableConnectionLogs) return;
+	DL(`enableErrorLogs: ${enableErrorLogs} | connection logging: always on`);
 
 	const SOCKET_NS = "module.joes-foundry-stuff";
 	const JOURNAL_NAME = "Error Logs";
@@ -193,7 +191,7 @@ Hooks.once("ready", async () => {
 	/* ==========================================================================
 		{CONNECTION LOGGING - socket blips, one shared page via the GM}
 	========================================================================== */
-	if (enableConnectionLogs) {
+	{
 		const CONN_PAGE = "Connection Log";
 		const s = game.socket;
 
